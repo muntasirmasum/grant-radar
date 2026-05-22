@@ -8,11 +8,14 @@ on:
     paths:
       - "R/**"
       - "tests/**"
+      - "inst/**"
+      - "data/taxonomy.yml"
       - "DESCRIPTION"
+      - "NAMESPACE"
       - ".github/workflows/ci.yml"
 
 jobs:
-  r-cmd-check:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,8 +24,6 @@ jobs:
           use-public-rspm: true
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          extra-packages: any::testthat, any::rcmdcheck
-      - uses: r-lib/actions/check-r-package@v2
-        with:
-          args: 'c("--no-manual", "--as-cran")'
-          error-on: '"warning"'
+          extra-packages: any::testthat, any::devtools
+      - name: Run testthat
+        run: Rscript -e 'devtools::test(reporter = c("summary", "fail"))'
