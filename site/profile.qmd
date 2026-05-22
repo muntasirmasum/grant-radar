@@ -1,7 +1,75 @@
 ---
 title: "My profile"
+subtitle: "Saved in your browser only. No account, no server."
 ---
 
+```{ojs}
+//| echo: false
+notices = {
+  try { return await FileAttachment("notices.json").json(); }
+  catch (e) { return []; }
+}
+
+icOptions = {
+  const s = new Set();
+  for (const n of notices) for (const ic of (n.issuing_orgs || [])) s.add(ic);
+  return Array.from(s).sort();
+}
+
+mechOptions = {
+  const s = new Set();
+  for (const n of notices) for (const m of (n.mechanisms || [])) s.add(m);
+  return Array.from(s).sort();
+}
+
+topicOptions = {
+  const s = new Set();
+  for (const n of notices) for (const t of (n.topics || [])) s.add(t);
+  // If the topic vocab hasn't been populated yet, fall back to common ones.
+  if (s.size === 0) return [
+    "aging","cancer","cardiovascular","mental_health","substance_use",
+    "infectious_disease","maternal_child_health","health_disparities",
+    "behavioral_intervention","methods_and_statistics","data_science_ai",
+    "implementation_science","clinical_trials","epidemiology",
+    "training_and_career","infrastructure"
+  ];
+  return Array.from(s).sort();
+}
+
+savedProfile = {
+  try {
+    const raw = localStorage.getItem("grant-radar.profile.v1");
+    return raw ? JSON.parse(raw) : {};
+  } catch (e) { return {}; }
+}
+```
+
+```{ojs}
+//| echo: false
+viewof ics    = Inputs.checkbox(icOptions,    {label: "Institutes / centers", value: savedProfile.ics    || []})
+viewof mechs  = Inputs.checkbox(mechOptions,  {label: "Mechanisms",           value: savedProfile.mechs  || []})
+viewof topics = Inputs.checkbox(topicOptions, {label: "Topics",               value: savedProfile.topics || []})
+viewof career = Inputs.radio(
+  ["any", "trainee", "early_career", "midcareer", "established"],
+  {label: "Career stage", value: savedProfile.career || "any"}
+)
+```
+
+```{ojs}
+//| echo: false
+profile = ({ ics, mechs, topics, career })
+
+{
+  try { localStorage.setItem("grant-radar.profile.v1", JSON.stringify(profile)); }
+  catch (e) { /* localStorage may be disabled */ }
+  return profile;
+}
+
+html`<details><summary>Current saved profile (debug)</summary><pre>${JSON.stringify(profile, null, 2)}</pre></details>`
+```
+
 ::: {.callout-note}
-Profile lands in M5. You'll pick ICs, mechanisms, topics, and career stage; the choice is saved in your browser's localStorage (no account, no server) and re-ranks the *This week* feed.
+Your selections are written to `localStorage` under the key
+`grant-radar.profile.v1`. Clearing your browser data deletes them.
+The *This week* page reads this profile to re-rank the triage feed.
 :::

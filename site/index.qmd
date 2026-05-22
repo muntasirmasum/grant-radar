@@ -6,40 +6,73 @@ subtitle: "NIH funding notices, decompressed."
 ```{ojs}
 //| echo: false
 notices = {
+  try { return await FileAttachment("notices.json").json(); }
+  catch (e) { return []; }
+}
+
+profile = {
   try {
-    return await FileAttachment("notices.json").json();
-  } catch (e) {
-    return [];
-  }
+    const raw = localStorage.getItem("grant-radar.profile.v1");
+    return raw ? JSON.parse(raw) : { ics: [], mechs: [], topics: [], career: "any" };
+  } catch (e) { return { ics: [], mechs: [], topics: [], career: "any" }; }
+}
+
+// Score how well a notice matches the saved profile.
+// 1 point per matched IC / mechanism / topic; 0.5 for matching career stage.
+function matchScore(n, p) {
+  let s = 0;
+  for (const ic of (n.issuing_orgs || [])) if (p.ics.includes(ic))    s += 1;
+  for (const m  of (n.mechanisms   || [])) if (p.mechs.includes(m))   s += 1;
+  for (const t  of (n.topics       || [])) if (p.topics.includes(t))  s += 1;
+  if (p.career && p.career !== "any" && (n.career_stages || []).includes(p.career)) s += 0.5;
+  return s;
 }
 
 thisWeek = {
   if (!notices.length) return [];
-  // Sort by release_date desc, take the most recent 7-day slice.
   const sorted = [...notices].sort((a, b) => d3.descending(a.release_date, b.release_date));
   const newest = new Date(sorted[0].release_date);
   const cutoff = new Date(newest); cutoff.setDate(cutoff.getDate() - 7);
   return sorted.filter(n => new Date(n.release_date) >= cutoff);
 }
+
+ranked = {
+  const profileEmpty =
+    (!profile.ics    || profile.ics.length    === 0) &&
+    (!profile.mechs  || profile.mechs.length  === 0) &&
+    (!profile.topics || profile.topics.length === 0) &&
+    (!profile.career || profile.career === "any");
+
+  if (profileEmpty) return thisWeek.map(n => ({...n, _score: 0}));
+  return thisWeek
+    .map(n => ({...n, _score: matchScore(n, profile)}))
+    .sort((a, b) => d3.descending(a._score, b._score) || d3.descending(a.release_date, b.release_date));
+}
 ```
 
 ```{ojs}
 //| echo: false
-html`<p><strong>${thisWeek.length}</strong> notice${thisWeek.length === 1 ? "" : "s"} this week.
-${notices.length === 0 ? html`<em>Data pipeline has not yet been run — see <a href="about.html">About</a>.</em>` : ""}</p>`
+html`<p>
+  <strong>${thisWeek.length}</strong> notice${thisWeek.length === 1 ? "" : "s"} this week
+  ${profile && (profile.ics?.length || profile.mechs?.length || profile.topics?.length || (profile.career && profile.career !== "any"))
+    ? html`, re-ranked against <a href="profile.html">your profile</a>`
+    : html`. Want a personalized order? <a href="profile.html">Set a profile</a>.`}
+  ${notices.length === 0 ? html`<br/><em>Data pipeline has not yet been run — see <a href="about.html">About</a>.</em>` : ""}
+</p>`
 ```
 
 ```{ojs}
 //| echo: false
-html`<div>${thisWeek.map(n => html`
-  <div style="border-left:4px solid #3b82f6;padding:0.5em 1em;margin:1em 0;background:#f8fafc;">
+html`<div>${ranked.map(n => html`
+  <div style="border-left:4px solid ${n._score > 0 ? "#10b981" : "#3b82f6"};padding:0.5em 1em;margin:1em 0;background:#f8fafc;">
     <div style="font-size:0.85em;color:#64748b;">
       ${n.notice_id} · ${n.notice_type} · ${(n.issuing_orgs || []).join(", ")}
+      ${n._score > 0 ? html`<span style="float:right;background:#10b981;color:white;padding:0.1em 0.5em;border-radius:0.3em;">match ${n._score}</span>` : ""}
     </div>
     <div style="font-weight:600;margin:0.3em 0;">
       <a href="${n.url}" target="_blank" rel="noreferrer">${n.title}</a>
     </div>
-    ${n.purpose_tldr ? html`<div style="margin:0.3em 0;">${n.purpose_tldr}</div>` : ""}
+    ${n.purpose_tldr ? html`<div style="margin:0.3em 0;">${n.purpose_tldr}</div>` : html`<div style="font-style:italic;color:#94a3b8;font-size:0.85em;">TL;DR pending /refresh-tldrs</div>`}
     <div style="font-size:0.85em;color:#475569;">
       Released ${n.release_date}
       ${(n.mechanisms || []).length ? " · " + n.mechanisms.join(", ") : ""}
