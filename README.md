@@ -2,7 +2,7 @@
 
 A public dashboard that ingests NIH funding notices weekly, extracts structured information with a hybrid rule + LLM pipeline, and presents them through faceted browse, a triage feed, decompressed TL;DR cards, and a forward-looking deadline calendar. Designed for pluggable sources (NSF, AHRQ, CDC, DoD/CDMRP coming after the NIH MVP is solid).
 
-**Status:** M0 — scaffolding.
+**Status:** M3 frontend wired. NIH source + hybrid extractor + roll-up + Quarto/OJS site are all in. Awaiting a first LLM-enabled refresh to populate `data/notices/`.
 
 ## Why
 
@@ -31,16 +31,30 @@ The pipeline runs every Sunday evening (19:00 ET) via GitHub Actions, so the reb
 ## Local development
 
 ```r
-renv::restore()
-source("R/pipeline.R")
-refresh_week(Sys.Date())
+# Install dependencies
+install.packages(c("devtools","testthat","S7","rvest","httr2",
+                   "jsonlite","jsonvalidate","digest","dplyr",
+                   "stringr","tibble","purrr","cli","rlang",
+                   "arrow","ellmer","yaml","fs","readr","xml2","withr"))
+
+# Run tests
+devtools::test()
+
+# Refresh this week (rule extractor only; no API key needed)
+devtools::load_all()
+refresh_week(run_llm = FALSE)
+rollup_notices()
 ```
 
-Then render the site:
+Render the site (needs `quarto`):
 
 ```sh
+cp data/notices.json site/notices.json
 quarto render site/
 ```
+
+For a full refresh with LLM summaries, set `ANTHROPIC_API_KEY` in `.Renviron`
+and run `refresh_week()` (omit `run_llm = FALSE`).
 
 ## License
 
