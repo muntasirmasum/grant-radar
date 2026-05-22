@@ -3,6 +3,9 @@ title: "Grant Radar"
 format:
   dashboard:
     orientation: rows
+    theme:
+      - cosmo
+      - theme.scss
     nav-buttons:
       - icon: github
         href: https://github.com/muntasirmasum/grant-radar

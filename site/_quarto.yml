@@ -33,7 +33,3 @@ format:
     toc: true
     grid:
       body-width: 1200px
-  dashboard:
-    theme:
-      - cosmo
-      - theme.scss
