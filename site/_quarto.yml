@@ -12,7 +12,7 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: This week
+        text: Dashboard
       - href: browse.qmd
         text: Browse
       - href: calendar.qmd
@@ -27,7 +27,13 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - theme.scss
     toc: true
     grid:
-      body-width: 1100px
+      body-width: 1200px
+  dashboard:
+    theme:
+      - cosmo
+      - theme.scss
