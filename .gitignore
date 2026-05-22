@@ -1,0 +1,27 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+*.Rproj
+.DS_Store
+
+# renv
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/staging/
+
+# Quarto
+.quarto/
+site/_site/
+site/_freeze/
+site/.quarto/
+
+# Built site (CI writes this; local dev should not commit)
+docs/
+
+# Secrets
+.env

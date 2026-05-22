@@ -1,0 +1,7 @@
+---
+title: "Deadline calendar"
+---
+
+::: {.callout-note}
+Deadline calendar lands in M3. This page will render upcoming LOI, application, scientific-merit-review, and council dates from `notices.parquet`.
+:::

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Grant Radar"
+  description: "A digestible weekly view of NIH funding notices."
+  site-url: https://muntasirmasum.github.io/grant-radar/
+  repo-url: https://github.com/muntasirmasum/grant-radar
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: This week
+      - href: browse.qmd
+        text: Browse
+      - href: calendar.qmd
+        text: Calendar
+      - href: profile.qmd
+        text: My profile
+    right:
+      - href: about.qmd
+        text: About
+      - icon: github
+        href: https://github.com/muntasirmasum/grant-radar
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    grid:
+      body-width: 1100px

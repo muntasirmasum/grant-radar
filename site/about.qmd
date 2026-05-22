@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+## What Grant Radar does
+
+Grant Radar fetches the NIH Guide for Grants and Contracts weekly index every Sunday evening, downloads each notice, and runs a hybrid extractor that combines deterministic rule-based parsing of the consistent header fields (notice ID, release date, issuing IC, related announcements, key dates table) with a large language model (Anthropic Claude) that summarizes the free-text sections (purpose, eligibility, do's and don'ts, budget). Each notice is validated against a JSON schema and stored as a versioned record in the project's GitHub repository.
+
+The dashboard is a static Quarto website with Observable JS widgets, hosted free on GitHub Pages. There is no server, no database, and no user account system. Personal filter profiles live entirely in your browser's localStorage.
+
+## Sources
+
+The MVP covers the NIH Guide for Grants and Contracts. NSF, AHRQ, CDC, and DoD/CDMRP are planned as pluggable source modules.
+
+## Limitations
+
+- LLM extractions can be wrong. Always confirm against the linked original notice before drafting a proposal.
+- Topic tagging is approximate.
+- Backfill begins January 2025.
+- Mobile rendering of complex notices may lose information; use the link to the original NIH page for the canonical text.
+
+## Contributing
+
+Issues and pull requests welcome at [github.com/muntasirmasum/grant-radar](https://github.com/muntasirmasum/grant-radar). If you see an extraction error, the fastest fix is to open an issue with the notice ID and the field that's wrong.

@@ -1,0 +1,7 @@
+---
+title: "Browse all notices"
+---
+
+::: {.callout-note}
+Faceted browse lands in M3. This page will load `data/notices.parquet` via DuckDB-WASM and offer live filtering by IC, mechanism, notice type, career stage, topic, deadline window, and source.
+:::

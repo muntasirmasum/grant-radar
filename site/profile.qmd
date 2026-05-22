@@ -1,0 +1,7 @@
+---
+title: "My profile"
+---
+
+::: {.callout-note}
+Profile lands in M5. You'll pick ICs, mechanisms, topics, and career stage; the choice is saved in your browser's localStorage (no account, no server) and re-ranks the *This week* feed.
+:::

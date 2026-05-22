@@ -1,0 +1,21 @@
+---
+title: "This week"
+subtitle: "NIH funding notices, decompressed."
+---
+
+::: {.callout-note}
+**Status: scaffolding.** The pipeline is not wired up yet. This page will list the current week's NIH notices, ranked by your saved profile, once M1–M3 land.
+:::
+
+## What this is
+
+Grant Radar reads every NIH Guide notice each week, extracts the parts that matter (purpose, eligibility, budget, key dates, do's and don'ts), and presents them so a researcher can scan a week's notices in minutes instead of hours.
+
+## What to expect here
+
+- A ranked list of this week's notices, with TL;DR cards.
+- Filter by IC, mechanism, topic, and career stage.
+- Click through to a full structured view of any notice.
+- Save a profile (in your browser, no account) so the feed re-ranks for you.
+
+See [About](about.qmd) for methodology and limitations.
