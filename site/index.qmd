@@ -1,13 +1,49 @@
 ---
-title: "This week"
-subtitle: "NIH funding notices, decompressed."
+title: "Grant Radar"
+format:
+  dashboard:
+    orientation: rows
+    nav-buttons:
+      - icon: github
+        href: https://github.com/muntasirmasum/grant-radar
 ---
 
 ```{ojs}
-//| echo: false
+//| output: false
 notices = {
   try { return await FileAttachment("notices.json").json(); }
   catch (e) { return []; }
+}
+
+today = new Date()
+cutoff7  = { const d = new Date(today); d.setDate(d.getDate() - 7);  return d; }
+cutoff30 = { const d = new Date(today); d.setDate(d.getDate() - 30); return d; }
+
+// All recently-released notices in the window.
+last7  = notices.filter(n => n.release_date && new Date(n.release_date) >= cutoff7)
+last30 = notices.filter(n => n.release_date && new Date(n.release_date) >= cutoff30)
+
+upcomingDeadlines = {
+  const out = [];
+  for (const n of notices) {
+    let kds; try { kds = JSON.parse(n.key_dates_json || "[]"); } catch (e) { kds = []; }
+    for (const kd of kds) {
+      const d = new Date(kd.date);
+      if (isNaN(d) || d < today) continue;
+      if (kd.type === "release") continue;
+      out.push({date: kd.date, label: kd.label, type: kd.type, notice_id: n.notice_id, title: n.title, url: n.url});
+    }
+  }
+  return out.sort((a, b) => d3.ascending(a.date, b.date));
+}
+
+actionTypes = ["rescission", "change", "reissue", "rfa", "nofo"]
+actionCount30 = last30.filter(n => actionTypes.includes(n.notice_type)).length
+
+icsTouched30 = {
+  const s = new Set();
+  for (const n of last30) for (const ic of (n.issuing_orgs || [])) s.add(ic);
+  return s.size;
 }
 
 profile = {
@@ -17,8 +53,6 @@ profile = {
   } catch (e) { return { ics: [], mechs: [], topics: [], career: "any" }; }
 }
 
-// Score how well a notice matches the saved profile.
-// 1 point per matched IC / mechanism / topic; 0.5 for matching career stage.
 function matchScore(n, p) {
   let s = 0;
   for (const ic of (n.issuing_orgs || [])) if (p.ics.includes(ic))    s += 1;
@@ -28,55 +62,201 @@ function matchScore(n, p) {
   return s;
 }
 
-thisWeek = {
-  if (!notices.length) return [];
-  const sorted = [...notices].sort((a, b) => d3.descending(a.release_date, b.release_date));
-  const newest = new Date(sorted[0].release_date);
-  const cutoff = new Date(newest); cutoff.setDate(cutoff.getDate() - 7);
-  return sorted.filter(n => new Date(n.release_date) >= cutoff);
+profileEmpty = (!profile.ics?.length && !profile.mechs?.length && !profile.topics?.length && (!profile.career || profile.career === "any"))
+
+ranked7 = profileEmpty
+  ? last7.map(n => ({...n, _score: 0}))
+  : last7.map(n => ({...n, _score: matchScore(n, profile)})).sort((a, b) => d3.descending(a._score, b._score) || d3.descending(a.release_date, b.release_date))
+
+// Top topics and top ICs across the last-30-day window.
+topicCounts = {
+  const m = new Map();
+  for (const n of last30) for (const t of (n.topics || [])) m.set(t, (m.get(t) || 0) + 1);
+  return Array.from(m, ([topic, n]) => ({topic, n})).sort((a, b) => d3.descending(a.n, b.n)).slice(0, 8);
+}
+icCounts = {
+  const m = new Map();
+  for (const n of last30) for (const ic of (n.issuing_orgs || [])) m.set(ic, (m.get(ic) || 0) + 1);
+  return Array.from(m, ([ic, n]) => ({ic, n})).sort((a, b) => d3.descending(a.n, b.n)).slice(0, 8);
 }
 
-ranked = {
-  const profileEmpty =
-    (!profile.ics    || profile.ics.length    === 0) &&
-    (!profile.mechs  || profile.mechs.length  === 0) &&
-    (!profile.topics || profile.topics.length === 0) &&
-    (!profile.career || profile.career === "any");
-
-  if (profileEmpty) return thisWeek.map(n => ({...n, _score: 0}));
-  return thisWeek
-    .map(n => ({...n, _score: matchScore(n, profile)}))
-    .sort((a, b) => d3.descending(a._score, b._score) || d3.descending(a.release_date, b.release_date));
+// Weekly release counts for the last 12 weeks.
+weeklyCounts = {
+  const buckets = new Map();
+  for (const n of notices) {
+    if (!n.release_date) continue;
+    const d = new Date(n.release_date);
+    // Bucket by ISO week-start Monday.
+    const mon = new Date(d); mon.setDate(d.getDate() - ((d.getDay() + 6) % 7));
+    const key = mon.toISOString().slice(0, 10);
+    buckets.set(key, (buckets.get(key) || 0) + 1);
+  }
+  return Array.from(buckets, ([week, n]) => ({week: new Date(week), n})).sort((a, b) => d3.ascending(a.week, b.week)).slice(-12);
 }
 ```
 
+# Overview
+
+## Row {height=18%}
+
 ```{ojs}
-//| echo: false
-html`<p>
-  <strong>${thisWeek.length}</strong> notice${thisWeek.length === 1 ? "" : "s"} this week
-  ${profile && (profile.ics?.length || profile.mechs?.length || profile.topics?.length || (profile.career && profile.career !== "any"))
-    ? html`, re-ranked against <a href="profile.html">your profile</a>`
-    : html`. Want a personalized order? <a href="profile.html">Set a profile</a>.`}
-  ${notices.length === 0 ? html`<br/><em>Data pipeline has not yet been run — see <a href="about.html">About</a>.</em>` : ""}
-</p>`
+//| content: valuebox
+//| title: "This week"
+//| icon: file-text
+//| color: primary
+({ value: last7.length })
 ```
 
 ```{ojs}
+//| content: valuebox
+//| title: "Tracked (all weeks)"
+//| icon: archive
+//| color: secondary
+({ value: notices.length })
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Upcoming deadlines (next 90 days)"
+//| icon: calendar-event
+//| color: success
+({ value: upcomingDeadlines.filter(d => (new Date(d.date) - today) <= 90*86400000).length })
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Rescissions / changes / NOFOs (30 d)"
+//| icon: shuffle
+//| color: warning
+({ value: actionCount30 })
+```
+
+```{ojs}
+//| content: valuebox
+//| title: "Active ICs (30 d)"
+//| icon: building
+//| color: info
+({ value: icsTouched30 })
+```
+
+## Row {height=42%}
+
+### Column {width=58%}
+
+::: {.card title="This week, ranked for you"}
+
+```{ojs}
 //| echo: false
-html`<div>${ranked.map(n => html`
-  <div style="border-left:4px solid ${n._score > 0 ? "#10b981" : "#3b82f6"};padding:0.5em 1em;margin:1em 0;background:#f8fafc;">
-    <div style="font-size:0.85em;color:#64748b;">
-      ${n.notice_id} · ${n.notice_type} · ${(n.issuing_orgs || []).join(", ")}
-      ${n._score > 0 ? html`<span style="float:right;background:#10b981;color:white;padding:0.1em 0.5em;border-radius:0.3em;">match ${n._score}</span>` : ""}
+html`<div style="font-size:0.85em;color:#64748b;margin-bottom:0.5em;">
+  ${profileEmpty
+    ? html`No profile saved. <a href="profile.html">Set one</a> to re-rank.`
+    : html`Ranked against your <a href="profile.html">profile</a>.`}
+</div>`
+
+html`<div style="max-height:340px;overflow-y:auto;">${ranked7.map(n => html`
+  <div style="border-bottom:1px solid #e2e8f0;padding:0.5em 0;">
+    <div style="font-size:0.8em;color:#64748b;">
+      ${n.notice_id} · ${n.notice_type} · ${(n.issuing_orgs || []).slice(0, 2).join(", ")}${(n.issuing_orgs || []).length > 2 ? ", …" : ""}
+      ${n._score > 0 ? html`<span style="float:right;background:#10b981;color:white;padding:0 0.4em;border-radius:0.2em;font-size:0.9em;">match ${n._score}</span>` : ""}
     </div>
-    <div style="font-weight:600;margin:0.3em 0;">
+    <div style="font-weight:600;font-size:0.95em;margin:0.15em 0;">
       <a href="${n.url}" target="_blank" rel="noreferrer">${n.title}</a>
     </div>
-    ${n.purpose_tldr ? html`<div style="margin:0.3em 0;">${n.purpose_tldr}</div>` : html`<div style="font-style:italic;color:#94a3b8;font-size:0.85em;">TL;DR pending /refresh-tldrs</div>`}
-    <div style="font-size:0.85em;color:#475569;">
-      Released ${n.release_date}
-      ${(n.mechanisms || []).length ? " · " + n.mechanisms.join(", ") : ""}
-      ${(n.topics || []).length ? " · " + n.topics.join(", ") : ""}
+    ${n.purpose_tldr
+      ? html`<div style="font-size:0.9em;">${n.purpose_tldr}</div>`
+      : html`<div style="font-size:0.85em;font-style:italic;color:#94a3b8;">TL;DR pending /refresh-tldrs</div>`}
+    <div style="font-size:0.8em;color:#475569;margin-top:0.15em;">
+      ${n.release_date}${(n.topics || []).length ? " · " + n.topics.join(", ") : ""}
     </div>
   </div>`)}</div>`
 ```
+
+:::
+
+### Column {width=42%}
+
+::: {.card title="Upcoming deadlines"}
+
+```{ojs}
+//| echo: false
+html`<div style="max-height:340px;overflow-y:auto;">${
+  upcomingDeadlines.length === 0
+    ? html`<em style="color:#94a3b8;">No future deadlines extracted yet — calendar fills in as notices arrive.</em>`
+    : upcomingDeadlines.slice(0, 30).map(d => html`
+        <div style="border-bottom:1px solid #f1f5f9;padding:0.4em 0;font-size:0.9em;">
+          <div style="display:flex;justify-content:space-between;">
+            <span style="font-weight:600;">${d.date}</span>
+            <span style="color:#64748b;font-size:0.85em;">${d.type || ""}</span>
+          </div>
+          <div style="color:#475569;">${d.label}</div>
+          <div style="font-size:0.8em;"><a href="${d.url}" target="_blank">${d.notice_id}</a> — ${d.title.slice(0, 80)}${d.title.length > 80 ? "…" : ""}</div>
+        </div>`)
+}</div>`
+```
+
+:::
+
+## Row {height=40%}
+
+### Column {width=33%}
+
+::: {.card title="Top topics (30 d)"}
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  marginLeft: 140,
+  height: 280,
+  y: { label: null },
+  x: { label: "notices" },
+  marks: [
+    Plot.barX(topicCounts, { y: "topic", x: "n", fill: "#3b82f6", sort: { y: "x", reverse: true } }),
+    Plot.text(topicCounts, { y: "topic", x: "n", text: "n", dx: 5, textAnchor: "start", fill: "#1e293b" }),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+:::
+
+### Column {width=33%}
+
+::: {.card title="Most active ICs (30 d)"}
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  marginLeft: 200,
+  height: 280,
+  y: { label: null },
+  x: { label: "notices" },
+  marks: [
+    Plot.barX(icCounts, { y: d => d.ic.length > 35 ? d.ic.slice(0, 33) + "…" : d.ic, x: "n", fill: "#10b981", sort: { y: "x", reverse: true } }),
+    Plot.text(icCounts, { y: d => d.ic.length > 35 ? d.ic.slice(0, 33) + "…" : d.ic, x: "n", text: "n", dx: 5, textAnchor: "start", fill: "#1e293b" }),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+:::
+
+### Column {width=34%}
+
+::: {.card title="Weekly release volume"}
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  height: 280,
+  y: { label: "notices / week" },
+  x: { label: null, type: "time" },
+  marks: [
+    Plot.areaY(weeklyCounts, { x: "week", y: "n", fill: "#dbeafe", fillOpacity: 0.6, curve: "monotone-x" }),
+    Plot.lineY(weeklyCounts, { x: "week", y: "n", stroke: "#3b82f6", strokeWidth: 2, curve: "monotone-x" }),
+    Plot.dot(weeklyCounts, { x: "week", y: "n", fill: "#3b82f6" }),
+    Plot.ruleY([0])
+  ]
+})
+```
+
+:::
