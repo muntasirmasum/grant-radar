@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://grant-radar.dev/schemas/notice.schema.json",
+  "title": "Funding Notice",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "notice_id",
+    "source",
+    "notice_type",
+    "title",
+    "release_date",
+    "url",
+    "issuing_orgs",
+    "key_dates",
+    "related",
+    "raw_html_hash",
+    "extracted_at",
+    "extractor_version"
+  ],
+  "properties": {
+    "notice_id":     { "type": "string", "pattern": "^[A-Z]+-[A-Z]{2,4}-\\d{2}-\\d{3,4}$" },
+    "source":        { "type": "string", "enum": ["nih", "nsf", "ahrq", "cdc", "dod_cdmrp"] },
+    "notice_type":   { "type": "string", "enum": ["guide_notice", "nofo", "rfa", "pa", "par", "reissue", "rescission", "change", "other"] },
+    "title":         { "type": "string", "minLength": 1 },
+    "release_date":  { "type": "string", "format": "date" },
+    "url":           { "type": "string", "format": "uri" },
+    "issuing_orgs":  { "type": "array", "items": { "type": "string" } },
+    "mechanisms":    { "type": "array", "items": { "type": "string" } },
+    "career_stages": { "type": "array", "items": { "type": "string", "enum": ["trainee", "early_career", "midcareer", "established", "any"] } },
+    "topics":        { "type": "array", "items": { "type": "string" } },
+    "purpose_tldr":     { "type": ["string", "null"] },
+    "eligibility_tldr": { "type": ["string", "null"] },
+    "budget": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "direct_cost_cap":    { "type": ["number", "null"] },
+        "total_cost_cap":     { "type": ["number", "null"] },
+        "project_period_max": { "type": ["string", "null"] }
+      }
+    },
+    "key_dates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "date"],
+        "properties": {
+          "label": { "type": "string" },
+          "date":  { "type": "string", "format": "date" },
+          "type":  { "type": ["string", "null"], "enum": ["release", "loi", "application_due", "scientific_merit", "council", "earliest_start", "expiration", "other", null] }
+        }
+      }
+    },
+    "related":   { "type": "array", "items": { "type": "string" } },
+    "dos":       { "type": "array", "items": { "type": "string" } },
+    "donts":     { "type": "array", "items": { "type": "string" } },
+    "strategic_priorities": { "type": "array", "items": { "type": "string" } },
+    "raw_html_hash":     { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "extracted_at":      { "type": "string", "format": "date-time" },
+    "extractor_version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "llm_model":         { "type": ["string", "null"] }
+  }
+}

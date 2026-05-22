@@ -1,0 +1,11 @@
+# Generated manually for M1. Will be roxygen-managed once roxygen tags settle.
+
+export(nih_source)
+export(parse_weekly_index)
+export(extract_rules_nih)
+export(validate_notice)
+export(list_week)
+export(fetch_notice)
+
+importFrom(S7, new_class, new_generic, new_object, S7_dispatch, S7_object, method)
+importFrom(rlang, "%||%", .data)
