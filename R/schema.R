@@ -22,7 +22,7 @@ validate_notice <- function(notice) {
   for (f in array_fields) {
     if (!is.null(notice[[f]])) notice[[f]] <- I(notice[[f]])
   }
-  json <- jsonlite::toJSON(notice, auto_unbox = TRUE, null = "null",
+  json <- jsonlite::toJSON(notice, auto_unbox = TRUE, null = "null", na = "null",
                            POSIXt = "ISO8601", Date = "ISO8601")
   ok <- jsonvalidate::json_validate(
     json   = json,

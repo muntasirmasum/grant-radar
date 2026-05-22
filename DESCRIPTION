@@ -26,6 +26,7 @@ Imports:
     S7,
     stringr,
     tibble,
+    xml2,
     yaml
 Suggests:
     testthat (>= 3.0.0)
