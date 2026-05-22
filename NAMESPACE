@@ -1,6 +1,7 @@
 # Generated manually for M1. Will be roxygen-managed once roxygen tags settle.
 
 export(refresh_week)
+export(backfill_range)
 export(rollup_notices)
 export(notices_needing_llm)
 export(apply_llm_fields)

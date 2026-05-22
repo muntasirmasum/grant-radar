@@ -60,13 +60,12 @@
   h <- rvest::html_elements(doc, xpath = "//h2[normalize-space()='Issued by']")
   if (length(h) == 0L) return(character())
   # The h2 sits inside a wrapping div; the content lives in the next div sibling
-  # of that wrapper.
+  # of that wrapper. NIH lists each IC in its own <p> when there are several.
   block <- rvest::html_elements(h[1], xpath = "ancestor::div[1]/following-sibling::div[1]")
   if (length(block) == 0L) return(character())
-  txt <- rvest::html_text2(block)
-  txt <- stringr::str_squish(txt)
-  # Split on newline if multiple ICs are listed.
-  parts <- unlist(stringr::str_split(txt, "\\s*\\n\\s*"))
+  ps <- rvest::html_elements(block, "p")
+  parts <- if (length(ps) > 0L) rvest::html_text2(ps) else rvest::html_text2(block)
+  parts <- stringr::str_squish(parts)
   parts <- parts[nzchar(parts)]
   # Strip trailing "(XYZ)" abbreviation; keep full institute name.
   stringr::str_squish(stringr::str_replace(parts, "\\s*\\([^)]+\\)\\s*$", ""))

@@ -37,8 +37,23 @@ rollup_notices <- function(data_dir = "data",
   rows <- purrr::map(paths, .flatten_notice)
   df <- purrr::list_rbind(rows)
   arrow::write_parquet(df, out_path)
+
+  # Build a list-of-lists where array columns stay as JSON arrays even when
+  # they hold a single element. write_json/auto_unbox would otherwise scalarize them.
+  array_cols <- c("issuing_orgs", "mechanisms", "career_stages", "topics",
+                  "related", "dos", "donts", "strategic_priorities")
+  records <- purrr::pmap(df, function(...) {
+    row <- list(...)
+    for (col in array_cols) {
+      val <- row[[col]]
+      if (is.null(val)) row[[col]] <- I(character())
+      else              row[[col]] <- I(unlist(val, use.names = FALSE))
+    }
+    row
+  })
   json_path <- fs::path_ext_set(out_path, "json")
-  jsonlite::write_json(df, json_path, auto_unbox = TRUE, null = "null", na = "null")
+  jsonlite::write_json(records, json_path, auto_unbox = TRUE,
+                       null = "null", na = "null")
   cli::cli_inform("Wrote {nrow(df)} notice{?s} to {.path {out_path}} (+ {.path {fs::path_file(json_path)}}).")
   invisible(df)
 }
@@ -60,8 +75,8 @@ rollup_notices <- function(data_dir = "data",
     topics           = list_or_empty(rec$topics),
     purpose_tldr     = scalar_or_na(rec$purpose_tldr),
     eligibility_tldr = scalar_or_na(rec$eligibility_tldr),
-    budget_json      = jsonlite::toJSON(rec$budget %||% NULL, auto_unbox = TRUE, null = "null", na = "null"),
-    key_dates_json   = jsonlite::toJSON(rec$key_dates %||% list(), auto_unbox = TRUE, null = "null", na = "null"),
+    budget_json      = as.character(jsonlite::toJSON(rec$budget %||% NULL, auto_unbox = TRUE, null = "null", na = "null")),
+    key_dates_json   = as.character(jsonlite::toJSON(rec$key_dates %||% list(), auto_unbox = TRUE, null = "null", na = "null")),
     related          = list_or_empty(rec$related),
     dos              = list_or_empty(rec$dos),
     donts            = list_or_empty(rec$donts),
