@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-038",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Correction to Guidance on Salary Limitation for Grants and Cooperative Agreements FY 2026",
+  "release_date": "2026-02-09",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-038.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-09",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-034", "NOT-OD-26-011", "NOT-OD-25-084", "NOT-OD-25-054", "NOT-OD-25-025", "NOT-OD-25-010", "NOT-OD-24-110", "NOT-OD-24-109"],
+  "raw_html_hash": "1aa6f91663ea978eec35a61e234542cd4a57fb1fc85c3fcb65933de9bfa4a116",
+  "extracted_at": "2026-05-22T19:38:00Z",
+  "extractor_version": "0.1.0"
+}

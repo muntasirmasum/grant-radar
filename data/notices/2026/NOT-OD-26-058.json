@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-OD-26-058",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Inviting Input on a Proposed Clinical Trial Specific Application Form",
+  "release_date": "2026-03-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-058.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-18",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-04-17",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "8d9a5df35e49b1724cc3f8c84dc42917147cc99958d68ca3c8df62207e5aabe5",
+  "extracted_at": "2026-05-22T19:38:12Z",
+  "extractor_version": "0.1.0"
+}

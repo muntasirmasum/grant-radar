@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-019",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-21-264 -- Large Health Services Research Demonstration and Dissemination Projects for Prevention of Healthcare-Associated Infections (R18).",
+  "release_date": "2026-03-20",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-019.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-20",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "465ec8cbb6dd422716ddd81662492a810b6665a94d5b09fed030e834977bdc31",
+  "extracted_at": "2026-05-22T19:38:13Z",
+  "extractor_version": "0.1.0"
+}

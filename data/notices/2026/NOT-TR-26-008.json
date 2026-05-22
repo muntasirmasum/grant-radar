@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-TR-26-008",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Participation of the National Center for Advancing Translational Sciences (NCATS) in PA-24-201, Emergency Competitive Revision to Existing NIH Awards (Emergency Supplement - Clinical Trial Optional)",
+  "release_date": "2026-03-24",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-008.html",
+  "issuing_orgs": ["National Center for Advancing Translational Sciences"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-24",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "e2349da63aed5048baf7caeec69cbffe0fe75887be2facc9a875d001e1577323",
+  "extracted_at": "2026-05-22T19:38:16Z",
+  "extractor_version": "0.1.0"
+}

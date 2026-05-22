@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-GM-26-005",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration of PAR-25-202 \"Technology Development Research for Establishing Feasibility and Proof of Concept (R21 - Clinical Trial Not Allowed)\"",
+  "release_date": "2026-05-12",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-005.html",
+  "issuing_orgs": ["National Institute of General Medical Sciences"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-05-12",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "c7de4ff9b1fe5cd9647613c1ea85b659f9d50a697b8fdca9d50d8b68825166d9",
+  "extracted_at": "2026-05-22T19:38:29Z",
+  "extractor_version": "0.1.0"
+}

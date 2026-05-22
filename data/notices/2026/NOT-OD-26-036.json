@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-036",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Information for the NIH Extramural Community During the Lapse of Federal Government Funding",
+  "release_date": "2026-02-02",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-036.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-02",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-011"],
+  "raw_html_hash": "f84f9e37f4c5bb0ba8c03891a988ba6533152f634c698ead6b9441a01847aaee",
+  "extracted_at": "2026-05-22T19:37:58Z",
+  "extractor_version": "0.1.0"
+}

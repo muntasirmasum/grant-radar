@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HD-26-004",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of NICHD Participation in PAR-24-204 \"Summer Research Education Experience Program (R25 Clinical Trial Not Allowed)\"",
+  "release_date": "2026-03-27",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HD-26-004.html",
+  "issuing_orgs": ["Eunice Kennedy Shriver National Institute of Child Health and Human Development"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-27",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "47de7ecbcc7f738e54fe7dc1218766e45aaa0bfadf1dd388dc41f681517ed016",
+  "extracted_at": "2026-05-22T19:38:16Z",
+  "extractor_version": "0.1.0"
+}

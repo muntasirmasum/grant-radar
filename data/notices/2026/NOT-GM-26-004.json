@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-GM-26-004",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Informational Webinar on the NIGMS Predoctoral Basic Biomedical and Medical Scientist Training Programs (T32)",
+  "release_date": "2026-03-19",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-004.html",
+  "issuing_orgs": ["National Institute of General Medical Sciences"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-19",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "9d1e5d56ea2f1afcc6ae46df595f09dd738cf06ecf7dd7682d6f2d99ed859985",
+  "extracted_at": "2026-05-22T19:38:12Z",
+  "extractor_version": "0.1.0"
+}

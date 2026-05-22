@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-005",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-23-291 -- AHRQ Understanding and Improving Diagnostic Safety in Ambulatory Care: Incidence and Contributing Factors (R01).",
+  "release_date": "2026-03-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-005.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-10",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "db858844ce384c1e21816c34b7dbbf345a1aab1f1b4c6c0e2e214be986df8d62",
+  "extracted_at": "2026-05-22T19:38:09Z",
+  "extractor_version": "0.1.0"
+}

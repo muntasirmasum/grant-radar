@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-CA-26-003",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of NCI's Participation in PA-25-302, NIH Small Research Grant Program (Parent R03 Clinical Trial Not Allowed)",
+  "release_date": "2026-02-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-003.html",
+  "issuing_orgs": ["National Cancer Institute"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-10",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "dfa2da06cf188ed5973881f4055162dde19a39df0a0a6eb498657019083da0b7",
+  "extracted_at": "2026-05-22T19:38:00Z",
+  "extractor_version": "0.1.0"
+}

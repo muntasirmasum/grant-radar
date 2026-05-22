@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-042",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Correction to Notice of Temporary Extension of Eligibility for the NIH Pathway to Independence Award (K99/R00) (NOT-OD-26-021)",
+  "release_date": "2026-03-04",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-042.html",
+  "issuing_orgs": ["Office of The Director, National Institutes of Health"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-04",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-021"],
+  "raw_html_hash": "57bb8c8ea48c1e4da55ca9ddbf446b4e247622a45f69dc6e0c423cf25d87a680",
+  "extracted_at": "2026-05-22T19:38:07Z",
+  "extractor_version": "0.1.0"
+}

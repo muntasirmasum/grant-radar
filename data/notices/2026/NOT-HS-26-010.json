@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-010",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-24-093--Systems-Based Approaches to Improve Patient Safety by Improving Healthcare Worker Safety and Well-Being (R01 Clinical Trial Optional) .",
+  "release_date": "2026-03-17",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-010.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-17",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "20a5d4797b3bb2ffc4a48516494746bda03035665e75cd8c90e2813364ea9bb7",
+  "extracted_at": "2026-05-22T19:38:12Z",
+  "extractor_version": "0.1.0"
+}

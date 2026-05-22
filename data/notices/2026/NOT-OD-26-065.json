@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-OD-26-065",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Request for Information (RFI): Promoting Youth Participatory Action Research Approaches in Prevention Research",
+  "release_date": "2026-04-24",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-065.html",
+  "issuing_orgs": ["Division of Program Coordination, Planning and Strategic Initiatives, Office of Disease Prevention", "Office of AIDS Research", "Eunice Kennedy Shriver National Institute of Child Health and Human Development", "National Institute of Mental Health", "National Institute of Nursing Research"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-24",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-07-16",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "5f0197a5dda9e2050270bc2eec920e7d5ac0d399dd07177acc1d57da6fc6b669",
+  "extracted_at": "2026-05-22T19:40:21Z",
+  "extractor_version": "0.1.0"
+}

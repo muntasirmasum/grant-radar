@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-AG-26-005",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "NIA Caenorhabditis Interventions Testing Program (CITP) Announces Annual Call for Compounds to Test for Lifespan Extension in Caenorhabditis",
+  "release_date": "2026-04-24",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-005.html",
+  "issuing_orgs": ["National Institute on Aging"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-24",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "c40233328f8444aa3399179ccba95454006559e5f608432a6459edf0a872ab23",
+  "extracted_at": "2026-05-22T19:40:20Z",
+  "extractor_version": "0.1.0"
+}

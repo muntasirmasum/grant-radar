@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-071",
+  "source": "nih",
+  "notice_type": "rescission",
+  "title": "Notice to Rescind NOT-OD-23-075 \"Office of Research Infrastructure Programs (ORIP) implementation of NIH Policy on Acceptance for Review of Applications Requesting $500,000 or More in Direct Costs in Any One Budget Year\"",
+  "release_date": "2026-04-24",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-071.html",
+  "issuing_orgs": ["Division of Program Coordination, Planning and Strategic Initiatives, Office of Research Infrastructure Programs"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-24",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-23-075"],
+  "raw_html_hash": "061cede0b2a138596a954195b8afa07c74b8f08c929e7179f6af0bfdd8d4e6b7",
+  "extracted_at": "2026-05-22T19:40:20Z",
+  "extractor_version": "0.1.0"
+}

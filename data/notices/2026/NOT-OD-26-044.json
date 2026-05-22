@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-044",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2026",
+  "release_date": "2026-03-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-044.html",
+  "issuing_orgs": ["Office of The Director, National Institutes of Health"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-18",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-25-105"],
+  "raw_html_hash": "b31fd98fb5874163d4f020fb25c81859fdf8dbe6f86b36eded1d6459066a38e7",
+  "extracted_at": "2026-05-22T19:38:11Z",
+  "extractor_version": "0.1.0"
+}

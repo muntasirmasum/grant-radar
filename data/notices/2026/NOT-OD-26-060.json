@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-060",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Legislative Mandates in Effect for FY 2026",
+  "release_date": "2026-03-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-060.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-18",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-059", "NOT-OD-26-011"],
+  "raw_html_hash": "bc7d45332ece1acb8e2b6a6b8e7aec703a6ee23de11e53df7e731e0b65f73e52",
+  "extracted_at": "2026-05-22T19:38:11Z",
+  "extractor_version": "0.1.0"
+}

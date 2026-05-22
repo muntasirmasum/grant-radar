@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-DK-26-105",
+  "source": "nih",
+  "notice_type": "change",
+  "title": "Notice of Change: Expiration of RFA-DK-26-308 Limited Competition Renewal for the Continuation of the Liver Cirrhosis Network: Clinical Research Centers (U01 Clinical Trial Required)",
+  "release_date": "2026-05-06",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DK-26-105.html",
+  "issuing_orgs": ["National Institute of Diabetes and Digestive and Kidney Diseases"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-05-06",
+      "type": "release"
+    }
+  ],
+  "related": ["RFA-DK-26-308"],
+  "raw_html_hash": "08eaecbf533907be70e14463648ab13462e164fa9e3769e474ecf1efa08421b3",
+  "extracted_at": "2026-05-22T19:38:27Z",
+  "extractor_version": "0.1.0"
+}

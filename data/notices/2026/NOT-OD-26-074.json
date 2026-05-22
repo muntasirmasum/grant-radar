@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-074",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Information: Policy Changes to SBIR and STTR Foreign Disclosure and Risk Management",
+  "release_date": "2026-04-20",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-074.html",
+  "issuing_orgs": ["Office of The Director, National Institutes of Health"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-20",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-25-102", "NOT-OD-24-029", "NOT-OD-23-139"],
+  "raw_html_hash": "c143ab3efb86199205bcdb011f74957a23c6d484abc60169a1e0cc207ebc62f2",
+  "extracted_at": "2026-05-22T19:40:20Z",
+  "extractor_version": "0.1.0"
+}

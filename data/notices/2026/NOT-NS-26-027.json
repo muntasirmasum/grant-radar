@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-NS-26-027",
+  "source": "nih",
+  "notice_type": "change",
+  "title": "Notice of Change to Key Dates for PAR-25-049: NIH SIREN Neurologic Clinical Trials (UG3/UH3 - Clinical Trial Required)",
+  "release_date": "2026-03-03",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-027.html",
+  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-03",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "21ffab92080253306dd6145f95497a927c4b7636a076b87fc8a3add1f9f0ccc7",
+  "extracted_at": "2026-05-22T19:38:07Z",
+  "extractor_version": "0.1.0"
+}

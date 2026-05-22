@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-069",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Continuation of Modifications to Peer Review Practices",
+  "release_date": "2026-04-15",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-069.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-15",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-012", "NOT-OD-26-004"],
+  "raw_html_hash": "6bf4dd17c77607314aac894249c741fb3443fd453cae482439d55086f1451955",
+  "extracted_at": "2026-05-22T19:38:21Z",
+  "extractor_version": "0.1.0"
+}

@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-079",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Announcement of Upcoming System Enforcement of Common Forms and End of NIH’s Leniency Period",
+  "release_date": "2026-04-21",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-079.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-21",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-017", "NOT-OD-26-018", "NOT-OD-26-033"],
+  "raw_html_hash": "dc4cd554baee5a912a7930e9eb610c9a46352a883b131b649a41219b3263d87d",
+  "extracted_at": "2026-05-22T19:40:20Z",
+  "extractor_version": "0.1.0"
+}

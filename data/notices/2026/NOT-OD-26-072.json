@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-072",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Update - NIH Implementation of Uniform Administrative Requirements for Federal Financial Assistance",
+  "release_date": "2026-04-20",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-072.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-20",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-25-059", "NOT-OD-26-057"],
+  "raw_html_hash": "86640e68d110e268cefa4cedf76793bdede6d628adcda128b11ff0f06d1b371f",
+  "extracted_at": "2026-05-22T19:40:19Z",
+  "extractor_version": "0.1.0"
+}

@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-059",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Fiscal Policies in Effect for FY 2026",
+  "release_date": "2026-03-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-059.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-18",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-26-036", "NOT-OD-26-034", "NOT-OD-26-011", "NOT-OD-26-044", "NOT-OD-26-060"],
+  "raw_html_hash": "e21b83294c7aeddb86d33f35ac10788e3f335ffd9d7329e1ff16de7613dff450",
+  "extracted_at": "2026-05-22T19:38:11Z",
+  "extractor_version": "0.1.0"
+}

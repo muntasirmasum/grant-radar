@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-043",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Reminder of Requirement for Certification of IRB Approval",
+  "release_date": "2026-02-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-043.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-18",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-19-055", "NOT-OD-12-101"],
+  "raw_html_hash": "f436ef07923c1772019ced31ec97930296dac708ae3dbc28ae4d5fe7e26e4d91",
+  "extracted_at": "2026-05-22T19:38:02Z",
+  "extractor_version": "0.1.0"
+}

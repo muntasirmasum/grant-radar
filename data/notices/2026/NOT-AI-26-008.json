@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-AI-26-008",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration of PAR-25-300, \"Targeting Cell Surface HIV Envelope for Cell Elimination (R01 Clinical Trial Not Allowed)\"",
+  "release_date": "2026-02-19",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-008.html",
+  "issuing_orgs": ["National Institute of Allergy and Infectious Diseases"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-19",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "a6f6c00305578ea932a6fd6b3a6d16b817c1a1d5222249962fa8e180a70f2916",
+  "extracted_at": "2026-05-22T19:38:02Z",
+  "extractor_version": "0.1.0"
+}

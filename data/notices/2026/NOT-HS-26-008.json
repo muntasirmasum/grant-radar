@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-008",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-24-266 -- Using Innovative Digital Healthcare Solutions to Improve Quality at the Point of Care (R21/R33 - Clinical Trial Optional).",
+  "release_date": "2026-03-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-008.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-10",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "d70aeaf48a6e2bca737f03f3edbb4b0cd19f3d31bf092308134f52ca1322cb1e",
+  "extracted_at": "2026-05-22T19:38:10Z",
+  "extractor_version": "0.1.0"
+}

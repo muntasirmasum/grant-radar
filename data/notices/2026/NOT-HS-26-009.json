@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-009",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration of PA-24-261-- Examining the Impact of Artificial Intelligence (AI) on Healthcare Safety (R18).",
+  "release_date": "2026-03-17",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-009.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-17",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "e048b2e442be203ee907a6be075d3deb718f6531167258e03ee47a1a55ba283d",
+  "extracted_at": "2026-05-22T19:38:12Z",
+  "extractor_version": "0.1.0"
+}

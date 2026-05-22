@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-DC-26-004",
+  "source": "nih",
+  "notice_type": "change",
+  "title": "Notice of Change: NIDCD Expiration of PAR-25-445, \"NIDCD Clinical Research Center Grant (P50 Clinical Trial Optional)\"",
+  "release_date": "2026-03-31",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-004.html",
+  "issuing_orgs": ["National Institute on Deafness and Other Communication Disorders"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-31",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "b853a41f3370eba0a9af28941d40a4ca11fc952211506ac1d49c190e3e4a3427",
+  "extracted_at": "2026-05-22T19:38:18Z",
+  "extractor_version": "0.1.0"
+}

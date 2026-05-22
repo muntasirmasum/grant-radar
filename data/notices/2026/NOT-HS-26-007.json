@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-007",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-24-155 -- AHRQ Small Health Services Research Grant Program (R03).",
+  "release_date": "2026-03-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-007.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-10",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "d31b07e70cbf6ce8e69026f8c5e4a7d33a71c460a6127238da6be3fed327e7ec",
+  "extracted_at": "2026-05-22T19:38:09Z",
+  "extractor_version": "0.1.0"
+}

@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-012",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-22-232--AHRQ Mentored Clinical Scientist Research Career Development Award (K08).",
+  "release_date": "2026-03-17",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-012.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-17",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "6952298240e30e65ebb5b9997f577fda2918d34863192c7c3ea7a35cb0c4dcbf",
+  "extracted_at": "2026-05-22T19:38:13Z",
+  "extractor_version": "0.1.0"
+}

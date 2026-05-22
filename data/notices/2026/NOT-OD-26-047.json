@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-OD-26-047",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Request for Information (RFI): Inviting Comments and Suggestions on a Framework for the NIH-Wide Strategic Plan for Fiscal Years 2027-2031",
+  "release_date": "2026-03-16",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-047.html",
+  "issuing_orgs": ["Office of The Director, National Institutes of Health"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-16",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-05-26",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "a33c9a89713486a835400f3747a7284b8310fd04f219799ec0ec3cab4f39c3d7",
+  "extracted_at": "2026-05-22T19:38:12Z",
+  "extractor_version": "0.1.0"
+}

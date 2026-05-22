@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-004",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-23-196 -- AHRQ Health Services Research Dissertation Program (R36).",
+  "release_date": "2026-03-06",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-004.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-06",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "6e63cb8ad0996488a1fca5ae5123076d75cc6bfd0c8bfdfe7f8328f5e4aeaedf",
+  "extracted_at": "2026-05-22T19:38:07Z",
+  "extractor_version": "0.1.0"
+}

@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-014",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-22-168 -- AHRQ Administrative Supplements for Grants in Health Services Research",
+  "release_date": "2026-03-20",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-014.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-20",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "0f9a1901a142639d709e537a478532978d8b9b8318e5ef3ad253f77daafcd970",
+  "extracted_at": "2026-05-22T19:38:13Z",
+  "extractor_version": "0.1.0"
+}

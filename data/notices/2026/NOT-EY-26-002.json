@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-EY-26-002",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Request for Information (RFI): Gathering feedback for the National Eye Institute 2026-2031 Strategic Plan.",
+  "release_date": "2026-03-11",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-EY-26-002.html",
+  "issuing_orgs": ["National Eye Institute"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-11",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-04-15",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "b57db19c28e8a9460b61f6f09aa5286734f9af6a072fbe18a6f42460a11c5357",
+  "extracted_at": "2026-05-22T19:38:09Z",
+  "extractor_version": "0.1.0"
+}

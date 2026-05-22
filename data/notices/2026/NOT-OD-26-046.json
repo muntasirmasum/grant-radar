@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-046",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Updated Elements of an NIH Data Management and Sharing Plan",
+  "release_date": "2026-02-25",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-046.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-25",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-21-014", "NOT-OD-21-013"],
+  "raw_html_hash": "992df5ea0ab6eba904b7f7cc7ef23e6a67da8556a29b7868b5ff6b002ea16767",
+  "extracted_at": "2026-05-22T19:38:04Z",
+  "extractor_version": "0.1.0"
+}

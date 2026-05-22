@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-040",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "NIH No Longer Requires Advanced Permission for Conference Grant Applications",
+  "release_date": "2026-02-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-040.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-10",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-05-081"],
+  "raw_html_hash": "eca099ffd2260145c60baea45b33a45a1594e3695d8e502dd92418e72c0b8270",
+  "extracted_at": "2026-05-22T19:38:00Z",
+  "extractor_version": "0.1.0"
+}

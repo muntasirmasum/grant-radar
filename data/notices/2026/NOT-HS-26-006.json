@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-006",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-24-154 -- AHRQ Health Services Research Projects (R01) is expired.",
+  "release_date": "2026-03-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-006.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-10",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "f4f305a7eb93158a12db95845c5b612899dcf97f1aa9237a82869681e141bbf3",
+  "extracted_at": "2026-05-22T19:38:09Z",
+  "extractor_version": "0.1.0"
+}

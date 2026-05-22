@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-RM-26-003",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Request for Information (RFI): Inviting Input on Future Directions for a Somatic Mosaicism Common Fund Program",
+  "release_date": "2026-04-01",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-RM-26-003.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-01",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-05-30",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "9153e607a2a16fb7b4e3e0945ec7a2bd7ab22079a80da8bb1fdccf9a96ff7fe1",
+  "extracted_at": "2026-05-22T19:38:17Z",
+  "extractor_version": "0.1.0"
+}

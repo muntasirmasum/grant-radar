@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-057",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Publication of the Revised NIH Grants Policy Statement (Rev. March 2026) for Fiscal Year 2026",
+  "release_date": "2026-03-25",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-057.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-25",
+      "type": "release"
+    }
+  ],
+  "related": ["NOT-OD-24-115"],
+  "raw_html_hash": "053dd25c7f7c2acdffe584f3f9e1059a9ebce6a2a8d20201d849e9bfe4d26658",
+  "extracted_at": "2026-05-22T19:38:15Z",
+  "extractor_version": "0.1.0"
+}

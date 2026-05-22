@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-AI-26-001",
+  "source": "nih",
+  "notice_type": "change",
+  "title": "Notice of Change to Research Support and Salary Restrictions in PAR-25-251, “NIAID Career Transition Award (K22 Independent Clinical Trial Not Allowed)”",
+  "release_date": "2026-04-13",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-001.html",
+  "issuing_orgs": ["National Institute of Allergy and Infectious Diseases"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-04-13",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "1609fa1a0a7915b098c3d8900b30739036917b2c1d1652ef2ca752a49bb49a15",
+  "extracted_at": "2026-05-22T19:38:21Z",
+  "extractor_version": "0.1.0"
+}

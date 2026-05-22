@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-OD-26-061",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Draft NIH Resources to Support Implantable Device Trials",
+  "release_date": "2026-03-25",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-061.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-25",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-05-25",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "97803b70a4ec1156e57e492f7abaf07484ac008432b59136ceb96ff4413cc002",
+  "extracted_at": "2026-05-22T19:38:15Z",
+  "extractor_version": "0.1.0"
+}

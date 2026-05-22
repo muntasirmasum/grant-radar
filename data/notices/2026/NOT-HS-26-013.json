@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-013",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-22-238--AHRQ Conference Grant Programs (R13).",
+  "release_date": "2026-03-17",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-013.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-17",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "34386aa6d82097cb91c1d7ea2e1414b7c498017c41c0d2bb705a6eb84cc55bf7",
+  "extracted_at": "2026-05-22T19:38:13Z",
+  "extractor_version": "0.1.0"
+}

@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-045",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Information Encouraging Submission of Pre-Application Consultation Information for RFA-OD-25-008, \"Tobacco Regulatory Science Small Grant Program for New Investigators (R03 Clinical Trial Optional)\"",
+  "release_date": "2026-02-27",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-045.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-02-27",
+      "type": "release"
+    }
+  ],
+  "related": ["RFA-OD-25-008"],
+  "raw_html_hash": "a3b25e3f2be05fef0e84f9a1b3a8de8f5ec72f8710223e1ea546aaa7136e56b1",
+  "extracted_at": "2026-05-22T19:38:05Z",
+  "extractor_version": "0.1.0"
+}

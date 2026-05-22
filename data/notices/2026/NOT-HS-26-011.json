@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-011",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-23-290-- AHRQ Improving Diagnostic Safety in Ambulatory Care: Strategies and Interventions (R18).",
+  "release_date": "2026-03-17",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-011.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-17",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "7ea475c0608aee6833d51b314777ee46b0731284512f1704e9e1f1764e2f272e",
+  "extracted_at": "2026-05-22T19:38:12Z",
+  "extractor_version": "0.1.0"
+}

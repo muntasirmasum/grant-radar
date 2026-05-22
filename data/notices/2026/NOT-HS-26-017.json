@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-HS-26-017",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration PA-22-047-- Large Research Projects for Combating Antibiotic-Resistant Bacteria (CARB) (R01).",
+  "release_date": "2026-03-20",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-017.html",
+  "issuing_orgs": ["AGENCY FOR HEALTHCARE RESEARCH & QUALITY"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-03-20",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "90b9561f69a2e6d99ffca5c3ca0eb7fed4c3907ea7ab2155d75e0076f151be7f",
+  "extracted_at": "2026-05-22T19:38:13Z",
+  "extractor_version": "0.1.0"
+}
