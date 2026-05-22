@@ -5,7 +5,9 @@
   "title": "Notice of Change to Key Dates for PAR-25-182 - Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required)",
   "release_date": "2026-05-20",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-030.html",
-  "issuing_orgs": ["National Institute of Mental Health"],
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
   "key_dates": [
     {
       "label": "Release Date",
@@ -15,6 +17,20 @@
   ],
   "related": [],
   "raw_html_hash": "aa60b1f0c91c8baead9181ff5e365bce4d4e2e0998af4bd0fd3eb91d6a5d9996",
-  "extracted_at": "2026-05-22T19:35:53Z",
-  "extractor_version": "0.1.0"
+  "extracted_at": "2026-05-22T19:50:53Z",
+  "extractor_version": "0.1.0",
+  "purpose_tldr": "Updates the receipt dates on PAR-25-182 (Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders, R61/R33 Clinical Trial Required). The change shifts the June 2026 application due date by one year, with the rest of the PAR's schedule and other terms unchanged.",
+  "eligibility_tldr": "Eligibility, scope, and review criteria for PAR-25-182 are unchanged. The notice affects only the date table; consult the parent PAR for institutional, PI, and clinical-trial-required details.",
+  "budget": {
+    "direct_cost_cap": null,
+    "total_cost_cap": null,
+    "project_period_max": null
+  },
+  "mechanisms": ["R61", "R33"],
+  "career_stages": ["any"],
+  "topics": ["mental_health", "behavioral_intervention", "clinical_trials"],
+  "dos": ["Re-check your planned submission against the new June 15, 2026 cycle date", "Treat all other PAR-25-182 requirements as still in effect, including clinical-trial-required policy", "Confirm with your sponsored programs office that internal deadlines align with the new cycle"],
+  "donts": ["Do not assume earlier or later cycles changed; only the cycles shown in bold italics moved", "Do not file under the original date if planning a June 2026 submission"],
+  "strategic_priorities": [],
+  "llm_model": "claude-via-claude-code"
 }

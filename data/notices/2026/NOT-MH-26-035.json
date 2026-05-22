@@ -5,7 +5,9 @@
   "title": "Notice to Rescind NOT-MH-22-310, Notice of Information on NIMH Policy Updates for Career Development Programs (K awards)",
   "release_date": "2026-05-19",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-035.html",
-  "issuing_orgs": ["National Institute of Mental Health"],
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
   "key_dates": [
     {
       "label": "Release Date",
@@ -13,8 +15,24 @@
       "type": "release"
     }
   ],
-  "related": ["NOT-MH-22-310"],
+  "related": [
+    "NOT-MH-22-310"
+  ],
   "raw_html_hash": "1abdbaabbfdc3a3d1c8b55d1c716f7902a4cfaa20ad0e9bf5542613fc4e3102b",
-  "extracted_at": "2026-05-22T19:35:53Z",
-  "extractor_version": "0.1.0"
+  "extracted_at": "2026-05-22T19:50:53Z",
+  "extractor_version": "0.1.0",
+  "purpose_tldr": "Rescinds NOT-MH-22-310, NIMH's prior Notice of Information on policy updates for Career Development (K) award programs. The rescission is effective immediately; the 2022 policy guidance no longer applies.",
+  "eligibility_tldr": "Affects K-award applicants and current K awardees at NIMH who were relying on the rescinded policy. Refer to general NIH K-award guidance and any successor NIMH notices for current policy.",
+  "budget": {
+    "direct_cost_cap": null,
+    "total_cost_cap": null,
+    "project_period_max": null
+  },
+  "mechanisms": ["K01", "K08", "K23", "K99"],
+  "career_stages": ["early_career", "trainee"],
+  "topics": ["mental_health", "training_and_career"],
+  "dos": ["Stop citing or relying on NOT-MH-22-310 in proposals and progress reports", "Check the NIMH Office of Research Training and Career Development page for current guidance", "Notify mentors and grants administration if NOT-MH-22-310 was referenced in pending applications"],
+  "donts": ["Do not assume the rescinded guidance still applies even for in-flight applications", "Do not delay updating any institutional documents that quote NOT-MH-22-310"],
+  "strategic_priorities": [],
+  "llm_model": "claude-via-claude-code"
 }

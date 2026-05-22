@@ -5,7 +5,10 @@
   "title": "Notice of NIDCR Pre-Application Webinar and FAQs for Community-Based Participatory Research Initiative (PAR-27-015 and RFA-DE-27-001)",
   "release_date": "2026-05-19",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DE-26-014.html",
-  "issuing_orgs": ["National Institute of Dental and Craniofacial Research", "Office of AIDS Research"],
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research",
+    "Office of AIDS Research"
+  ],
   "key_dates": [
     {
       "label": "Release Date",
@@ -15,6 +18,20 @@
   ],
   "related": [],
   "raw_html_hash": "bc24d7d4c0ad78161efa5df1bca89a283e7308e93822cea81f8e6ee93e090644",
-  "extracted_at": "2026-05-22T19:35:53Z",
-  "extractor_version": "0.1.0"
+  "extracted_at": "2026-05-22T19:50:52Z",
+  "extractor_version": "0.1.0",
+  "purpose_tldr": "NIDCR announces a pre-application informational webinar on Wednesday June 24, 2026 (2-3 PM ET) for two upcoming oral-health NOFOs: PAR-27-015 (Community-Based Participatory Research, UG3/UH3) and RFA-DE-27-001 (CEED Hub, U01). FAQs and slides will be posted before and after the webinar.",
+  "eligibility_tldr": "This is an announcement, not a funding opportunity itself. Anyone planning to apply to PAR-27-015 or RFA-DE-27-001 is invited; pre-registration is required and webinar attendance is optional.",
+  "budget": {
+    "direct_cost_cap": null,
+    "total_cost_cap": null,
+    "project_period_max": null
+  },
+  "mechanisms": ["UG3", "UH3", "U01"],
+  "career_stages": ["any"],
+  "topics": ["health_disparities", "implementation_science", "behavioral_intervention"],
+  "dos": ["Pre-register for the June 24, 2026 webinar via the NIDCR registration link", "Submit questions at least 5 business days in advance to the program contact", "Read the FAQs before the webinar and check back for updates", "Watch for the recorded slides and recording posted 7-10 business days after"],
+  "donts": ["Do not assume the webinar substitutes for reading the NOFOs themselves", "Do not skip pre-registration; it is required even though attendance is optional"],
+  "strategic_priorities": ["Community-based participatory research in oral health"],
+  "llm_model": "claude-via-claude-code"
 }
