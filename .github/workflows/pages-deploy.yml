@@ -30,6 +30,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Stage data file for OJS
+        run: |
+          if [ -f data/notices.json ]; then
+            cp data/notices.json site/notices.json
+          else
+            echo "[]" > site/notices.json
+          fi
       - name: Render Quarto site
         run: quarto render site/
       - uses: actions/configure-pages@v5

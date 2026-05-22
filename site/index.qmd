@@ -3,19 +3,47 @@ title: "This week"
 subtitle: "NIH funding notices, decompressed."
 ---
 
-::: {.callout-note}
-**Status: scaffolding.** The pipeline is not wired up yet. This page will list the current week's NIH notices, ranked by your saved profile, once M1–M3 land.
-:::
+```{ojs}
+//| echo: false
+notices = {
+  try {
+    return await FileAttachment("notices.json").json();
+  } catch (e) {
+    return [];
+  }
+}
 
-## What this is
+thisWeek = {
+  if (!notices.length) return [];
+  // Sort by release_date desc, take the most recent 7-day slice.
+  const sorted = [...notices].sort((a, b) => d3.descending(a.release_date, b.release_date));
+  const newest = new Date(sorted[0].release_date);
+  const cutoff = new Date(newest); cutoff.setDate(cutoff.getDate() - 7);
+  return sorted.filter(n => new Date(n.release_date) >= cutoff);
+}
+```
 
-Grant Radar reads every NIH Guide notice each week, extracts the parts that matter (purpose, eligibility, budget, key dates, do's and don'ts), and presents them so a researcher can scan a week's notices in minutes instead of hours.
+```{ojs}
+//| echo: false
+html`<p><strong>${thisWeek.length}</strong> notice${thisWeek.length === 1 ? "" : "s"} this week.
+${notices.length === 0 ? html`<em>Data pipeline has not yet been run — see <a href="about.html">About</a>.</em>` : ""}</p>`
+```
 
-## What to expect here
-
-- A ranked list of this week's notices, with TL;DR cards.
-- Filter by IC, mechanism, topic, and career stage.
-- Click through to a full structured view of any notice.
-- Save a profile (in your browser, no account) so the feed re-ranks for you.
-
-See [About](about.qmd) for methodology and limitations.
+```{ojs}
+//| echo: false
+html`<div>${thisWeek.map(n => html`
+  <div style="border-left:4px solid #3b82f6;padding:0.5em 1em;margin:1em 0;background:#f8fafc;">
+    <div style="font-size:0.85em;color:#64748b;">
+      ${n.notice_id} · ${n.notice_type} · ${(n.issuing_orgs || []).join(", ")}
+    </div>
+    <div style="font-weight:600;margin:0.3em 0;">
+      <a href="${n.url}" target="_blank" rel="noreferrer">${n.title}</a>
+    </div>
+    ${n.purpose_tldr ? html`<div style="margin:0.3em 0;">${n.purpose_tldr}</div>` : ""}
+    <div style="font-size:0.85em;color:#475569;">
+      Released ${n.release_date}
+      ${(n.mechanisms || []).length ? " · " + n.mechanisms.join(", ") : ""}
+      ${(n.topics || []).length ? " · " + n.topics.join(", ") : ""}
+    </div>
+  </div>`)}</div>`
+```

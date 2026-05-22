@@ -23,5 +23,9 @@ site/.quarto/
 # Built site (CI writes this; local dev should not commit)
 docs/
 
+# Data copy that pages-deploy stages into site/
+site/notices.json
+site/notices.parquet
+
 # Secrets
 .env

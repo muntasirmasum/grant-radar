@@ -10,7 +10,8 @@
 #'
 #' @param data_dir Project data directory. Defaults to `"data"`.
 #' @param out_path Where to write the parquet roll-up. Defaults to
-#'   `data/notices.parquet` under `data_dir`.
+#'   `data/notices.parquet` under `data_dir`. A companion `notices.json`
+#'   is written alongside for direct browser consumption.
 #' @return Invisibly returns the tibble that was written.
 #' @export
 rollup_notices <- function(data_dir = "data",
@@ -36,7 +37,9 @@ rollup_notices <- function(data_dir = "data",
   rows <- purrr::map(paths, .flatten_notice)
   df <- purrr::list_rbind(rows)
   arrow::write_parquet(df, out_path)
-  cli::cli_inform("Wrote {nrow(df)} notice{?s} to {.path {out_path}}.")
+  json_path <- fs::path_ext_set(out_path, "json")
+  jsonlite::write_json(df, json_path, auto_unbox = TRUE, null = "null", na = "null")
+  cli::cli_inform("Wrote {nrow(df)} notice{?s} to {.path {out_path}} (+ {.path {fs::path_file(json_path)}}).")
   invisible(df)
 }
 
