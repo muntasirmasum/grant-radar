@@ -2,6 +2,8 @@
 
 export(refresh_week)
 export(rollup_notices)
+export(notices_needing_llm)
+export(apply_llm_fields)
 export(nih_source)
 export(parse_weekly_index)
 export(extract_rules_nih)

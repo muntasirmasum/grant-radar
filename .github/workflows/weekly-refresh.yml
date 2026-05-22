@@ -1,5 +1,10 @@
 name: weekly-refresh
 
+# Rule-only refresh: no API key needed. Free-text fields (purpose_tldr,
+# eligibility_tldr, do's/don'ts, topic tags) are filled in by the human
+# running the /refresh-tldrs slash command in Claude Code, which uses the
+# Pro/Max subscription rather than the paid API.
+
 on:
   schedule:
     # Sunday 23:00 UTC = Sunday 19:00 ET (EDT) / 18:00 ET (EST)
@@ -16,17 +21,22 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
       - uses: r-lib/actions/setup-r-dependencies@v2
-      - name: Run weekly refresh
+      - name: Run rule-only refresh and rollup
         run: |
-          Rscript -e 'source("R/pipeline.R"); refresh_week(week_ending = Sys.getenv("WEEK_ENDING"))'
+          Rscript -e '
+            devtools::load_all()
+            refresh_week(
+              week_ending = Sys.getenv("WEEK_ENDING"),
+              run_llm     = FALSE
+            )
+            rollup_notices()
+          '
         env:
           WEEK_ENDING: ${{ github.event.inputs.week_ending }}
       - name: Commit refreshed data
@@ -35,7 +45,7 @@ jobs:
           git config user.email "bot@grant-radar.local"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "chore(data): weekly refresh $(date -u +%Y-%m-%d)"
+            git commit -m "chore(data): rule-only refresh $(date -u +%Y-%m-%d)"
             git push
           else
             echo "No data changes."

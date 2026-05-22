@@ -26,7 +26,7 @@ NIH weekly index → fetcher → raw HTML cache
                         Quarto + Observable JS site → GitHub Pages
 ```
 
-The pipeline runs every Sunday evening (19:00 ET) via GitHub Actions, so the rebuilt site is live by Sunday night / Monday morning.
+The pipeline runs every Sunday evening (19:00 ET) via GitHub Actions and does the rule-only extraction (notice IDs, titles, dates, ICs, key dates, related announcements). The site is rebuilt and deployed automatically. Free-text fields (TL;DRs, do's and don'ts, topic tags) are filled in by running the `/refresh-tldrs` slash command in Claude Code, which uses your existing subscription rather than a paid API key.
 
 ## Local development
 
@@ -53,8 +53,13 @@ cp data/notices.json site/notices.json
 quarto render site/
 ```
 
-For a full refresh with LLM summaries, set `ANTHROPIC_API_KEY` in `.Renviron`
-and run `refresh_week()` (omit `run_llm = FALSE`).
+For LLM enrichment after a refresh: open this directory in Claude Code and
+run `/refresh-tldrs`. It walks every notice with a missing `purpose_tldr`,
+extracts the free-text fields, and writes them back. No API key needed.
+
+(The `R/extract_llm.R` path is still in the codebase for users who'd
+rather pay the API; pass `run_llm = TRUE` to `refresh_week()` and set
+`ANTHROPIC_API_KEY`.)
 
 ## License
 
