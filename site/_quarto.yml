@@ -22,8 +22,6 @@ website:
     right:
       - href: about.qmd
         text: About
-      - icon: github
-        href: https://github.com/muntasirmasum/grant-radar
 
 format:
   html:
