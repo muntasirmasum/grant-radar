@@ -1,15 +1,23 @@
-# Where we left off — 2026-05-22
+# Where we left off — 2026-05-24
 
 ## State
 
 - Site: <https://muntasirmasum.github.io/grant-radar/>
 - Repo: <https://github.com/muntasirmasum/grant-radar>
-- Last commit on `main`: dashboard visual overhaul (theme.scss + chips + value-box fix)
+- Last commit on `main`: clean academic palette + scrolling layout
 - 98 notices in `data/notices/2026/` covering Feb 6 – May 22, 2026
 - 6 of them have full LLM enrichment (`/refresh-tldrs` walked manually); the other 92 are rule-only with `TL;DR pending` placeholders
 - 61 tests passing (`devtools::test()`)
 - CI: `ci` and `pages-deploy` workflows both green on `main`
 - Cron: `weekly-refresh` scheduled for Sundays 23:00 UTC; rule-only, no API key needed
+
+## Visual design
+
+- **Palette**: clean academic neutral (OWID-inspired). Deep navy navbar (#1d3557), white body, light grey card borders (#e5e7eb), subtle shadows, blue links (#2563eb).
+- **Layout**: scrolling mode (`scrolling: true`), no fixed row heights. Page scrolls naturally, no inner scrollbars or value-box clipping.
+- **Charts**: navy (#1d3557) for topic bars, dark slate (#334155) for IC bars, blue (#2563eb) for weekly volume line/area.
+- **Font**: Inter, same sizes as before.
+- The teal/aqua palette from the responsive-dashboard reference was tried and rejected.
 
 ## To resume the project
 
@@ -42,3 +50,5 @@ In Claude Code: open this repo and run `/refresh-tldrs` to fill in TL;DRs / topi
 - The Sunday cron commits raw-only data; nothing happens to TL;DRs until you run `/refresh-tldrs` manually.
 - API path is still in the code (`run_llm = TRUE` plus `ANTHROPIC_API_KEY`) if you ever decide the manual loop isn't worth it.
 - All visual changes go through `site/theme.scss`; the index.qmd dashboard format is scoped to that one file so other pages keep their normal HTML format.
+- When previewing locally, copy `data/notices.json` to `site/notices.json` first (CI does this automatically).
+- If Quarto preview shows stale styles, clean the cache: `rm -rf site/.quarto docs/site_libs` before re-rendering.
