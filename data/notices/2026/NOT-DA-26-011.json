@@ -5,12 +5,7 @@
   "title": "Native Collective Research Effort to Enhance Wellness (N CREW) Program: Addressing Overdose, Substance Use, Mental Health, and Pain – Native Research Resource Partners",
   "release_date": "2026-05-19",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-011.html",
-  "issuing_orgs": [
-    "National Institute on Drug Abuse",
-    "National Institute of Neurological Disorders and Stroke",
-    "National Institute on Minority Health and Health Disparities",
-    "National Center for Advancing Translational Sciences"
-  ],
+  "issuing_orgs": ["National Institute on Drug Abuse", "National Institute of Neurological Disorders and Stroke", "National Institute on Minority Health and Health Disparities", "National Center for Advancing Translational Sciences"],
   "key_dates": [
     {
       "label": "Release Date",
@@ -19,21 +14,7 @@
     }
   ],
   "related": [],
-  "raw_html_hash": "e0ae5ece28da6b313d41d236454e1990393b8925627d0331cfe27180a1b52371",
-  "extracted_at": "2026-05-22T19:50:52Z",
-  "extractor_version": "0.1.0",
-  "purpose_tldr": "Announces Research Opportunity Announcement OTA-26-002, Phase II of the NIH HEAL Initiative's N CREW Program. It solicits applications from Tribes, Native Serving Organizations, and Ally Organizations to serve as Native Research Resource Partners (NRRPs) supporting community-led overdose, substance use, mental health, and pain research projects in Native communities.",
-  "eligibility_tldr": "Applicants are Tribes, Native Serving Organizations (T/NSOs), and Ally Organizations capable of acting as resource partners across the N CREW Network. NRRP roles include network coordination, training and technical assistance, supporting data initiatives, and program evaluation.",
-  "budget": {
-    "direct_cost_cap": null,
-    "total_cost_cap": null,
-    "project_period_max": null
-  },
-  "mechanisms": ["OT2"],
-  "career_stages": ["any"],
-  "topics": ["substance_use", "health_disparities", "behavioral_intervention", "infrastructure"],
-  "dos": ["Review the companion ROA OTA-26-001 to understand the linked T/NSO research projects", "Attend the informational webinars announced on the N CREW Program website", "Email scientific questions to NIDA at the address listed in the notice", "Plan partnerships across T/NSOs and Ally Organizations before the July 31, 2026 due date", "Demonstrate capacity for network coordination, training, and data-initiative support"],
-  "donts": ["Do not apply solely as an individual investigator; this calls for organizational partners", "Do not omit the N CREW Network coordination and evaluation roles from the proposal scope", "Do not assume webinar attendance is optional information; webinars often clarify scoring expectations"],
-  "strategic_priorities": ["NIH HEAL Initiative", "Native community research capacity", "Overdose and substance use prevention in Native communities"],
-  "llm_model": "claude-via-claude-code"
+  "raw_html_hash": "06aaeaf8f955911d240de5c6cc3c8d0880dab6c95204e1ac6987bf27c104a277",
+  "extracted_at": "2026-05-25T00:01:34Z",
+  "extractor_version": "0.1.0"
 }

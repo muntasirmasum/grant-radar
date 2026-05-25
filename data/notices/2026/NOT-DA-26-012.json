@@ -5,12 +5,7 @@
   "title": "Native Collective Research Effort to Enhance Wellness (N CREW) Program: Addressing Overdose, Substance Use, Mental Health, and Pain – Advancing Native Research Projects",
   "release_date": "2026-05-19",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-012.html",
-  "issuing_orgs": [
-    "National Institute on Drug Abuse",
-    "National Institute of Neurological Disorders and Stroke",
-    "National Institute on Minority Health and Health Disparities",
-    "National Center for Advancing Translational Sciences"
-  ],
+  "issuing_orgs": ["National Institute on Drug Abuse", "National Institute of Neurological Disorders and Stroke", "National Institute on Minority Health and Health Disparities", "National Center for Advancing Translational Sciences"],
   "key_dates": [
     {
       "label": "Release Date",
@@ -19,21 +14,7 @@
     }
   ],
   "related": [],
-  "raw_html_hash": "7bf171a343e98bd67133e984182996adb08a51000a3de079e4b94fb13ffebb49",
-  "extracted_at": "2026-05-22T19:50:52Z",
-  "extractor_version": "0.1.0",
-  "purpose_tldr": "Announces Research Opportunity Announcement OTA-26-001, the companion to OTA-26-002 under Phase II of the NIH HEAL Initiative's N CREW Program. It solicits Tribes and Native Serving Organizations to conduct community-led research focused on overdose, substance use (including opioids and stimulants), or pain, with optional inclusion of mental health and wellness.",
-  "eligibility_tldr": "Applicants are Tribes and Native Serving Organizations (T/NSOs) leading community-led research. Projects must explicitly center overdose, substance use, or pain and may incorporate related health and wellness outcomes for Native communities.",
-  "budget": {
-    "direct_cost_cap": null,
-    "total_cost_cap": null,
-    "project_period_max": null
-  },
-  "mechanisms": ["OT2"],
-  "career_stages": ["any"],
-  "topics": ["substance_use", "health_disparities", "behavioral_intervention", "mental_health"],
-  "dos": ["Center the research question on overdose, substance use, or pain as required by the ROA", "Plan to coordinate with Native Research Resource Partners funded under the companion OTA-26-002", "Attend informational webinars listed on the N CREW Program website", "Submit applications by the July 31, 2026 due date", "Engage community partners early to support community-led design"],
-  "donts": ["Do not propose research that omits overdose, substance use, or pain as the primary focus", "Do not treat the NRRP network as a separate effort; integrate engagement plans with it", "Do not delay outreach to community partners until after submission"],
-  "strategic_priorities": ["NIH HEAL Initiative", "Community-led research in Native communities", "Overdose, substance use, and pain reduction"],
-  "llm_model": "claude-via-claude-code"
+  "raw_html_hash": "4c08ec713f8f7cbfcf76b280bfad41a09b317a1b39551eafe8dbf1fd91d37661",
+  "extracted_at": "2026-05-25T00:01:33Z",
+  "extractor_version": "0.1.0"
 }
