@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grant Radar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div style="display:flex;align-items:center;gap:0.75rem;">
+      <button class="navbar__hamburger" id="hamburger" aria-label="Toggle sidebar">☰</button>
+      <a class="navbar__brand" href="#">Grant Radar</a>
+    </div>
+    <div class="navbar__right">
+      <input class="navbar__search" id="search" placeholder="Search notices..." autocomplete="off">
+      <button class="navbar__toggle" id="theme-toggle" aria-label="Toggle dark mode">☀️</button>
+    </div>
+  </nav>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <!-- Profile section -->
+      <div class="sidebar__section" id="profile-section">
+        <div class="sidebar__heading" id="profile-toggle">
+          My Profile <span class="arrow">▾</span>
+        </div>
+        <div id="profile-body">
+          <div class="profile-chips" id="profile-chips"></div>
+          <div id="profile-editor" style="display:none;"></div>
+        </div>
+      </div>
+
+      <!-- Filters -->
+      <div class="sidebar__section">
+        <div class="sidebar__heading">Filters</div>
+
+        <div class="filter-group">
+          <div class="filter-group__label">Institute / Center</div>
+          <div class="filter-group__trigger" data-filter="ics">All ICs <span>▾</span></div>
+          <div class="filter-group__list" id="filter-ics"></div>
+        </div>
+
+        <div class="filter-group">
+          <div class="filter-group__label">Mechanism</div>
+          <div class="filter-group__trigger" data-filter="mechanisms">All mechanisms <span>▾</span></div>
+          <div class="filter-group__list" id="filter-mechanisms"></div>
+        </div>
+
+        <div class="filter-group">
+          <div class="filter-group__label">Topic</div>
+          <div class="filter-group__trigger" data-filter="topics">All topics <span>▾</span></div>
+          <div class="filter-group__list" id="filter-topics"></div>
+        </div>
+
+        <div class="filter-group">
+          <div class="filter-group__label">Date Range</div>
+          <div class="filter-group__trigger" data-filter="dateRange">Last 30 days <span>▾</span></div>
+          <div class="filter-group__list" id="filter-dateRange"></div>
+        </div>
+      </div>
+
+      <!-- Saved filter + clear -->
+      <div class="sidebar__section">
+        <label class="filter-group__item" style="margin-bottom:0.5rem;">
+          <input type="checkbox" id="saved-only"> Saved notices only
+        </label>
+        <button class="sidebar__clear" id="clear-filters">Clear all filters</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="main__heading">
+        <span id="feed-heading">Last 30 days</span>
+        <span class="main__heading-meta" id="feed-meta"></span>
+      </div>
+      <div id="feed"></div>
+
+      <div class="charts-heading">Trends</div>
+      <div class="charts-row">
+        <div class="chart-card">
+          <div class="chart-card__title">Top Topics</div>
+          <div id="chart-topics"></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card__title">Most Active ICs</div>
+          <div id="chart-ics"></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card__title">Weekly Volume</div>
+          <div id="chart-volume"></div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
