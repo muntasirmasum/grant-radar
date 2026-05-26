@@ -105,6 +105,22 @@ body {
   font-size: 1.4rem;
   cursor: pointer;
 }
+.navbar__links {
+  display: flex;
+  gap: 1rem;
+  margin-left: 1.5rem;
+}
+.navbar__link {
+  color: var(--navbar-text);
+  text-decoration: none;
+  font-size: 0.82rem;
+  opacity: 0.75;
+}
+.navbar__link:hover { opacity: 1; }
+
+@media (max-width: 767px) {
+  .navbar__links { display: none; }
+}
 
 .layout {
   display: flex;

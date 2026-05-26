@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Grant Radar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div style="display:flex;align-items:center;gap:0.75rem;">
+      <a class="navbar__brand" href="index.html">Grant Radar</a>
+      <div class="navbar__links">
+        <a href="browse.html" class="navbar__link">Browse</a>
+        <a href="about.html" class="navbar__link" style="opacity:1;">About</a>
+      </div>
+    </div>
+    <div class="navbar__right">
+      <button class="navbar__toggle" id="theme-toggle" aria-label="Toggle dark mode">☀️</button>
+    </div>
+  </nav>
+  <div style="max-width:720px;margin:2rem auto;padding:0 1.5rem;">
+    <h1 style="font-size:1.4rem;color:var(--text);margin-bottom:1rem;">About Grant Radar</h1>
+    <div style="font-size:0.9rem;line-height:1.7;color:var(--text-secondary);">
+      <h2 style="font-size:1.1rem;color:var(--text);margin:1.5rem 0 0.5rem;">What Grant Radar does</h2>
+      <p>Grant Radar fetches the NIH Guide for Grants and Contracts weekly index every Sunday evening, downloads each notice, and runs a hybrid extractor that combines deterministic rule-based parsing of the consistent header fields (notice ID, release date, issuing IC, related announcements, key dates table) with a large language model (Anthropic Claude) that summarizes the free-text sections (purpose, eligibility, do's and don'ts, budget). Each notice is validated against a JSON schema and stored as a versioned record in the project's GitHub repository.</p>
+      <p style="margin-top:0.8rem;">The dashboard is a static website hosted free on GitHub Pages. There is no server, no database, and no user account system. Personal filter profiles live entirely in your browser's localStorage.</p>
+      <h2 style="font-size:1.1rem;color:var(--text);margin:1.5rem 0 0.5rem;">Sources</h2>
+      <p>The MVP covers the NIH Guide for Grants and Contracts. NSF, AHRQ, CDC, and DoD/CDMRP are planned as pluggable source modules.</p>
+      <h2 style="font-size:1.1rem;color:var(--text);margin:1.5rem 0 0.5rem;">Limitations</h2>
+      <ul style="padding-left:1.5rem;margin-top:0.3rem;">
+        <li>LLM extractions can be wrong. Always confirm against the linked original notice before drafting a proposal.</li>
+        <li>Topic tagging is approximate.</li>
+        <li>Backfill begins January 2025.</li>
+        <li>Mobile rendering of complex notices may lose information; use the link to the original NIH page for the canonical text.</li>
+      </ul>
+    </div>
+  </div>
+  <script>
+    const toggle = document.getElementById("theme-toggle");
+    if (localStorage.getItem("grant-radar.theme") === "dark") {
+      document.documentElement.setAttribute("data-theme", "dark");
+      toggle.textContent = "🌙";
+    }
+    toggle.addEventListener("click", () => {
+      const isDark = document.documentElement.getAttribute("data-theme") === "dark";
+      if (isDark) {
+        document.documentElement.removeAttribute("data-theme");
+        localStorage.setItem("grant-radar.theme", "light");
+        toggle.textContent = "☀️";
+      } else {
+        document.documentElement.setAttribute("data-theme", "dark");
+        localStorage.setItem("grant-radar.theme", "dark");
+        toggle.textContent = "🌙";
+      }
+    });
+  </script>
+</body>
+</html>
