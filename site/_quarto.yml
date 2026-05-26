@@ -11,23 +11,17 @@ website:
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Dashboard
       - href: browse.qmd
         text: Browse
       - href: calendar.qmd
         text: Calendar
-      - href: profile.qmd
-        text: My profile
     right:
       - href: about.qmd
         text: About
 
 format:
   html:
-    theme:
-      - cosmo
-      - theme.scss
+    theme: cosmo
     toc: true
     grid:
       body-width: 1200px
