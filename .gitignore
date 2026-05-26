@@ -29,3 +29,4 @@ site/notices.parquet
 
 # Secrets
 .env
+.superpowers/
