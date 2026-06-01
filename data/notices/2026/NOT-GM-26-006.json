@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-GM-26-006",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Informational Webinar on the NIGMS Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators (ESI) (R35)",
+  "release_date": "2026-05-29",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-006.html",
+  "issuing_orgs": ["National Institute of General Medical Sciences"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-05-29",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "7f4215878aef6c8f522bd14e0a1a0fb31a67a699d363808d2a91163e5467380c",
+  "extracted_at": "2026-06-01T00:07:44Z",
+  "extractor_version": "0.1.0"
+}

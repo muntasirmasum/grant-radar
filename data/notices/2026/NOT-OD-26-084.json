@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-OD-26-084",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Reminder – Definition of Foreign Components",
+  "release_date": "2026-05-27",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-084.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-05-27",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "77c2db6a2d089d18e6f1a085125d070100828ba9bd1f89bcc52205952c6a707f",
+  "extracted_at": "2026-06-01T00:07:44Z",
+  "extractor_version": "0.1.0"
+}

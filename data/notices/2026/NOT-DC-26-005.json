@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-DC-26-005",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "NIDCD Fellowship & Loan Repayment Program Pre-Application Information Sessions",
+  "release_date": "2026-05-26",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-005.html",
+  "issuing_orgs": ["National Institute on Deafness and Other Communication Disorders"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-05-26",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "adaf0aaba4e0552270c9c21ebadf8d4c3e5ce9cd20489b46c483277eaebe66c3",
+  "extracted_at": "2026-06-01T00:07:44Z",
+  "extractor_version": "0.1.0"
+}
