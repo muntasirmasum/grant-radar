@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-MD-26-002",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration of PAR-25-377 \"Unveiling Health and Healthcare Disparities in Non-Communicable and Chronic Diseases in Latin America: Setting the Stage for Better Health Outcomes Across the Hemisphere (R01 - Clinical Trials Not Allowed)\"",
+  "release_date": "2026-06-03",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MD-26-002.html",
+  "issuing_orgs": ["National Institute on Minority Health and Health Disparities"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-06-03",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "68573d898e88aead74ab50cce1c110c50a53d7322452db54a3dae8de9da80b31",
+  "extracted_at": "2026-06-08T00:10:40Z",
+  "extractor_version": "0.1.0"
+}

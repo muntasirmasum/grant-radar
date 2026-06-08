@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-TR-26-009",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Extension for RFA-TR-25-002 \"Preclinical Proof of Concept Studies for Rare Diseases (R21 Clinical Trial Not Allowed)\"",
+  "release_date": "2026-06-05",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-009.html",
+  "issuing_orgs": ["National Center for Advancing Translational Sciences"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-06-05",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "58f973ecb470886f2f0bd6d53db8e7cfaeceb3949a03e1e48fd74fab365c4d22",
+  "extracted_at": "2026-06-08T00:10:40Z",
+  "extractor_version": "0.1.0"
+}
