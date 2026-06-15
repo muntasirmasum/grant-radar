@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-NS-26-002",
+  "source": "nih",
+  "notice_type": "change",
+  "title": "Notice of Change: Early Expiration of NINDS Ruth L. Kirschstein National Research Service Award (NRSA) for Training of Postdoctoral Fellows (F32 Clinical Trial Not Allowed)",
+  "release_date": "2026-06-10",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-002.html",
+  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-06-10",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "ab792f7dad6cc7380e835b2154c0830a5b5dd9fb4b2397a305c9e4d03b35d88f",
+  "extracted_at": "2026-06-15T00:11:53Z",
+  "extractor_version": "0.1.0"
+}

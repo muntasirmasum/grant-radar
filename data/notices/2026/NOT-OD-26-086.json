@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-OD-26-086",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Request for Information: Proposal to Cap the Number of Simultaneous Research Project Grants per Principal Investigator to Support More Researchers and Maximize Scientific Productivity and Innovation",
+  "release_date": "2026-06-08",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-086.html",
+  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-06-08",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-08-03",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "16dd93a03208035132750373a7a176534c7c66c8df090735d794517852eca5ac",
+  "extracted_at": "2026-06-15T00:11:52Z",
+  "extractor_version": "0.1.0"
+}
