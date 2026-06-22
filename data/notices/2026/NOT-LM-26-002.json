@@ -1,0 +1,25 @@
+{
+  "notice_id": "NOT-LM-26-002",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Request for Information (RFI): Future Direction of the NLM G13 Grants for Scholarly Works in Biomedicine and Health Program",
+  "release_date": "2026-06-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-LM-26-002.html",
+  "issuing_orgs": ["National Library of Medicine"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-06-18",
+      "type": "release"
+    },
+    {
+      "label": "Response Date",
+      "date": "2026-08-18",
+      "type": "other"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "8a7619feeb05f4d23a32855f3140d357a27da24b0b5593cd15d19d38b50e405d",
+  "extracted_at": "2026-06-22T00:13:39Z",
+  "extractor_version": "0.1.0"
+}

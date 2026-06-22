@@ -1,0 +1,20 @@
+{
+  "notice_id": "NOT-DC-26-007",
+  "source": "nih",
+  "notice_type": "guide_notice",
+  "title": "Notice of Early Expiration of PAR-25-318 \"Advancing HIV/AIDS Research within the Mission of the NIDCD (R21 Clinical Trial Optional)\"",
+  "release_date": "2026-06-18",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-007.html",
+  "issuing_orgs": ["National Institute on Deafness and Other Communication Disorders", "Office of AIDS Research"],
+  "key_dates": [
+    {
+      "label": "Release Date",
+      "date": "2026-06-18",
+      "type": "release"
+    }
+  ],
+  "related": [],
+  "raw_html_hash": "f8f520fa39e47aa2b19e1ca0d60920258c174b891526dad9d12d838e3291dcac",
+  "extracted_at": "2026-06-22T00:13:40Z",
+  "extractor_version": "0.1.0"
+}
