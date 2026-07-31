@@ -992,7 +992,6 @@ def build_site_payload(items, generated_at, today):
             out = {k: v for k, v in item.items() if k != "synopsis"}
             out["synopsis_truncated"] = out.get("synopsis_truncated") or _truncate(item.get("synopsis"))
             keep.append(out)
-    keep.sort(key=lambda i: (i.get("release_date") or "", ""), reverse=True)
     keep.sort(key=lambda i: i["notice_id"])
     keep.sort(key=lambda i: i.get("release_date") or "", reverse=True)
     return {"generated_at": generated_at, "items": keep}
@@ -1028,7 +1027,7 @@ def build_rss(items, generated_at):
     return "\n".join(lines) + "\n"
 ```
 
-Note the triple sort in `build_site_payload` is deliberate and stable: final order is release_date desc, then notice_id asc within a date (Python sorts are stable, so sort by the tiebreaker first).
+Note the two stable sorts in `build_site_payload`: sorting by the tiebreaker (`notice_id`) first, then by `release_date` descending, yields release-date-desc order with deterministic notice-id ordering within a date.
 
 - [ ] **Step 4: Run tests to verify they pass**
 
@@ -1784,7 +1783,7 @@ git commit -m "feat(site): design-system stylesheet and shared UI helpers"
   - `daysUntil(iso, todayIso) -> number` (can be negative)
   - `dueInfo(item, todayIso) -> {date, days, label} | null` (earliest future among due_dates then expiration; label "Next due" for receipt dates, "Closes" for expiration)
   - `matchReasons(item, profile) -> string[]`
-  - `chipCounts(items, profile, savedSet, todayIso) -> object`
+  - `chipCounts(items, profile, savedSet) -> object`
   - `applyChip(items, chip, profile, savedSet) -> items`
   - `searchFilter(items, query) -> items`
   - `closingSoon(items, profile, todayIso, n=5) -> items sorted by days`
@@ -2020,7 +2019,7 @@ git commit -m "feat(site): pure frontend logic with node tests"
 
 **Interfaces:**
 - Consumes: `logic.js` (Task 10), `ui.js` (Task 9), staged `site/notices.json`.
-- Produces: `cards.js` exports `renderCard(item, ctx) -> string` and `renderSoonRow(item, due) -> string` where `ctx = {profile, savedSet, todayIso, expanded:Set}`; Tasks 12 reuses `renderSoonRow`.
+- Produces: `cards.js` exports `renderCard(item, ctx) -> string`, `renderSoonRow(item, due) -> string`, and `soonRowInner(item, due) -> string` (row content without the wrapper div), where `ctx = {profile, savedSet, todayIso, expanded:Set}`; Task 12 reuses `soonRowInner`.
 
 - [ ] **Step 1: Write `site/index.html`**
 
@@ -2156,14 +2155,16 @@ export function renderCard(item, ctx) {
   </article>`;
 }
 
-export function renderSoonRow(item, due) {
+export function soonRowInner(item, due) {
   const mid = due.days > 30 ? " days--mid" : "";
   const org = item.primary_ic || (item.issuing_orgs || [])[0] || "NIH";
-  return `<div class="soon-row">
-    <div class="days${mid}">${due.days}<small>DAYS</small></div>
+  return `<div class="days${mid}">${due.days}<small>DAYS</small></div>
     <div><div class="soon-title"><a href="${esc(item.url)}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
-    <div class="soon-meta">${esc(item.doctype)} · ${esc(org)} · ${esc(due.label.toLowerCase())} ${esc(fmtDate(due.date))}</div></div>
-  </div>`;
+    <div class="soon-meta">${esc(item.doctype || "Notice")} · ${esc(org)} · ${esc(due.label.toLowerCase())} ${esc(fmtDate(due.date))}</div></div>`;
+}
+
+export function renderSoonRow(item, due) {
+  return `<div class="soon-row">${soonRowInner(item, due)}</div>`;
 }
 ```
 
@@ -2377,7 +2378,7 @@ git commit -m "feat(site): editorial digest homepage with closing-soon, chips, p
 - Create: `site/calendar.html`, `site/js/calendar.js`
 
 **Interfaces:**
-- Consumes: `logic.js`, `ui.js`, `cards.js#renderSoonRow`.
+- Consumes: `logic.js`, `ui.js`, `cards.js#soonRowInner`.
 - Produces: nothing consumed later.
 
 - [ ] **Step 1: Write `site/calendar.html`**
@@ -2442,7 +2443,7 @@ git commit -m "feat(site): editorial digest homepage with closing-soon, chips, p
 ```javascript
 import { initTheme } from "./ui.js";
 import { DEFAULT_PROFILE, dueInfo, matchReasons } from "./logic.js";
-import { renderSoonRow } from "./cards.js";
+import { soonRowInner } from "./cards.js";
 
 const PROFILE_KEY = "grant-radar.profile.v2";
 const MONTHS = ["January","February","March","April","May","June",
@@ -2469,7 +2470,7 @@ function render() {
   document.getElementById("calendar").innerHTML = [...byMonth.entries()].map(([ym, rows]) => {
     const [y, m] = ym.split("-").map(Number);
     return `<h2 class="cal-month">${MONTHS[m - 1]} ${y}</h2>` +
-      rows.map((x) => `<div class="cal-row">${renderSoonRow(x.item, x.due).replace(/^<div class="soon-row">|<\/div>$/g, "")}</div>`).join("");
+      rows.map((x) => `<div class="cal-row">${soonRowInner(x.item, x.due)}</div>`).join("");
   }).join("") || `<p class="load-note">No upcoming deadlines in this view.</p>`;
 }
 
@@ -3010,33 +3011,26 @@ python -m pytest pipeline/tests && node --test tests/js/
    per-item permalinks.
 ```
 
-- [ ] **Step 5: Commit and push everything**
+- [ ] **Step 5: Commit everything (branch only — no push, no CI dispatch)**
 
 ```bash
 git add -A
 git commit -m "feat: first API refresh + README/NEXT for the revision"
-git push
 ```
 
-- [ ] **Step 6: Verify CI end-to-end**
+The branch is merged by the controller via finishing-a-development-branch; CI verification happens post-merge (below), because dispatching `weekly-refresh` before the merge would run the old R workflow still on `main`.
+
+- [ ] **Step 6 (controller, post-merge): Verify CI end-to-end**
+
+After the branch lands on `main` and is pushed:
 
 ```bash
-gh run watch --repo muntasirmasum/grant-radar --exit-status || gh run list --repo muntasirmasum/grant-radar --limit 5
+gh run list --repo muntasirmasum/grant-radar --limit 5
 gh workflow run weekly-refresh --repo muntasirmasum/grant-radar
 sleep 90 && gh run list --repo muntasirmasum/grant-radar --workflow weekly-refresh --limit 1
 ```
 
 Expected: `ci` green (pytest + node), the manually dispatched `weekly-refresh` green in ~1 minute, `pages-deploy` green after it. Then open <https://muntasirmasum.github.io/grant-radar/> and confirm the live site matches local.
-
-- [ ] **Step 7: Done marker**
-
-Update the checkboxes in this plan file, commit:
-
-```bash
-git add docs/superpowers/plans/2026-07-31-grant-radar-revision.md
-git commit -m "docs: mark revision plan executed"
-git push
-```
 
 ---
 
