@@ -1,54 +1,57 @@
-# Where we left off — 2026-05-24
+# Where we left off — 2026-05-26
 
 ## State
 
 - Site: <https://muntasirmasum.github.io/grant-radar/>
 - Repo: <https://github.com/muntasirmasum/grant-radar>
-- Last commit on `main`: clean academic palette + scrolling layout
+- Last commit on `main`: HTML dashboard rewrite (7 commits pushed)
 - 98 notices in `data/notices/2026/` covering Feb 6 – May 22, 2026
-- 6 of them have full LLM enrichment (`/refresh-tldrs` walked manually); the other 92 are rule-only with `TL;DR pending` placeholders
-- 61 tests passing (`devtools::test()`)
-- CI: `ci` and `pages-deploy` workflows both green on `main`
-- Cron: `weekly-refresh` scheduled for Sundays 23:00 UTC; rule-only, no API key needed
+- 6 of them have full LLM enrichment; the other 92 show "TL;DR pending"
+- CI: `pages-deploy` now deploys `site/` directly (no Quarto render)
+- Cron: `weekly-refresh` still scheduled for Sundays 23:00 UTC
+
+## What changed this session
+
+- **Replaced Quarto dashboard with vanilla HTML/CSS/JS** (Paper Warm palette)
+- New files: `site/index.html`, `site/style.css`, `site/app.js`, `site/charts.js`, `site/about.html`
+- Deleted: `site/index.qmd`, `site/profile.qmd`, `site/theme.scss`, `site/about.qmd`
+- CI updated: no Quarto setup/render, deploys `site/` as static files
+- Design spec: `docs/superpowers/specs/2026-05-25-html-dashboard-rewrite-design.md`
+- Implementation plan: `docs/superpowers/plans/2026-05-25-html-dashboard-rewrite.md`
+
+## New features in the HTML dashboard
+
+- **Sidebar filters**: IC, mechanism, topic, date range (multi-select checklists, AND across categories, OR within)
+- **Profile in sidebar**: collapsible section, saves to localStorage, ranks notices by match score
+- **Dark mode**: toggle in navbar, persisted to localStorage
+- **Card actions**: expand (shows dos/donts/key dates), save for later (heart icon, localStorage)
+- **Full-text search**: debounced 200ms, filters feed and charts in real time
+- **Charts**: Observable Plot (CDN), three charts respond to all filters
 
 ## Visual design
 
-- **Palette**: clean academic neutral (OWID-inspired). Deep navy navbar (#1d3557), white body, light grey card borders (#e5e7eb), subtle shadows, blue links (#2563eb).
-- **Layout**: scrolling mode (`scrolling: true`), no fixed row heights. Page scrolls naturally, no inner scrollbars or value-box clipping.
-- **Charts**: navy (#1d3557) for topic bars, dark slate (#334155) for IC bars, blue (#2563eb) for weekly volume line/area.
-- **Font**: Inter, same sizes as before.
-- The teal/aqua palette from the responsive-dashboard reference was tried and rejected.
+- **Palette**: Paper Warm (parchment #f5f0e8 background, dark brown #2c2416 navbar, warm tan #ebe5da sidebar, off-white #faf8f5 cards)
+- **Dark mode**: charcoal body #1a1510, lighter cards #252015
+- **Font**: Inter (same as before)
+- **Responsive**: sidebar collapses behind hamburger on mobile (<768px)
 
 ## To resume the project
 
 ```sh
 cd ~/projects/grant-radar
 git pull
-Rscript -e 'devtools::load_all(); print(notices_needing_llm())'   # see what's queued
+cp data/notices.json site/notices.json
+cd site && python3 -m http.server 8080
+# open http://localhost:8080
 ```
 
-In Claude Code: open this repo and run `/refresh-tldrs` to fill in TL;DRs / topics / dos / donts on the remaining 92 notices.
+In Claude Code: run `/refresh-tldrs` to fill in TL;DRs on the remaining 92 notices.
 
 ## Open items, ranked
 
-1. **Run `/refresh-tldrs` on the backlog** — biggest remaining value-add. ~92 notices, ~5-10 min of Claude Code time.
-2. **Visual / UX polish** (deferred per your call):
-   - Sidebar with persistent filters (IC / mechanism / topic / date range) driving every panel
-   - KPI sparkline strip (last-8-week trend in each value box)
-   - Treemap or sunburst of notices by IC
-   - Dark-mode toggle
-   - Card actions (hover, expand, "save for later" in localStorage)
-3. **Extend backfill** to all of 2025: `backfill_range("2025-01-03", "2026-02-06")` — ~3k more notices, ~30 min runtime, paced 1 s/week.
-4. **M6 — additional sources**:
-   - NSF (different feed and schema)
-   - AHRQ, CDC, DoD/CDMRP
-   - Each is one new file under `R/source_<name>.R` implementing `list_week()` and `fetch_notice()` against the `Source` S7 interface.
-5. **Schema / extractor improvements** as new edge cases surface (e.g., the empty `Release Date` on NOT-OD-26-076 is already handled; expect more like this).
-
-## Things to remember
-
-- The Sunday cron commits raw-only data; nothing happens to TL;DRs until you run `/refresh-tldrs` manually.
-- API path is still in the code (`run_llm = TRUE` plus `ANTHROPIC_API_KEY`) if you ever decide the manual loop isn't worth it.
-- All visual changes go through `site/theme.scss`; the index.qmd dashboard format is scoped to that one file so other pages keep their normal HTML format.
-- When previewing locally, copy `data/notices.json` to `site/notices.json` first (CI does this automatically).
-- If Quarto preview shows stale styles, clean the cache: `rm -rf site/.quarto docs/site_libs` before re-rendering.
+1. **Run `/refresh-tldrs` on the backlog** — biggest remaining value-add. ~92 notices need LLM enrichment.
+2. **Test the deployed site** — verify GitHub Pages deploy worked after the CI change.
+3. **Convert remaining Quarto pages** — `browse.qmd` and `calendar.qmd` still exist as Quarto files but are not rendered by CI. Convert to static HTML or remove.
+4. **Visual polish** — KPI sparklines, treemap/sunburst, card hover animations.
+5. **Extend backfill** to all of 2025: `backfill_range("2025-01-03", "2026-02-06")`.
+6. **Additional sources** — NSF, AHRQ, CDC, DoD/CDMRP.
