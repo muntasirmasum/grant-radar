@@ -85,3 +85,19 @@ def test_validate_rejects_bad_items():
         validate_item({**ok, "title": ""})
     with pytest.raises(ValueError, match="notice_id"):
         validate_item({k: v for k, v in ok.items() if k != "notice_id"})
+
+
+def test_validate_rejects_none_url():
+    ok, _ = merge_item(None, incoming(), NOW)
+    with pytest.raises(ValueError, match="NOT-AA-26-012"):
+        validate_item({**ok, "url": None})
+
+
+def test_new_item_stores_explicit_null_fields():
+    merged, _ = merge_item(None, incoming(), NOW)
+    assert "open_date" in merged
+    assert merged["open_date"] is None
+    assert "clinical_trials" in merged
+    merged2, changed = merge_item(merged, incoming(), "2026-08-07T12:00:00Z")
+    assert changed is False
+    assert dumps_item(merged2) == dumps_item(merged)

@@ -23,8 +23,10 @@ def merge_item(existing, incoming, now_iso):
                 merged[key] = value
                 changed = True
             continue
-        if value is None and key in merged:
-            continue  # never erase with None
+        if value is None:
+            if existing is None and key not in merged:
+                merged[key] = None
+            continue  # never erases an existing value, never flips `changed`
         if merged.get(key) != value:
             merged[key] = value
             changed = True
@@ -46,7 +48,7 @@ def validate_item(item):
         fail("notice_id is required")
     if not (item.get("title") or "").strip():
         fail("title is empty")
-    if not item.get("url", "").startswith("https://"):
+    if not (item.get("url") or "").startswith("https://"):
         fail("url must be https")
     for key in ("release_date", "open_date", "expiration_date", "next_due_date"):
         v = item.get(key)
