@@ -94,8 +94,11 @@ def run(root, session, today, days=14, emit_only=False):
                 if detail:
                     merged, changed2 = merge_item(merged, {**incoming, **detail}, now_iso)
                     changed = changed or changed2
-            merged = _seed_topics(merged, topics_map)
-            merged = _backfill_primary_ic(merged, institutes)
+            enriched = _backfill_primary_ic(_seed_topics(dict(merged), topics_map), institutes)
+            if enriched != merged:
+                merged = enriched
+                merged["updated_at"] = now_iso
+                changed = True
 
             if changed or old is None:
                 to_write[docnum] = merged
@@ -111,6 +114,7 @@ def run(root, session, today, days=14, emit_only=False):
             if nid not in to_write:
                 fixed = _backfill_primary_ic(dict(item), institutes)
                 if fixed != item:
+                    fixed["updated_at"] = now_iso
                     to_write[nid] = fixed
                     merged_all[nid] = fixed
 
@@ -123,6 +127,9 @@ def run(root, session, today, days=14, emit_only=False):
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(dumps_item(item))
         stats["written"] += 1
+        old_path = existing.get(nid, (None, None))[1]
+        if old_path and old_path.resolve() != path.resolve():
+            old_path.unlink()
 
     for nid, html in html_cache.items():
         item = merged_all[nid]
