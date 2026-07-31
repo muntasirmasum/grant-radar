@@ -11,6 +11,7 @@ TIMEOUT = 30
 
 _TAG = _re.compile(r"<[^>]+>")
 _WS = _re.compile(r"\s+")
+_SPACE_PUNCT = _re.compile(r"\s+([.,:;!?)])")
 
 
 def _strip_html(text):
@@ -19,8 +20,8 @@ def _strip_html(text):
     text = _TAG.sub(" ", text)
     text = _html.unescape(text)
     text = _WS.sub(" ", text).strip()
-    # Remove spaces before punctuation
-    text = _re.sub(r'\s+([.,:;!?\'\")])', r'\1', text)
+    # Remove spaces before closing punctuation only
+    text = _SPACE_PUNCT.sub(r'\1', text)
     return text or None
 
 

@@ -54,3 +54,8 @@ def test_fetch_detail_ignores_wrong_number_hits():
 
 def test_strip_html():
     assert _strip_html("<p>a &amp; b<br>c</p>") == "a & b c"
+
+
+def test_strip_html_preserves_opening_quotes():
+    # Regression test: opening quotes should keep their preceding space
+    assert _strip_html('He explained the term <i>"population health"</i>.') == 'He explained the term "population health".'
