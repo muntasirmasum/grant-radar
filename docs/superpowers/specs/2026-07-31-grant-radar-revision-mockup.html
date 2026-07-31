@@ -1,0 +1,202 @@
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  #grpage{
+    --bg:#f5f6f8; --surface:#ffffff; --ink:#1f2d3a; --body:#3b4651;
+    --muted:#5a6571; --muted2:#74808b; --border:#e7eaee; --hair:#eef0f3;
+    --accent:#46166b; --accent-text:#46166b; --accent-tint:#f1ecf7; --accent-underline:#dccfe8;
+    --gold:#c2a23a; --gold-tint:#fbf3e0; --gold-text:#a07d12; --btnborder:#cfd6dd;
+    --shadow:rgba(31,45,58,.09);
+  }
+  #grpage.gr-dark{
+    --bg:#141118; --surface:#1f1b27; --ink:#f4f2f8; --body:#cdc9d6;
+    --muted:#aaa6b5; --muted2:#928da0; --border:#332e3e; --hair:#28232f;
+    --accent:#7a4fb0; --accent-text:#cbb1e8; --accent-tint:#2a2138; --accent-underline:#4a3b60;
+    --gold:#c2a23a; --gold-tint:#332b16; --gold-text:#d8b84e; --btnborder:#4a4456;
+    --shadow:rgba(0,0,0,.4);
+  }
+  #grpage{background:var(--bg);border:1px solid var(--border);border-radius:12px;overflow:hidden;
+    font-family:'IBM Plex Sans',system-ui,sans-serif;color:var(--body);text-align:left;
+    transition:background .25s ease}
+  .gv-nav{position:relative;display:flex;align-items:center;justify-content:space-between;gap:12px;
+    padding:13px 26px;background:color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--border);flex-wrap:wrap}
+  .gv-brand{font:600 19px 'Newsreader',Georgia,serif;color:var(--ink);letter-spacing:-.2px;display:flex;align-items:center;gap:7px}
+  .gv-ping{width:9px;height:9px;border-radius:50%;background:var(--accent);position:relative;flex:none}
+  .gv-ping::after{content:'';position:absolute;inset:-4px;border-radius:50%;border:1.5px solid var(--accent);opacity:.45}
+  .gv-links{display:flex;gap:17px;align-items:center;font:500 13px 'IBM Plex Sans',sans-serif;color:var(--muted)}
+  .gv-links .on{color:var(--accent-text);font-weight:600}
+  .gv-tools{display:flex;align-items:center;gap:12px}
+  .gv-search{display:flex;align-items:center;gap:6px;border:1px solid var(--btnborder);border-radius:8px;
+    padding:5px 11px;font:400 12px 'IBM Plex Sans',sans-serif;color:var(--muted2);background:var(--surface)}
+  .gv-toggle{cursor:pointer;border:1px solid var(--btnborder);background:var(--surface);color:var(--body);
+    border-radius:8px;width:30px;height:30px;font-size:14px;line-height:1}
+  .gv-home{font:600 12.5px 'IBM Plex Sans',sans-serif;color:var(--accent-text);text-decoration:none}
+  .gv-wrap{max-width:790px;margin:0 auto;padding:34px 26px 30px}
+  .gv-eyebrow{font:600 11px 'IBM Plex Sans',sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent-text)}
+  .gv-h1{font:600 34px 'Newsreader',Georgia,serif;color:var(--ink);margin:6px 0 0;letter-spacing:-.4px}
+  .gv-lead{font:400 14px/1.6 'IBM Plex Sans',sans-serif;color:var(--muted2);margin:8px 0 0}
+  /* closing soon */
+  .gv-soon{margin-top:22px;background:var(--accent-tint);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
+  .gv-soon-label{font:600 10.5px 'IBM Plex Sans',sans-serif;letter-spacing:.11em;text-transform:uppercase;color:var(--accent-text);margin-bottom:9px;display:flex;justify-content:space-between;align-items:center}
+  .gv-soon-label a{font:600 11px 'IBM Plex Sans',sans-serif;letter-spacing:0;text-transform:none;color:var(--accent-text)}
+  .gv-soon-row{display:flex;align-items:center;gap:11px;padding:7px 0;border-top:1px solid var(--accent-underline)}
+  .gv-soon-row:first-of-type{border-top:0}
+  .gv-days{flex:none;min-width:52px;text-align:center;background:var(--accent);color:#fff;border-radius:7px;padding:4px 6px;font:700 11px/1.15 'IBM Plex Sans',sans-serif}
+  .gv-days small{display:block;font:600 8px 'IBM Plex Sans',sans-serif;opacity:.8;letter-spacing:.05em}
+  .gv-days.mid{background:var(--surface);color:var(--accent-text);border:1px solid var(--accent)}
+  .gv-soon-title{font:600 13.5px/1.3 'Newsreader',Georgia,serif;color:var(--ink)}
+  .gv-soon-meta{font:400 11px 'IBM Plex Sans',sans-serif;color:var(--muted2);margin-top:1px}
+  /* chips */
+  .gv-chips{display:flex;gap:7px;flex-wrap:wrap;margin:22px 0 4px}
+  .gv-chip{border:1px solid var(--border);background:var(--surface);color:var(--muted);border-radius:999px;padding:6px 13px;font:600 12px 'IBM Plex Sans',sans-serif;cursor:pointer}
+  .gv-chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .gv-chip .n{opacity:.65;font-weight:500;margin-left:3px}
+  /* week divider */
+  .gv-week{display:flex;align-items:center;gap:12px;margin:24px 0 12px}
+  .gv-week span{font:600 13px 'Newsreader',Georgia,serif;color:var(--muted);font-style:italic}
+  .gv-week::after{content:'';flex:1;height:1px;background:var(--hair)}
+  /* cards */
+  .gv-card{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:12px;padding:18px 20px;margin-bottom:11px;transition:box-shadow .18s ease,transform .18s ease}
+  .gv-card:hover{box-shadow:0 10px 28px var(--shadow);transform:translateY(-2px)}
+  .gv-card.gold{border-left-color:var(--gold)}
+  .gv-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font:600 10.5px 'IBM Plex Sans',sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-text)}
+  .gv-card.gold .gv-meta{color:var(--gold-text)}
+  .gv-meta .id{color:var(--muted2);letter-spacing:.04em;font-weight:500}
+  .gv-title{font:600 19px/1.32 'Newsreader',Georgia,serif;color:var(--ink);margin:7px 0 0}
+  .gv-tldr{position:relative;font:400 13.5px/1.6 'IBM Plex Sans',sans-serif;color:var(--body);margin:9px 0 0;padding-left:10px;border-left:2px solid var(--accent-underline)}
+  .gv-tldr b{font-weight:600;color:var(--accent-text);font-size:10px;letter-spacing:.08em;text-transform:uppercase;margin-right:5px}
+  .gv-syn{font:400 13.5px/1.6 'IBM Plex Sans',sans-serif;color:var(--muted);margin:9px 0 0}
+  .gv-syn b{font-weight:600;color:var(--muted2);font-size:10px;letter-spacing:.08em;text-transform:uppercase;margin-right:5px}
+  .gv-pillrow{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:11px}
+  .gv-due{display:inline-flex;align-items:center;gap:5px;background:var(--gold-tint);color:var(--gold-text);border-radius:7px;padding:3px 9px;font:700 11px 'IBM Plex Sans',sans-serif}
+  .gv-due.hot{background:var(--accent);color:#fff}
+  .gv-pill{background:var(--accent-tint);color:var(--accent-text);border-radius:999px;padding:3px 10px;font:600 11px 'IBM Plex Sans',sans-serif}
+  .gv-cash{background:var(--gold-tint);color:var(--gold-text);border-radius:999px;padding:3px 10px;font:600 11px 'IBM Plex Sans',sans-serif}
+  .gv-actions{margin-left:auto;display:flex;gap:10px;align-items:center;color:var(--muted2);font:600 12px 'IBM Plex Sans',sans-serif}
+  .gv-actions span{cursor:pointer}
+  .gv-actions .sv{color:var(--accent-text)}
+  .gv-foryou{display:flex;align-items:center;gap:6px;margin-top:10px;font:600 11px 'IBM Plex Sans',sans-serif;color:var(--accent-text)}
+  .gv-foryou i{width:6px;height:6px;border-radius:50%;background:var(--accent);flex:none}
+  .gv-foryou em{font-style:normal;font-weight:400;color:var(--muted2)}
+  /* expanded detail */
+  .gv-detail{margin-top:13px;border-top:1px solid var(--hair);padding-top:12px;display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .gv-detail h6{font:600 10px 'IBM Plex Sans',sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--muted2);margin:0 0 6px}
+  .gv-detail ul{margin:0;padding-left:15px;font:400 12.5px/1.55 'IBM Plex Sans',sans-serif;color:var(--body)}
+  .gv-detail .do li::marker{color:#3a8a5f}
+  .gv-detail .dont li::marker{color:#b04a4a}
+  /* compact gold card */
+  .gv-card.compact{padding:13px 20px}
+  .gv-card.compact .gv-title{font-size:15.5px;margin-top:4px}
+  /* footer */
+  .gv-foot{border-top:1px solid var(--border);background:var(--surface);padding:16px 26px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font:400 12px 'IBM Plex Sans',sans-serif;color:var(--muted2)}
+  .gv-foot a{color:var(--accent-text);text-decoration:none}
+  .gv-note{margin:14px 0 0;font:400 12.5px/1.5 'IBM Plex Sans',sans-serif;color:var(--muted2)}
+</style>
+
+<h2>The visual language, at full fidelity</h2>
+<p class="subtitle">Your site's design system applied to the digest: Newsreader titles, IBM Plex Sans body, purple for funding, gold for admin/policy, white cards that lift on hover. <strong>Click the ☾ button in the mockup's navbar to preview dark mode.</strong> The three cards demonstrate the three content states: LLM-enriched → API synopsis only → bare notice.</p>
+
+<div id="grpage">
+  <div class="gv-nav">
+    <span class="gv-brand"><span class="gv-ping"></span>Grant Radar</span>
+    <span class="gv-links"><span class="on">This week</span><span>Calendar</span><span>Trends</span><span>About</span></span>
+    <span class="gv-tools">
+      <span class="gv-search">⌕ Search notices…</span>
+      <button class="gv-toggle" onclick="document.getElementById('grpage').classList.toggle('gr-dark')" title="Toggle dark mode">☾</button>
+      <span class="gv-home">muntasirmasum.com ↗</span>
+    </span>
+  </div>
+
+  <div class="gv-wrap">
+    <div class="gv-eyebrow">NIH Guide · Week of July 27, 2026</div>
+    <div class="gv-h1">This week in NIH funding</div>
+    <div class="gv-lead">14 new items · 6 match your profile · refreshed Sunday 11:04 PM</div>
+
+    <div class="gv-soon">
+      <div class="gv-soon-label"><span>⏳ Closing soon — matches your profile</span><a>Full calendar →</a></div>
+      <div class="gv-soon-row">
+        <div class="gv-days">12<small>DAYS</small></div>
+        <div><div class="gv-soon-title">Secondary Analyses of Existing Datasets in Aging (R03)</div>
+        <div class="gv-soon-meta">PAR · NIA · due Aug 12, 2026</div></div>
+      </div>
+      <div class="gv-soon-row">
+        <div class="gv-days mid">38<small>DAYS</small></div>
+        <div><div class="gv-soon-title">Alcohol Health Services Research (R01)</div>
+        <div class="gv-soon-meta">PA · NIAAA · due Sep 7, 2026</div></div>
+      </div>
+    </div>
+
+    <div class="gv-chips">
+      <span class="gv-chip on">All <span class="n">14</span></span>
+      <span class="gv-chip">For you <span class="n">6</span></span>
+      <span class="gv-chip">Opportunities <span class="n">8</span></span>
+      <span class="gv-chip">NOSIs <span class="n">3</span></span>
+      <span class="gv-chip">Career K/F <span class="n">2</span></span>
+      <span class="gv-chip">Policy <span class="n">3</span></span>
+      <span class="gv-chip">♡ Saved</span>
+    </div>
+
+    <div class="gv-week"><span>Week of July 27</span></div>
+
+    <!-- STATE 1: fully enriched -->
+    <div class="gv-card">
+      <div class="gv-meta">NOSI · NIA &amp; NIAAA <span class="id">NOT-AA-26-012</span></div>
+      <div class="gv-title">Alcohol Use Among Older Adults: Epidemiology, Trajectories, and Health Outcomes</div>
+      <p class="gv-tldr"><b>TL;DR</b>Invites R01/R21 applications on drinking patterns and mortality risk in adults 50+. Secondary analyses of existing cohorts (HRS, Add Health) explicitly welcome; population-level and disparities framings prioritized.</p>
+      <div class="gv-foryou"><i></i>For you <em>· matches NIA · alcohol · aging · R21</em></div>
+      <div class="gv-detail">
+        <div class="do"><h6>Do</h6><ul><li>Anchor aims in trajectories, not single timepoints</li><li>Cite the 2026 NIA–NIAAA joint priorities</li></ul></div>
+        <div class="dont"><h6>Don't</h6><ul><li>Propose primary data collection under R21 scope</li><li>Treat abstainers as a homogeneous reference group</li></ul></div>
+      </div>
+      <div class="gv-pillrow">
+        <span class="gv-due">Closes Nov 16, 2026</span>
+        <span class="gv-pill">R01</span><span class="gv-pill">R21</span><span class="gv-pill">aging</span><span class="gv-pill">alcohol</span>
+        <span class="gv-actions"><span class="sv">♥ saved</span><span>Collapse ▴</span><span>NIH ↗</span></span>
+      </div>
+    </div>
+
+    <!-- STATE 2: API synopsis only (no LLM yet) -->
+    <div class="gv-card">
+      <div class="gv-meta">PAR · NIA <span class="id">PAR-26-118</span></div>
+      <div class="gv-title">Mentored Research Scientist Development Award (K01) in Aging Research</div>
+      <p class="gv-syn"><b>Synopsis</b>The purpose of the NIA K01 is to provide support and protected time to early-stage investigators for an intensive, supervised career development experience in aging research, including the epidemiology and demography of…</p>
+      <div class="gv-pillrow">
+        <span class="gv-due hot">Next due Oct 12, 2026</span>
+        <span class="gv-cash">≤ $150k/yr</span>
+        <span class="gv-pill">K01</span><span class="gv-pill">career</span>
+        <span class="gv-actions"><span>♡</span><span>Details ▾</span><span>NIH ↗</span></span>
+      </div>
+    </div>
+
+    <!-- STATE 3: bare notice, gold/compact -->
+    <div class="gv-card gold compact">
+      <div class="gv-meta">Policy · NIH OD <span class="id">NOT-OD-26-104</span></div>
+      <div class="gv-title">Updated Application Forms (FORMS-J) Required for Due Dates on or after January 25, 2027</div>
+    </div>
+
+    <div class="gv-week"><span>Week of July 20</span></div>
+
+    <div class="gv-card compact">
+      <div class="gv-meta">RFA · NIMHD <span class="id">RFA-MD-26-007</span></div>
+      <div class="gv-title">Structural Racism and Health: Mechanisms and Multilevel Interventions (R01)</div>
+      <div class="gv-pillrow"><span class="gv-due">Closes Jan 8, 2027</span><span class="gv-pill">R01</span><span class="gv-actions"><span>♡</span><span>Details ▾</span></span></div>
+    </div>
+
+    <p class="gv-note">… earlier weeks load as you scroll …</p>
+  </div>
+
+  <div class="gv-foot">
+    <span><b style="font-family:'Newsreader',Georgia,serif;color:var(--ink)">Grant Radar</b> · by <a>Muntasir Masum</a></span>
+    <span>Data: NIH Guide &amp; Grants.gov · refreshed weekly · <a>RSS</a> · <a>GitHub</a></span>
+  </div>
+</div>
+
+<div class="section" style="margin-top:22px">
+  <h3>Details worth confirming</h3>
+  <ul style="line-height:1.7">
+    <li><strong>Brand mark:</strong> "Grant Radar" in Newsreader with a small purple radar-ping dot. It reads as a sibling of your site without pretending to be a page of it; the navbar links back to muntasirmasum.com.</li>
+    <li><strong>Three content states:</strong> enriched cards get a purple-edged <em>TL;DR</em> block (+ do/don't when expanded); un-enriched FOAs show the Grants.gov <em>Synopsis</em> in quieter grey — honest, but never an empty "pending" apology; bare notices stay compact with no body text at all.</li>
+    <li><strong>Urgency encoding:</strong> due dates within ~30 days get the solid purple chip; further out, gold-tint. Policy/admin items get gold left-edges and never show deadline chips.</li>
+    <li><strong>"For you" line:</strong> match reasons in words on the card, no percentage scores anywhere.</li>
+  </ul>
+</div>

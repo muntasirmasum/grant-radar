@@ -20,8 +20,9 @@ site/_site/
 site/_freeze/
 site/.quarto/
 
-# Built site (CI writes this; local dev should not commit)
-docs/
+# Stale Quarto-built site (pre-May 2026 Pages setup; scheduled for deletion)
+docs/*
+!docs/superpowers/
 
 # Data copy that pages-deploy stages into site/
 site/notices.json
