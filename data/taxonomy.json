@@ -1,0 +1,123 @@
+{
+  "institutes": {
+    "CSR": "Center for Scientific Review",
+    "FIC": "Fogarty International Center",
+    "NCATS": "National Center for Advancing Translational Sciences",
+    "NCCIH": "National Center for Complementary and Integrative Health",
+    "NCI": "National Cancer Institute",
+    "NEI": "National Eye Institute",
+    "NHGRI": "National Human Genome Research Institute",
+    "NHLBI": "National Heart, Lung, and Blood Institute",
+    "NIA": "National Institute on Aging",
+    "NIAAA": "National Institute on Alcohol Abuse and Alcoholism",
+    "NIAID": "National Institute of Allergy and Infectious Diseases",
+    "NIAMS": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+    "NIBIB": "National Institute of Biomedical Imaging and Bioengineering",
+    "NICHD": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+    "NIDA": "National Institute on Drug Abuse",
+    "NIDCD": "National Institute on Deafness and Other Communication Disorders",
+    "NIDCR": "National Institute of Dental and Craniofacial Research",
+    "NIDDK": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "NIEHS": "National Institute of Environmental Health Sciences",
+    "NIGMS": "National Institute of General Medical Sciences",
+    "NIH": "National Institutes of Health",
+    "NIMH": "National Institute of Mental Health",
+    "NIMHD": "National Institute on Minority Health and Health Disparities",
+    "NINDS": "National Institute of Neurological Disorders and Stroke",
+    "NINR": "National Institute of Nursing Research",
+    "NLM": "National Library of Medicine",
+    "OD": "Office of the Director"
+  },
+  "topics": {
+    "aging": [
+      "aging",
+      "geriatric",
+      "dementia",
+      "alzheimer"
+    ],
+    "behavioral_intervention": [
+      "behavioral intervention",
+      "psychosocial",
+      "prevention"
+    ],
+    "cancer": [
+      "cancer",
+      "oncology",
+      "tumor",
+      "neoplasm"
+    ],
+    "cardiovascular": [
+      "cardiovascular",
+      "heart disease",
+      "stroke"
+    ],
+    "clinical_trials": [
+      "clinical trial",
+      "RCT",
+      "randomized"
+    ],
+    "data_science_ai": [
+      "machine learning",
+      "artificial intelligence",
+      "deep learning",
+      "data science"
+    ],
+    "epidemiology": [
+      "epidemiology",
+      "observational",
+      "cohort"
+    ],
+    "health_disparities": [
+      "health disparities",
+      "equity",
+      "structural racism",
+      "social determinants"
+    ],
+    "implementation_science": [
+      "implementation",
+      "dissemination",
+      "T4 research"
+    ],
+    "infectious_disease": [
+      "infectious disease",
+      "HIV",
+      "tuberculosis",
+      "vaccine"
+    ],
+    "infrastructure": [
+      "infrastructure",
+      "core facility",
+      "data resource",
+      "biobank"
+    ],
+    "maternal_child_health": [
+      "maternal",
+      "pediatric",
+      "child health",
+      "prenatal"
+    ],
+    "mental_health": [
+      "mental health",
+      "depression",
+      "anxiety",
+      "psychiatric"
+    ],
+    "methods_and_statistics": [
+      "methods",
+      "statistics",
+      "biostatistics",
+      "causal inference"
+    ],
+    "substance_use": [
+      "substance use",
+      "addiction",
+      "opioid",
+      "alcohol"
+    ],
+    "training_and_career": [
+      "training",
+      "career development",
+      "mentored"
+    ]
+  }
+}

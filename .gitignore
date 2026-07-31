@@ -1,33 +1,18 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-.Renviron
-*.Rproj
 .DS_Store
-
-# renv
-renv/library/
-renv/local/
-renv/cellar/
-renv/lock/
-renv/python/
-renv/staging/
-
-# Quarto
-.quarto/
-site/_site/
-site/_freeze/
-site/.quarto/
 
 # Stale Quarto-built site (pre-May 2026 Pages setup; scheduled for deletion)
 docs/*
 !docs/superpowers/
 
-# Data copy that pages-deploy stages into site/
+# Data copies that pages-deploy stages into site/
 site/notices.json
-site/notices.parquet
+site/feed.xml
 
 # Secrets
 .env
 .superpowers/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
