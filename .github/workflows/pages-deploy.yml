@@ -29,12 +29,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Stage data file
+      - name: Stage data files
         run: |
           if [ -f data/notices.json ]; then
             cp data/notices.json site/notices.json
           else
-            echo "[]" > site/notices.json
+            echo '{"generated_at":null,"items":[]}' > site/notices.json
+          fi
+          if [ -f data/feed.xml ]; then
+            cp data/feed.xml site/feed.xml
           fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
