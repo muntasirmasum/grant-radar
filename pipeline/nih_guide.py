@@ -57,3 +57,44 @@ def normalize(source: dict, institutes: dict[str, str]) -> dict:
         "url": f"https://grants.nih.gov/grants/guide/{subdir}/{filename}",
         "clinical_trials": source.get("clinicaltrials"),
     }
+
+
+import datetime as _dt
+
+TIMEOUT = 30
+MAX_PAGES = 300  # hard stop; 300*100 = 30k items > entire Guide
+
+
+def _pages(session, extra_params):
+    fetched = 0
+    for page in range(MAX_PAGES):
+        params = {"searchText": "", "from": page * PAGE_SIZE, "size": PAGE_SIZE, "sort": "reldate:desc"}
+        params.update(extra_params)
+        resp = session.get(GUIDE_API, params=params, timeout=TIMEOUT)
+        resp.raise_for_status()
+        hits = resp.json()["data"]["hits"]
+        batch = [h["_source"] for h in hits["hits"]]
+        if not batch:
+            return
+        yield from batch
+        fetched += len(batch)
+        total = hits.get("total")
+        total_n = total.get("value") if isinstance(total, dict) else total
+        if total_n is not None and fetched >= int(total_n):
+            return
+
+
+def fetch_recent(session, days=14, today=None):
+    today = today or _dt.date.today()
+    cutoff = (today - _dt.timedelta(days=days)).isoformat()
+    out = []
+    for src in _pages(session, {}):
+        rel = (src.get("reldate") or "")[:10]
+        if rel and rel < cutoff:
+            break
+        out.append(src)
+    return out
+
+
+def fetch_active(session):
+    return list(_pages(session, {"type": "active"}))
