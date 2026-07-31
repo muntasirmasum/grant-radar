@@ -60,3 +60,31 @@ def test_fetch_active_paginates_to_total():
     assert len(got) == 250
     assert sess.calls[0]["type"] == "active"
     assert len(sess.calls) == 3  # 100 + 100 + 50
+
+
+def test_fetch_recent_malformed_reldate_retained():
+    """Regression: malformed reldate (e.g. '2026') does not truncate stream."""
+    today = dt.date(2026, 7, 31)
+    sources = [
+        _src("NOT-A", "2026-07-30T08:00:00.000Z"),  # in window
+        _src("NOT-B", "2026"),  # malformed (short), should be retained
+        _src("NOT-C", "2026-07-25T08:00:00.000Z"),  # in window
+        _src("NOT-D", "2026-07-01T08:00:00.000Z"),  # outside window (stops here)
+    ]
+    got = fetch_recent(FakeSession(sources), days=14, today=today)
+    # Should keep A, B (malformed retained), C, and stop at D
+    assert [s["docnum"] for s in got] == ["NOT-A", "NOT-B", "NOT-C"]
+
+
+def test_fetch_recent_keeps_item_at_exact_cutoff_boundary():
+    """Boundary: item with reldate == cutoff day is KEPT (comparison is strict <)."""
+    today = dt.date(2026, 7, 31)
+    cutoff_day = "2026-07-17"  # today - 14 days
+    sources = [
+        _src("NOT-A", "2026-07-30T08:00:00.000Z"),  # in window
+        _src("NOT-B", f"{cutoff_day}T08:00:00.000Z"),  # exactly at cutoff, should be kept
+        _src("NOT-C", "2026-07-16T08:00:00.000Z"),  # outside window (stops here)
+    ]
+    got = fetch_recent(FakeSession(sources), days=14, today=today)
+    # Should keep A and B (at boundary), stop at C
+    assert [s["docnum"] for s in got] == ["NOT-A", "NOT-B"]

@@ -89,7 +89,7 @@ def fetch_recent(session, days=14, today=None):
     cutoff = (today - _dt.timedelta(days=days)).isoformat()
     out = []
     for src in _pages(session, {}):
-        rel = (src.get("reldate") or "")[:10]
+        rel = _iso_date(src.get("reldate"))
         if rel and rel < cutoff:
             break
         out.append(src)
