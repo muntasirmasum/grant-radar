@@ -68,3 +68,28 @@ def test_rss_caps_at_50_and_skips_prewindow():
     root = ET.fromstring(rss)
     assert len(root.findall("./channel/item")) == 50
     assert FEED_START == "2026-02-06"
+
+
+def test_rss_descriptions_from_raw_synopsis_and_rfc822_dates():
+    long = "word " * 200
+    rss = build_rss([item("NOT-1", synopsis=long)], GEN)
+    root = ET.fromstring(rss)
+    itm = root.find("./channel/item")
+    desc = itm.find("description").text
+    assert desc  # non-empty
+    assert desc.endswith("…")
+    pubdate = itm.find("pubDate").text
+    # RFC822 format contains either "GMT" or "+0000" or similar timezone notation
+    assert pubdate.endswith("+0000") or "GMT" in pubdate
+    lastbuild = root.find("./channel/lastBuildDate").text
+    assert lastbuild.endswith("+0000") or "GMT" in lastbuild
+
+
+def test_rss_tie_ordering_by_notice_id_ascending():
+    items = [item("B", release="2026-07-28"), item("A", release="2026-07-28")]
+    rss = build_rss(items, GEN)
+    root = ET.fromstring(rss)
+    rss_items = root.findall("./channel/item")
+    assert len(rss_items) == 2
+    guids = [itm.find("guid").text for itm in rss_items]
+    assert guids == ["A", "B"]

@@ -1,6 +1,8 @@
 """Build the site data payload and RSS feed."""
 from __future__ import annotations
 
+import datetime as _dt
+from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
 FEED_START = "2026-02-06"
@@ -37,6 +39,20 @@ def _in_feed_window(item):
     return (item.get("release_date") or "") >= FEED_START
 
 
+def _rfc822(value):
+    """ISO date or ISO datetime (Z) -> RFC822; '' for falsy/unparseable."""
+    if not value:
+        return ""
+    try:
+        if len(value) == 10:
+            d = _dt.datetime.strptime(value, "%Y-%m-%d")
+        else:
+            d = _dt.datetime.strptime(value, "%Y-%m-%dT%H:%M:%SZ")
+    except ValueError:
+        return ""
+    return format_datetime(d.replace(tzinfo=_dt.timezone.utc))
+
+
 def build_site_payload(items, generated_at, today):
     keep = []
     for item in items:
@@ -50,11 +66,10 @@ def build_site_payload(items, generated_at, today):
 
 
 def build_rss(items, generated_at):
-    feed_items = sorted(
-        (i for i in items if _in_feed_window(i)),
-        key=lambda i: (i.get("release_date") or "", i["notice_id"]),
-        reverse=True,
-    )[:50]
+    feed_items = [i for i in items if _in_feed_window(i)]
+    feed_items.sort(key=lambda i: i["notice_id"])
+    feed_items.sort(key=lambda i: i.get("release_date") or "", reverse=True)
+    feed_items = feed_items[:50]
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0">',
@@ -62,16 +77,16 @@ def build_rss(items, generated_at):
         "<title>Grant Radar</title>",
         f"<link>{SITE_URL}/</link>",
         "<description>NIH funding notices and opportunities, structured weekly.</description>",
-        f"<lastBuildDate>{escape(generated_at)}</lastBuildDate>",
+        f"<lastBuildDate>{_rfc822(generated_at)}</lastBuildDate>",
     ]
     for i in feed_items:
-        desc = i.get("purpose_tldr") or i.get("synopsis_truncated") or ""
+        desc = i.get("purpose_tldr") or i.get("synopsis_truncated") or _truncate(i.get("synopsis")) or ""
         lines += [
             "<item>",
             f"<title>{escape(i.get('title') or i['notice_id'])}</title>",
             f"<link>{escape(i.get('url') or SITE_URL)}</link>",
             f"<guid isPermaLink=\"false\">{escape(i['notice_id'])}</guid>",
-            f"<pubDate>{escape(i.get('release_date') or '')}</pubDate>",
+            f"<pubDate>{_rfc822(i.get('release_date'))}</pubDate>",
             f"<description>{escape(desc)}</description>",
             "</item>",
         ]
