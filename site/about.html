@@ -3,57 +3,73 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About — Grant Radar</title>
+  <title>Grant Radar — about</title>
+  <script>(function(){var t=localStorage.getItem("grant-radar.theme");
+  if(t==="dark"||(!t&&matchMedia("(prefers-color-scheme: dark)").matches))
+  document.documentElement.classList.add("dark");})()</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <nav class="navbar">
-    <div style="display:flex;align-items:center;gap:0.75rem;">
-      <a class="navbar__brand" href="index.html">Grant Radar</a>
-      <div class="navbar__links">
-        <a href="browse.html" class="navbar__link">Browse</a>
-        <a href="about.html" class="navbar__link" style="opacity:1;">About</a>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="brand" href="index.html"><span class="ping"></span>Grant Radar</a>
+      <div class="nav-links">
+        <a href="index.html">This week</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="trends.html">Trends</a>
+        <a href="about.html" class="active">About</a>
+      </div>
+      <div class="nav-tools">
+        <button class="iconbtn" id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+        <a class="home-link" href="https://muntasirmasum.com">muntasirmasum.com ↗</a>
       </div>
     </div>
-    <div class="navbar__right">
-      <button class="navbar__toggle" id="theme-toggle" aria-label="Toggle dark mode">☀️</button>
-    </div>
   </nav>
-  <div style="max-width:720px;margin:2rem auto;padding:0 1.5rem;">
-    <h1 style="font-size:1.4rem;color:var(--text);margin-bottom:1rem;">About Grant Radar</h1>
-    <div style="font-size:0.9rem;line-height:1.7;color:var(--text-secondary);">
-      <h2 style="font-size:1.1rem;color:var(--text);margin:1.5rem 0 0.5rem;">What Grant Radar does</h2>
-      <p>Grant Radar fetches the NIH Guide for Grants and Contracts weekly index every Sunday evening, downloads each notice, and runs a hybrid extractor that combines deterministic rule-based parsing of the consistent header fields (notice ID, release date, issuing IC, related announcements, key dates table) with a large language model (Anthropic Claude) that summarizes the free-text sections (purpose, eligibility, do's and don'ts, budget). Each notice is validated against a JSON schema and stored as a versioned record in the project's GitHub repository.</p>
-      <p style="margin-top:0.8rem;">The dashboard is a static website hosted free on GitHub Pages. There is no server, no database, and no user account system. Personal filter profiles live entirely in your browser's localStorage.</p>
-      <h2 style="font-size:1.1rem;color:var(--text);margin:1.5rem 0 0.5rem;">Sources</h2>
-      <p>The MVP covers the NIH Guide for Grants and Contracts. NSF, AHRQ, CDC, and DoD/CDMRP are planned as pluggable source modules.</p>
-      <h2 style="font-size:1.1rem;color:var(--text);margin:1.5rem 0 0.5rem;">Limitations</h2>
-      <ul style="padding-left:1.5rem;margin-top:0.3rem;">
-        <li>LLM extractions can be wrong. Always confirm against the linked original notice before drafting a proposal.</li>
-        <li>Topic tagging is approximate.</li>
-        <li>Backfill begins January 2025.</li>
-        <li>Mobile rendering of complex notices may lose information; use the link to the original NIH page for the canonical text.</li>
-      </ul>
+
+  <main class="wrap prose">
+    <div class="eyebrow">About</div>
+    <h1 class="h1">What Grant Radar is</h1>
+    <p>The NIH Guide publishes dozens of funding notices every week: dense, verbose, and
+    easy to miss. Grant Radar reads the stream once, structures it, and presents it in a
+    form a researcher can scan in minutes: real opportunities with deadlines up front,
+    administrative chatter demoted, and a profile filter that knows what you work on.</p>
+
+    <h2>Where the data comes from</h2>
+    <p>Every Sunday evening a GitHub Action pulls structured records from the official
+    <a href="https://grants.nih.gov/funding/searchguide/">NIH Guide search API</a> and joins
+    each funding opportunity to <a href="https://www.grants.gov">Grants.gov</a> for its
+    synopsis, award ceiling, and close date. No scraping, no keys, no server; the site you
+    are reading is static files on GitHub Pages.</p>
+
+    <h2>About the TL;DR blocks</h2>
+    <p>Cards with a purple <strong>TL;DR</strong> block have been summarized with an LLM
+    (Claude) and reviewed by me; the summaries also add do/don't lists for applicants.
+    Cards showing a grey <strong>Synopsis</strong> carry the official Grants.gov purpose
+    text verbatim. Everything else on a card — dates, institutes, activity codes — comes
+    straight from the structured sources, never from the model.</p>
+
+    <h2>Who built it</h2>
+    <p>
+    <a href="https://muntasirmasum.com">Muntasir Masum</a>. I study aging, alcohol use,
+    and mortality, and built this to stop losing Friday afternoons to the Guide. The code
+    is open at <a href="https://github.com/muntasirmasum/grant-radar">github.com/muntasirmasum/grant-radar</a>;
+    subscribe via <a href="feed.xml">RSS</a> if you want the weekly stream in your reader.</p>
+  </main>
+
+  <footer class="footer">
+    <div class="foot-inner">
+      <span><b>Grant Radar</b> · by <a href="https://muntasirmasum.com">Muntasir Masum</a></span>
+      <span>Data: NIH Guide &amp; Grants.gov · refreshed weekly · <a href="feed.xml">RSS</a> ·
+        <a href="https://github.com/muntasirmasum/grant-radar">GitHub</a></span>
     </div>
-  </div>
-  <script>
-    const toggle = document.getElementById("theme-toggle");
-    if (localStorage.getItem("grant-radar.theme") === "dark") {
-      document.documentElement.setAttribute("data-theme", "dark");
-      toggle.textContent = "🌙";
-    }
-    toggle.addEventListener("click", () => {
-      const isDark = document.documentElement.getAttribute("data-theme") === "dark";
-      if (isDark) {
-        document.documentElement.removeAttribute("data-theme");
-        localStorage.setItem("grant-radar.theme", "light");
-        toggle.textContent = "☀️";
-      } else {
-        document.documentElement.setAttribute("data-theme", "dark");
-        localStorage.setItem("grant-radar.theme", "dark");
-        toggle.textContent = "🌙";
-      }
-    });
+  </footer>
+
+  <script type="module">
+    import { initTheme } from "./js/ui.js";
+    initTheme();
   </script>
 </body>
 </html>
