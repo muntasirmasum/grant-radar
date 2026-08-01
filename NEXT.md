@@ -13,7 +13,7 @@
 
 ```sh
 cd ~/projects/grant-radar && git pull
-python -m pytest pipeline/tests && node --test tests/js/
+python -m pytest pipeline/tests && node --test tests/js/*.test.mjs
 ```
 
 ## Open items, ranked

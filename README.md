@@ -3,11 +3,13 @@
 **Live: <https://muntasirmasum.github.io/grant-radar/>**
 
 A weekly radar for NIH funding. Every Sunday a GitHub Action pulls structured
-records from the official NIH Guide search API, joins funding opportunities to
-Grants.gov for synopses, award ceilings, and close dates, and publishes a
-static editorial digest: real opportunities with deadline countdowns up front,
-policy chatter demoted, and a client-side profile that ranks what matters to
-you.
+records from the official NIH Guide search API and joins funding opportunities
+to Grants.gov for synopses, award ceilings, and close dates. For the newer
+NOFOs that NIH no longer publishes HTML pages for (about a quarter of open
+opportunities), the Grants.gov detail page also serves as the card's canonical
+link. The result is published as a static editorial digest: real opportunities
+with deadline countdowns up front, policy chatter demoted, and a client-side
+profile that ranks what matters to you.
 
 ## Architecture
 
@@ -32,7 +34,7 @@ Grants.gov  ───┘        │
 ```sh
 pip install -r pipeline/requirements.txt pytest
 python -m pytest pipeline/tests          # pipeline tests
-node --test tests/js/                    # frontend logic tests
+node --test tests/js/*.test.mjs          # frontend logic tests
 
 python -m pipeline.refresh               # real refresh (writes data/)
 cp data/notices.json data/feed.xml site/
