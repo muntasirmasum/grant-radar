@@ -166,3 +166,30 @@ def test_year_change_migrates_file_and_removes_stale_copy(tmp_path, monkeypatch)
     assert new_path.exists()
     assert json.loads(new_path.read_text())["release_date"] == "2026-01-02"
     assert not old_path.exists()
+
+
+def test_html_fetch_failure_is_non_fatal_and_counted(tmp_path, monkeypatch):
+    root = tmp_path
+    (root / "data" / "notices" / "2026").mkdir(parents=True)
+    (root / "data/taxonomy.json").write_text(json.dumps({"institutes": {}, "topics": {}}))
+
+    recent = [guide_src("NOT-AA-26-070", "2026-07-20T00:00:00.000Z"),
+              guide_src("NOT-AA-26-071", "2026-07-21T00:00:00.000Z")]
+    monkeypatch.setattr(refresh, "fetch_recent", lambda s, days, today: recent)
+    monkeypatch.setattr(refresh, "fetch_active", lambda s: [])
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: None)
+
+    def flaky_fetch_html(session, url):
+        if "NOT-AA-26-070" in url:
+            raise RuntimeError("404")  # NIH hasn't published the HTML yet
+        return "<html>ok</html>"
+
+    monkeypatch.setattr(refresh, "fetch_html", flaky_fetch_html)
+
+    stats = refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+
+    assert (root / "data/notices/2026/NOT-AA-26-070.json").exists()
+    assert (root / "data/notices/2026/NOT-AA-26-071.json").exists()
+    assert not (root / "data/raw/nih/2026/NOT-AA-26-070.html").exists()
+    assert (root / "data/raw/nih/2026/NOT-AA-26-071.html").read_text() == "<html>ok</html>"
+    assert stats["html_skipped"] == 1

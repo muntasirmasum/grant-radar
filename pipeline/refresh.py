@@ -68,7 +68,7 @@ def run(root, session, today, days=14, emit_only=False):
     institutes, topics_map = taxonomy["institutes"], taxonomy["topics"]
     now_iso = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     existing = _load_existing(root)
-    stats = {"fetched": 0, "written": 0, "unchanged": 0}
+    stats = {"fetched": 0, "written": 0, "unchanged": 0, "html_skipped": 0}
 
     merged_all: dict[str, dict] = {nid: item for nid, (item, _) in existing.items()}
     to_write: dict[str, dict] = {}
@@ -107,7 +107,10 @@ def run(root, session, today, days=14, emit_only=False):
             merged_all[docnum] = merged
 
             if docnum in recent_ids and old is None and not merged.get("purpose_tldr"):
-                html_cache[docnum] = fetch_html(session, merged["url"])
+                try:
+                    html_cache[docnum] = fetch_html(session, merged["url"])
+                except Exception:
+                    stats["html_skipped"] += 1  # page not published yet (or transient); enrichment fetches live later
 
         # legacy backfill pass for items the APIs no longer return
         for nid, item in merged_all.items():
@@ -143,7 +146,8 @@ def run(root, session, today, days=14, emit_only=False):
     (root / "data" / "feed.xml").write_text(build_rss(list(merged_all.values()), now_iso))
 
     print(f"fetched={stats['fetched']} written={stats['written']} "
-          f"unchanged={stats['unchanged']} site_items={len(payload['items'])}")
+          f"unchanged={stats['unchanged']} html_skipped={stats['html_skipped']} "
+          f"site_items={len(payload['items'])}")
     return stats
 
 
