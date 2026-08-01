@@ -64,7 +64,7 @@ b. **Extract.** Produce exactly these keys — faithful to the notice, no
 
 - `career_stages` from: trainee, early_career, midcareer, established, any.
 - `topics` from the keys of `data/taxonomy.json` `topics`; 0-4 tags.
-- For administrative notices, 1-2 dos/donts suffice.
+- For funding opportunities, aim for 3-7 concrete items per list; for administrative notices, 1-2 suffice.
 
 c. **Apply.** Edit the item JSON directly with the Edit tool: add your keys
    plus `"llm_model": "claude-via-claude-code"` and
