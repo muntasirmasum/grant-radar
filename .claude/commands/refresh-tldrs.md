@@ -1,98 +1,89 @@
 ---
-description: Fill in LLM-extracted fields (purpose, eligibility, budget, do's/don'ts, topics) for any notice that the rule-only weekly refresh left empty. Uses your Claude subscription, not the API.
+description: Fill in LLM-extracted fields (TL;DRs, do's/don'ts, topics) for items the API refresh can't summarize. Uses your Claude subscription, not the API.
 ---
 
-You are completing the LLM-extraction step of the `grant-radar` pipeline.
-The Sunday cron has already populated rule-extracted fields (notice_id,
-title, release_date, ICs, key_dates, related). Your job is to fill in
-the free-text fields the rules can't reach.
+You are completing the enrichment step of the `grant-radar` pipeline. The
+weekly refresh has already filled every structured field from the NIH Guide
+and Grants.gov APIs. Your job is the free-text fields only.
+
+# Ownership rules (do not violate)
+
+- You may write ONLY: `purpose_tldr`, `eligibility_tldr`, `budget`,
+  `mechanisms`, `career_stages`, `topics`, `dos`, `donts`,
+  `strategic_priorities`, `llm_model`, `enriched_at`.
+- Never edit pipeline-owned fields (`title`, dates, `activity_codes`,
+  `synopsis`, `award_*`, `url`, ...). The refresh will not touch your
+  fields either — that contract goes both ways.
 
 # Workflow
 
-## 1. Find the queue
+## 1. Build the queue
 
-Run this in Bash:
 ```sh
-Rscript -e 'devtools::load_all(quiet = TRUE); print(notices_needing_llm(), n = 100)'
+python3 - <<'EOF'
+import json, pathlib
+items = [json.loads(p.read_text()) for p in pathlib.Path("data/notices").glob("*/*.json")]
+queue = [i for i in items if not i.get("purpose_tldr")]
+# Priority: profile matches, then nearest due date, then newest.
+PROFILE_ICS = {"NIA", "NIAAA", "NICHD", "NIMHD"}
+def key(i):
+    matches = i.get("primary_ic") in PROFILE_ICS
+    due = i.get("next_due_date") or i.get("expiration_date") or "9999"
+    return (not matches, due, i.get("release_date") or "")
+for i in sorted(queue, key=key)[:40]:
+    year = (i.get("release_date") or "1900")[:4]
+    print(f"{i['notice_id']}\tdata/notices/{year}/{i['notice_id']}.json\t{i.get('next_due_date') or i.get('expiration_date') or '-'}")
+print(f"-- {len(queue)} total in queue")
+EOF
 ```
-This prints every notice JSON whose `purpose_tldr` is empty/null. The
-table includes `notice_id`, `json_path`, `html_path`, sorted newest first.
 
-If the table is empty, stop — nothing to do.
+If the queue is empty, stop.
 
-## 2. For each notice, in order
+## 2. For each item, in order
 
-**a. Read the HTML.** Use the Read tool on the `html_path` column.
+a. **Get the text.** Prefer `data/raw/nih/<year>/<id>.html` (Read tool). If
+   absent, fetch `url` from the item JSON (WebFetch). For opportunities the
+   item's `synopsis` field is also good input.
 
-**b. Extract the structured fields.** Output them as a JSON object with
-exactly these keys. Be faithful to the notice — do NOT invent budget
-figures, eligibility constraints, or strategic priorities. Leave numeric
-caps as `null` if the notice doesn't state them. Summaries are 2-3
-sentences, plain English, no marketing language.
+b. **Extract.** Produce exactly these keys — faithful to the notice, no
+   invented figures, `null` where unstated, summaries 2-3 plain sentences:
 
 ```json
 {
-  "purpose_tldr":     "2-3 sentence summary in plain English.",
-  "eligibility_tldr": "2-3 sentences on who can apply (institutions, PI eligibility, citizenship, career stage).",
-  "budget": {
-    "direct_cost_cap":    null,
-    "total_cost_cap":     null,
-    "project_period_max": null
-  },
-  "mechanisms":    ["R01", "R21"],
+  "purpose_tldr": "...",
+  "eligibility_tldr": "...",
+  "budget": {"direct_cost_cap": null, "total_cost_cap": null, "project_period_max": null},
+  "mechanisms": ["R01"],
   "career_stages": ["any"],
-  "topics":        ["mental_health", "training_and_career"],
-  "dos":           ["3-7 concrete things an applicant SHOULD do."],
-  "donts":         ["3-7 concrete things an applicant should NOT do."],
+  "topics": ["aging"],
+  "dos": ["..."],
+  "donts": ["..."],
   "strategic_priorities": []
 }
 ```
 
-**Constraints:**
-- `career_stages` items come from: `trainee`, `early_career`, `midcareer`, `established`, `any`.
-- `topics` items come from `data/taxonomy.yml` (topics:.name list). 0-4 tags.
-- `mechanisms` are NIH activity codes mentioned in the notice (R01, R21, K01, F31, U01, etc.); empty array if none.
-- For pure-administrative notices (rescissions, simple changes), `dos` and `donts` can be 1-2 items each.
+- `career_stages` from: trainee, early_career, midcareer, established, any.
+- `topics` from the keys of `data/taxonomy.json` `topics`; 0-4 tags.
+- For administrative notices, 1-2 dos/donts suffice.
 
-**c. Apply it.** In Bash:
+c. **Apply.** Edit the item JSON directly with the Edit tool: add your keys
+   plus `"llm_model": "claude-via-claude-code"` and
+   `"enriched_at": "<current UTC ISO>"`. Keep JSON valid, 2-space indented,
+   keys sorted (match the file's existing style).
+
+## 3. Every 10 items, checkpoint
+
 ```sh
-Rscript -e '
-  devtools::load_all(quiet = TRUE)
-  llm <- jsonlite::fromJSON("/tmp/llm-NOT-XX-XX-XXX.json", simplifyVector = FALSE)
-  apply_llm_fields("data/notices/2026/NOT-XX-XX-XXX.json", llm)
-'
-```
-(Write the JSON object you produced to `/tmp/llm-<notice_id>.json` first
-via the Write tool, then run the snippet above with the correct notice_id
-substituted.)
-
-## 3. Every 10 notices, checkpoint
-
-Run:
-```sh
-Rscript -e 'devtools::load_all(quiet = TRUE); rollup_notices()'
+python3 -m pipeline.refresh --emit-only
 git add data/
 git commit -m "data: LLM enrichment batch ($(date -u +%Y-%m-%d))"
 ```
 
-## 4. When the queue is empty
+## 4. When done
 
-Final rollup + commit + push:
 ```sh
-Rscript -e 'devtools::load_all(quiet = TRUE); rollup_notices()'
+python3 -m pipeline.refresh --emit-only
 git add data/
 git commit -m "data: LLM enrichment complete ($(date -u +%Y-%m-%d))" || true
 git push
 ```
-
-# Notes
-
-- Always validate after applying. `apply_llm_fields()` calls
-  `validate_notice()` internally and will error if the schema doesn't
-  match — that's your guardrail.
-- If a notice is too long to read in one go, focus on the first few
-  thousand characters: title, Key Dates, Purpose, Eligibility, and any
-  budget statements are usually in the first half.
-- Do NOT modify rule-extracted fields (`notice_id`, `title`,
-  `release_date`, `issuing_orgs`, `key_dates`, `related`). The merge
-  function preserves them.
