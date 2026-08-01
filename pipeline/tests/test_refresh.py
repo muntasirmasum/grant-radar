@@ -224,3 +224,111 @@ def test_grants_gov_canonical_url_when_nih_file_unlisted(tmp_path, monkeypatch):
 
     listed_on_disk = json.loads((root / "data/notices/2026/PAR-26-201.json").read_text())
     assert listed_on_disk["url"].startswith("https://grants.nih.gov/")
+
+
+def test_url_heal_is_durable_across_runs(tmp_path, monkeypatch):
+    root = tmp_path
+    (root / "data" / "notices" / "2026").mkdir(parents=True)
+    (root / "data/taxonomy.json").write_text(json.dumps({"institutes": {}, "topics": {}}))
+
+    unlisted = guide_src("PAR-26-300", "2026-07-05T00:00:00.000Z", doctype="PAR",
+                          exp="2027-01-01T00:00:00.000Z")
+    unlisted["filename"] = None
+    monkeypatch.setattr(refresh, "fetch_recent", lambda s, days, today: [])
+    monkeypatch.setattr(refresh, "fetch_active", lambda s: [unlisted])
+    monkeypatch.setattr(refresh, "fetch_html", lambda s, url: "<html></html>")
+    path = root / "data/notices/2026/PAR-26-300.json"
+
+    # Run 1: Grants.gov succeeds -> url heals.
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: {
+        "grants_gov_id": 357099, "synopsis": "S1", "award_ceiling": None,
+        "award_floor": None, "close_date": None})
+    refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+    healed = json.loads(path.read_text())
+    assert healed["url"] == "https://www.grants.gov/search-results-detail/357099"
+    healed_bytes = path.read_text()
+
+    # Run 2: Grants.gov returns an ordinary soft miss (None). The healed url must
+    # NOT latch back to the broken NIH guess, and the file must not even be rewritten.
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: None)
+    refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+    assert json.loads(path.read_text())["url"] == "https://www.grants.gov/search-results-detail/357099"
+    assert path.read_text() == healed_bytes
+
+    # Run 3: Grants.gov succeeds again. Still stable, still zero churn.
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: {
+        "grants_gov_id": 357099, "synopsis": "S1", "award_ceiling": None,
+        "award_floor": None, "close_date": None})
+    stats3 = refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+    assert stats3["written"] == 0
+    assert path.read_text() == healed_bytes
+
+
+def test_fetch_detail_failure_is_non_fatal_and_retries_next_run(tmp_path, monkeypatch):
+    root = tmp_path
+    (root / "data" / "notices" / "2026").mkdir(parents=True)
+    (root / "data/taxonomy.json").write_text(json.dumps({"institutes": {}, "topics": {}}))
+
+    failing = guide_src("PAR-26-400", "2026-07-05T00:00:00.000Z", doctype="PAR",
+                         exp="2027-01-01T00:00:00.000Z")
+    failing["filename"] = None  # NIH page unpublished; only Grants.gov can heal this one
+    ok = guide_src("PAR-26-401", "2026-07-06T00:00:00.000Z", doctype="PAR",
+                    exp="2027-01-01T00:00:00.000Z")
+
+    monkeypatch.setattr(refresh, "fetch_recent", lambda s, days, today: [])
+    monkeypatch.setattr(refresh, "fetch_active", lambda s: [failing, ok])
+    monkeypatch.setattr(refresh, "fetch_html", lambda s, url: "<html></html>")
+
+    def flaky_detail(s, docnum):
+        if docnum == "PAR-26-400":
+            raise RuntimeError("502")  # Grants.gov transient failure, not a 404
+        return {"grants_gov_id": 357555, "synopsis": "S", "award_ceiling": None,
+                "award_floor": None, "close_date": None}
+
+    monkeypatch.setattr(refresh, "fetch_detail", flaky_detail)
+
+    stats = refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+
+    assert stats["detail_failed"] == 1
+    failing_path = root / "data/notices/2026/PAR-26-400.json"
+    ok_path = root / "data/notices/2026/PAR-26-401.json"
+    assert failing_path.exists()
+    assert ok_path.exists()
+
+    failing_item = json.loads(failing_path.read_text())
+    assert failing_item["url"].startswith("https://grants.nih.gov/")
+    assert not failing_item.get("grants_gov_id")
+
+    # Next run: Grants.gov answers this time. needs_detail must still be True
+    # (grants_gov_id was never captured), so the item gets another chance and heals.
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: {
+        "grants_gov_id": 357556, "synopsis": "S2", "award_ceiling": None,
+        "award_floor": None, "close_date": None})
+    refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+    healed = json.loads(failing_path.read_text())
+    assert healed["url"] == "https://www.grants.gov/search-results-detail/357556"
+
+
+def test_two_successful_detail_runs_produce_no_churn(tmp_path, monkeypatch):
+    root = tmp_path
+    (root / "data" / "notices" / "2026").mkdir(parents=True)
+    (root / "data/taxonomy.json").write_text(json.dumps({"institutes": {}, "topics": {}}))
+
+    unlisted = guide_src("PAR-26-500", "2026-07-05T00:00:00.000Z", doctype="PAR",
+                          exp="2027-01-01T00:00:00.000Z")
+    unlisted["filename"] = None
+    monkeypatch.setattr(refresh, "fetch_recent", lambda s, days, today: [])
+    monkeypatch.setattr(refresh, "fetch_active", lambda s: [unlisted])
+    monkeypatch.setattr(refresh, "fetch_html", lambda s, url: "<html></html>")
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: {
+        "grants_gov_id": 357700, "synopsis": "S", "award_ceiling": None,
+        "award_floor": None, "close_date": None})
+
+    stats1 = refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+    assert stats1["written"] == 1
+    path = root / "data/notices/2026/PAR-26-500.json"
+    before = path.read_text()
+
+    stats2 = refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+    assert stats2["written"] == 0
+    assert path.read_text() == before

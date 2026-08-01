@@ -62,13 +62,17 @@ def _backfill_primary_ic(item, institutes):
     return item
 
 
+def _gg_url(ggid):
+    return f"https://www.grants.gov/search-results-detail/{ggid}"
+
+
 def run(root, session, today, days=14, emit_only=False):
     root = Path(root)
     taxonomy = json.loads((root / "data" / "taxonomy.json").read_text())
     institutes, topics_map = taxonomy["institutes"], taxonomy["topics"]
     now_iso = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     existing = _load_existing(root)
-    stats = {"fetched": 0, "written": 0, "unchanged": 0, "html_skipped": 0}
+    stats = {"fetched": 0, "written": 0, "unchanged": 0, "html_skipped": 0, "detail_failed": 0}
 
     merged_all: dict[str, dict] = {nid: item for nid, (item, _) in existing.items()}
     to_write: dict[str, dict] = {}
@@ -85,21 +89,30 @@ def run(root, session, today, days=14, emit_only=False):
         for docnum, source in sources.items():
             incoming = normalize(source, institutes)
             old = existing.get(docnum, (None, None))[0]
+            # Deterministic URL: once we know an item's Grants.gov id from history, keep
+            # rebuilding its url from that id every run, instead of letting normalize()'s
+            # fresh NIH guess (which never changes) win the merge and re-break a healed url.
+            known_ggid = (old or {}).get("grants_gov_id")
+            if not incoming.get("nih_file_listed") and known_ggid:
+                incoming["url"] = _gg_url(known_ggid)
 
             merged, changed = merge_item(old, incoming, now_iso)
             needs_detail = is_opportunity(merged) and (
                 changed or not merged.get("grants_gov_id"))
+            detail = None
             if needs_detail:
-                detail = fetch_detail(session, docnum)
-                if detail:
-                    patch = {**incoming, **detail}
-                    if not incoming.get("nih_file_listed") and detail.get("grants_gov_id"):
-                        # nih_file_listed is a new field: every API item is "changed" on the
-                        # next refresh, so needs_detail refires and existing bad NIH URLs
-                        # rewrite themselves to Grants.gov with no extra migration code.
-                        patch["url"] = f"https://www.grants.gov/search-results-detail/{detail['grants_gov_id']}"
-                    merged, changed2 = merge_item(merged, patch, now_iso)
-                    changed = changed or changed2
+                try:
+                    detail = fetch_detail(session, docnum)
+                except Exception:
+                    stats["detail_failed"] += 1  # best-effort; retried when item next changes or ggid still missing
+            if detail:
+                patch = {**incoming, **detail}
+                if not incoming.get("nih_file_listed") and detail.get("grants_gov_id"):
+                    # First heal only (history has no ggid yet): later runs never reach
+                    # here for this url, since known_ggid above already keeps it stable.
+                    patch["url"] = _gg_url(detail["grants_gov_id"])
+                merged, changed2 = merge_item(merged, patch, now_iso)
+                changed = changed or changed2
             enriched = _backfill_primary_ic(_seed_topics(dict(merged), topics_map), institutes)
             if enriched != merged:
                 merged = enriched
@@ -153,7 +166,7 @@ def run(root, session, today, days=14, emit_only=False):
 
     print(f"fetched={stats['fetched']} written={stats['written']} "
           f"unchanged={stats['unchanged']} html_skipped={stats['html_skipped']} "
-          f"site_items={len(payload['items'])}")
+          f"detail_failed={stats['detail_failed']} site_items={len(payload['items'])}")
     return stats
 
 
