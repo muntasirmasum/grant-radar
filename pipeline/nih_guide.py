@@ -1,16 +1,20 @@
 """Fetch and normalize items from the NIH Guide search API."""
 from __future__ import annotations
 
+import re as _re
+
 GUIDE_API = "https://search.grants.nih.gov/guide/api/data"
 GUIDE_URL_SUBDIR = {"NOT": "notice-files", "RFA": "rfa-files", "PA": "pa-files", "PAR": "pa-files", "PAS": "pa-files"}
 PAGE_SIZE = 100
+_DATE_PREFIX = _re.compile(r"^\d{4}-\d{2}-\d{2}")
 
 
 def _iso_date(value):
-    """'2026-07-28T09:00:00.000Z' -> '2026-07-28'; passes through None/''. """
-    if not value or not isinstance(value, str) or len(value) < 10:
+    """'2026-07-28T09:00:00.000Z' -> '2026-07-28'; None for absent or non-date text."""
+    if not value or not isinstance(value, str):
         return None
-    return value[:10]
+    m = _DATE_PREFIX.match(value)
+    return m.group(0) if m else None
 
 
 def _codes(ac):

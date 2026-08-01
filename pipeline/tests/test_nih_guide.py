@@ -109,3 +109,25 @@ def test_normalize_notice_asserts_none_passthrough_and_fields():
     assert item["parent_ic"] == "NIH"
     # And the title field
     assert item["title"] == "Notice of Special Interest (NOSI): Alcohol Use Among Older Adults"
+
+
+def test_normalize_freetext_appreceiptdate_without_valid_lard():
+    """Test free-text appreceiptdate (e.g. 'Multiple dates...') with no valid lard yields empty due_dates."""
+    src = load("guide_active_rfa.json")
+    src["appreceiptdate"] = "Multiple dates, see announcement."
+    src["lard"] = None
+    item = normalize(src, INSTITUTES)
+    assert item["due_dates"] == []
+    assert item["next_due_date"] is None
+
+
+def test_normalize_freetext_appreceiptdate_with_valid_lard():
+    """Test free-text appreceiptdate with valid lard yields one due_dates entry for lard only."""
+    src = load("guide_active_rfa.json")
+    src["appreceiptdate"] = "Multiple dates, see announcement."
+    src["lard"] = "2027-01-07T00:00:00.000Z"
+    item = normalize(src, INSTITUTES)
+    assert len(item["due_dates"]) == 1
+    assert item["due_dates"][0]["label"] == "Last application receipt"
+    assert item["due_dates"][0]["date"] == "2027-01-07"
+    assert item["next_due_date"] == "2027-01-07"
