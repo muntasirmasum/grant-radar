@@ -2,6 +2,8 @@
 
 const THEME_KEY = "grant-radar.theme";
 
+// Must register its click listener synchronously — trends.js relies on registration
+// order for theme-aware chart redraws.
 export function initTheme() {
   const btn = document.getElementById("theme-toggle");
   const root = document.documentElement;

@@ -49,6 +49,10 @@ async function boot() {
   try {
     const payload = await (await fetch("notices.json")).json();
     draw(payload.items || []);
+    // Registration order matters: initTheme() (called first, synchronously in boot)
+    // owns the class flip on this same button; this listener must be added after it
+    // so draw() reads post-toggle token values. If initTheme ever becomes async,
+    // switch this to observing a class change instead.
     document.getElementById("theme-toggle").addEventListener("click", () =>
       draw(payload.items || []));
   } catch {
