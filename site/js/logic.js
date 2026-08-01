@@ -71,7 +71,8 @@ export function matchReasons(item, profile) {
   const codes = new Set(codesOf(item));
   for (const c of profile.codes) if (codes.has(c)) reasons.push(c);
   const hay = haystack(item);
-  for (const kw of profile.keywords) if (hay.includes(kw.toLowerCase())) reasons.push(kw);
+  const kwPattern = (kw) => new RegExp("\\b" + kw.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b");
+  for (const kw of profile.keywords) if (kwPattern(kw).test(hay)) reasons.push(kw);
   return reasons.length >= 2 ? reasons : [];
 }
 

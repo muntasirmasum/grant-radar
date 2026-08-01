@@ -69,7 +69,7 @@ test("applyChip and searchFilter", () => {
   assert.deepEqual(applyChip(items, "policy", profile, new Set()).map(i => i.notice_id), ["NOT-OD-26-104"]);
   assert.deepEqual(applyChip(items, "career", profile, new Set()).map(i => i.notice_id), ["PAR-26-118"]);
   assert.deepEqual(applyChip(items, "saved", profile, new Set(["PAR-26-118"])).map(i => i.notice_id), ["PAR-26-118"]);
-  assert.equal(applyChip(items, "foryou", profile, new Set()).length >= 1, true);
+  assert.deepEqual(applyChip(items, "foryou", profile, new Set()).map(i => i.notice_id), ["NOT-AA-26-012", "PAR-26-118"]);
   assert.deepEqual(searchFilter(items, "forms-j").map(i => i.notice_id), ["NOT-OD-26-104"]);
   assert.equal(searchFilter(items, "").length, 3);
 });
@@ -77,4 +77,28 @@ test("applyChip and searchFilter", () => {
 test("closingSoon picks for-you items with future dates, soonest first", () => {
   const soon = closingSoon([nosi, par, policy], DEFAULT_PROFILE, TODAY, 5);
   assert.deepEqual(soon.map(i => i.notice_id), ["PAR-26-118", "NOT-AA-26-012"]);
+});
+
+test("word-boundary keyword matching prevents false positives", () => {
+  const managingTitle = {
+    notice_id: "NOT-TEST-01", doctype: "NOT",
+    title: "Managing Chronic Disease in Primary Care",
+    primary_ic: "NIA", activity_codes: [], due_dates: [],
+    synopsis_truncated: "Disease management strategies.",
+  };
+  const healthyAgingTitle = {
+    notice_id: "NOT-TEST-02", doctype: "NOT",
+    title: "Healthy Aging and Alcohol Use",
+    primary_ic: "NIA", activity_codes: [], due_dates: [],
+    synopsis_truncated: "Aging adults and alcohol consumption.",
+  };
+  const lifeCourseTitle = {
+    notice_id: "NOT-TEST-03", doctype: "NOT",
+    title: "Life Course Approaches to Mortality",
+    primary_ic: "NIA", activity_codes: [], due_dates: [],
+    synopsis_truncated: "Mortality patterns across lifespan.",
+  };
+  assert.deepEqual(matchReasons(managingTitle, DEFAULT_PROFILE), []);
+  assert.deepEqual(matchReasons(healthyAgingTitle, DEFAULT_PROFILE), ["NIA", "aging", "alcohol"]);
+  assert.deepEqual(matchReasons(lifeCourseTitle, DEFAULT_PROFILE), ["NIA", "mortality", "life course"]);
 });

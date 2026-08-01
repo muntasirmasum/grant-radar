@@ -32,7 +32,7 @@ jobs:
       - name: Run frontend logic tests
         run: |
           if ls tests/js/*.test.mjs >/dev/null 2>&1; then
-            node --test tests/js/
+            node --test tests/js/*.test.mjs
           else
             echo "No frontend tests yet."
           fi
