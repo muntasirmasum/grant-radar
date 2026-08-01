@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-19",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-20",
+  "grants_gov_id": 359123,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DE-27-001",
+  "open_date": "2026-09-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2026-04-27",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to seek applications for a Community Engagement Evaluation and Data coordination hub (CEED) for the Community-Based Participatory Research (CBPR) consortium: Advancing Data and Practice Transformation (ADAPT) for Optimizing Oral Health for All. In addition to CEED, the ADAPT consortium will include separately funded CBPR projects, which will receive consultative services from the NIH Community Engagement Alliance Consultative Resource (CEACR) and join in the Science Collaborative for Health and Artificial Intelligence Reduction of Errors (SCHARE) platform for the overarching goal of promoting data use and transformational community engagement to optimize oral health for all people. The CEED hub will coordinate communications and various activities in support of CBPR projects and consortium functions in three domains:1) Data Planning, Consultation, and Technical Assistance for Research Methodology and Analytics; 2) Community Engagement Evaluation; and 3) ADAPT Infrastructure and Operational Support.",
+  "title": "Community Engagement Evaluation and Data Coordination (CEED) Hub to Advance Data and Practice Transformation for Optimizing Oral Health for All (U01, Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DE-27-001.html"
+}

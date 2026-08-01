@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357202,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-069",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "The goal of the proposed funding announcement is twofold, to promote preclinical and patient based studies examining the mechanism(s) through which incretin mimetics (including agonists or antagonists of GLP-1, GIP-1, or dual GLP-1/GIP-1 agents) impact cancer risk, and to draw talented scientists who understand the dynamic changes caused by these agents to investigate the mechanisms of how these agents influence cancer risk rather than shorter term outcomes such as weight loss and diabetes. The data thus far suggests that these agents may increase the risk of some, while decreasing the risk of other obesity related cancers.",
+  "title": "Mechanisms that Impact Cancer Risk with Use of Incretin Mimetics (R01 Clinical Trial Optional)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-069.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 357427,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-182",
+  "open_date": "2025-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-26",
+  "source": "nih",
+  "synopsis": "Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required). As part of NIMH's clinical trials pipeline, this NOFO encourages pilot research developing and testing novel psychosocial interventions and/or targets. Consistent with NIMH's emphasis on the experimental therapeutics approach to intervention development, it intends to speed the translation of emergent research in basic, behavioral, cognitive, affect, and neuropsychological science into preventative or therapeutic interventions. This RFA will provide up to two years of support for evaluation of target engagement and establishment of intervention parameters, and up to three years of support to replicate target engagement from prior studies and to test the association between target engagement and change in clinical outcome(s).",
+  "title": "Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-182.html"
+}

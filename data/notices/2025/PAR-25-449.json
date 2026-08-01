@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-06-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-06-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-06-08",
+  "grants_gov_id": 359155,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2028-06-07",
+  "notice_id": "PAR-25-449",
+  "open_date": "2025-10-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2025-09-26",
+  "source": "nih",
+  "synopsis": "The National Center for Complementary and Integrative Health (NCCIH) announces this Notice of Funding Opportunity (NOFO) to solicit applications for research on how mind and body interventions through psychological and/or physical inputs (e.g., mindfulness meditation, yoga, acupuncture, massage, and other brain and/or body based interventions) impact mechanisms of emotional well-being (EWB) and their associations with whole person health (WPH), consistent with the NIH priority to address the health needs of the American people and improve their well-being. The NOFO will support rigorous and well-powered mechanistic research studies that are supported by strong preliminary data. The studies should examine the effects of mind and body interventions on innovative mechanisms of EWB (as the primary outcome), as well as the associated relationship with the Whole Person Health Index (WPHI, as a secondary outcome). To enhance research safety, rigor, and efficiency of NIH-funded mechanistic clinical trials, this initiative will use a two-phased award funding mechanism (R61/R33). The funding will support an initial phase (R61) to establish feasibility benchmarks for the proposed mechanistic clinical trial(s), followed by a second phase (R33) to complete the full-scale trials, which will be contingent upon successful completion of R61 milestones. Applications should provide preliminary data that are comparable in quality and quantity to those expected for an R01 proposal.",
+  "title": "Mind and Body Interventions to Restore Whole Person Health via Emotional Well-Being Mechanisms (R61/R33 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-449.html"
+}

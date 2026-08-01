@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K02"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 353756,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PA-24-178",
+  "open_date": "2024-05-13",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-26",
+  "source": "nih",
+  "synopsis": "The purpose of the NIH Independent Scientist Award (K02) is to foster the development of outstanding scientists and enable them to expand their potential to make significant contributions to their field of research. The K02 award provides three to five years of salary support and \"protected time\" for newly independent scientists who can demonstrate the need for a period of intensive research focus as a means of enhancing their research careers. Each independent scientist career award program must be tailored to meet the individual needs of the candidate.This Funding Opportunity Announcement (FOA) is designed specifically for applicants proposing to serve as the lead investigator of an independent clinical trial, a clinical trial feasibility study, or a separate ancillary clinical trial, as part of their research and career development. Applicants not planning an independent clinical trial, or proposing to gain research experience in a clinical trial led by another investigator, must apply to companion FOA",
+  "title": "Independent Scientist Award (Parent K02 - Independent Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-178.html"
+}

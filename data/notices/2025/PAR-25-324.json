@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "444"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-09-08",
+  "grants_gov_id": 358024,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-09-07",
+  "notice_id": "PAR-25-324",
+  "open_date": "2025-02-03",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2025-01-06",
+  "source": "nih",
+  "synopsis": "The National Cancer Institute (NCI) Method to Extend Research in Time (MERIT) (R37) Award provides extended grant support to Early Stage Investigators (ESIs). By providing such an opportunity for longer term support to ESIs, the NCI intends to offer flexibility and opportunity for creativity and innovation and additional time to successfully launch their careers and to become more established before having to submit renewal applications (NOT-CA-18-037). The objective of the NCI's ESI MERIT Award is to allow eligible investigators the opportunity to obtain up to 7 years of support in two segments:",
+  "title": "Method to Extend Research in Time (MERIT) Award Extension Request (Type 4 eSubmission Clinical Trial Optional)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-324.html"
+}

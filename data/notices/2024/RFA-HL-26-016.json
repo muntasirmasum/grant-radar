@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "award_ceiling": "350000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-12-23",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-12-23",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-12-24",
+  "grants_gov_id": 357330,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-12-23",
+  "notice_id": "RFA-HL-26-016",
+  "open_date": "2025-01-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-11-22",
+  "source": "nih",
+  "synopsis": "The goal of the NHLBI Catalyze Program is to provide a comprehensive suite of support and services to facilitate the transition of basic science discoveries into viable diagnostic and therapeutic candidates that have been cleared for human testing, and to develop translational researchers fluent in product development and entrepreneurship. This specific Catalyze Enabling Technologies and Transformative Platforms initiative will support needed to rigorously validate transformative, multi-use platforms or technologies that can enable. Well-suited applications must offer the potential to significantly accelerate and/or transform the areas of early detection and screening, model development, clinical diagnosis, treatment, control, behavior, prevention or epidemiology. Proposed platforms and technologies may have widespread applicability but must be able to improve the outlook for HLBS-related diseases and disorders.",
+  "title": "Catalyze: Enabling Technologies and Transformative Platforms for HLBS Research (R33 - Clinical Trials Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-016.html"
+}

@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-10-20",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-10-21",
+  "grants_gov_id": 359945,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-HD-27-007",
+  "open_date": "2026-09-21",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "synopsis": "The purpose of this Funding Opportunity is to address the needs of the maternal and pediatric HIV scientific community for research data translation and sharing.This initiative will support secondary data analyses using archived HIV/AIDS data and specimens. The goal of this initiative is to encourage the scientific community to utilize HIV/AIDS archived data sets and specimen collections to answer important questions about the epidemiology, pathogenesis, treatment, clinical manifestations, and HIV-associated co-infections and co-morbidities in maternal, pediatric and adolescent populations.",
+  "title": "Using Archived Data and Specimen Collections to Advance Maternal and Pediatric HIV/AIDS Research (R21 CT Not Allowed)",
+  "topics": [
+    "epidemiology",
+    "infectious_disease",
+    "maternal_child_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-27-007.html"
+}

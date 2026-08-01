@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 360534,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-002",
+  "open_date": "2026-06-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-06-03",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) invites grant applications proposing exploratory research projects focused on further development and technical validation of emerging technologies offering novel capabilities for the molecular or cellular characterization of cancer or for improved handling and quality control of biospecimens used for basic, clinical, or epidemiological cancer research. This NOFO solicits R33 applications where major feasibility gaps for the technology or methodology have been overcome, as demonstrated with supportive preliminary data, but still require further development and rigorous technical validation to encourage adoption by the research community. Well-suited applications must propose the development of technologies that offer the potential to accelerate and/or enhance research in the areas of cancer biology, early detection and screening, clinical diagnosis, treatment, cancer control, epidemiology. Technologies proposed for development may have potential for widespread applicability but must be focused in this proposal on cancer-relevant use cases. Projects proposing to apply or use existing technologies for hypothesis-driven research where the novelty resides in the biological or clinical target/question being pursued are not responsive to this solicitation and will not be reviewed.This funding opportunity is part of a broader NCI-sponsored Innovative Molecular Analysis Technologies (IMAT) Program.",
+  "title": "Advanced Development and Validation of Emerging Technologies for Basic and Clinical Cancer Research (R33 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-002.html"
+}

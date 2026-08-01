@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-06-02",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-06-02",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-06-03",
+  "grants_gov_id": 356927,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2027-06-02",
+  "notice_id": "PAR-25-210",
+  "open_date": "2025-05-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-10-31",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support highly innovative mechanistic research to accelerate precision probiotic interventions. Specifically, this NOFO solicits R33 applications that will characterize person-specific features affecting probiotic responses to identify subgroups of probiotic responders and to enhance probiotic clinical outcomes. The ultimate goal of this NOFO is to identify, understand, and develop strategies to address barriers in precision probiotic therapies to account for the heterogenicity in humans that causes inconsistent probiotic responses. This NOFO will support studies to assess the ability of the unique patterns of host biology (e.g., native microbiome, immune system, gender, diet, age, genetic background, lifestyle, and health history) that are correlated with probiotic usage to detect the improvement of probiotic responsiveness. Well-suited applications must offer rigorously designed mechanistic studies using relevant/innovative animal models or in human subjects. This NOFO is intended to support projects where potential host biological patterns that are correlated with probiotic usage have been identified, as demonstrated with supportive preliminary data, but require further mechanistic studies to test for their causality or predictability. Applicants pursuing early-stage research to identify host biological patterns that may affect probiotic health outcomes should consider the companion (R61/R33) NOFO PAR-AT-24-XXX (TEMP-25412).",
+  "title": "Enhancing Mechanistic Research on Precision Probiotic Therapies (R33 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-210.html"
+}

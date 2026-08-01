@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-04-20",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-04-20",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-21",
+  "grants_gov_id": 357121,
+  "issuing_orgs": [
+    "National Institute of Environmental Health Sciences"
+  ],
+  "next_due_date": "2027-04-20",
+  "notice_id": "RFA-ES-25-002",
+  "open_date": "2025-02-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NIEHS",
+  "release_date": "2024-11-14",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity Announcement (NOFO) invites grant applications for Environmental Health Sciences Core Centers (EHSCC). As intellectual hubs for environmental health science research, the EHSCC's are expected to be the thought leaders for the field and advance the goals of the 2025-2029 NIEHS Strategic Plan (http://www.niehs.nih.gov/about/strategicplan/). The Core Centers provide critical research infrastructure, shared facilities, services and/or resources, to groups of investigators conducting environmental health sciences research. An EHSCC enables researchers to conduct their independently-funded individual and/or collaborative research projects more efficiently and/or more effectively. The overall goal of an EHSCC is to identify and capitalize on emerging issues that advance improving the understanding of the relationships among environmental exposures, human biology, and disease. The EHSCC supports community engagement and translational research as key approaches to improving public health.",
+  "title": "Environmental Health Sciences Core Centers Program (P30 Clinical Trials Optional)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-25-002.html"
+}

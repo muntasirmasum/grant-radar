@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-07-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-06",
+  "grants_gov_id": 359946,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-058",
+  "open_date": "2026-09-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2026-06-16",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) will support, through the cooperative agreement mechanism, investigator-initiated observational studies or biomarker validation studies that require prospective collection of data/biospecimens or continued analysis of data/biospecimens.",
+  "title": "NIDCR Prospective Observational or Biomarker Validation Study Cooperative Agreement (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-058.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R18"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-01-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-29",
+  "grants_gov_id": 353055,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-01-28",
+  "notice_id": "RFA-NS-24-031",
+  "open_date": "2024-04-29",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-03-19",
+  "source": "nih",
+  "synopsis": "Awarded activities will facilitate the translation of novel recording and modulation technologies that can be used to treat and/or diagnose central nervous system (CNS) diseases and disorders and to better understand the human CNS, from proof of concept up to the stage of readiness for first in human (FIH) studies. Technologies may incorporate any signal modality (e.g., electrical, optical, magnetic, acoustic) or a combination thereof. Diverse team-based applications that integrate appropriate domains of expertise are encouraged.",
+  "title": "BRAIN Initiative: Preclinical Proof of Concept for Novel Recording and Modulation Technologies in the Human CNS (R18 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-24-031.html"
+}

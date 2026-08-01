@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "600000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-02-08",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-02-14",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-02-15",
+  "grants_gov_id": 360007,
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2028-02-14",
+  "notice_id": "RFA-FD-25-017",
+  "open_date": "2025-12-12",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2025-07-11",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support efficient and innovative natural history studies that advance medical product development in rare diseases/conditions with unmet needs. Through the support of natural history studies with high quality and interpretable data elements, FDA expects to address critical knowledge gaps, remove major barriers to progress in the field, exert a significant and broad impact on a specific rare disease or multiple rare diseases with similar pathophysiology, and facilitate rare disease product development.",
+  "title": "Reissue of RFA-FD-22-001 - Efficient and Innovative Natural History Studies Addressing Unmet Needs in Rare Diseases (R01 Clinical Trials Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-25-017.html"
+}

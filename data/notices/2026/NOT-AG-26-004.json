@@ -1,20 +1,27 @@
 {
-  "notice_id": "NOT-AG-26-004",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Pre-Application Technical Assistance Webinar on the NIA Expanding Research in AD/ADRD (ERA) R25 Postbaccalaureate and Summer Research Education Programs",
-  "release_date": "2026-03-05",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-004.html",
-  "issuing_orgs": ["National Institute on Aging"],
+  "extracted_at": "2026-05-22T19:38:06Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-03-05",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["RFA-AG-26-010", "RFA-AG-26-011"],
+  "notice_id": "NOT-AG-26-004",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIA",
   "raw_html_hash": "121dd72203ceb67fabe7d406e41b48621022f23d60a792e3a54381fa539c4884",
-  "extracted_at": "2026-05-22T19:38:06Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "RFA-AG-26-010",
+    "RFA-AG-26-011"
+  ],
+  "release_date": "2026-03-05",
+  "source": "nih",
+  "title": "Notice of Pre-Application Technical Assistance Webinar on the NIA Expanding Research in AD/ADRD (ERA) R25 Postbaccalaureate and Summer Research Education Programs",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-004.html"
 }

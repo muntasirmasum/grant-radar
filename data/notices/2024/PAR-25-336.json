@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-16",
+  "grants_gov_id": 357748,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-11-15",
+  "notice_id": "PAR-25-336",
+  "open_date": "2025-04-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-12-16",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), entitled \"Toward Translation of Nanotechnology Cancer Interventions\" (TTNCI), the National Cancer Institute (NCI) encourages applications for advanced pre-clinical research, supporting translation of nanotechnology-based cancer diagnostics and therapeutics. TTNCI awards are designed to mature experimental nanomedicines relying on nanoparticles and nano-devices which demonstrate strong potential to improve cancer treatment effectiveness due to the combination of nanoparticle/nano-device structural design and/or therapeutic/diagnostic cargo which is delivered. TTNCI awards are expected to enable further development of proposed nanotechnology-based interventions to the stage in which they could continue on a developmental path towards the NCI Experimental Therapeutics (NExT) and other NCI translational programs.",
+  "title": "Toward Translation of Nanotechnology Cancer Interventions (TTNCI; R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-336.html"
+}

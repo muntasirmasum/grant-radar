@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "100000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-16",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-16",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-17",
+  "grants_gov_id": 356879,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2027-11-16",
+  "notice_id": "PAR-25-122",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-10-28",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to solicit applications for pilot projects to elucidate a role for understudied proteins in rare disease. Awards will support generation of preliminary data and/or tools around eligible understudied protein(s). A list of eligible proteins is provided and are members of druggable protein families that have a known association with a rare disease. This NOFO is intended to jumpstart research on understudied proteins that are associated with rare diseases and provide applicants with sufficient funding to perform basic biochemical and/or biological work to further the characterization of understudied proteins within the context of rare disease.",
+  "title": "Pilot Projects Investigating Understudied Proteins Associated with Rare Diseases (R03 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-122.html"
+}

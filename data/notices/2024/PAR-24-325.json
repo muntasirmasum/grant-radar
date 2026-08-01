@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-09-08",
+  "grants_gov_id": 357019,
+  "issuing_orgs": [
+    "National Institute of Biomedical Imaging and Bioengineering"
+  ],
+  "next_due_date": "2027-09-07",
+  "notice_id": "PAR-24-325",
+  "open_date": "2024-12-28",
+  "parent_ic": "NIH",
+  "primary_ic": "NIBIB",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "This Funding Opportunity Announcement (FOA) solicits applications from research partnerships formed by academic and industrial investigators to accelerate the development and adoption of promising bioengineering tools and technologies that can address important biomedical problems. The objectives are to establish these tools and technologies as robust, well-characterized solutions that fulfill an unmet need and are capable of enhancing our understanding of life science processes or the practice of medicine. Awards will focus on supporting multidisciplinary teams that apply an integrative, quantitative bioengineering approach to developing technologies. The goal of the program is to support technological innovations that deliver new capabilities which can realize meaningful solutions within 5 10 years.",
+  "title": "Bioengineering Partnerships with Industry (U01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-325.html"
+}

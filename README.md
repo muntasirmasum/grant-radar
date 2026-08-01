@@ -1,65 +1,50 @@
 # grant-radar
 
-A public dashboard that ingests NIH funding notices weekly, extracts structured information with a hybrid rule + LLM pipeline, and presents them through faceted browse, a triage feed, decompressed TL;DR cards, and a forward-looking deadline calendar. Designed for pluggable sources (NSF, AHRQ, CDC, DoD/CDMRP coming after the NIH MVP is solid).
+**Live: <https://muntasirmasum.github.io/grant-radar/>**
 
-**Status:** M3 frontend wired. NIH source + hybrid extractor + roll-up + Quarto/OJS site are all in. Awaiting a first LLM-enabled refresh to populate `data/notices/`.
-
-## Why
-
-The NIH Guide for Grants and Contracts publishes dense, verbose HTML notices every week. Researchers either skim them and miss things, or read every word and lose hours. `grant-radar` does the reading and structuring once, then presents the result in a form researchers can scan in minutes.
+A weekly radar for NIH funding. Every Sunday a GitHub Action pulls structured
+records from the official NIH Guide search API, joins funding opportunities to
+Grants.gov for synopses, award ceilings, and close dates, and publishes a
+static editorial digest: real opportunities with deadline countdowns up front,
+policy chatter demoted, and a client-side profile that ranks what matters to
+you.
 
 ## Architecture
 
-See [`plan.md`](plan.md) for the full design. In brief:
-
 ```
-NIH weekly index → fetcher → raw HTML cache
-                                  ↓
-                        rule extractor (headers, dates, IDs)
-                                  ↓
-                        LLM extractor (purpose, eligibility, do's/don'ts)
-                                  ↓
-                        schema-validated JSON per notice
-                                  ↓
-                        parquet roll-up
-                                  ↓
-                        Quarto + Observable JS site → GitHub Pages
+NIH Guide API ─┐
+               ├─ pipeline/refresh.py ── data/notices/<yr>/<id>.json  (one file per item)
+Grants.gov  ───┘        │
+                        ├── data/notices.json   (site payload)
+                        └── data/feed.xml       (RSS)
+                                 │
+                    pages-deploy stages both into site/ → GitHub Pages
 ```
 
-The pipeline runs every Sunday evening (19:00 ET) via GitHub Actions and does the rule-only extraction (notice IDs, titles, dates, ICs, key dates, related announcements). The site is rebuilt and deployed automatically. Free-text fields (TL;DRs, do's and don'ts, topic tags) are filled in by running the `/refresh-tldrs` slash command in Claude Code, which uses your existing subscription rather than a paid API key.
+- **Anti-clobber contract:** the refresh only writes structured fields. LLM
+  fields (`purpose_tldr`, `dos`, `donts`, ...) are added manually by running
+  `/refresh-tldrs` in Claude Code and are never overwritten.
+- **Site:** plain HTML/CSS/JS in `site/`, no build step. Design system shared
+  with [muntasirmasum.com](https://muntasirmasum.com).
 
 ## Local development
 
-```r
-# Install dependencies
-install.packages(c("devtools","testthat","S7","rvest","httr2",
-                   "jsonlite","jsonvalidate","digest","dplyr",
-                   "stringr","tibble","purrr","cli","rlang",
-                   "arrow","ellmer","yaml","fs","readr","xml2","withr"))
-
-# Run tests
-devtools::test()
-
-# Refresh this week (rule extractor only; no API key needed)
-devtools::load_all()
-refresh_week(run_llm = FALSE)
-rollup_notices()
-```
-
-Render the site (needs `quarto`):
-
 ```sh
-cp data/notices.json site/notices.json
-quarto render site/
+pip install -r pipeline/requirements.txt pytest
+python -m pytest pipeline/tests          # pipeline tests
+node --test tests/js/                    # frontend logic tests
+
+python -m pipeline.refresh               # real refresh (writes data/)
+cp data/notices.json data/feed.xml site/
+python -m http.server 8080 --directory site
 ```
 
-For LLM enrichment after a refresh: open this directory in Claude Code and
-run `/refresh-tldrs`. It walks every notice with a missing `purpose_tldr`,
-extracts the free-text fields, and writes them back. No API key needed.
+## Enrichment
 
-(The `R/extract_llm.R` path is still in the codebase for users who'd
-rather pay the API; pass `run_llm = TRUE` to `refresh_week()` and set
-`ANTHROPIC_API_KEY`.)
+Open the repo in Claude Code and run `/refresh-tldrs`. It walks every item
+missing a `purpose_tldr` (profile matches and nearest deadlines first), writes
+the LLM-owned fields, and rebuilds the site payload with
+`python -m pipeline.refresh --emit-only`.
 
 ## License
 

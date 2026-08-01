@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-01",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-10-01",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-02",
+  "grants_gov_id": 358022,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": "2026-10-01",
+  "notice_id": "RFA-DC-25-005",
+  "open_date": "2025-05-03",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2025-01-06",
+  "source": "nih",
+  "synopsis": "This funding opportunity aims to support the development of in vivo high-resolution structural and functional imaging technologies for the living human inner ear. Proposed projects should focus on improving the resolution of current imaging techniques or developing new imaging techniques that can visualize inner ear structures in vivo with significantly greater detail and accuracy than currently possible. Both structural and functional aspects, including visualizing dynamic elements are important to development of new and improved techniques. Projects may also focus on developing new imaging probes or contrast agents that can enhance visualization of the inner ear structures. Ultimately, research supported in response to this RFA is to encourage technologies that allow, for example, structures such as hair cells, otoliths, membranes, ions, and vasculature to be viewed in detail in awake patients in a clinical setting using non-invasive techniques. To achieve this goal, a multi-disciplinary team approach that takes advantage of the expertise of each team member is highly encouraged. Studies in humans and intermediate studies in animals, but not non-mammalian species, may be proposed to develop or advance the needed technology. Any intermediate studies must articulate a clear path of the proposed methodology to application in awake humans or define the limitations and the usefulness in anesthetized humans.",
+  "title": "In Vivo High-Resolution Imaging for Inner Ear Visualization (R01 Clinical Trial optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-25-005.html"
+}

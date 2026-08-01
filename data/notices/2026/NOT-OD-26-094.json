@@ -1,0 +1,20 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "NOT-OD-26-094",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-07-27",
+  "source": "nih",
+  "title": "NIH Is Replacing Letters of Support with Letters of Collaboration to Reduce Administrative Burden",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-094.html"
+}

@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "F32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-08",
+  "grants_gov_id": 358830,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2028-05-07",
+  "notice_id": "PA-25-423",
+  "open_date": "2025-07-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2025-06-12",
+  "source": "nih",
+  "synopsis": "The purpose of the Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32) is to support research training of highly promising postdoctoral candidates who have the potential to become productive, independent investigators in scientific health-related research fields relevant to the missions of the participating NIH Institutes and Centers. Applications are expected to incorporate exceptional mentorship.",
+  "title": "Ruth L. Kirschstein National Research Service Award (NRSA) Individual Postdoctoral Fellowship (Parent F32)",
+  "topics": [
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-423.html"
+}

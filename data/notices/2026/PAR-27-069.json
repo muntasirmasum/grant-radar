@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "X01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-03-01",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-03-02",
+  "grants_gov_id": 361104,
+  "issuing_orgs": [
+    "PM"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-069",
+  "open_date": "2026-06-01",
+  "parent_ic": "Other",
+  "primary_ic": "PM",
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "synopsis": "The purpose of this Program Announcement with Special Receipt, Referral, and/or Review Considerations (PAR) is to solicit applications to access stored blood plasma, blood serum, and extracted DNA from the All of Us Research Program supported Biobank to advance the program's mission of accelerating health research and medical breakthroughs, enabling individualized prevention, treatment, and care for all of us.All of Us partnered research studies are collaborative initiatives funded by a study sponsor external to All of Us to collect and add new data to the All of Us Researcher Workbench in accordance with All of Us\" best practices. All of Us partnered research studies are open to the broad scientific community and require investigators to apply for and receive an X01 award under this announcement.This will enable longitudinal follow‐up and repeat sampling, and provide multiomic data (genomics, proteomics, metabolomics, and other high‐dimensional molecular profiles), integrated clinical, environmental, and life‐course data, infrastructure designed to support future clinical‐trial recruitment, and public‐private partnership pathways.This opportunity will enable researchers to conduct assays to evaluate associations between newly collected and existing All of Us data and add new data to the All of Us dataset for broad use by the research community. High-priority areas for biospecimen analyses may include, but are not limited to, large scale projects that propose integrated multiomics analyses, early disease detection, biomarker discovery or validation, novel risk models for incident disease, and/or novel disease stratification for chronic disease risk, diagnosis, and prognosis, in support of advancing precision medicine. For more information, please visit the All of Us X01 Partnered Research Studies Resource webpage.",
+  "title": "Accelerating Discovery through Partnered Research with All of Us to Analyze Participant Biospecimens (X01 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-069.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R50"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-12-04",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-12-04",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-12-05",
+  "grants_gov_id": 355439,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": "2026-12-04",
+  "notice_id": "RFA-OD-24-011",
+  "open_date": "2024-11-04",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2024-07-17",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to provide salary support for exceptional Research Software Engineers (RSEs) that contribute their skills to the development and dissemination of biomedical, behavioral or health related software, tools, and algorithms as well as to the training of prospective users of these tools.",
+  "title": "NIH Research Software Engineer (RSE) Award (R50 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-011.html"
+}

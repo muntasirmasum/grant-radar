@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-05-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 357573,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PAR-25-100",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-12-06",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages pilot and preliminary research in preparation for larger-scale services research effectiveness trials. Relevant trials may test a wide range of approaches, including interventions, practices, and policies designed to optimize access to, and the quality, effectiveness, affordability and utilization of drug, tobacco, or alcohol use disorder treatments and related services, as well as services for comorbid medical and mental disorder conditions. Relevant approaches may include both those that are novel, and those that are commonly used in practice but lack an evidence base. This NOFO provides resources for assessing the feasibility, acceptability, and utility of these approaches, in addition to usual trial preparation activities.",
+  "title": "Pilot Health Services and Economic Research on the Treatment of Drug, Alcohol, and Tobacco Use Disorders (R34 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-100.html"
+}

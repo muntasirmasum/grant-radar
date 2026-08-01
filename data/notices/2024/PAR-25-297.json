@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "1500000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-11-05",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-05",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-06",
+  "grants_gov_id": 357529,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2027-11-05",
+  "notice_id": "PAR-25-297",
+  "open_date": "2025-01-03",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2024-12-04",
+  "source": "nih",
+  "synopsis": "The goal of this Notice of Funding Opportunity (NOFO) is to provide funding support for the pre-clinical and early stage clinical (Phase I) development of novel small-molecule and biologic drug candidates that prevent Alzheimer's disease (AD), slow its progression, or treat its cognitive and behavioral symptoms. Participants in this program will receive funding for therapy development activities such as medicinal chemistry; pharmacokinetics (PK); Absorption, Distribution, Metabolism, Excretion, Toxicology (ADMET); efficacy in animal models; development of biomarkers for target engagement; formulation development; chemical synthesis under Good Manufacturing Practices (GMP); Investigational New Drug (IND) enabling studies; and initial Phase I clinical testing. Applications not responsive to this NOFO include research on basic mechanisms of disease or mechanisms of drug action; development ofrisk, diagnostic, prognostic, predictive, and preventionbiomarkers, devices, non-pharmacological interventions (e.g., exercise, diet, cognitive training), repurposed drugs and combination therapies; discovery activities such as high-throughput screening and hit optimization; and stand-alone clinical trials.",
+  "title": "Alzheimer's Drug-Development Program (U01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-297.html"
+}

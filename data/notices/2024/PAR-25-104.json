@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-10-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-26",
+  "grants_gov_id": 356979,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-10-25",
+  "notice_id": "PAR-25-104",
+  "open_date": "2025-01-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-05",
+  "source": "nih",
+  "synopsis": "The purpose of this FOA is to facilitate well planned clinical trials across the cancer prevention and control spectrum aimed at improving prevention/ interception, cancer-related health behaviors, screening, early detection, healthcare delivery, management of treatment-related symptoms, supportive care, and the long-term outcomes of cancer survivors. Although the scientific literature or preliminary data may provide the rationale for conducting a clinical trial, investigators often lack critical information about the study population, accrual challenges, intervention, outcome/ endpoints, data/statistical challenges or operational risks necessary to finalize the trial protocol completely. These information gaps can result in multiple protocol changes before and after trial start-up, leading to the need for additional time and expenses that may prevent study completion. Further, the suitability and feasibility of new trial designs, which minimize infrastructure and reduce costs may need to be tested in the context of a particular intervention, at-risk group, symptom or venue. Preparatory studies may fill information gaps and address unknowns, improving trial design and knowledge of trial feasibility and thus saving NCI time and money.",
+  "title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (R34 Clinical Trials Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-104.html"
+}

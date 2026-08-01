@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "P40"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-09-26",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-09-27",
+  "grants_gov_id": 359646,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-OD-25-011",
+  "open_date": "2026-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2025-12-05",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages grant applications for Animal and Biological Material Resource Centers. These Centers provide support for special colonies of laboratory animals and associated services, as well as other resources such as informatics tools, reagents, cultures (cells, tissues, and organs) and genetic stocks that serve the biomedical research community in a variety of research areas on a local, regional, and national basis. The goal of projects supported by this NOFO is to provide research resources that facilitate optimization and enhancement of scientific rigor, transparency, and experimental reproducibility of biomedical research. Proposed Animal and Biological Material Resource Centers must have broad application to multiple NIH Institutes or Centers (ICs) to align with the ORIP\"s NIH-wide mission (https://orip.nih.gov/about-orip). This funding opportunity is designed to support both continuation of existing resources and to develop new ones when appropriate. Of special interest of the announcement is a requirement of the Center\"s close coordination with efforts to develop new approach methodologies (NAMs) that complement traditional animal-based research. These include cell culture, organoids, computational models, and microphysiological systems. Applied Research Component should include studies to generate comparative data to increase applicability of NAMs and promote integration of the most predictive human disease models. Prior to preparing an application, all applicants are strongly encouraged to consult with Scientific/Research staff to be advised on appropriateness of the intended resource plans for this program, competitiveness of a potential application, and ORIP's program priorities.",
+  "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-25-011.html"
+}

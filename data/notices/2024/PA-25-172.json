@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357030,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PA-25-172",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-07",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for research in cancer control and population sciences. The overarching goal is to provide support to promote research efforts on novel scientific ideas that have the potential to substantially advance cancer research in statistical and analytic methods, epidemiology, cancer survivorship, cancer-related behaviors and behavioral interventions, healthcare delivery, and digital health and data science, and implementation science.",
+  "title": "Modular R01s in Cancer Control and Population Sciences (R01 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-172.html"
+}

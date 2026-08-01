@@ -1,0 +1,27 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-10-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-10-13",
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2028-10-12",
+  "notice_id": "RFA-FD-24-001",
+  "open_date": "2023-10-13",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2023-10-05",
+  "source": "nih",
+  "title": "Data Standards for Tobacco Research and Scientific Review Phase 2",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-24-001.html"
+}

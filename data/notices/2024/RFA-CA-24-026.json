@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "award_ceiling": "400000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-09-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-29",
+  "grants_gov_id": 355297,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-09-28",
+  "notice_id": "RFA-CA-24-026",
+  "open_date": "2024-08-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-07-09",
+  "source": "nih",
+  "synopsis": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this R25 program is to encourage individuals who have not had substantial biomedical research experience, or who have the potential to significantly benefit from additional biomedical research experience to pursue further studies or careers in research. To accomplish the stated over-arching goal, this NOFO will support educational activities with a primary focus on: (1) Research Experiences, (2) Curriculum or Methods Development and (3) Outreach. The NCI’s mission is to conduct and support research, training, health information dissemination, and other programs concerning cancer. This funding opportunity seeks to facilitate educational activities that encourage students to become knowledgeable about cancer and available to focus on cancer later in their careers. To promote broad interest in pursuing a career in biomedical research via early intervention strategies, the NCI Youth Enjoy Science (YES) Program will support efforts to create and maintain an institutional program to engage grades 6-12 and/or undergraduate students in cutting edge cancer research experiences. The proposed institutional programs may also provide research experiences for the grade 6-12 teachers and undergraduate faculty members. The goals are to inspire interest in biomedical sciences, help envision research as a career path, and strengthen practical research and career skills. In alignment with these goals, institutions may develop unique programs that capitalize on their research strengths and are responsive to their target populations.",
+  "title": "National Cancer Institute Youth Enjoy Science Research Education Program (R25 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-24-026.html"
+}

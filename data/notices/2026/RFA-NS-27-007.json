@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-02-20",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2029-02-21",
+  "grants_gov_id": 359161,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-NS-27-007",
+  "open_date": "2026-08-21",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-06-16",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to support the preclinical optimization and development of safe, effective, and non-addictive small molecule and biologic therapeutics for the treatment of pain. The goal of the program is to accelerate the advancement of promising early-stage therapeutic candidates and facilitate their readiness for Phase II clinical trials. Applicants must have a promising small molecule or biologic lead candidate for optimization, a strong biological rationale for the proposed approach, and established assays to guide the optimization process. The scope of the program includes lead optimization, early-stage development activities, IND-enabling studies, development of pharmacodynamic and/or target engagement biomarkers, preparation and submission of an Investigational New Drug (IND) application, and Phase I clinical testing. This is a milestone-driven, phased cooperative agreement program that involves active participation by NIH program staff in project planning and ongoing monitoring of research progress.",
+  "title": "HEAL Initiative: Non-addictive Analgesic Therapeutics Development [Small Molecules and Biologics] to Treat Pain (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-27-007.html"
+}

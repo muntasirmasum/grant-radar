@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-10-06",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-10-07",
+  "grants_gov_id": 358859,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-NS-27-001",
+  "open_date": "2026-05-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-02-09",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) supports efforts to disseminate resources for integration into neuroscience research practice. The resource(s) should be relevant to the goals of the BRAIN Initiative as outlined in the \"BRAIN 2025: A Scientific Vision\" and \"The BRAIN Initiative 2.0: From Cells to Circuits, Toward Cures\" and shared broadly to the neuroscience community. The resource(s) should address compelling needs of neuroscience researchers that are otherwise unavailable or impractical in their current form. Activities must include dissemination of an existing resource, and may include one or more of the following activities: distribution of tools and reagents; user training on the usage of new technologies or techniques; providing access to existing technology platforms and/or specialized facilities; minor improvements to increase the scale/efficiency of resource production and delivery; minor adaptations to meet the needs of a user community.",
+  "title": "BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-27-001.html"
+}

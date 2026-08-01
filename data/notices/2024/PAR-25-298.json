@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R15"
+  ],
+  "award_ceiling": "375000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357568,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-298",
+  "open_date": "2025-01-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2024-12-06",
+  "source": "nih",
+  "synopsis": "The purpose of the Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools is to stimulate basic and clinical research in educational institutions that provide baccalaureate or advanced degrees for a significant number of the Nation's research scientists, but that have not been major recipients of NIH support. REAP grants create opportunities for scientists and institutions otherwise unlikely to participate extensively in NIH research programs to contribute to the Nation's biomedical and behavioral research effort. REAP grants are intended to support small-scale research projects proposed by faculty members of eligible, domestic institutions, to expose undergraduate and/or graduate students at health professional schools or graduate schools to meritorious research projects, and to strengthen the research environment of the applicant institution.Eligible institutions must award NIH-relevant baccalaureate or advanced degrees in health professions and have received less than $6 million per year of NIH support (total costs) in 4 of the last 7 fiscal years. In this NOFO, a college is a stand-alone entity and not a component of a university system.",
+  "title": "Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools (R15 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-298.html"
+}

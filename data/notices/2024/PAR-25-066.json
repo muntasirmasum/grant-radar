@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357198,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-25-066",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "This initiative seeks to solicit applications for research projects that address the link between social disconnection including both objective social isolation as well as perceived social isolation (otherwise known as loneliness) and suicide in late-life. Emphasis is placed on research that identifies neurobiological and environmental mechanisms associated with social isolation and loneliness that increase risk for suicidal thoughts and behavior in late-life, that uses an experimental therapeutics approach to identify targets and develop and test interventions to prevent late-life suicide, and that develops new and modifies existing service delivery models to enhance social connection in late-life to prevent suicide.",
+  "title": "Social disconnection and Suicide Risk in Late Life (R21 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-066.html"
+}

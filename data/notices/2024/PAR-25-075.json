@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "UH3"
+  ],
+  "award_ceiling": "250000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-14",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-14",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-15",
+  "grants_gov_id": 356717,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-10-14",
+  "notice_id": "PAR-25-075",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-10-15",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to accelerate the adoption and validation of molecular/cellular/imaging markers (referred to as \"markers\" or \"biomarkers\") and assays for cancer detection, diagnosis, prognosis, monitoring, and prediction of response or resistance to treatment, as well as markers for cancer prevention and control. This NOFO will also support the validation of pharmacodynamic markers and markers of toxicity. Applicants to this NOFO must have an assay(s) whose performance has been analytically validated in specimens similar to those for the intended clinical use of the marker(s) and assay(s). As chemotherapies and/or radiation therapies are increasingly combined with immunotherapies to enhance the durability of anti-cancer responses, assays for measuring multiple markers, including immune markers, can be developed and validated simultaneously. The UH3 mechanism will support the clinical validation of established assays for up to 3 years using specimens from retrospective or prospective clinical trials or studies. This NOFO may be used to validate existing assays for use in other trials, observational studies, or population studies. Efforts to harmonize clinical laboratory tests, including investigation into the performance and reproducibility of assays across multiple clinical laboratories, are also appropriate for this funding opportunity. Projects proposed for this NOFO will require multi-disciplinary interaction and collaboration among scientific investigators, oncologists, statisticians, and clinical laboratory scientists. This NOFO is not intended to support early-stage development of technology or the conduct of clinical trials but is intended for validation of assays to the point where they could be integrated into clinical trials/studies as investigational assays.",
+  "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH3 Clinical Trials Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-075.html"
+}

@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "U2F"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-04-01",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-03-31",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-01",
+  "grants_gov_id": 359816,
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2027-03-31",
+  "notice_id": "PAR-25-003",
+  "open_date": "2025-06-25",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2025-06-25",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to advance efforts for a nationally integrated animal food safety system providing state animal food regulatory programs the ability to achieve full implementation of the Animal Food Regulatory Program Standards (AFRPS) within 5 years and to maintain full implementation. This NOFO will also fund optional projects for state animal food regulatory programs to: Advance food safety and protect public health by strengthening partnerships with the FDA and other state animal food regulatory partners through sharing, collaboration, coordination, and leveraging each other’s expertise, work, data, and enforcement actions. Develop and standardize processes, procedures, systems, and other methods to integrate federal and state animal food regulatory work resulting in mutual reliance. Specific outcomes may include, but are not limited to: State animal food regulatory programs will achieve and maintain implementation of the AFRPS, which is recognized as a critical element to creating a national, fully integrated food safety system. Operational use of standardized animal food regulatory systems developed by state programs to compel federal reliance on state regulatory work and resources and reciprocal state reliance on federal work and resources, resulting in mutual reliance. This project will strengthen and improve FDA efforts to build an integrated food safety system by building high quality state animal food regulatory programs that can promote regulatory compliance and prevent foodborne illnesses.",
+  "title": "Animal Food Regulatory Program Standards Implementation Development and Maintenance, with Mutual Reliance Initiatives Clinical Trials Not Allowed",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-003.html"
+}

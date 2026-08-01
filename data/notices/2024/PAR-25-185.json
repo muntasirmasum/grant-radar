@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 356909,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-185",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2024-10-30",
+  "source": "nih",
+  "synopsis": "Rapid advances in genotyping and next generation sequencing technologies have led to the identification of genetic variants that are associated with a wide variety of congenital defects including human congenital anomalies (HCAs), intellectual developmental disabilities (IDDs) and inborn errors of metabolism (IEMs). Large quantities of genomic data collected from pediatric congenital anomalies cohorts are available to the research community through several databases such as the Database of Genotypes and Phenotypes (dbGaP), the Gabriella Miller Kids First Data Resource Portal, the European Genome-Phenome Archive and Clinical Genome Resource (ClinGen). The purpose of this initiative is to promote the screening, functional validation and characterization of congenital anomaly-associated genetic variants identified through public facing databases and individual efforts using in-silico tools, appropriate animal models, in vitro systems or multi-pronged approaches. This initiative addresses a challenging gap between identifying sequence variations of potential interest and recognizing which of those variations have functional effects on the phenotype of interest.",
+  "title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology",
+    "infectious_disease",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-185.html"
+}

@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-10-04",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-10-05",
+  "grants_gov_id": 356205,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-NS-27-015",
+  "open_date": "2026-06-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "This funding announcement, issued by the Brain Research through Advancing Innovative Neurotechnologies® (BRAIN) Initiative, seeks transformative, cutting-edge, and innovative research that embraces new technologies, ideas, and approaches to understand brain circuit function and contributions to behavior. It is a component of the BRAIN Initiative Connectivity Across Scales (BRAIN CONNECTS) Program, which aims to lay the scientific foundation for the next generation of neural circuit-based approaches for preventing and treating devastating brain disorders.This Notice of Funding Opportunity (NOFO) supports Specialized Projects to develop current or emerging technologies to generate comprehensive atlases of brain connectivity, with an emphasis on human, non-human primate (NHP), and mouse. Projects using other species are also permitted, if their use is well justified and the goal is to test and validate approaches that can be generalized across species. Applications may address any aspect(s) of brain connectivity and associated data pipelines, including data collection, reconstruction, analysis, integration, dissemination, and interpretation, to enable faster, more precise, and more cost-effective generation and interpretation of brain-wide wiring diagrams. Funded projects will be integrated into the BRAIN CONNECTS Network consisting of projects funded under this and preceding BRAIN CONNECTS NOFOs, as a coordinated effort aimed at developing the capabilities to generate wiring diagrams that can span entire brains across multiple scales.",
+  "title": "BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-27-015.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 357424,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-180",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-26",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to encourage cooperative agreement applications to support early stage clinical trials of novel mechanism of action, investigational drugs, or novel neuromodulatory devices for the treatment of psychiatric disorders in areas of unmet medical need. The NOFO will support milestone-driven early stage trials in pediatric and adult populations. First in human (FIH) and Phase II studies of novel agents must assess target engagement (brain exposure), pharmacological effects, safety, and tolerability to assess feasibility for Phase II/proof of concept (PoC) studies in psychiatric disorders. Phase II/PoC studies must evaluate the drugs impact on clinically relevant physiological systems (functional measures) and clinical indicators of effect. The NOFO also supports FIH and early feasibility studies (EFS) of novel devices to evaluate target engagement, safety, tolerability, and efficacy. The overall objective is to facilitate rapid collection of data to \"de-risk\" novel mechanism of action investigational drugs, novel drugs for use in pediatric populations with psychiatric disorders, and devices or combination treatments in order to attract private or other public funding for further clinical development as FDA-approved treatments. A key aspect of this NOFO is the formation of collaborative partnerships between the biomedical researchers and biotechnology or industry researchers to facilitate psychiatric drug or device development.",
+  "title": "First in Human and Early Stage Clinical Trials of Novel Investigational Drugs or Neuromodulatory Device-based Interventions for Psychiatric Disorders (U01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "maternal_child_health",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-180.html"
+}

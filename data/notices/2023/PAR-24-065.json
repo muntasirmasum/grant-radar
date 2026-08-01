@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "P01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 351057,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-24-065",
+  "open_date": "2023-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2023-11-20",
+  "source": "nih",
+  "synopsis": "The National Heart, Lung, and Blood Institute (NHLBI) Program Project Grant (P01) supports research related to fundamental processes and diseases of the heart, blood and lymphatic vessels, lungs, and blood, including transfusion medicine, blood resources, and sleep disorders other programs including implementation science, health disparities, and translation research that address the mission of the Institute. This FOA requires a minimum of three interrelated research projects that investigate a complex biomedical theme or research question. The projects may be supported by core units, if justified, to facilitate economy of effort, space, and equipment. The NHLBI provides support for Program Project Grants (PPGs) in the belief that collaborative research efforts can accelerate the acquisition of knowledge more effectively than a simple aggregate of research projects that have no interaction or thematic integration. NHLBI is particularly interested in encouraging new scientific directions in PPGs. Use of the P01 activity code is viewed as an opportunity to attract scientists who have not traditionally been supported by the NHLBI. Further, the PPG environment presents an opportunity for emerging scientific leaders to gain insight into how to lead a successful scientific Program, and applicants will have the opportunity to include a project led by an Early Stage Investigator (ESI). All projects in the Program must be interrelated and have objectives that address a central theme within the scientific mandate of the NHLBI.",
+  "title": "NHLBI Program Project Applications (P01 Clinical Trials Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "health_disparities",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-065.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-08-18",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-08-18",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-08-19",
+  "grants_gov_id": 356610,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-08-18",
+  "notice_id": "PAR-24-293",
+  "open_date": "2024-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-10-01",
+  "source": "nih",
+  "synopsis": "The Blueprint Neurotherapeutics Network for Biologics (BPN-Biologics) provides support for biologic-based therapeutic discovery and development, from lead optimization through phase I clinical testing. This Funding Opportunity Announcement (FOA) supports preclinical discovery and development of potential therapeutic Biotechnology Products and Biologics including, but not limited to, large biologic macromolecules, (e.g., proteins, antibodies, and peptides), gene-based therapies (i.e., oligonucleotide- and viral-based), cell therapies, and novel emerging therapies (e.g., microbial and microbiome therapies). Applicants will collaborate with NIH-funded consultants and can augment their project with NIH contract research organizations (CROs) that specialize in manufacturing, scaling, pharmacokinetics, toxicology, and Phase I clinical testing. BPN-Biologics awardee institutions retain their assignment of IP rights and gain assignment of IP rights from the BPN-Biologics contractors (and thereby control the patent prosecution and licensing negotiations) for biotherapeutic candidates developed in this program.",
+  "title": "Blueprint Neurotherapeutics Network (BPN): Biologic-based Drug Discovery and Development for Disorders of the Nervous System (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-293.html"
+}

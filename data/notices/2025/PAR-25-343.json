@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-18",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-18",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-19",
+  "grants_gov_id": 358023,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": "2027-10-18",
+  "notice_id": "PAR-25-343",
+  "open_date": "2025-01-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2025-01-06",
+  "source": "nih",
+  "synopsis": "The NIDCD is committed to identifying effective interventions for the treatment or prevention of communication disorders by supporting well designed and well executed clinical trials. This funding opportunity announcement (FOA) supports a cooperative agreement between an NIDCD Project Scientist and an investigator to support a clinical trial that meets ANY of the following criteria: requires FDA oversight, is intended to formally establish efficacy, or has a higher risk to potentially cause physical or psychological harm.",
+  "title": "NIDCD Cooperative Agreement for Clinical Trials in Communication Disorders (U01 - Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-343.html"
+}

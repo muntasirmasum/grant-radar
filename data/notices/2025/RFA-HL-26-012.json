@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R38"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-10",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-01-10",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-11",
+  "grants_gov_id": 359130,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2028-01-10",
+  "notice_id": "RFA-HL-26-012",
+  "open_date": "2025-09-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2025-08-26",
+  "source": "nih",
+  "synopsis": "The overall goal of the Stimulating Access to Research in Residency (StARR) program is to provide resident clinicians in training with in-depth research experiences early in their careers, in order to recruit, retain and accelerate independence of a pool of clinician-investigators with both clinical and research experience necessary to perform basic, clinical and/or translational research.",
+  "title": "Stimulating Access to Research in Residency (StARR) (R38 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-012.html"
+}

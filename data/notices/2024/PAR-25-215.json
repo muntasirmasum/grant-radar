@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "K22"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-12",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-13",
+  "grants_gov_id": 357474,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-11-12",
+  "notice_id": "PAR-25-215",
+  "open_date": "2025-01-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-12-02",
+  "source": "nih",
+  "synopsis": "The objective of the NIH Career Transition Award (K22) is to provide support to outstanding basic or clinical investigators to develop their independent research skills through a two phase program: an initial period involving an intramural appointment at the NIH and a final period of support at an extramural institution. This NINDS K22 is specifically designed to facilitate the transition of NINDS intramural neurologist- and neurosurgeon-scientists to independent, academic faculty positions that support clinician-scientists to engage in independently funded scientific research as well as clinical activities.",
+  "title": "Career Transition Award for NINDS Intramural Clinician-Scientists (K22 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-215.html"
+}

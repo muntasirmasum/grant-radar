@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-19",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-19",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-20",
+  "grants_gov_id": 357256,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2026-11-19",
+  "notice_id": "PAR-25-052",
+  "open_date": "2025-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-11-20",
+  "source": "nih",
+  "synopsis": "This NOFO encourages applications for multi-site exploratory and confirmatory clinical trials focused on promising interventions; biomarker or outcome measure validation studies that are immediately preparatory to trials in stroke prevention, treatment, and recovery; and ancillary studies designed to add scientific aims to active studies being conducted within StrokeNet. Successful applicants will collaborate and conduct the study within the NIH StrokeNet. Following peer review, NINDS will prioritize studies among the highest scoring to be conducted in the NIH StrokeNet infrastructure. The NIH StrokeNet National Coordinating Center (NCC) will work with the successful applicant to implement the proposed study efficiently and the National Data Management Center (NDMC) will provide statistical and data management support. The NIH StrokeNet Regional Coordinating Centers (RCCs) and their affiliated clinical sites will provide recruitment/retention support as well as on-site implementation of the clinical protocol.",
+  "title": "NIH StrokeNet Clinical Trials and Biomarker Studies for Stroke Treatment, Recovery, and Prevention (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "cardiovascular",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-052.html"
+}

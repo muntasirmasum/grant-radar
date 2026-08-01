@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "award_ceiling": "850000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-08-02",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-08-02",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-08-03",
+  "grants_gov_id": 355317,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": "2026-08-02",
+  "notice_id": "RFA-HG-24-026",
+  "open_date": "2024-10-15",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2024-07-10",
+  "source": "nih",
+  "synopsis": "The National Human Genome Research Institute (NHGRI) seeks to broaden the types of knowledge, skills, expertise, experience, and perspectives brought to bear in research addressing the ethical, legal and social implications (ELSI) of advances in human genetics or genomics. This Notice of Funding Opportunity (NOFO) solicits UM1 applications from domestic organizations located in the United States and its territories that received less than $30 million per year in total NIH funding for the past three fiscal years. These organizations are underrepresented among those receiving NHGRI funding for ELSI research. The Building Partnerships and Broadening Perspectives to Advance Ethical, Legal, and Social Implications (ELSI) Research (BPAER) Program will support: 1) transdisciplinary ELSI research addressing timely, complex, and understudied topics, 2) the establishment of research teams that include representatives from relevant communities who are affected by and have an interest in the proposed research, 3) research capacity building to develop, conduct and sustain ELSI research, and 4) workforce development opportunities for early career scholars, research team members, and other research project staff. Transdisciplinary ELSI research projects require involvement from two or more fields of knowledge and use of multiple research approaches. Relevant communities must be actively and meaningfully involved on ELSI research teams across all phases of proposed research projects. Research capacity building plans must be informed by a needs assessment. Given the complex structure, a strategic management plan, evaluation plan, and sustainability plan are required to ensure successful completion of the program.",
+  "title": "Limited Competition: Building Partnerships and Broadening Perspectives to Advance Ethical, Legal, and Social Implications (ELSI) Research (BBAER) Program (UM1), Clinical Trial Optional",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-24-026.html"
+}

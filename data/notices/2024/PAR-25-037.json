@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357180,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-25-037",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages research on the biology of high confidence risk factors associated with complex brain disorders, with a focus on the intracellular, transcellular and circuit substrates of neural function. For the purposes of this NOFO, the term complex can refer to a multifactorial contribution to risk (e.g., polygenic and/or environmental) and/or highly distributed functional features of the brain disorder. Studies may be either hypothesis-generating (unbiased discovery) or hypothesis-testing in design and may utilize in vivo, in situ, or in vitro experimental paradigms, e.g., model organisms or human cell-based assays. While behavioral paradigms and outcome measures can be incorporated into the research design to facilitate the characterization of intracellular, transcellular and circuit mechanisms, these are neither required nor expected. Studies should not attempt to model disorders but instead should aim to elucidate the neurobiological impact of individual or combined risk factor(s), such as the affected molecular and cellular components and their relationships within defined biological process(es). This can include the fundamental biology of these factors, components and processes. The resulting paradigms, component pathways and biological processes should be disseminated with sufficient detail to enrich common and/or federated data resources (e.g., those contributing to the Gene Ontology, Synaptic Gene Ontology, FAIR Data Informatics) in order to bridge the gap between disease risk factors, biological mechanism and therapeutic target identification. The present NOFO (R21 activity code) can be used for applications to develop early stage, high-risk, exploratory approaches or establish proof-of-concept where there is little or no preliminary data. Applicants proposing to develop lines of inquiry where feasibility or proof of concept has been established should apply to the companion R01 NOFO (PAR-xx-xxx).",
+  "title": "Cellular and Molecular Biology of Complex Brain Disorders (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-037.html"
+}

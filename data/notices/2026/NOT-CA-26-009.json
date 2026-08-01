@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-CA-26-009",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of National Cancer Institute’s Participation in PA-25-305, NIH Research Project Grant (Parent R01 Clinical Trial Required)",
-  "release_date": "2026-03-25",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-009.html",
-  "issuing_orgs": ["National Cancer Institute"],
+  "extracted_at": "2026-05-22T19:38:15Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-03-25",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-CA-26-009",
+  "notice_type": "guide_notice",
+  "primary_ic": "NCI",
   "raw_html_hash": "09a7a49dfd2cf39ee998f65dd4a7e6a451781185f7ed60ecf56ec55a861355a4",
-  "extracted_at": "2026-05-22T19:38:15Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-03-25",
+  "source": "nih",
+  "title": "Notice of National Cancer Institute’s Participation in PA-25-305, NIH Research Project Grant (Parent R01 Clinical Trial Required)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-009.html"
 }

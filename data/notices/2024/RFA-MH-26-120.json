@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-06-15",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-06-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-06-16",
+  "grants_gov_id": 356530,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-06-15",
+  "notice_id": "RFA-MH-26-120",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-09-26",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity Announcement (NOFO) from the NIH Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative is intended to support establishment of facilities at minority-serving institutions (MSIs) and Institutional Development Award (IDeA)-eligible institutions for scaled production and distribution of brain cell type-specific access and manipulation reagents. Reagents will be initially developed in pilot resource projects for brain cell type-specific access and manipulation across vertebrate species from the BRAIN Initiative Armamentarium project. Awardees under this NOFO will work with the other Armamentarium awardees to manufacture and distribute the resources for use throughout the neuroscience community. It is envisioned that the awardees will work both with the Armamentarium community as well as with the neuroscience research community to optimize the use of new reagents. The types of reagents to be produced and distributed could include but are not limited to viral vectors, nucleic acid constructs, and nanoparticles designed for selective access to and manipulation of brain cell types. Such reagents will enable neuroscientists to probe circuit function with high precision in experimental animals and ex vivo human tissue and cells. Facilities are needed to contribute to the production and distribution of BRAIN Initiative Armamentarium project reagents broadly to neuroscience users.",
+  "title": "BRAIN Initiative: Reagent Resources for Brain Cell Type-Specific Access to Broaden Distribution of Enabling Technologies for Neuroscience (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-26-120.html"
+}

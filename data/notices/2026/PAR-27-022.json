@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "S10"
+  ],
+  "award_ceiling": "5000000",
+  "award_floor": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-07-01",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-07-02",
+  "grants_gov_id": 360532,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-022",
+  "open_date": "2026-06-27",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2026-06-25",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) announces the restructured Shared Instrumentation Grant (SIG) Program that consolidates three existing shared-use instrumentation programs, i.e., the Shared Instrumentation Grant program, the High-End Instrumentation Grant program, and the Basic Instrumentation Grant program. The NOFO invites applications from groups of NIH-supported investigators to purchase or upgrade a single state-of-the-art commercially available instrument or an integrated instrumentation system. The instruments purchased through the SIG Program are required to be optimally shared among the users to ensure efficient and cost-effective research operations, enable rigorous and reproducible measurements, and encourage collaborative research and benefit broad research communities at large. The minimum award is $300,000. There is no cap on the total cost of the instrument; however, the maximum award is $5,000,000. Cost sharing is required for premium instruments or special use instruments.",
+  "title": "Shared Instrumentation Grant (SIG) Program (S10 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-022.html"
+}

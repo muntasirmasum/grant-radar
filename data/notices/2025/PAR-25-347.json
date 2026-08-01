@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R36"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357974,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-25-347",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2025-01-02",
+  "source": "nih",
+  "synopsis": "The goal of this NOFO is to support doctoral candidates from a variety of academic disciplines for up to two years for the completion of the doctoral dissertation research project. Research projects should align with NIDA funding priorities detailed here (https://www.drugabuse.gov/funding/funding-priorities). This award will facilitate the entry of promising new investigators into the field of substance use/substance use disorder (SU(D) research, enhancing the pool of highly talented SU(D) researchers.",
+  "title": "Substance Use/Substance Use Disorder Dissertation Research Award (R36 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-347.html"
+}

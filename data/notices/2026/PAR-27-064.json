@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2029-07-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-06",
+  "grants_gov_id": 359859,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-064",
+  "open_date": "2026-09-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-06-16",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) encourages applications for implementation of investigator-initiated, milestone driven clinical trials that need enhanced oversight, and as applicable, include mechanistic studies. Mechanistic work in clinical trials may be of great value because it promotes the understanding of human diseases and the development of future therapeutic modalities. Support is available for clinical trials up to 5 years, as well as for extended clinical trials of 6- or 7-years.Investigators are encouraged to visit this NIH website for additional information about the overall mission and research areas of NIAID.Only one clinical trial may be proposed in each NIAID Clinical Trial Implementation Cooperative Agreement (U01) application. In accordance with NIH standard peer-review processes, the applications will be peer-reviewed, and only meritorious applications will be considered.",
+  "title": "NIAID Clinical Trial Implementation Cooperative Agreement (U01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-064.html"
+}

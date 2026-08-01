@@ -1,20 +1,27 @@
 {
-  "notice_id": "NOT-NS-26-033",
-  "source": "nih",
-  "notice_type": "rescission",
-  "title": "Notice to Rescind NOT-NS-24-060 \"NINDS' Policy on Special Council Review of Research Applications\"",
-  "release_date": "2026-03-06",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-033.html",
-  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "extracted_at": "2026-05-22T19:38:06Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-03-06",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["NOT-NS-24-060", "NOT-OD-22-049"],
+  "notice_id": "NOT-NS-26-033",
+  "notice_type": "rescission",
+  "primary_ic": "NINDS",
   "raw_html_hash": "5252f71cf05261b16df279cd814efafdff627bc1c2d114c3fcaaeacca97268d4",
-  "extracted_at": "2026-05-22T19:38:06Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "NOT-NS-24-060",
+    "NOT-OD-22-049"
+  ],
+  "release_date": "2026-03-06",
+  "source": "nih",
+  "title": "Notice to Rescind NOT-NS-24-060 \"NINDS' Policy on Special Council Review of Research Applications\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-033.html"
 }

@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "K99",
+    "R00"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-10-14",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-14",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-15",
+  "grants_gov_id": 350944,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-10-14",
+  "notice_id": "PAR-23-287",
+  "open_date": "2024-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2023-11-09",
+  "source": "nih",
+  "synopsis": "The purpose of the NCI Pathway to Independence Award for Early-Stage Postdoctoral Researchers (K99/R00) program is to increase and maintain a strong cohort of new and talented, NCI-supported, independent investigators. This program is designed for postdoctoral fellows with research and/or clinical doctoral degrees who do not require an extended period of mentored research training beyond their doctoral degrees. The objective of this award is to facilitate a timely transition of these fellows from their mentored, postdoctoral research positions to independent tenure-track (or equivalent) faculty positions. The program will provide independent NCI research support during this transition to help awardees to launch competitive, independent research careers. Researchers in the scientific areas of cancer control, cancer prevention and cancer data sciences are especially encouraged to work with their institutions to apply. This notice of funding opportunity (NOFO) is designed specifically for candidates proposing to serve as the lead investigator of an independent clinical trial, a clinical trial feasibility study, or a separate ancillary clinical trial, as part of their research and career development. Those not planning an independent clinical trial, or proposing to gain research experience in a clinical trial led by another investigator, must apply to the 'Independent Clinical Trial Not Allowed' companion NOFO (PAR-23-286).",
+  "title": "NCI Pathway to Independence Award for Early-Stage Postdoctoral Researchers (K99/R00 - Independent Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-287.html"
+}

@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-04-01",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-04-01",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-02",
+  "grants_gov_id": 360006,
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2027-04-01",
+  "notice_id": "PAR-25-014",
+  "open_date": "2025-07-11",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2025-07-11",
+  "source": "nih",
+  "synopsis": "This Funding Opportunity Announcement (FOA) issued by the Food and Drug Administration (FDA), Center for Veterinary Medicine (CVM), builds upon the National Antimicrobial Resistance Monitoring System (NARMS) which was initiated in 1996 as one of the key activities in a national action plan to combat antibiotic resistance threats. The purpose of this FOA is to protect and promote public health by enhancing, strengthening, and sustaining antibiotic resistance surveillance in retail food specimens within the NARMS program. The NARMS cooperative agreement is intended to improve the detection of antibiotic resistance among bacteria in food commodities, as well as expand to new sites to expand the scope of sampling. Measurable outcomes of the program will be in alignment with the NARMS Objectives.",
+  "title": "NARMS Cooperative Agreement Program to Strengthen Antibiotic Resistance Surveillance in Retail Food Specimens",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-014.html"
+}

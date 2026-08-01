@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 360400,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-NS-26-001",
+  "open_date": "2026-05-04",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-05-04",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit applications for the conduct of scientific research utilizing data from expanded access (EA) for investigational drugs or biological products as described in section 561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb). These applications will target intermediate size populations of patients living with amyotrophic lateral sclerosis (ALS) who are not eligible for ongoing clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of ALS.",
+  "title": "Amyotrophic Lateral Sclerosis (ALS) Intermediate Patient Population Expanded Access (U01 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-26-001.html"
+}

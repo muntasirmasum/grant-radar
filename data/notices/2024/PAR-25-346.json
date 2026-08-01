@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357651,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-346",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-12-11",
+  "source": "nih",
+  "synopsis": "Through this engineering-oriented Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to encourage submissions of exploratory/developmental Bioengineering Research Grant (EBRG) applications to demonstrate feasibility and potential utility of new capabilities or improvements in quality, speed, efficacy, operability, costs, and/or accessibility of solutions to problems in basic biomedical, pre-clinical, or clinical research, clinical care delivery, or accessibility.",
+  "title": "Exploratory/Developmental Bioengineering Research Grants (EBRG) (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-346.html"
+}

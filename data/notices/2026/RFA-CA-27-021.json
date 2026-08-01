@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "600000",
+  "award_floor": "50000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-19",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-20",
+  "grants_gov_id": 359853,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-021",
+  "open_date": "2026-06-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-21",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) solicits applications for the continued development and sustainment of high value informatics research resources to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology. As a component of the NCI's Informatics Technology for Cancer Research (ITCR) Program, this NOFO is focused on sustaining operations and maintaining and evolving the scientific relevance of existing, widely-adopted informatics tools and resources. This is in contrast to early-stage and advanced development efforts to generate these tools and resources that will be supported by companion ITCR NOFOs. The central mission of ITCR is to promote research-driven informatics technology across the development lifecycle to address priority needs in cancer research. In order to be successful, the application must provide clear justification for why the research resource should be maintained and how it has benefited and will continue to benefit the cancer research field. In addition, mechanisms for assessing and maximizing the value of the resource to researchers and supporting close engagement between the resource and the targeted research community should be described.This NOFO invites applications to support the sustained operations of informatics technology resources that support a wide range of cancer research, including discovery biology, population studies, as well as clinical and translational research. The emphasis is on sustaining resources that have had a demonstrated impact on cancer research. In addition, all projects proposed in response to this NOFO must involve the following general attributes:Evidence that the technology has had significant impact on cancer research to date and the sustainment plan will lead to the continued advancement of cancer researchRobust plans for supporting the end-user community including documentation, training, and other outreach activitiesClear processes for engaging end users to address emerging needs of the targeted research communities to ensure that the research resource maintains relevance to the research it supports",
+  "title": "Sustained Support for Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-021.html"
+}

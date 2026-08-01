@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-09-28",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-09-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-09-29",
+  "grants_gov_id": 356316,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2027-09-28",
+  "notice_id": "PAR-24-272",
+  "open_date": "2025-01-13",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-09-03",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity announcement (NOFO) invites applications for the Clinical and Translational Science Award (CTSA) Program hubs that will be part of a national, collaborative consortium focused on bringing more treatments for all people more quickly through advancing clinical and translational science (CTS) by (1) developing, demonstrating, and disseminating scientific and operational innovations that improve the efficiency and effectiveness of clinical translation from identification to first-in-human studies to medical practice implementation to community health dissemination; (2) promoting partnerships and collaborations to facilitate and accelerate translational research projects locally, regionally, and nationally; (3) creating, providing, and disseminating innovative research programs and partnerships across institutions and communities to address health disparities and deliver the benefits of translational science to all; (4) creating and implementing scientific and operational innovations that increase the quality, safety, efficiency, effectiveness, and informativeness of clinical research; (5) providing a national resource for the rapid response to urgent public health needs; and (6) creating, providing, and disseminating CTS training for clinical research professionals of all disciplines on the research team.",
+  "title": "Clinical and Translational Science Award (UM1 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities",
+    "implementation_science",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-272.html"
+}

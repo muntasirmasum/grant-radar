@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "T32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 357710,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-25-247",
+  "open_date": "2025-04-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2024-12-13",
+  "source": "nih",
+  "synopsis": "The specific purpose of this Notice of Funding Opportunity (NOFO) is to promote the development of a diverse, interdisciplinary workforce needed to conduct translational research on Alzheimer's disease and Alzheimer's-related dementias from target discovery through clinical development. This NOFO will support institutional training programs for predoctoral and postdoctoral level researchers with diverse educational backgrounds (i.e., basic biology, translational and clinical research, data science). The program invites eligible institutions to develop interdisciplinary training programs that will provide trainees with the knowledge and skills in data science, disease biology, behavioral research, and traditional and emerging drug discovery disciplines necessary to conduct rigorous and cutting-edge basic, translational, and clinical research for AD/ADRD.",
+  "title": "Institutional Training Programs to Advance Translational Research on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) (T32 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "data_science_ai",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-247.html"
+}

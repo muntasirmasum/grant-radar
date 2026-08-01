@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-11-02",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-11-03",
+  "grants_gov_id": 358938,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-013",
+  "open_date": "2026-05-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2026-03-18",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports applications for a collaborating Data Coordinating Center (DCC) for investigator-initiated multi-site clinical trials including efficacy, comparative effectiveness, pragmatic and/or implementation research clinical trials. Trials using innovative designs such as platform trials, adaptive, and Bayesian designs are encouraged. These trials may include ones that test different therapeutic, behavioral, and/or prevention strategies. Trials for which this NOFO applies must be relevant to the research mission of the NHLBI and meet the NIH definition of a clinical trial (see NOT-OD-15-015). For additional information about the mission, strategic vision, and research priorities of the NHLBI, applicants are encouraged to consult the NHLBI website.This NOFO will utilize a milestone-driven cooperative agreement mechanism of award and runs in parallel with a companion NOFO (PAR-27-012) for a collaborating Clinical Coordinating Center (CCC). The objective of the DCC application is to present a comprehensive plan to provide overall project coordination, administration, data management, and biostatistical support for the clinical trial proposed in the collaborating CCC application. The application should also describe its approaches to collaborate with the CCC on implementation of the clinical trial community engagement plan. Both a DCC application and a collaborating CCC application must be submitted on the same application due date for consideration by NHLBI. Applicants are strongly encouraged to contact the appropriate Scientific/Research contact prior to submitting an application.",
+  "title": "Data Coordinating Center for Multi-Site Investigator-Initiated Clinical Trials (Collaborative U24 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-013.html"
+}

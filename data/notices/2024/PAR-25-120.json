@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 356763,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-120",
+  "open_date": "2025-01-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2024-10-18",
+  "source": "nih",
+  "synopsis": "The NIDCD Early Career Research (ECR) Award (R21) is intended to support both basic and clinical research from scientists who are beginning to establish an independent research career. It cannot be used for thesis or dissertation research. The research must be focused on one or more of the areas within the biomedical and behavioral scientific mission of the NIDCD: hearing, balance, smell, taste, voice, speech, or language. The NIDCD ECR Award R21 grant mechanism supports different types of projects including secondary analysis of existing data; small, self-contained research projects; development of research methodology; translational research; outcomes research; and development of new research technology. Irrespective of the type of project, the intent of the NIDCD ECR Award R21 is for the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) to obtain sufficient preliminary data for a subsequent R01 application.",
+  "title": "NIDCD Early Career Research(ECR) Award (R21 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-120.html"
+}

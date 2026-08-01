@@ -1,0 +1,20 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "NOT-HL-26-006",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2026-06-30",
+  "source": "nih",
+  "title": "NIH Announces the Open Period of FY 2027 Helium-3 Requests for Medical Research",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HL-26-006.html"
+}

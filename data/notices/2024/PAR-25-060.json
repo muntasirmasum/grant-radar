@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-10-20",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-20",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-21",
+  "grants_gov_id": 356802,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-10-20",
+  "notice_id": "PAR-25-060",
+  "open_date": "2025-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-10-22",
+  "source": "nih",
+  "synopsis": "This funding opportunity announcement (FOA) encourages the development and validation of animal models and human/animal tissue ex vivo systems that recapitulate the phenotypic and physiologic characteristics of a defined neurological or neuromuscular disorder. The goal of this FOA is to promote a significant improvement in the translational relevance of animal models or ex vivo systems that will be utilized to facilitate future development of neurotherapeutics. Ideally, models proposed for this FOA would have the potential to provide feasible and meaningful assessments of efficacy following therapeutic intervention that would be applicable in both preclinical and clinical settings. This FOA is part of a suite of Innovation Grants to Nurture Initial Translational Efforts (IGNITE) Program focused on enabling the exploratory and early stages of drug discovery.",
+  "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE):  Development and Validation of Model Systems to Facilitate Neurotherapeutic Discovery (R61/R33 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-060.html"
+}

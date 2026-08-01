@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-14",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-14",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-15",
+  "grants_gov_id": 356680,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-10-14",
+  "notice_id": "PAR-24-304",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-10-10",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO) is to accelerate the pace of translation of NCI-supported methods/assays/technologies (referred to as \"assays\") to the clinic. Specifically, the focus of this NOFO is on the adaption and clinical validation of molecular/cellular/imaging markers (referred to as \"markers\" r \"biomarkers\") for cancer detection, diagnosis, prognosis, monitoring, and prediction of response in treatment, as well as markers for cancer control and prevention. Research applications may support the acquisition of well-annotated specimens from NCI-supported or other clinical trials or observational cohorts/consortia for the purpose of clinical validation of the assay. Research projects proposed for this NOFO encourage multi-disciplinary interaction among scientific investigators, assay developers, clinicians, statisticians, and clinical laboratory staff. Clinical laboratory scientist(s) and statistical experts are highly encouraged to comprise integral parts of the application. This NOFO is not intended to support early-stage development of technology or the conduct of clinical trials, but rather the adaption and validation of assays to the point where they could be integrated into clinical trials as investigational assays/tools/devices.",
+  "title": "Revision Applications for Validation of Biomarker Assays Developed Through NIH-Supported Research Grants (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-304.html"
+}

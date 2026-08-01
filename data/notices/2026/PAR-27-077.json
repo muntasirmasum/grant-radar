@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-05-26",
+  "grants_gov_id": 359157,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-077",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-05-05",
+  "source": "nih",
+  "synopsis": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this NIH Science Education Partnership Award (SEPA) program is to support educational activities that increase understanding of biomedical research among pre-college (pre-kindergarten to grade12) individuals, and to encourage awareness of and continued interest in careers in science, technology, engineering, and mathematics (STEM).",
+  "title": "NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-077.html"
+}

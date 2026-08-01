@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-HL-26-003",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of NHLBI Participation in PA-25-304 \"NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Not Allowed)\"",
-  "release_date": "2026-03-26",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HL-26-003.html",
-  "issuing_orgs": ["National Heart, Lung, and Blood Institute"],
+  "extracted_at": "2026-05-22T19:38:16Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-03-26",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-HL-26-003",
+  "notice_type": "guide_notice",
+  "primary_ic": "NHLBI",
   "raw_html_hash": "fcf7882df9ea17111905557da557690836003ef5d9a6ae0f41ddf014827f21b0",
-  "extracted_at": "2026-05-22T19:38:16Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-03-26",
+  "source": "nih",
+  "title": "Notice of NHLBI Participation in PA-25-304 \"NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Not Allowed)\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HL-26-003.html"
 }

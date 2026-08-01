@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "X01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-03-01",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-03-01",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-03-02",
+  "grants_gov_id": 358967,
+  "issuing_orgs": [
+    "ECHO"
+  ],
+  "next_due_date": "2028-03-01",
+  "notice_id": "PAR-25-437",
+  "open_date": "2025-06-18",
+  "parent_ic": "NIH",
+  "primary_ic": "ECHO",
+  "release_date": "2025-06-18",
+  "source": "nih",
+  "synopsis": "The purpose of this Program Announcement with Special Receipt, Referral, and/or Review Considerations (PAR) is to solicit applications to access limited identifiable data or biospecimens from the ECHO Cohort to study high-priority areas of maternal and child health.",
+  "title": "Environmental influences on Child Health Outcomes (ECHO) Cohort Data and Biospecimen Access (X01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology",
+    "maternal_child_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-437.html"
+}

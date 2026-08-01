@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357003,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-175",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) seeks research project (R01) grant applications describing projects that integrate imaging and fluid-based tumor monitoring (liquid biopsy) assays during cancer therapy in patients to determine the optimal use of those modalities in the characterization of therapy response and/or emergence of resistance.",
+  "title": "Integration of Imaging and Fluid-Based Tumor Monitoring in Cancer Therapy (R01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-175.html"
+}

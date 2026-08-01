@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R35"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-04-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-04-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-29",
+  "grants_gov_id": 353822,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-04-28",
+  "notice_id": "RFA-HL-26-003",
+  "open_date": "2025-01-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-04-26",
+  "source": "nih",
+  "synopsis": "The purpose of the NHLBI Emerging Investigator Award (EIA) is to promote scientific productivity and innovation by providing long-term support and increased flexibility to experienced Program Directors/Principal Investigators (PDs/PIs) who are currently PDs/PIs on at least two NHLBI R01-equivalent awards and whose outstanding record of research demonstrates their ability to make major contributions to heart, lung, blood and sleep (HLBS) research. The EIA is intended to support a research program, rather than a research project, by providing the primary and most likely sole source of NHLBI funding on individual grant awards. The EIA will support the research program of NHLBI-funded investigators for up to seven years. The EIA will provide investigators increased freedom to conduct research that breaks new ground or extends previous discoveries in new directions. It will also allow PDs/PIs to take greater risks and to pursue research that requires a longer timeframe. Research supported by the EIA must be within the scope of the NHLBI mission (http://www.nhlbi.nih.gov/about/org/mission).",
+  "title": "NHLBI Emerging Investigator Award (EIA) (R35 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-003.html"
+}

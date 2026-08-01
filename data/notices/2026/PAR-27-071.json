@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "X01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-11",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-01-12",
+  "grants_gov_id": 361164,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-071",
+  "open_date": "2026-12-11",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "synopsis": "As part of the Gabriella Miller Kids First Pediatric Research Program (Kids First Program), the NIH invites applications to submit samples from pediatric cohorts for whole genome sequencing at a Kids First Program supported genomic data generating centers. Applicants are encouraged to propose sequencing of existing pediatric cancer or congenital anomaly cohorts to elucidate the genetic contribution (somatic and/or germline) to childhood cancers, to investigate the genetic etiology of congenital anomalies, to study the molecular basis of the associations between congenital anomalies and increased cancer risk, or to expand the range of pediatric disorders included within the Kids First Data Resource. The program will accept applications that propose whole genome, exome, and transcriptome sequencing, as well as clinical-grade sequencing, long-read sequencing, proteomics, and epigenomic assays of tumor or affected tissue, when justified. Applicants are encouraged to propose cohorts to increase representation of existing Kids First Program projects. These data, and associated clinical and phenotypic data, will become part of the Kids First Data Resource Center for sharing with the research community.",
+  "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "epidemiology",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-071.html"
+}

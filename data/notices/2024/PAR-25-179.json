@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 357423,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-179",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-26",
+  "source": "nih",
+  "synopsis": "Confirmatory Efficacy Clinical Trials of Non-Pharmacological Interventions for Mental Disorders (R01 Clinical Trial Required). As part of NIMH's clinical trials pipeline NOFOs, this announcement supports confirmatory efficacy testing of non pharmacological therapeutic and preventive interventions for mental disorders in adults and children that address unmet therapeutic needs, and are consistent with the NIMH emphasis on the experimental therapeutics approach. In this approach, clinical trials should be designed to increase knowledge of the relationship between underlying disease processes and the mechanisms of action through which any intervention produces therapeutic change.",
+  "title": "Confirmatory Efficacy Clinical Trials of Non-Pharmacological and Pharmacological Interventions for Mental Disorders (R01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-179.html"
+}

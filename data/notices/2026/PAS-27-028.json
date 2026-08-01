@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-03-16",
+  "doctype": "PAS",
+  "due_dates": [],
+  "expiration_date": "2029-03-17",
+  "grants_gov_id": 360553,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAS-27-028",
+  "open_date": "2026-09-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-06-09",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to facilitate the entry of investigators into multiple high-priority areas of substance use research, including comorbidity with HIV. The Science Track Award for Research Transition (START) Program aims to provide investigators with the opportunity to gather preliminary data that will assist them in securing future research grants and advancing their scientific careers.",
+  "title": "Science Track Award for Research Transition (START) Program (R03, Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAS-27-028.html"
+}

@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "K12"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-13",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-13",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-14",
+  "grants_gov_id": 351679,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2026-11-13",
+  "notice_id": "PAR-24-089",
+  "open_date": "2024-02-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-01-03",
+  "source": "nih",
+  "synopsis": "This funding opportunity announcement (FOA) encourages applications for institutional research career development (K12) programs that propose to support intensive supervised research training and career development experiences for clinician scientists (Scholars) leading to research independence in the area of substance use and substance use disorder research.",
+  "title": "NIDA Mentored Clinical Scientist Development Program Award in Substance Use and Substance Use Disorder Research (K12 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "substance_use",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-089.html"
+}

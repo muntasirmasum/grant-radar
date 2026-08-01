@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-09-08",
+  "grants_gov_id": 357195,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": "2027-09-07",
+  "notice_id": "PAR-25-229",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "The purpose of this funding opportunity announcement (FOA) is to invite applications for a broad range of research efforts in computational genomics, data science, statistics, and bioinformatics relevant to one or both of basic or clinical genomic science, and broadly applicable to human health and disease. This FOA supports fundamental genomics research developing innovative analytical methodologies and approaches, early-stage development of tools and software, and refinement or hardening of software and tools of high value to the biomedical genomics community. Work supported under this FOA should be enabling for genomics and be generalizable or broadly applicable across diseases and biological systems. All applications should address how the methods would scale to address increasingly larger data sets.",
+  "title": "Investigator Initiated Innovation in Computational Genomics and Data Science (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-229.html"
+}

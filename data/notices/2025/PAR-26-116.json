@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-03-06",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-03-05",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-03-07",
+  "grants_gov_id": 359659,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": "2027-03-05",
+  "notice_id": "PAR-26-116",
+  "open_date": "2026-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2025-12-08",
+  "source": "nih",
+  "synopsis": "The goal of this program is to support collaborative translational research projects aligned with NIH efforts to enhance the translation of basic biological discoveries into clinical applications that improve health. It encourages high quality science demonstrating the potential to result in understanding an important disease process or lead to new therapeutic interventions, diagnostics, or prevention strategies within the research interests and priorities of the participating NIH Institutes/Centers (ICs).Specifically, the program seeks to broaden and strengthen translational research collaborations between basic and clinical researchers both within and outside NIH to accelerate and enhance translational science by promoting partnerships between NIH intramural investigators (e.g., those conducting research within the labs and clinics of the NIH) and extramural investigators (e.g., those conducting research in labs outside the NIH), and by providing support for extramural investigators to take advantage of the unique research opportunities available at the NIH Clinical Center by conducting clinical research projects in collaboration with NIH intramural investigators.",
+  "title": "Opportunities for Collaborative Research at the NIH Clinical Center (U01 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-116.html"
+}

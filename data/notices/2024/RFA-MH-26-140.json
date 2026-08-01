@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-06-15",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-06-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-06-16",
+  "grants_gov_id": 356811,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-06-15",
+  "notice_id": "RFA-MH-26-140",
+  "open_date": "2025-05-13",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-10-23",
+  "source": "nih",
+  "synopsis": "This NOFO solicits applications for next generation sensor and bioelectronic device development that will synchronize with brain recordings. The sensor and neural recording data will be used to generate new computational models of behavior in human and animal models. There has been a lack of quantitative approaches and models to understand the complexity of human and animal behavior in naturalistic settings. This NOFO focuses on the development of next generation sensors to acquire data and synchronize it with simultaneous brain recordings to build computational models.",
+  "title": "BRAIN Initiative: Brain Behavior Quantification and Synchronization- Next Generation Sensor Technology Development (U01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-26-140.html"
+}

@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-07-20",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-07-20",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-07-21",
+  "grants_gov_id": 359645,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2028-07-20",
+  "notice_id": "PAR-25-450",
+  "open_date": "2026-01-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2025-09-22",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites researchers to submit applications for support of clinical projects that address critical needs for clinical trial readiness in rare diseases. The initiative seeks applications that are intended to facilitate rare diseases research by enabling efficient and effective movement of candidate therapeutics or diagnostics toward clinical trials, and to increase their likelihood of success. This could be through the development and testing of rigorous biomarkers and clinical outcome assessment measures, or by defining the presentation and course of a rare disease to enable the design of upcoming clinical trials.",
+  "title": "Clinical Trial Readiness for Rare Diseases, Disorders, and Syndromes (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-450.html"
+}

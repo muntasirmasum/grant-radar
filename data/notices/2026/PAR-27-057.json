@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-07-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-06",
+  "grants_gov_id": 360160,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-057",
+  "open_date": "2026-09-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2026-06-04",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications for innovative research on the factors that cause human behaviors and the oral-systemic health impacts of those behaviors to enhance health, lengthen life, and reduce illness and disability among people with chronic conditions. Causal hypotheses may include biological, biopsychosocial, congenital, environmental, interpersonal, neurological, psychological, and comorbidity factors that individually, sequentially, or in combination trigger human behaviors and oral-systemic health outcomes, with impacts that may be direct or traceably distal. Applications that propose projects to develop or refine causal hypotheses also are encouraged.",
+  "title": "Causal Hypotheses on the Oral-Systemic Health Impacts of Human Behaviors among People with Chronic Conditions (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-057.html"
+}

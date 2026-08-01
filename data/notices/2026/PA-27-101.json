@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "R44"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-04-05",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2029-04-06",
+  "grants_gov_id": 359758,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-27-101",
+  "open_date": "2026-08-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "The NIH Phase IIB Strategic Breakthrough award bridges the funding gap between the end of a Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Phase II award and commercialization. The Phase IIB Strategic Breakthrough provides previously funded NIH SBIR or STTR projects additional support for later-stage research and development (R&D).",
+  "title": "NIH Small Business Innovation Research (SBIR) Phase IIB Strategic Breakthrough Award (Parent [R44] Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-27-101.html"
+}

@@ -1,0 +1,23 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "NOT-MH-26-045",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-07-14",
+  "source": "nih",
+  "title": "Notice of NIMH Participation in PA-25-080 \"NIH Support for Conferences and Scientific Meetings (Parent R13 Clinical Trial Not Allowed)\"",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-045.html"
+}

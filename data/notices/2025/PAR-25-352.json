@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-10-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-26",
+  "grants_gov_id": 358229,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-25",
+  "notice_id": "PAR-25-352",
+  "open_date": "2025-01-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2025-01-15",
+  "source": "nih",
+  "synopsis": "Reissue of PAR-20-118. This Notice of Funding Opportunity (NOFO) encourages applications to advance the discovery, preclinical development, and proof of concept (PoC) testing of new, rationally based candidate agents and neurostimulation approaches to treat mental disorders, substance use disorders (SUDs) or alcohol use disorder (AUD), and to develop novel ligands and circuit-engagement devices as tools to further characterize existing or to validate new drug/device targets. Partnerships between academia and industry are strongly encouraged. This NOFO using the U01 mechanism supports a discrete, specified, circumscribed project to be performed by the named investigator(s) in an area representing his or her specific interest and competencies Projects seeking support for a research program of multiple projects directed toward a specific major objective, basic theme or program goal, requiring a broadly based, multidisciplinary and often long-term approach should consider the companion U19 FOA.",
+  "title": "National Cooperative Drug/Device Discovery/Development Groups (NCDDG) for the Treatment of Mental Disorders (U01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-352.html"
+}

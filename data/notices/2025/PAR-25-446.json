@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "award_ceiling": "3000000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-08-21",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-08-21",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-08-22",
+  "grants_gov_id": 358937,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2028-08-21",
+  "notice_id": "PAR-25-446",
+  "open_date": "2025-09-20",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2025-09-10",
+  "source": "nih",
+  "synopsis": "The purpose of this Funding Opportunity (NOFO) is to solicit grant applications to support research on the discovery and development of interventions to prevent and/or treat substance use disorders (SUDs) and overdose, including medications and medical devices to treat co-morbid SUDs. This includes preclinical and clinical research studies that will have high impact and quickly yield the necessary results to advance candidate interventions closer to regulatory approval or clinical adoption. This NOFO will utilize the UG3/UH3 activity code.",
+  "title": "Development of Interventions to Prevent and Treat Substance Use Disorders and Overdose (UG3/UH3 - Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-446.html"
+}

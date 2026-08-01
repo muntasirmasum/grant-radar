@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "50000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-19",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-19",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-20",
+  "grants_gov_id": 357658,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2026-10-19",
+  "notice_id": "PAR-25-155",
+  "open_date": "2025-01-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-12-11",
+  "source": "nih",
+  "synopsis": "The purpose of this NOFO is to enhance the capability of NCATS CTSA Program KL2 scholars and recipients of re-entry supplements supported by the CTSA Program to conduct research as they complete the transition to fully independent academic translational scientists. These R03 grants will support different clinical and translational science research projects, including pilot and feasibility studies; secondary data analysis of existing data; small, self-contained research projects; development of research methodology; and development of new research technology. Research proposed in the R03 application may or may not include patient-oriented research. The R03 is, therefore, intended to support research projects that can be carried out in a short period of time with limited resources and that provide preliminary data to support submission of a subsequent R01, or equivalent, application.",
+  "title": "Limited Competition: Small Grant Program for the NCATS Clinical and Translational Science Award (CTSA) Program (R03 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-155.html"
+}

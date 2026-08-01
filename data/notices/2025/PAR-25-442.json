@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-02-17",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-02-17",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-02-18",
+  "grants_gov_id": 359154,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2028-02-17",
+  "notice_id": "PAR-25-442",
+  "open_date": "2025-09-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2025-06-17",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit applications for exploratory and early-stage projects that focus on undruggable target classes within intractable human disease. Applicants will identify a human disease relevant undruggable target class and develop a method or agent that is selective for one or more targets within that target class. This NOFO is intended to jumpstart research that demonstrates innovative strategies to modulate targets that cannot be addressed by established therapeutic types, furthering the development of methods and/or agents selective for undruggable target classes.",
+  "title": "Expanding the Target Landscape by Drugging the Undruggable (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-442.html"
+}

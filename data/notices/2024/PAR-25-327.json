@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-10-08",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-08",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-09",
+  "grants_gov_id": 357817,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-10-08",
+  "notice_id": "PAR-25-327",
+  "open_date": "2025-01-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-12-18",
+  "source": "nih",
+  "synopsis": "The Ultra-Rare Gene-Based Therapy (URGenT) network supports Investigational New Drug (IND)-enabling studies and planning activities for First-in-Human (FIH) clinical testing of gene-based or transcript-directed therapeutics, such as oligonucleotides and viral-based gene therapies, for ultra-rare neurological or neuromuscular disorders. The goal of this announcement is to accelerate the development of a promising clinical candidate with robust biological rationale and demonstrated proof of concept (POC) data for the intended approach in a model system relevant to a specified patient population towards an IND filing and the initiation of a clinical trial.",
+  "title": "Translational Efforts to Advance Gene-based Therapies for Ultra-Rare Neurological and Neuromuscular Disorders (U01 - Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-327.html"
+}

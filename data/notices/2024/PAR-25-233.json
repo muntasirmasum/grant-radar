@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 356907,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-233",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-10-30",
+  "source": "nih",
+  "synopsis": "The purpose of this Funding Opportunity Announcement (FOA) is to support studies that will identify, develop, and/or test strategies for overcoming barriers to the adoption, adaptation, integration, scale-up, and sustainability of evidence-based interventions, practices, programs, tools, treatments, guidelines, and policies. Conversely, there is a benefit in understanding circumstances that create a need to stop or reduce (de-implement) the use of practices that are ineffective, unproven, low-value, or harmful. In addition, studies to advance dissemination and implementation research methods and measures are encouraged. All applications must be within the scope of the mission of one of the Institutes/Centers listed above.",
+  "title": "Dissemination and Implementation Research in Health (R03 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-233.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "50000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357805,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PA-25-302",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-12-18",
+  "source": "nih",
+  "synopsis": "The NIH Small Research Grant Program supports small research projects that can be carried out in a short period of time with limited resources. This program supports different types of projects including pilot and feasibility studies; secondary analysis of existing data; small, self-contained research projects; development of research methodology; and development of new research technology. This Notice of Funding Opportunity does not accept applications proposing clinical trial(s).",
+  "title": "NIH Small Research Grant Program (Parent R03 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-302.html"
+}

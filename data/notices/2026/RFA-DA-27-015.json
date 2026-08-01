@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-01",
+  "grants_gov_id": 360380,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DA-27-015",
+  "open_date": "2026-08-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-05-21",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to establish a Center that trains researchers in formal product development for new substance use disorder (SUD) pharmacotherapeutics and to advance the best concepts through initial experiments via technical and financial support.",
+  "title": "Establishing a Center for the Advancement of Substance Use Disorder (SUD) Pharmacotherapeutics through Training and Preclinical Support (U54 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "substance_use",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-015.html"
+}

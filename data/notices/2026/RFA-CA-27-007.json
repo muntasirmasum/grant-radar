@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UG1"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-18",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-19",
+  "grants_gov_id": 358964,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-007",
+  "open_date": "2026-08-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-21",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) is one of three NOFOs for the National Cancer Institute (NCI) Community Oncology Research Program (NCORP). NCORP is designed to enhance generalizability and dissemination of clinical trial and other human subject research study results through accrual in a variety of community settings. The purpose of NCORP is to engage cancer patient populations, those at risk of cancer, and organizations in rigorous studies focused on cancer control, prevention, treatment and care delivery.NCORP is a community-based research network that:Designs and conducts clinical trials and other human subject studies for adults and children in cancer control, prevention, screening, and care delivery, as well as quality-of-life studies embedded within treatment trials;Enhances patient and provider access to treatment and imaging trials conducted under the National Clinical Trials Network (NCTN)NCORP will support the following components that will be individually awarded through the respective Request for Applications (RFAs) indicated below:NCORP Research Bases (UG1 Clinical Trials Required);NCORP Community Sites (UG1 Clinical Trials Not Allowed)(covered by this NOFO); andNCORP Academic Community Sites (UG1 Clinical Trials Not Allowed).The NCORP Community Sites is a healthcare system, a consortium of healthcare systems, or a consortia of community hospitals and/or oncology practices, public hospitals, and/or health care centers that can enhance the representativeness of participants accrued to cancer control, prevention, treatment and care delivery clinical trials and other human subjects research conducted through NCORP and NCTN.",
+  "title": "NCI Community Oncology Research Program (NCORP) Community Sites (UG1 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-007.html"
+}

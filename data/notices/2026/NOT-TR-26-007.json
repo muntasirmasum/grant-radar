@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-TR-26-007",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of NCATS Participation in Notice of Funding Opportunity (NOFO) PA-25-301 NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)",
-  "release_date": "2026-05-27",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-007.html",
-  "issuing_orgs": ["National Center for Advancing Translational Sciences"],
+  "extracted_at": "2026-06-01T00:07:45Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-27",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-TR-26-007",
+  "notice_type": "guide_notice",
+  "primary_ic": "NCATS",
   "raw_html_hash": "ed79e92b7cfa30d1eace6bb69879fe42ef38e6c32058c91c77d89e2a9a994246",
-  "extracted_at": "2026-06-01T00:07:45Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-05-27",
+  "source": "nih",
+  "title": "Notice of NCATS Participation in Notice of Funding Opportunity (NOFO) PA-25-301 NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-007.html"
 }

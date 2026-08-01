@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-10-11",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-12",
+  "grants_gov_id": 359202,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-MH-27-135",
+  "open_date": "2026-09-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-04-29",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to elucidate the key components of the therapeutic effects of rapid-acting psychotropic interventional drugs (RAPIDs) by addressing the methodological challenges involved with these clinical trials. In addition, this NOFO seeks to advance understanding of how RAPIDs and adjunctive psychosocial interventions can be optimally delivered, monitored, and sustained over time to enhance effectiveness and generalizability. The NOFO will support studies designed to enhance the rigor of RAPID clinical trial design, which will ultimately increase the interpretability of the data and the generalizability of the results.",
+  "title": "Addressing Methodological Challenges with Clinical Trials of Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (R01 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-27-135.html"
+}

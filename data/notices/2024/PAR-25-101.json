@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "award_ceiling": "150000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-08-11",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-08-11",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-08-12",
+  "grants_gov_id": 357941,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-08-11",
+  "notice_id": "PAR-25-101",
+  "open_date": "2025-02-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-12-30",
+  "source": "nih",
+  "synopsis": "The National Institute on Drug Abuse (NIDA) Cutting-Edge Basic Research Award (CEBRA) is designed to foster highly innovative or conceptually creative research related to the etiology, pathophysiology, prevention, or treatment of substance use disorders (SUDs). It supports high-risk and potentially high-impact research that is sparse or not included in NIDA's current portfolio that has the potential to transform SUD research. The proposed research should: 1. develop, and/or adapt, revolutionary techniques or methods for addiction research or that show promising future applicability to SUD research; and /or 2. test an innovative and significant hypothesis for which there are scant precedent or preliminary data and which, if confirmed, would transform current thinking.",
+  "title": "Cutting-Edge Basic Research Awards (CEBRA) (R21 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "methods_and_statistics",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-101.html"
+}

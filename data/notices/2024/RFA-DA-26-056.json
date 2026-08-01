@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-12-03",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-12-03",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-12-04",
+  "grants_gov_id": 357545,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-12-03",
+  "notice_id": "RFA-DA-26-056",
+  "open_date": "2025-06-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-12-05",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to invite applications proposing the innovative analysis of existing social science, behavioral, administrative, and neuroimaging data to study the etiology and epidemiology of drug using behaviors (defined as alcohol, tobacco, prescription and other drug) and related disorders, prevention of drug use and HIV, and health service utilization. This FOA encourages the analyses of public use and other extant community-based or clinical datasets to their full potential in order to increase our knowledge of etiology, trajectories of drug using behaviors and their consequences including morbidity and mortality, risk and resilience in the development of psychopathology, strategies to guide the development, testing, implementation, and delivery of high quality, effective and efficient services for the prevention and treatment of drug abuse and HIV.",
+  "title": "Accelerating the Pace of Substance Use Research Using Existing Data (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-26-056.html"
+}

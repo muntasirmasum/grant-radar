@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-07-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-06",
+  "grants_gov_id": 359091,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-073",
+  "open_date": "2026-09-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-04",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) encourages grant applications to support research in cancer epidemiology cohort studies that address specific knowledge gaps in cancer etiology and survivorship. Applications should include hypothesis-based research, support for cohort infrastructure and/or maintenance, continued follow-up, and sharing of data and biospecimen resources as appropriate.",
+  "title": "Research Opportunities in Cancer Epidemiology Cohort Studies (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "epidemiology",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-073.html"
+}

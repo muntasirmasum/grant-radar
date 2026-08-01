@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357946,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-283",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-12-30",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Announcement (NOFO) is to encourage innovative research that will inform and support the delivery of high-quality, continuously improving mental health services to benefit the greatest number of individuals with, or at risk for developing, a mental illness. This announcement invites applications for non-clinical trial R01-level projects that address NIMH strategic priorities for mental health services research.",
+  "title": "Innovative Mental Health Services Research Not Involving Clinical Trials (R01 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-283.html"
+}

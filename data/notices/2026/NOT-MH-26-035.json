@@ -1,20 +1,26 @@
 {
-  "notice_id": "NOT-MH-26-035",
-  "source": "nih",
-  "notice_type": "rescission",
-  "title": "Notice to Rescind NOT-MH-22-310, Notice of Information on NIMH Policy Updates for Career Development Programs (K awards)",
-  "release_date": "2026-05-19",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-035.html",
-  "issuing_orgs": ["National Institute of Mental Health"],
+  "extracted_at": "2026-05-25T00:01:34Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-19",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["NOT-MH-22-310"],
+  "notice_id": "NOT-MH-26-035",
+  "notice_type": "rescission",
+  "primary_ic": "NIMH",
   "raw_html_hash": "c507734c48a00cc4c6356990a9350c4f8489880ce44c3405c243cd50733eec27",
-  "extracted_at": "2026-05-25T00:01:34Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "NOT-MH-22-310"
+  ],
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "title": "Notice to Rescind NOT-MH-22-310, Notice of Information on NIMH Policy Updates for Career Development Programs (K awards)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-035.html"
 }

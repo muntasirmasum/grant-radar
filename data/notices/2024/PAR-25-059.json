@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-10-20",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-20",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-21",
+  "grants_gov_id": 356800,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-10-20",
+  "notice_id": "PAR-25-059",
+  "open_date": "2025-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-10-22",
+  "source": "nih",
+  "synopsis": "This funding opportunity announcement (FOA) encourages research grant applications to develop in vitro and/or ex vivo assays and conduct iterative screening efforts to identify and characterize potential therapeutic agents for neurological or neuromuscular disorders. This FOA is part of a suite of Innovation Grants to Nurture Initial Translational Efforts (IGNITE) to advance projects to the point where they can meet the entry criteria for the Blueprint Neurotherapeutics Network (BPN) or other translational programs.",
+  "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE): Assay Development and Neurotherapeutic Agent Identification (R61/R33 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-059.html"
+}

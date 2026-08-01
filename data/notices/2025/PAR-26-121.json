@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R35"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-05-26",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-05-27",
+  "grants_gov_id": 359862,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-121",
+  "open_date": "2025-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2025-12-11",
+  "source": "nih",
+  "synopsis": "The Maximizing Investigators' Research Award (MIRA) provides support for individual investigators for research within the scientific mission of NIGMS via a single grant to achieve the following:Increase the stability of funding for NIGMS-supported investigators, which could enhance their ability to take on ambitious scientific projects and approach problems more creatively;Increase flexibility for investigators to follow important new research directions within the NIGMS mission as opportunities arise, rather than being bound to specific aims proposed in advance of the studies;More widely distribute funding among the nation's highly talented and promising investigators to increase overall scientific productivity and the chances for important breakthroughs;Reduce the time spent by researchers writing and reviewing grant applications, allowing them to spend more time conducting research;Reduce the administrative burden associated with a PD/PI managing multiple NIGMS research grants; andEnable PD(s)/PI(s) to devote more time and energy to mentoring junior scientists in a more stable research environment.This NOFO invites applications from eligible NIGMS-funded investigators and from New Investigators proposing research that is aligned with NIGMS' scientific mission. The NOFO also allows renewal applications from all current MIRA grantees (including those previously funded as Early-Stage Investigators). Current Early-Stage Investigators (ESIs) should apply through the ESI MIRA NOFO, not this NOFO.",
+  "title": "Maximizing Investigators' Research Award (MIRA) (R35 - Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-121.html"
+}

@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-11-05",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-05",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-06",
+  "grants_gov_id": 356870,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2027-11-05",
+  "notice_id": "PAR-25-149",
+  "open_date": "2025-02-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-10-28",
+  "source": "nih",
+  "synopsis": "This limited competition Notice of Funding Opportunity (NOFO) invites renewal applications of existing NINDS-supported clinical trial cooperative agreement awards (U01) requiring additional time and resources to complete the clinical trial.",
+  "title": "Limited Competition: Renewal of Existing NINDS-Supported Clinical Trial Cooperative Agreement Awards (U01 - Clinical Trials Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-149.html"
+}

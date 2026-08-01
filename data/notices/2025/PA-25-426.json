@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "F30"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-08",
+  "grants_gov_id": 358832,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2028-05-07",
+  "notice_id": "PA-25-426",
+  "open_date": "2025-07-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2025-06-12",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) will support students at institutions with NIH-funded institutional predoctoral dual-degree training programs. The purpose of the Kirschstein-NRSA, dual-doctoral degree, predoctoral fellowship (F30) is to enhance the integrated research and clinical training of promising predoctoral students, who are matriculated in a combined MD/PhD or other dual-doctoral degree training program (e.g. DO/PhD, DDS/PhD, AuD/PhD, DVM/PhD), and who intend careers as physician/clinician-scientists. Candidates must propose an integrated research and clinical training plan and a dissertation research project in scientific health-related fields relevant to the missions of the participating NIH Institutes and Centers. The fellowship experience is expected to clearly enhance the individual's potential to develop into a productive, independent physician/clinician-scientist. This Notice of Funding Opportunity (NOFO) is designed specifically for candidates proposing research that does not involve leading an independent clinical trial, a clinical trial feasibility study, or an ancillary clinical trial, but does allow candidates to propose research experience in a clinical trial led by a sponsor or co-sponsor.",
+  "title": "Ruth L. Kirschstein National Research Service Award (NRSA) Individual Fellowship for Students at Institutions with NIH-Funded Institutional Predoctoral Dual-Degree Training Programs (Parent F30)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-426.html"
+}

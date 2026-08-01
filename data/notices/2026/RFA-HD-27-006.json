@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "P20"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-02",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-03",
+  "grants_gov_id": 359949,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-HD-27-006",
+  "open_date": "2026-09-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2026-06-03",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites exploratory grant applications, hereafter referred to as the Novel Experiential Technologies Assisting Individual learning Hubs or NExT AI Hubs (formerly Learning Disabilities Innovation Hubs), to address the impact of Artificial Intelligence (AI) technologies on developmental outcomes in children diagnosed with or at risk for developing a specific learning disability (SLD) impacting reading, writing, and mathematics. NExT AI Hubs include a single Research Project and a Leadership Core that support the goals and aims of the Hub. This NOFO seeks to serve as a catalyst to 1) speed the maturation of nascent/novel, high-impact, high-risk research that advances understanding of the role AI technology plays in supporting, improving, or limiting the learning, cognitive, and socio-emotional needs of children at risk for or diagnosed with SLDs, 2) build an evidence base for the SLD community to inform policy or practice, and 3) provide project-embedded, career-enhancing research and professional development opportunities to support the next generation of transdisciplinary SLD scientists. This initiative provides opportunities to support planning and building a body of research and corresponding intellectual infrastructure to enable NExT AI investigators to compete for large research and program project opportunities in the future.This NOFO aims to integrate research topics that are of relevance to various research programs at the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) and align with the NICHD Strategic Plan. The NOFO intends to build cross-programmatic, transdisciplinary and cross-cutting scientific research, and critically nurture the development of early career investigators capable of conducting this research.",
+  "title": "Novel Experiential Technologies Assisting Individual Learning (NExT AI) Hubs (P20 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai",
+    "infrastructure",
+    "maternal_child_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-27-006.html"
+}

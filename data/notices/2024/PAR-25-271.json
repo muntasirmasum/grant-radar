@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-13",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-13",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-14",
+  "grants_gov_id": 357493,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2026-11-13",
+  "notice_id": "PAR-25-271",
+  "open_date": "2025-05-23",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-12-02",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated mid-phase clinical trials of natural products(i.e., botanicals, dietary supplements, and probiotics), which have a strong scientific premise to justify further clinical testing. For this NOFO, natural products include promising nutritional regimens that standardize the amount of a specific naturally occurring nutritional compound (e.g., omega-3 fatty acids, anthocyanidins, or polyphenols) and have compelling preliminary evidence. All applications submitted under this NOFO must be supported by sufficient preliminary data demonstrating bioavailability (if applicable) and documentation that the natural product produces a reproducible and measurable impact on target engagement (i.e., measure of the mechanism of action). Only in cases when it is not possible/practical to measure target engagement in the patient population of interest or when there is a fundamental understanding of the products mechanism of action will this preliminary data requirement be waived. Applications submitted to this NOFO should propose a mid-phase clinical trial to do the following: determine the optimal dose or formulation of a given natural product for use in a future multi-site efficacy trial; or determine which patient phenotypes will be responders versus non-responders to the natural product to inform inclusion/exclusion criteria of a future efficacy trial. Clinical trials submitted under this NOFO are expected to be hypothesis based, milestone-driven, and directly related to the research priorities and mission of NCCIH. This NOFO will not support single-site or multi-site efficacy or effectiveness trials, nor will it support trials to test natural products for the treatment or prevention of cancer. Applicants are encouraged to contact the appropriate NCCIH Scientific/Research contact for the area of science for which they are planning to develop an application prior to submitting to this NO",
+  "title": "NCCIH Natural Product Mid Phase Clinical Trial (R01 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-271.html"
+}

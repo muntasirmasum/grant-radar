@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-AI-26-011",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Informational Webinar: Advancing Biomedical Careers: Strategies for Successful F and K Awards NIAID Virtual Outreach activity – May 6th and 7th, 2026",
-  "release_date": "2026-04-16",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-011.html",
-  "issuing_orgs": ["National Institute of Allergy and Infectious Diseases"],
+  "extracted_at": "2026-05-22T19:38:21Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-04-16",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-AI-26-011",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIAID",
   "raw_html_hash": "6d165c3c3d7cfc1f682880ac07b3785eabd1dc47e096d1a2060ae81329e87f7e",
-  "extracted_at": "2026-05-22T19:38:21Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-04-16",
+  "source": "nih",
+  "title": "Notice of Informational Webinar: Advancing Biomedical Careers: Strategies for Successful F and K Awards NIAID Virtual Outreach activity – May 6th and 7th, 2026",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-011.html"
 }

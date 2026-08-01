@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-04-09",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-04-09",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-10",
+  "grants_gov_id": 358552,
+  "issuing_orgs": [
+    "OBSSR"
+  ],
+  "next_due_date": "2027-04-09",
+  "notice_id": "RFA-OD-25-003",
+  "open_date": "2025-02-10",
+  "parent_ic": "NIH",
+  "primary_ic": "OBSSR",
+  "release_date": "2025-01-21",
+  "source": "nih",
+  "synopsis": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs. To accomplish the stated over-arching goal, this FOA will support creative educational activities with a primary focus on: Courses for Skills Development",
+  "title": "Short Courses on Innovative Methodologies and Approaches in the Behavioral and Social Sciences (R25 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-25-003.html"
+}

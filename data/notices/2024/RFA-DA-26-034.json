@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-18",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-11-18",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-19",
+  "grants_gov_id": 357250,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-11-18",
+  "notice_id": "RFA-DA-26-034",
+  "open_date": "2025-10-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-11-20",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) will support research towards understanding and mitigating the deleterious effects of acute exposure to Ultra-Potent Synthetic (UPS) opioids (e.g., fentanyl, carfentanil, nitazenes) and their combinations (fentanyl and xylazine). This NOFO will also support research on the persistent and/or delayed pathophysiological effects after acute exposure to such agents.",
+  "title": "Chemical Countermeasures Research Program (CCRP) Initiative: Basic Research on The Deleterious Effects of Acute Exposure to Ultra-Potent Synthetic (UPS) Opioids (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-26-034.html"
+}

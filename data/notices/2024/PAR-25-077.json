@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-16",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-16",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-17",
+  "grants_gov_id": 356935,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2026-10-16",
+  "notice_id": "PAR-25-077",
+  "open_date": "2025-09-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-11-01",
+  "source": "nih",
+  "synopsis": "This announcement invites applications for basic research projects on chemical warfare agents, toxic industrial chemicals, and pesticides that have primary or secondary effects on the nervous system. Chemical threats are toxic compounds that could be used in a terrorist attack or accidentally released from industrial production, storage, or shipping. Projects supported by this NOFO are expected to generate data that elucidate mechanisms of toxicity of these agents, possible new manifestations of toxic exposures, and potential new targets for therapeutic development.",
+  "title": "CCRP Initiative: NIH Countermeasures Against Chemical Threats (CounterACT) Basic Research on Chemical Threats that Affect the Nervous System (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-077.html"
+}

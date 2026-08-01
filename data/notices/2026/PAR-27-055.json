@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-05-26",
+  "grants_gov_id": 360613,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-055",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "synopsis": "The Institutional Development Award (IDeA) program supports biomedical research capacity building in states that have historically received low levels of NIH funding. The Centers of Biomedical Research Excellence: Expansion/Sustainability Phases (COBRE-E/S) Notice of Funding Opportunity (NOFO) supports the expansion and sustainability of biomedical research centers in IDeA-eligible institutions. These centers will focus on building research capacity in broad scientific areas of strategic importance for the institutions. The goal of COBRE-E is to expand research capacity by growing the institutional faculty base and supporting research projects and core facilities in the new area. The objective of COBRE-S is to sustain the infrastructure by continuing the growth of the faculty base and consolidating research cores. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered.",
+  "title": "Limited Competition: Centers of Biomedical Research Excellence: Expansion/Sustainability Phases (COBRE-E/S) (P30 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-055.html"
+}

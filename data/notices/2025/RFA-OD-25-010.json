@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-09-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-09-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-09-29",
+  "grants_gov_id": 359648,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": "2028-09-28",
+  "notice_id": "RFA-OD-25-010",
+  "open_date": "2025-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2025-12-05",
+  "source": "nih",
+  "synopsis": "The Office of Research Infrastructure Programs (ORIP) encourages grant applications aimed at developing, characterizing, or improving research models of human health and diseases; developing biology based new approach methodologies (NAMs) applicable to human health and diseases; or improving access to information about or generated from the use of models of human disease. The models, including NAMs, and related biological materials developed must be broadly applicable to the scientific interests of two or more NIH Institutes or Centers (ICs) and must evaluate diseases and processes that impact multiple organ systems in order to align with the ORIP\"s NIH-wide mission and programs. Applications must describe the need for and the potential impact of the proposed resources on the research community across a range of scientific disciplines supported by multiple NIH ICs. Applications to develop models that relate strictly to a specific disease or a select area of research or that do not have a broad impact on the NIH-wide research community will not be accepted. Projects that predominantly address the research interests of one NIH IC but are only peripherally related to the research interests of other ICs will also not be accepted, if submitted in response to this notice of funding opportunity (NOFO).",
+  "title": "Resource-Related Research Projects for Development of Models and Related Materials for Studying Human Health and Diseases (R24 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-25-010.html"
+}

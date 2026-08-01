@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "K07"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-12",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-13",
+  "grants_gov_id": 357000,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2027-11-12",
+  "notice_id": "PAR-24-321",
+  "open_date": "2025-01-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "The objective of the NIA Academic Leadership Career Award (K07) is to provide support for established investigators who have the expertise and leadership skills to enhance aging and/or Alzheimer's Disease (AD) and Alzheimers Disease Related Dementias (ADRD)research capacity within their academic institution. Through this award, investigators will endeavor to develop research and educational infrastructure, mentorship, and career development activities in support of new or emerging areas of aging and/or AD/ADRDresearch. These may include, but are not limited to, courses, curricula, research support, pilot funding, travel awards, visiting scholars, or networks. This Notice of Funding Opportunity (NOFO) is designed specifically for applicants proposing research that does not involve leading an independent clinical trial, a clinical trial feasibility study, or an ancillary clinical trial. Applicants to this FOA are permitted to propose research experience in a clinical trial led by another investigator.",
+  "title": "NIA Academic Leadership Career Award (K07 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "infrastructure",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-321.html"
+}

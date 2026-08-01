@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "DP1"
+  ],
+  "award_ceiling": "700000",
+  "award_floor": "700000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-10",
+  "grants_gov_id": 360986,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-001",
+  "open_date": "2026-08-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-06-29",
+  "source": "nih",
+  "synopsis": "The NIH Director\"s Pioneer Award supports individual scientists of exceptional creativity who propose bold and highly innovative research projects with the potential to produce a major impact on broad, important areas relevant to the mission of NIH. To be considered pioneering, the proposed research must reflect substantially different scientific directions from those already being pursued in the investigator\"s research program or elsewhere. Applications in all topics relevant to the broad mission of NIH are welcome. Research may involve basic, translational, or clinical research. The NIH Director\"s Pioneer Award is a component of the High-Risk, High-Reward Research (HRHR) program of the NIH Common Fund.",
+  "title": "NIH Director&rsquo;s Pioneer Award (DP1 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-001.html"
+}

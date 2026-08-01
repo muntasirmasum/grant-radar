@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "award_ceiling": "150000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 358118,
+  "issuing_orgs": [
+    "National Eye Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-358",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NEI",
+  "release_date": "2025-01-10",
+  "source": "nih",
+  "synopsis": "The NEI supports large-scale clinical vision research projects, including randomized clinical trials and epidemiologic studies on eye/vision conditions. At the time of submission, applications requesting support for these activities are expected to provide detailed information regarding the study rationale, design, analytic methods, protocols and procedures, facilities and environment, organizational structure, and collaborative arrangements. This information is best conveyed in a study protocol and Manual of Procedures (MOP), the development of which represents a costly and time-consuming activity. This clinical research planning grant funding opportunity supports applicants in their planning efforts to conduct collaborative clinical research. The grant may be used to support the development of a study protocol and MOP, as well as to conduct preliminary studies to refine study procedures or document recruitment potential. The grant must not be used to generate data on the effects of a proposed intervention. This NEI NOFO is applicable to both epidemiologic and clinical trial research studies.",
+  "title": "NEI Clinical Research Study Planning Grant Program (R34 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-358.html"
+}

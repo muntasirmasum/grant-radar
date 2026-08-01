@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-08-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-08-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-08-26",
+  "grants_gov_id": 358879,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": "2028-08-25",
+  "notice_id": "PAR-25-322",
+  "open_date": "2025-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2025-08-25",
+  "source": "nih",
+  "synopsis": "The Stephen I. Katz Early Stage Investigator Research Project Grant supports an innovative project that represents a change in research direction for an early stage investigator (ESI) and for which no preliminary data exist. Applications submitted to this Notice of Funding Opportunity (NOFO) must not include preliminary data. Applications must include a separate attachment describing the change in research direction.",
+  "title": "Stephen I. Katz Early Stage Investigator Research Project Grant (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-322.html"
+}

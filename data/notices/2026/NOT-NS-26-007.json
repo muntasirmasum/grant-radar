@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-NS-26-007",
-  "source": "nih",
-  "notice_type": "change",
-  "title": "Notice of Change: NINDS Expiration of PA-25-150: Joint NINDS/NIMH Exploratory Neuroscience Research Grant (R21) Clinical Trial Not Allowed)",
-  "release_date": "2026-03-31",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-007.html",
-  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "extracted_at": "2026-05-22T19:38:18Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-03-31",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-NS-26-007",
+  "notice_type": "change",
+  "primary_ic": "NINDS",
   "raw_html_hash": "7a1809c5b7a7d880dd033d127083f72ac0e321f7ebf351437d71c13bda2501f1",
-  "extracted_at": "2026-05-22T19:38:18Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-03-31",
+  "source": "nih",
+  "title": "Notice of Change: NINDS Expiration of PA-25-150: Joint NINDS/NIMH Exploratory Neuroscience Research Grant (R21) Clinical Trial Not Allowed)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-007.html"
 }

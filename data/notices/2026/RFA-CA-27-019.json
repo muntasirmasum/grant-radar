@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "300000",
+  "award_floor": "50000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-10-19",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-10-20",
+  "grants_gov_id": 359892,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-019",
+  "open_date": "2026-06-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-21",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) solicits applications for the development of enabling informatics technologies to improve the acquisition, management, analysis, and dissemination of data and knowledge across the cancer research continuum including cancer biology, cancer treatment and diagnosis, early cancer detection, risk assessment and prevention, cancer control and epidemiology. As a component of the NCI's Informatics Technology for Cancer Research (ITCR) Program, this NOFO is focused on early-stage development from prototyping to initial dissemination. Early-stage development is defined for the purpose of this NOFO as initial tool development or the significant modification of existing tools for new applications. The central mission of ITCR is to promote research-driven informatics technology across the development lifecycle to address priority needs in cancer research. In order to be successful, proposed development plans must have a clear rationale for why the proposed technology is needed and how it will benefit the cancer research field. In addition, mechanisms to solicit feedback from driving research projects and other users throughout the development process must be included.This NOFO encourages applications that involve the development of new, user-friendly informatics technologies that support a wide range of cancer research, including discovery biology, population studies, as well as clinical and translational research. The emphasis is on uniqueness and potential impact on cancer research. In addition, all projects proposed in response to this NOFO must involve the following general attributes:Potential to advance driving cancer research projects and the cancer research field in generalNovel informatics capabilities for the targeted cancer research domainCompelling plans and processes for engaging end users to evaluate and apply the tool or resourceA realistic timeline and milestones for technology development",
+  "title": "Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-019.html"
+}

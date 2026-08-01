@@ -1,0 +1,25 @@
+{
+  "activity_codes": [
+    "R35"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-02-06",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-02-07",
+  "grants_gov_id": 360593,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-032",
+  "open_date": "2026-09-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-05-12",
+  "source": "nih",
+  "synopsis": "The Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators (ESIs) provides support for ESIs with a program of research that aligns with the NIGMS mission.MIRA distributes funding among promising investigators across the country. The goal is to boost scientific productivity and the chances for important breakthroughs.Through this program, investigators can:Receive independent research funding early to start and sustain strong research careers.Explore new, unique research areas in the NIGMS mission.Take on ambitious, creative projects.Shift focus to include emerging techniques and technologies as needed.Devote more time to mentoring trainees in a stable research environment.",
+  "title": "Maximizing Investigators&rsquo; Research Award (MIRA) for Early Stage Investigators (ESI)",
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-032.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "350000",
+  "clinical_trials": "Required",
+  "close_date": "2026-11-17",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-17",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-18",
+  "grants_gov_id": 357301,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2026-11-17",
+  "notice_id": "PAR-25-267",
+  "open_date": "2025-01-20",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-11-21",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) invites applications for investigator-initiated clinical trials of complementary and integrative health approaches with physical and/or psychological therapeutic inputs (often called mind and body interventions) in NCCIH-designated areas of high research priority. Applications submitted under this NOFO are expected to propose a multisite feasibility clinical trial that will provide new information that is scientifically necessary for the planning and conduct of a subsequent clinical efficacy or effectiveness study, pragmatic trial, or dissemination and implementation trial within NCCIHs mission. NCCIH expects that applications to this NOFO will describe the planned future clinical trial and in so doing demonstrate that the proposed (R01) research is scientifically necessary to design or plan the subsequent fully powered, full-scale clinical trial. Under this R01, the data collected should be used to fill gaps in scientific knowledge, including, but not limited to the following: assessing whether the intervention can be delivered with fidelity across sites; demonstrating feasibility of recruitment, accrual, and randomization of participants across sites; demonstrating participant adherence to the intervention, as well as retention of participants throughout the study across sites; refining and assessing the feasibility of protocolized multimodal interventions, and/or demonstrating feasibility of data collection across sites in preparation for a future fully powered, multisite efficacy or effectiveness trial. The need for multisite feasibility trials is expected to be justified by sufficient preliminary data from previous single site feasibility or acceptability trial(s) or the published literature. The data collected should be used to fill gaps in scientific knowledge and be necessary to develop a competitive fully powered multisite clinical trial that has the potential to make a significant impact on public health.",
+  "title": "NCCIH Multi-Site Feasibility Clinical Trials of Mind and Body Interventions (R01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-267.html"
+}

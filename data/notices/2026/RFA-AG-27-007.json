@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "1500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-29",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-30",
+  "grants_gov_id": 359651,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-AG-27-007",
+  "open_date": "2026-08-29",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2026-06-26",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to support the next 5-year award period of the Clinician-Scientist Transdisciplinary Aging Research Coordinating Center (Clin-STAR CC), whose mission is to serve as a national resource for clinician-investigators across specialties and disciplines who are focusing their careers on aging research. This NOFO intends to build upon NIA's substantial investments to foster the development of clinician-scientists across specialties and disciplines. The specific goals of this initiative are to convey scientific and research knowledge on aging research; foster networking and collaboration between clinician-scientist leaders in aging research and clinician-investigators across specialties and disciplines who wish to focus on aging research; provide mentoring and career development support for emerging clinician-scientists committed to pursuing aging research in their clinical specialty or discipline; and advance interdisciplinary research projects in aging. Ultimately, the Clin-STAR CC is intended to provide a multi-faceted national research platform leading to improved patient-centered care for older adults across specialties and disciplines.",
+  "title": "Renewal of the Clinician-Scientists Transdisciplinary Aging Research (Clin-STAR) Coordinating Center (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-27-007.html"
+}

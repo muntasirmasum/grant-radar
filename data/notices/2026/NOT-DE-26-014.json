@@ -1,20 +1,25 @@
 {
-  "notice_id": "NOT-DE-26-014",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of NIDCR Pre-Application Webinar and FAQs for Community-Based Participatory Research Initiative (PAR-27-015 and RFA-DE-27-001)",
-  "release_date": "2026-05-19",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DE-26-014.html",
-  "issuing_orgs": ["National Institute of Dental and Craniofacial Research", "Office of AIDS Research"],
+  "extracted_at": "2026-05-25T00:01:34Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research",
+    "Office of AIDS Research"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-19",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-DE-26-014",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIDCR",
   "raw_html_hash": "92da4376c4b7ec4f27a3b8eba9099b367697aeebd01cce74839d2e00dcc37eae",
-  "extracted_at": "2026-05-25T00:01:34Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "title": "Notice of NIDCR Pre-Application Webinar and FAQs for Community-Based Participatory Research Initiative (PAR-27-015 and RFA-DE-27-001)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DE-26-014.html"
 }

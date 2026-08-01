@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "DP1"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-09-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-09-26",
+  "grants_gov_id": 358991,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-026",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-06-09",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support innovative basic, clinical, translational, and implementation science research relevant to HIV and substance use. This initiative encourages high risk high impact transformative studies that advance knowledge and strategies for HIV prevention, diagnosis, treatment and virus suppression in people who use substances and/or have a substance use disorder.",
+  "title": "Avant Garde/Avenir Awards for Investigators Conducting High Risk/High Reward Research on HIV and Substance Use (or Substance Use Disorders) (DP1 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-026.html"
+}

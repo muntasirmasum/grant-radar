@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "DP5"
+  ],
+  "award_ceiling": "350000",
+  "award_floor": "350000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-11",
+  "grants_gov_id": 360988,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-004",
+  "open_date": "2026-08-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-06-26",
+  "source": "nih",
+  "synopsis": "The NIH Director's Early Independence Award helps talented new researchers begin their own independent research program soon after finishing their doctoral degree or clinical training, without first doing postdoctoral training.The award accepts applications on any topic fitting the NIH mission. It is part of the NIH Common Fund's High-Risk, High-Reward Research program.",
+  "title": "NIH Director&rsquo;s Early Independence Award (DP5 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-004.html"
+}

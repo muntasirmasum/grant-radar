@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-AI-26-006",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Early Expiration of PAR-25-099, \"Planning for Product Development Strategy (R34 Clinical Trial Not Allowed)\"",
-  "release_date": "2026-02-19",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-006.html",
-  "issuing_orgs": ["National Institute of Allergy and Infectious Diseases"],
+  "extracted_at": "2026-05-22T19:38:02Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-02-19",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-AI-26-006",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIAID",
   "raw_html_hash": "562d0c1c82dbe1fda1ea791e690bf6067f586a6e7b70bf4075aba9d951056934",
-  "extracted_at": "2026-05-22T19:38:02Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-02-19",
+  "source": "nih",
+  "title": "Notice of Early Expiration of PAR-25-099, \"Planning for Product Development Strategy (R34 Clinical Trial Not Allowed)\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-006.html"
 }

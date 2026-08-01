@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K22"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-07-12",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-07-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-07-13",
+  "grants_gov_id": 355399,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-07-12",
+  "notice_id": "PAR-24-211",
+  "open_date": "2024-09-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-07-15",
+  "source": "nih",
+  "synopsis": "The purpose of the NHLBI Career Transition Award (K22) program is to provide highly qualified postdoctoral fellows in the NHLBI Division of Intramural Research the opportunity to transition their research programs as new investigators to extramural institutions. To achieve these objectives, the NHLBI Career Transition Award will support two phases of research: a mentored intramural phase (up to two years) and an extramural phase (three years), for a total of five years of combined support. Transition from the intramural phase of support to the extramural phase is not automatic. Approval of the transition will be based on the success of the awardee's research program during the mentored phase as determined by an NHLBI progress review, which will include an evaluation of a research plan to be carried out at the extramural institution.",
+  "title": "NHLBI Career Transition Award for Intramural Postdoctoral Fellows and Research Trainees (K22 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-211.html"
+}

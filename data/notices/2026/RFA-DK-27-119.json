@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-02-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-11",
+  "grants_gov_id": 360436,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-119",
+  "open_date": "2026-08-29",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-06-16",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications for Silvio O. Conte Digestive Diseases Research Core Centers (DDRCCs). The DDRCCs are part of an integrated program of digestive and liver diseases research support provided by the NIDDK. The purpose of this Centers program is to bring together basic and clinical investigators to enhance communication, collaboration, and effectiveness of ongoing research related to digestive and/or liver diseases within the NIDDK's mission. DDRCCs are based on the core concept, whereby shared resources aimed at fostering productivity, synergy, and new research ideas among the funded investigators are supported in a cost-effective manner. Each proposed DDRCC must be organized around a central theme that reflects the focus of the digestive or liver diseases research of the Center members. The central theme must be within the primary mission of the NIDDK, and not thematic areas for which other NIH Institutes or Centers are considered the primary source of NIH funding.",
+  "title": "Silvio O. Conte Digestive Diseases Research Core Centers (P30-Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-119.html"
+}

@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "250000",
+  "clinical_trials": "Optional",
+  "close_date": "2029-03-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-03-06",
+  "grants_gov_id": 359003,
+  "issuing_orgs": [
+    "National Library of Medicine"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-040",
+  "open_date": "2026-04-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NLM",
+  "release_date": "2026-02-11",
+  "source": "nih",
+  "synopsis": "The National Library of Medicine (NLM) seeks applications for research projects that drive groundbreaking innovation and advanced development in the fields of bioinformatics, translational bioinformatics, and computational biology. The primary goal of this initiative is to support the creation and implementation of cutting-edge methods, tools, and approaches that can transform the landscape of biomedical data science. This NOFO aims to address the growing need to leverage transformative technologies — such as artificial intelligence (AI), machine learning, and large-scale computational platforms — to extract actionable knowledge from vast, diverse, and complex biological datasets. By enabling more effective interpretation and integration of multi-dimensional biological and biomedical data, this research will ultimately contribute to improving individual and population health outcomes.",
+  "title": "Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-040.html"
+}

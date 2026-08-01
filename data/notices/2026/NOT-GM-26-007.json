@@ -1,0 +1,23 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "NOT-GM-26-007",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-07-29",
+  "source": "nih",
+  "title": "Notice of Information: Changes to NIGMS Institutional Basic Biomedical and Clinician Scientist Training Programs",
+  "topics": [
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-007.html"
+}

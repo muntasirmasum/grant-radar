@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-05",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-05",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-06",
+  "grants_gov_id": 357135,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": "2026-11-05",
+  "notice_id": "PAR-25-255",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2024-11-15",
+  "source": "nih",
+  "synopsis": "The goal of this NOFO is to support applications for novel theory and methods development that enable better understanding of how genetic and non-genetic factors contribute to complex trait variation across individuals, families, and populations. Approaches should be interdisciplinary drawing from the natural and social sciences, account for interdependencies across scales of biological, social, and ecological organization, and make extensive use of theory, modeling, and validation with available large-scale datasets.",
+  "title": "Developing novel theory and methods for understanding the genetic architecture of complex human traits (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-255.html"
+}

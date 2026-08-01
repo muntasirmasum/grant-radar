@@ -1,20 +1,27 @@
 {
-  "notice_id": "NOT-DA-26-012",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Native Collective Research Effort to Enhance Wellness (N CREW) Program: Addressing Overdose, Substance Use, Mental Health, and Pain – Advancing Native Research Projects",
-  "release_date": "2026-05-19",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-012.html",
-  "issuing_orgs": ["National Institute on Drug Abuse", "National Institute of Neurological Disorders and Stroke", "National Institute on Minority Health and Health Disparities", "National Center for Advancing Translational Sciences"],
+  "extracted_at": "2026-05-25T00:01:33Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute on Drug Abuse",
+    "National Institute of Neurological Disorders and Stroke",
+    "National Institute on Minority Health and Health Disparities",
+    "National Center for Advancing Translational Sciences"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-19",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-DA-26-012",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIDA",
   "raw_html_hash": "4c08ec713f8f7cbfcf76b280bfad41a09b317a1b39551eafe8dbf1fd91d37661",
-  "extracted_at": "2026-05-25T00:01:33Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "title": "Native Collective Research Effort to Enhance Wellness (N CREW) Program: Addressing Overdose, Substance Use, Mental Health, and Pain – Advancing Native Research Projects",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-012.html"
 }

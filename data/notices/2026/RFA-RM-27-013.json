@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-19",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-20",
+  "grants_gov_id": 359666,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-013",
+  "open_date": "2026-09-19",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-06-30",
+  "source": "nih",
+  "synopsis": "The overarching goal of this notice of funding opportunity (NOFO) and its companion opportunities is to establish the Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) Program to support development of innovative, reliable, cost-effective, and sustainable multimodal AI-based clinical decision support (CDS) tools. PRIMED-AI CDS tools are based on the integration of clinical imaging with other types of multimodal health data to enhance care for patients with a wide range of health conditions. The PRIMED-AI Program seeks to catalyze the adoption of AI-based CDS tools into clinical workflows to enable novel personalized medicine strategies that address significant health challenges.The purpose of this NOFO is to catalyze the translation of Artificial Intelligence (AI)-enabled, image-centered, multimodal CDS tools, developed as Software as a Medical Device, from training and testing of prototypes towards clinical applications that address unmet health challenges in precision medicine. These projects are expected to have high potential for demonstrable, positive impact on patient outcomes and/or healthcare processes.",
+  "title": "Model-to-Clinic (M2C) for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (UG3/UH3, Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "data_science_ai",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-013.html"
+}

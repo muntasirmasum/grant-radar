@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-02-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2029-02-10",
+  "grants_gov_id": 362672,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DA-27-016",
+  "open_date": "2026-06-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-06-04",
+  "source": "nih",
+  "synopsis": "The goal of this notice of funding opportunity (NOFO) is to address the opioid crisis and/or overdose events by supporting action-oriented research, accelerating the translation of addiction epidemiology, prevention, treatment services, and recovery research to practice. Proposed studies may target the individual, provider, organizational, community, or system level. This initiative prioritizes replicable and scalable approaches for accelerating the routine use of effective, evidence-based prevention, treatment and recovery interventions and services. The translation of research to practice and research relevant to chronic pain comorbid with substance use is also a priority. Research may deploy a variety of methods and approaches, including but not limited to identifying and characterizing malleable factors, developing and testing interventions and implementation strategies, deploying and testing collaborative data science approaches, and/or developing and testing approaches that integrate the collaboration of researchers and decision-makers at any levels (e.g., clinical-, health system-, public health- or policy-level).",
+  "title": "HEAL Initiative: Translating Addiction Epidemiology, Prevention, Treatment, and Recovery Research into Practice (R61/R33 - Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "data_science_ai",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-016.html"
+}

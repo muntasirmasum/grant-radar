@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "P01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-05-26",
+  "grants_gov_id": 359732,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-082",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-05-07",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) invites submission of investigator-initiated Program Project (P01) applications. The proposed Programs should address scientific areas relevant to the NIAID mission including: biology and pathogenesis of infectious microbes, including HIV; host-microbe interactions; mechanisms regulating immune system development and function across the lifespan, and in response to infectious pathogens; immune dysfunction resulting in allergy, asthma, autoimmunity, immunodeficiency, or transplant rejection; and translational research to develop vaccines, therapeutics, and diagnostics to prevent and treat infectious and immune-mediated diseases. Each application submitted to this NOFO must include at least two related, synergistic Research Projects that share a common central theme, focus, and/or overall objective; and an Administrative Core. An application may include Scientific Core(s), if needed for the proposed research.",
+  "title": "NIAID Investigator Initiated Program Project Applications (P01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-082.html"
+}

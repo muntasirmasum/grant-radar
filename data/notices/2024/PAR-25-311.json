@@ -1,0 +1,38 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "award_ceiling": "6250000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-11-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-16",
+  "grants_gov_id": 357730,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": "2027-11-15",
+  "notice_id": "PAR-25-311",
+  "open_date": "2025-02-15",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2024-12-16",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to leverage NICHD clinical research Network infrastructure relevant to infants, children, women, pregnant and lactating women, and persons with disabilities to conduct innovative, multisite, investigator-initiated clinical trials and observational studies. This NOFO will utilize a bi-phasic (UG3/UH3), milestone-driven mechanism consisting of a start-up phase (UG3) and a full enrollment and clinical trial implementation phase (UH3). Applications submitted in response to this NOFO must address specific aims and milestones for both the UG3 and UH3 phases. A UG3 project (phase I) that meets its milestones will be administratively considered by NICHD and prioritized for transition to the UH3 award (phase II). This NOFO provides an opportunity to leverage NICHD clinical research Network infrastructure as a platform for investigator-initiated innovative hypotheses by any investigator in the extramural community. Applications must be submitted as investigator-initiated, multi-Project Director/Principal Investigator (PD/PI) grant applications in conjunction with the respective NICHD-supported Network Data Coordinating Center (DCC), or equivalent as determined by the NICHD.",
+  "title": "Leveraging Network Infrastructure to Conduct Innovative Research for Women, Children, Pregnant and Lactating Women, and Persons with Disabilities (UG3/UH3 - Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "epidemiology",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-311.html"
+}

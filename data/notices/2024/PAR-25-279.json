@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-05-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 357378,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PAR-25-279",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2024-11-25",
+  "source": "nih",
+  "synopsis": "The purpose of this funding opportunity is to encourage multidisciplinary investigators to develop new approaches or apply existing approaches in novel ways to measure brain activity, connectivity, genomics, or other aspects across the age spectrum of neurodevelopment. The overarching goal is to extend our understanding of brain development and aging, including studies of the neurodevelopmental origins of later health and disease. Research can include healthy human participants of any age, specific clinical groups such as those with cognitive, motor, or affective regulation challenges, and/or animal research on these domains of function. The studies can focus on longitudinal neuroanatomical or functional changes at any level, including genetics/genomics, single cells, connectomics, neural population activity patterns, and others. This funding opportunity is intended to encourage technological and conceptual innovation to improve repeated measures across longer epochs of the lifespan, to better predict outcomes at later ages.",
+  "title": "New Approaches for Measuring Brain Changes Across Longer Timespans (R01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-279.html"
+}

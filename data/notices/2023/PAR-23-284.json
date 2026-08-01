@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "P50"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 350299,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-23-284",
+  "open_date": "2023-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2023-09-22",
+  "source": "nih",
+  "synopsis": "Through this funding opportunity announcement (FOA), the National Cancer Institute (NCI) invites applications for P50 Research Center Grants for Specialized Programs of Research Excellence (SPORE). The program will fund P50 SPORE grants to support state-of-the-art investigator-initiated translational research that will contribute to improved prevention, early detection, diagnosis, and treatment of an organ-specific cancer or a highly related group of cancers. For the purpose of this FOA, a group of highly related cancers are those that are derived from the same organ system, such as gastrointestinal, neuroendocrine, head and neck, and other cancers. Other programmatically appropriate groups of cancers may include those centered around a common biological mechanism critical for promoting tumorigenesis and/or cancer progression in organ sites that belong to different organ systems. For example, a SPORE may focus on cancers caused by the same infectious agent or cancers promoted and sustained by dysregulation of a common signaling pathway. In addition, a SPORE may focus on cross-cutting themes such as pediatric cancers or cancer health disparities. The research supported through this program must be translational and must stem from research on human biology using cellular, molecular, structural, biochemical, and/or genetic experimental approaches. SPORE projects must have the goal of reaching a translational human endpoint within the project period of the grant.",
+  "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2024, 2025, and 2026 (P50 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "health_disparities"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-284.html"
+}

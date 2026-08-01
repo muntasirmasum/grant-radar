@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "T32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 350485,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-23-228",
+  "open_date": "2023-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2023-10-05",
+  "source": "nih",
+  "synopsis": "The goal of the NIGMS Predoctoral Basic Biomedical Sciences Research Training Program is to develop a pool of well-trained scientists available to address the Nations biomedical research agenda. Specifically, this funding opportunity announcement provides support to eligible, domestic institutions to develop and implement effective, evidence-informed approaches to biomedical graduate training and mentoring that will keep pace with the rapid evolution of the biomedical research enterprise. NIGMS expects that the proposed research training programs will incorporate didactic, research, and career development elements to prepare trainees for careers that will have a significant impact on the health-related research needs of the Nation.",
+  "title": "National Institute of General Medical Sciences Predoctoral Basic Biomedical Sciences Research Training Program (T32)",
+  "topics": [
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-228.html"
+}

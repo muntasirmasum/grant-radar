@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-10-08",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-08",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-09",
+  "grants_gov_id": 357307,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-10-08",
+  "notice_id": "PAR-25-248",
+  "open_date": "2025-01-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-21",
+  "source": "nih",
+  "synopsis": "This Funding Opportunity Announcement (FOA) encourages the submission of applications that propose to advance research in cancer etiology and early detection biomarkers, utilizing the advantages of the unique biorepository resources of the NCI-sponsored Prostate, Lung, Colorectal, and Ovarian Cancer (PLCO) Screening Trial. The PLCO Biorepository offers high-quality, prospectively collected, serial pre-diagnostic blood samples from the PLCO screened arm participants, and a onetime collection of buccal cells from the control arm participants. Available data associated with the biospecimens includes demographic, diet, lifestyle, smoking, screening results, and clinical data. This FOA supports a wide range of cancer research including, but not limited to, biochemical and genetic analyses of cancer risk, as well as discovery and validation of early detection biomarkers. The proposed research project must involve use of PLCO biospecimens; additionally, it should also take advantage of the unique characteristics of the PLCO biospecimens. Research projects that do not involve the use of PLCO biospecimens will not be supported under this FOA.",
+  "title": "Utilizing the PLCO Biospecimens Resource to Bridge Gaps in Cancer Etiology and Early Detection Research (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-248.html"
+}

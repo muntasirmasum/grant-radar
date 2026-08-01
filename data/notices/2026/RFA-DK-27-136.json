@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-10",
+  "grants_gov_id": 360441,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-136",
+  "open_date": "2026-09-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-06-08",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications for a Research Coordinating Center (RCC) to participate in a consortium of clinical centers that will test anti-obesity medication (AOM) treatment strategies for youth with obesity that maximize benefits and minimize risks of AOM use. Such intervention strategies should support the promotion of healthy growth and development; adequate nutritional status/intake, healthy eating and physical activity behaviors; mental health and well-being (e.g., body image, self-esteem, mood, etc.), and quality of life and be feasible to implement in clinical care settings. Priority areas include testing strategies to determine optimal developmental stage for AOM initiation, rate and amount of weight loss, AOM class, dose, frequency, and duration, and content and intensity of adjunct lifestyle therapies that may be imperative to ensure normal psychological and physical development and to potentially avoid lifelong dependence on AOMs. Investigators should also evaluate potential predictors of response/ nonresponse to various treatment strategies under evaluation. The clinical centers may conduct independent or multicenter trials but will collaborate on the development of protocols, use of common measures and data elements, use of a central laboratory and standardized procedures to collect data and biospecimens, and data analyses and manuscriptsThe RCC will lead, manage, and harmonize efforts for the Consortium including 1) providing management and administrative support; 2) providing leadership and expertise on statistical design and analysis, 3) providing research coordination with a central laboratory, 4) harmonizing data collection methods and use of common data elements, 5) developing the database; 6) conducting data management and data analyses for Consortium studies; and 7) fostering research collaborations. This NOFO uses a cooperative agreement mechanism (U24) and runs in parallel with a companion NOFO (RFA-DK-27-121).",
+  "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Research Coordinating Center (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "mental_health",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-136.html"
+}

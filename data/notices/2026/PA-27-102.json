@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R41",
+    "R42"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-04-05",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2027-04-06",
+  "grants_gov_id": 359757,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-27-102",
+  "open_date": "2026-08-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "The Small Business Technology Transfer (STTR) grant program helps United States small business concerns (SBCs) that partner with a nonprofit research institution bring scientific innovations to the marketplace. The STTR program supports feasibility studies to later stage research and development (R&D) needed to develop a commercial product.",
+  "title": "NIH Small Business Technology Transfer Grant (Parent STTR [R41/R42] Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-27-102.html"
+}

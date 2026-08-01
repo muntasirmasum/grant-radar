@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 351234,
+  "issuing_orgs": [
+    "National Institute on Alcohol Abuse and Alcoholism"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-24-071",
+  "open_date": "2023-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAAA",
+  "release_date": "2023-11-30",
+  "source": "nih",
+  "synopsis": "The purpose of the Resource-Related Research Projects (R24) grant is to support investigator-initiated resources designed to provide materials and services to support and advance biomedical research on a national basis. An R24 resource grant mechanism is a non-hypothesis-driven activity to provide data, materials, tools, or services that are essential to making timely, high quality, and cost-efficient progress in a field. Hypothesis-driven research applications should not be submitted in response to this program announcement but to another mechanism that encourages this type of research. The resource should be available to any qualified investigator, and should be highly quality controlled, and not duplicate resources available commercially or through other sources. Resources should be designed to provide services to the broad alcohol research community and should not be limited by any specific regional focus.",
+  "title": "Alcohol Research-Related Resource Award (R24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-071.html"
+}

@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "C06"
+  ],
+  "award_ceiling": "8000000",
+  "award_floor": "2000000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-01-26",
+  "grants_gov_id": 359701,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-106",
+  "open_date": "2026-03-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-03-06",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) solicits applications to develop shared-use research facilities or research-supporting facilities that enable collaborative research and benefit broad research communities at large. The NOFO supports two existing construction programs: the Biomedical Research Facilities (BRF) program and the HIV/AIDS Research Facilities (HRF) program.The BRF program supports the construction or modernization of biomedical research facilities that advance basic, translational, clinical, or behavioral science research in all areas. Intended facilities include shared research spaces, core facilities, biorepositories, or other shared-use resource facilities that serve a broad scientific community with a significant, long-term impact on biomedical research.The HRF program funds the development of HIV/AIDS research or research-supporting resources that the empowered research activities must align with the NIH Office of AIDS Research (OAR) priorities, as outlined at OAR HIV/AIDS Research Priorities, including research focusing on the long-term health consequences of HIV infection.NIH encourages applications from institutions across all geographic regions of the country, including Institutions of Emerging Excellence (IEE) in biomedical research, to strengthen the nation\"s research capacity.",
+  "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-106.html"
+}

@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R43",
+    "R44"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-04-05",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2027-04-06",
+  "grants_gov_id": 359671,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-27-100",
+  "open_date": "2026-08-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "The Small Business Innovation Research (SBIR) program helps United States small business concerns (SBCs) bring scientific innovations to the marketplace. The SBIR program supports feasibility studies to later research and development (R&D) needed to develop a commercial product.",
+  "title": "NIH, CDC and FDA Small Business Innovation Research Grant (Parent SBIR [R43/R44] Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-27-100.html"
+}

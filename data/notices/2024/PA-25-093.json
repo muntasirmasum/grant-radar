@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 356637,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PA-25-093",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2024-10-04",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) intends to support fundamental research that will contribute to basic understanding of skin injuries caused by chemicals that have been identified as public health threats, with an emphasis on investigating the commonalities of such injuries and identifying potential shared signaling pathways and therapeutic targets for medical countermeasure development.",
+  "title": "Limited Competition: CCRP Initiative: Promoting a Basic Understanding of Chemical Threats to Skin (R34 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-093.html"
+}

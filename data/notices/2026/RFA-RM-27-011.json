@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-10",
+  "grants_gov_id": 359271,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-011",
+  "open_date": "2026-09-09",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-06-30",
+  "source": "nih",
+  "synopsis": "The overarching goal of this notice of funding opportunity (NOFO) and its companion opportunities is to establish the Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) Program to support development of innovative, reliable, cost-effective, and sustainable multimodal AI-based clinical decision support (CDS) tools. PRIMED-AI CDS tools are based on the integration of clinical imaging with other types of multimodal health data to enhance care for patients with a wide range of health conditions. The PRIMED-AI Program seeks to catalyze the adoption of AI-based CDS tools into clinical workflows to enable novel personalized medicine strategies that address significant health challenges. The purpose of this NOFO is to solicit applications for the design, development, and preliminary validation of robust frameworks for the application of multimodal-artificial intelligence (AI) models for clinical use. Frameworks developed through these awards would populate a \"playbook\", defined as a collection of actionable guidelines, standardized protocols, and/or standard operating procedures (SOPs) for reliable and effective development and deployment of multimodal AI tools. It is expected that the frameworks delineated in this playbook will directly address PRIMED-AI objectives and needs, while also remaining flexible enough to enable sufficient extensibility and interoperability for use across a broad spectrum of multimodal biomedical AI applications, both internal and external to the PRIMED-AI Program.",
+  "title": "Development and Testing of a Multi-use Frameworks Playbook for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-011.html"
+}

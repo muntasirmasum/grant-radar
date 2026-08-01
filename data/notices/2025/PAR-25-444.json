@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-09-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-09-26",
+  "grants_gov_id": 360918,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-25-444",
+  "open_date": "2025-12-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2025-11-26",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications for P30 Cancer Center Support Grants (CCSGs) to support NCI-Designated Cancer Centers. CCSGs support three types of Cancer Centers: 1) Comprehensive Cancer Centers, which demonstrate reasonable depth and breadth of research activities in each of three major areas: basic laboratory; clinical; and prevention, control and population-based research, and which have substantial transdisciplinary research that bridges these scientific areas; and 2) Clinical Cancer Centers, which are primarily focused on basic laboratory; clinical; and prevention, cancer control, and population-based research; or some combination of these areas, and 3) Basic Cancer Centers, which focus on basic laboratory research. The purpose of all types of NCI-Designated Cancer Centers is to capitalize on all institutional cancer research capabilities, integrating meritorious research into a single transdisciplinary research enterprise across all institutional boundaries. Cancer Centers supported through this NOFO are expected to serve as major sources of discovery of the nature of cancer and of development of more effective approaches to prevention, diagnosis, and therapy; to contribute significantly to the development of Shared Resources that support research; to collaborate and coordinate their research efforts with other NCI-funded programs and investigators; and to disseminate research findings for the benefit of the community.",
+  "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-444.html"
+}

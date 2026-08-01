@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "F32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 358114,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-250",
+  "open_date": "2025-03-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2025-01-08",
+  "source": "nih",
+  "synopsis": "The purpose of the NIDCD Research Dissertation Fellowship for Au.D. Audiologists (F32) program is to support a comprehensive, rigorous biomedical research training, and dissertation research leading to a research doctorate (i.e., Ph.D.) in the biomedical, behavioral, or clinical sciences.",
+  "title": "NIDCD Research Dissertation Fellowship for Au.D. Audiologists (F32)",
+  "topics": [
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-250.html"
+}

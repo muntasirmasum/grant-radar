@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357018,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-079",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to stimulate translation of scientific discoveries and engineering developments in imaging, data science and/or spectroscopic technologies into methods or tools that address contemporary problems in understanding the fundamental biology, potential risk of development, diagnosis, treatment, and/or disease status for cancer or other disease.",
+  "title": "Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems (R01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-079.html"
+}

@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 357430,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-183",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-26",
+  "source": "nih",
+  "synopsis": "NIMH requires an experimental therapeutics approach for the development and testing of therapeutic interventions, in which studies both evaluate the clinical effect of an intervention and generate information about the mechanisms underlying a disorder or an intervention response. As part of NIMHs Clinical Trial Pipeline, this NOFO encourages early stage testing of pharmacologic interventions with novel mechanisms of actions or device-based interventions. More specifically, this NOFO is intended to support early stage testing of pharmacologic or device-based interventions using a protocol design where the presumed mechanism of action of the intervention is adequately tested, to provide meaningful information where target modulation yields a dose-dependent neurophysiological/clinical/behavioral effect.",
+  "title": "Early Stage Testing of Pharmacologic or Neuromodulatory Device-based Interventions for the Treatment of Mental Disorders (R33- Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-183.html"
+}

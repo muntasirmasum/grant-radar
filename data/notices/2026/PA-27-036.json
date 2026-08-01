@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-05-05",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2029-05-06",
+  "grants_gov_id": 361159,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-27-036",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-06-08",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) Research Education Program supports research education activities in the mission areas of the NIH. The overarching goal of the Research Education program is to:Support educational activities that complement and/or enhance training of a workforce to meet the nation's biomedical, behavioral and clinical research needs;Help recruit individuals with specific specialty or disciplinary backgrounds to research careers in biomedical, behavioral and clinical sciences; and Foster a better understanding of biomedical, behavioral and clinical research and its implications.",
+  "title": "NIH Research Education Program - Research Experiences (Parent R25 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-27-036.html"
+}

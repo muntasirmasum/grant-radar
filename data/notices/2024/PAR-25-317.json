@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-05-08",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 357713,
+  "issuing_orgs": [
+    "National Institute on Minority Health and Health Disparities"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PAR-25-317",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMHD",
+  "release_date": "2024-12-12",
+  "source": "nih",
+  "synopsis": "The purpose of this initiative is to advance the science of minority health and health disparities by supporting research on family health and well-being and resilience. The NIMHD Research Framework recognizes family health, family well-being, and family resilience as critically important areas of research to decrease disparities and promote equity.",
+  "title": "Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-317.html"
+}

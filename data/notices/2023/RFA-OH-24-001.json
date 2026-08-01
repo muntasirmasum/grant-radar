@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "award_ceiling": "5750000",
+  "award_floor": "3000000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-12-01",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-11-30",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-12-01",
+  "grants_gov_id": 345738,
+  "issuing_orgs": [
+    "NIOSH"
+  ],
+  "next_due_date": "2026-11-30",
+  "notice_id": "RFA-OH-24-001",
+  "open_date": "2023-11-01",
+  "parent_ic": "CDC",
+  "primary_ic": "NIOSH",
+  "release_date": "2023-08-28",
+  "source": "nih",
+  "synopsis": "NIOSH is encouraging the submission of an application from qualified organizations for a National Center for Construction Safety and Health Research and Translation. Applicants are encouraged to propose multidisciplinary approaches and coordination for impactful applied and intervention research, hazard identification, and controls; develop partnerships for implementing prevention and intervention activities; and serve as a leader in research translation and research-to-practice for the protection of construction workers in the U.S. The Center will accomplish these goals by integrating and advancing research, research translation, best practices, policy and guidance, and capacity building. Center work should consider the NIOSH strategic plan and NORA construction research objectives. Center structure should take advantage of diverse scientific resources and focus on national worker safety and health issues. Centers should emphasize the creation and implementation of evidence-based solutions that address important construction industry safety and health problems. Collaborations with other academic institutions, nonprofit organizations, and other occupational safety and health-focused groups are expected. Applicants must concisely describe the occupational health burden of important safety and health issues in the construction industry and discuss how focused research and outreach activities will help alleviate the burden and reduce numbers. Applicants should also clearly articulate the anticipated impacts of the Center’s proposed work, both during the project period and beyond.",
+  "title": "National Center for Construction Safety and Health Research and Translation (U54)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-24-001.html"
+}

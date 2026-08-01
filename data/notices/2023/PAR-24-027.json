@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "X01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-30",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-30",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-31",
+  "grants_gov_id": 349976,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2026-10-30",
+  "notice_id": "PAR-24-027",
+  "open_date": "2024-03-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2023-08-24",
+  "source": "nih",
+  "synopsis": "The Population Assessment of Tobacco and Health (PATH) Study provides the scientific community with biospecimens (urine, plasma, serum, and genomic DNA) and related research data on behaviors, attitudes, biomarkers and health outcomes associated with tobacco use in the U.S. This opportunity allows investigators to apply for access to the biospecimens from the PATH Study. Information about the PATH Study and this resource may be found on the PATH Study series page (https://doi.org/10.3886/Series606) at the University of Michigans National Addiction and HIV Data Archive Program (NAHDAP) website, part of the Inter-University Consortium for Political and Social Researchs (ICPSR) website.",
+  "title": "Population Assessment of Tobacco and Health (PATH) Study Biospecimen Access (X01)",
+  "topics": [
+    "infectious_disease",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-027.html"
+}

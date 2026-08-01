@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "RM1"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-01-29",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-01-30",
+  "grants_gov_id": 360446,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-024",
+  "open_date": "2026-08-29",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-06-08",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for NIGMS Biomedical Technology Optimization and Dissemination (BTOD) Centers to support late-stage technology optimization and sustainable dissemination of the technologies to the wider biomedical research community. A BTOD Center should be at the leading edge of its field with respect to both technology optimization and engagement with relevant research communities.BTOD projects must address biomedical research areas within the NIGMS mission. Potential applicants are strongly encouraged to consult with NIGMS staff about adherence of their proposed research strategy to the Institute's goals and mission and its responsiveness to this NOFO.",
+  "title": "Biomedical Technology Optimization and Dissemination Center (BTOD) (RM1 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-024.html"
+}

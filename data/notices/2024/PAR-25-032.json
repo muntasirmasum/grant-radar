@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357800,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-032",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-12-18",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity Announcement (NOFO) intends to supports studies that are both necessary and sufficient to inform the planning of a Phase II-IV clinical trial within NHLBI's mission. The NHLBI expects that applications to this NOFO will describe the planned clinical trial and in so doing demonstrate that the proposed (R34) research is scientifically necessary to design or plan the subsequent trial. Furthermore, this NOFO will support research projects that are designed to provide results that will be sufficient to inform the future trial without further studies. The planned Phase II, III, or IV trial must be primarily intended to test the efficacy, safety, clinical management, or implementation of intervention(s) in the prevention and/or treatment of heart, lung, blood, and sleep disorders. In contrast to the study start up or preparation phase of NHLBI funding opportunities for clinical trials (as described at https://www.nhlbi.nih.gov/grants-and-training/funding-opportunities-and-contacts/clinical-trials-optimization), the R34 mechanism is intended to provide new information that answers a scientific or operational question(s) which may be pragmatic in nature and, therefore, informs the final development of a Phase II-IV clinical trial. Regardless of the results of the R34, support of the proposed future clinical trial will require a new application.",
+  "title": "NHLBI Clinical Trial Pilot Studies (R34 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-032.html"
+}

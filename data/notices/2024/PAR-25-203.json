@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357112,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-203",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2024-11-14",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports projects relevant to the NIGMS mission that focus solely on the development of technologies with potential to enable acquisition of biomedical knowledge. Projects should be justified in terms of technical innovation and utility of such technical innovation for impacting future biomedical research. Outcomes or products of the proposed project should significantly advance the current state of the art and be sufficiently characterized for application in addressing a broad range of biomedical research questions.",
+  "title": "Focused Technology Research and Development (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-203.html"
+}

@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-06-15",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-06-16",
+  "grants_gov_id": 360655,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-OD-27-005",
+  "open_date": "2026-09-15",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-05-13",
+  "source": "nih",
+  "synopsis": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. The purpose of this Notice of Funding Opportunity (NOFO) encourages Exploratory/Developmental Phased Innovation (R61/R33) grant applications to support development of clinical trials to treat critical and co-occurring health conditions in individuals with Down syndrome. The proposed research aims should be milestone-driven. The total project period for an application submitted in response to this NOFO may not exceed five years. This NOFO provides support for up to two years (R61 phase) for preliminary/developmental/planning studies, followed by possible transition to clinical trial support (R33) of up to three years, although the total duration of the award may not exceed five years. This NOFO requires measurable R61 milestones.",
+  "title": "INCLUDE Project: Clinical Trials Phased Awards for Down syndrome Research (R61/R33 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-27-005.html"
+}

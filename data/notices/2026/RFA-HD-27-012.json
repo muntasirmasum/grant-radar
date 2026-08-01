@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "P50"
+  ],
+  "award_ceiling": "800000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-02",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-03",
+  "grants_gov_id": 358915,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-HD-27-012",
+  "open_date": "2026-09-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2026-05-15",
+  "source": "nih",
+  "synopsis": "This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. The purpose of this NOFO is to seek applications in a limited competition for the Eunice Kennedy Shriver Intellectual and Developmental Disabilities Research Centers (IDDRCs). This NOFO invites applications to undergo peer review for research center grants designed to advance the diagnosis, prevention, treatment, and amelioration of intellectual and developmental disabilities (IDD) and is limited to IDDRCs funded under RFA-HD-20-016 or RFA-HD-21-009. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.This NOFO seeks applications from institutions that meet the qualifications for a multidisciplinary program of IDD research that will include: 1) 3-4 total Cores that facilitate interdisciplinary and translational research in IDD and its dissemination, and that support IDD-related projects funded by other sources; and 2) at least two and no more than three specific research projects related to one of several areas identified as areas of research need in IDD. Collaborative investigations combining expertise in translational science, biomarker assessment, outcome measure development, tool validation, bioinformatics, and therapeutic development will be encouraged. Funds for the majority of outside research projects using these core facilities come from independent sources including Federal, State, and private organizations. In addition, the Center should include plans for outreach, engagement, and dissemination to the community, including persons with lived experience (PWLE) of disabilities. The duration of these Centers will be 3 years in total.",
+  "title": "Limited Competition: Intellectual and Developmental Disabilities Research Centers 2027 (P50 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HD-27-012.html"
+}

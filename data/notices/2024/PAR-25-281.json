@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357341,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-281",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-22",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to advance translational research to better understand the emergence and worsening of mood and psychotic disorders (e.g., perimenopausal depression (PMD), generalized anxiety disorder, bipolar disorder and schizophrenia) during the menopause transition (MT) in an effort to identity targets for future development of novel treatment interventions. This funding opportunity aims to advance novel and innovative translational research to better comprehend the underlying neurobiological and behavioral mechanisms of mood and psychosis disorders and related symptoms during MT. This funding opportunity also encourages interdisciplinary researchers to collaborate on studies of mood and psychosis during the MT. Aspects of mood and psychosis disorders that are of interest include: classic depressive symptoms in combination with menopause symptoms (e.g., hot flashes, night sweats, sleep disturbance) and psychological challenges, the role of reproductive steroids in the regulation of mood and behavior during the MT, diagnosis of mood and psychosis symptoms at menopausal stage, investigation of co-occurring psychiatric and menopause symptoms, appreciation of psychosocial factors common in midlife, and differential diagnoses. Review criteria will focus on the comprehensiveness of the neurobiology and mechanisms of action underlying mood and psychosis symptoms and hypothesis-driven work.",
+  "title": "Mood and Psychosis Symptoms during the Menopause Transition (R01 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-281.html"
+}

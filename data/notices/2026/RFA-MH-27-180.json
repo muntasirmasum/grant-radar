@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-15",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-16",
+  "grants_gov_id": 359201,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-MH-27-180",
+  "open_date": "2026-09-15",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to foster research that will inform and support the optimization, delivery, sustainability, and effectiveness of empirically-supported practices for addressing the mental health needs of older adults with serious mental illness (SMI). To this end, NIMH seeks applications that propose work that is focused on practice-relevant questions and conducted within and/or across settings where older adults with SMI are likely to be identified as needing care (e.g., primary care and geriatric specialty clinics, assisted living and long-term care facilities, and community centers). Applications may propose research related to adapting, optimizing, and implementing efficacious treatment and services interventions and strategies to improve clinical and functional outcomes among aging populations; examining mutable factors that impact fair and impartial mental health care access, utilization, quality, and outcomes and may serve as targets for intervention development for older adults with SMI; and developing and testing innovative treatment and service interventions that address barriers to accessing quality mental health care. Projects may also focus on systems-level factors and approaches for addressing SMI and improving access to evidence-based interventions in later life, such as evaluation of health system policies and practices, interventions that facilitate care transitions and continuity across settings, and strategies to improve care linkages and coordination across systems.",
+  "title": "Advancing Research on Empirically-Supported Interventions for Older Adults Living with Serious Mental Illness (SMI) (R01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-27-180.html"
+}

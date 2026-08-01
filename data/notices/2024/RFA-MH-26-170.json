@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-08",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-02-08",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-02-09",
+  "grants_gov_id": 357137,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-02-08",
+  "notice_id": "RFA-MH-26-170",
+  "open_date": "2025-01-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-15",
+  "source": "nih",
+  "synopsis": "The purpose of this Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative is to encourage applications that will develop and validate novel tools to facilitate the detailed analysis of complex circuits and provide insights into cellular interactions that underlie brain function. The new tools and technologies should inform and/or exploit cell-type and/or circuit-level specificity. Plans for validating the utility of the tool/technology will be an essential feature of a successful application. The development of new genetic and non-genetic tools for delivering genes, proteins and chemicals to cells of interest or approaches that are expected to target specific cell types and/or circuits in the nervous system with greater precision and sensitivity than currently established methods are encouraged. Tools that can be used in a number of species/model organisms rather than those restricted to a single species are highly desired. Applications that provide approaches that break through existing technical barriers to substantially improve current capabilities are highly encouraged.",
+  "title": "BRAIN Initiative: Development and Validation of Novel Tools to Probe Cell-Specific and Circuit-Specific Processes in the Brain (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-26-170.html"
+}

@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "S10"
+  ],
+  "award_ceiling": "250000",
+  "award_floor": "25000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-01-26",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-01-27",
+  "grants_gov_id": 360364,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-067",
+  "open_date": "2026-06-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-05-27",
+  "source": "nih",
+  "synopsis": "The Instrumentation Grant Program for Resource-Limited Institutions supports the purchase of state-of-the-art scientific instruments to enhance the research and educational missions of resource-limited institutions. Requested instruments may support biomedical research and education in basic, translational, biomedically-related behavioral or clinical fields. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered.",
+  "title": "Limited Competition: Instrumentation Grant Program for Resource-Limited Institutions (S10 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-067.html"
+}

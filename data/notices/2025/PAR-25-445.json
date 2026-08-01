@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "P50"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-03",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-10-02",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-10-03",
+  "grants_gov_id": 358863,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": "2026-10-02",
+  "notice_id": "PAR-25-445",
+  "open_date": "2025-10-04",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2025-09-15",
+  "source": "nih",
+  "synopsis": "The National Institute on Deafness and Other Communication Disorders (NIDCD) invites applications for Clinical Research Center Grants designed to advance the diagnosis, prevention, treatment, and amelioration of human sensory and communication disorders. For this announcement, Clinical Research is defined as research involving individuals with a sensory and/or communication disorder, or data/tissues from individuals with a sensory and/or communication disorder. Examples of such research include but are not limited to, studies of the prevention, pathogenesis, pathophysiology, diagnosis, treatment, management or epidemiology of a disease or disorder of hearing, balance, smell, taste, voice, speech, or language. Although the intent is that all the research will involve individuals with sensory and/or communication disorders or data/tissues from individuals with sensory and/or communication disorders, when the clinical research goal(s) warrant(s) limited departures from this intent, alternatives (e.g., non-human research, human subjects without a sensory or communication disorder, human at risk for a sensory and/or communication disorder) are possible with appropriate and strong scientific justification and in consultation with NIDCD staff. Applications may propose a low-risk clinical trial but are not required to (optional).Non-responsive applications will not be reviewed. Prospective applicants are strongly encouraged to read this funding opportunity carefully and communicate with the scientific/research contact listed at the end of this award as early as possible to discuss their application plans.",
+  "title": "NIDCD Clinical Research Center Grant (P50 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-445.html"
+}

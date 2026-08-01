@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357138,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-273",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2024-11-15",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) encourages innovative research to develop, improve, characterize, and preserve animal models as well as animal model related biological materials, technologies, and new approach methodologies (NAMs) for studies relevant to human health and disease. This NOFO also seeks projects aimed at improving the diagnosis and control of diseases that could confound or interfere with animal use in biomedical research. The proposed project must have broad applicability to multiple NIH Institutes or Centers (ICs) to align with the NIH-wide mission of the Office of Research Infrastructure Programs (ORIP). The proposed studies must include animal models and explore multiple body systems or multiple categories of diseases. Applications that develop models focused on a specific disease or area of research, or only propose studies primarily relevant to a single NIH IC, will be considered not acceptable to this NOFO and will be withdrawn.",
+  "title": "Development of Animal Models and Related Biological Materials for Research (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-273.html"
+}

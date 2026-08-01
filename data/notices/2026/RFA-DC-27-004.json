@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R61"
+  ],
+  "award_ceiling": "700000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-11",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-12",
+  "grants_gov_id": 359649,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DC-27-004",
+  "open_date": "2026-05-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2026-05-04",
+  "source": "nih",
+  "synopsis": "Invasive surgical procedures in humans offer the unique opportunity to intracranially record and stimulate neuronal activity within precisely localized brain structures, enabling high-impact human neuroscience investigations. This NOFO seeks exploratory research projects, from newly formed or established multi-disciplinary teams, to understand how dynamic activity of single cells and ensembles of neurons in spatially organized networks gives rise to the internal states we experience as sensations, perceptions, emotions, thoughts, and memories, and to observable motor and social behaviors. The research should be proposed as exploratory research and planning activities to establish feasibility and early-stage development that, if successful, would support, enable, and/or lay the groundwork for a potential, subsequent research project grant applications using invasive neural recording and stimulation technologies in the human brain. Projects should maximize opportunities to conduct innovative in vivo human neuroscience research made available by direct access to the brain from invasive surgical procedures. Projects should employ approaches guided by specified theoretical constructs and by quantitative, mechanistic models where appropriate. Recipients will join a consortium working group, coordinated by the NIH, to identify consensus standards of practice, including neuroethical considerations, to collect and provide data for ancillary studies, and to aggregate and standardize data for dissemination among the wider scientific community.",
+  "title": "BRAIN Initiative: Exploratory Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (R61 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-27-004.html"
+}

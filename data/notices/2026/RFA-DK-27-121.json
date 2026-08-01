@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "1000000",
+  "clinical_trials": "Required",
+  "close_date": "2026-10-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-10",
+  "grants_gov_id": 360387,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-121",
+  "open_date": "2026-09-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-06-08",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications from clinical centers to participate in a consortium to test anti-obesity medication (AOM) treatment strategies for youth with obesity that maximize benefits and minimize risks of AOM use. Such intervention strategies should support the promotion of healthy growth and development; adequate nutritional status/intake, healthy eating and physical activity behaviors; mental health and well-being (e.g., body image, self-esteem, mood, etc.), and quality of life and be feasible to implement in clinical care settings. Priority areas include testing strategies to determine optimal developmental stage for AOM initiation, rate and amount of weight loss, AOM class, dose, frequency, and duration, and content and intensity of adjunct lifestyle therapies that may be imperative to ensure normal psychological and physical development and to potentially avoid lifelong dependence on AOMs. Investigators should also evaluate potential predictors of response/ nonresponse to various treatment strategies under evaluation. The clinical centers may conduct independent or multicenter trials but will collaborate on the development of protocols, use of common measures and data elements, use of a central laboratory and standardized procedures to collect data and biospecimens, and data analyses and manuscripts. This NOFO uses a cooperative agreement mechanism (U01) and runs in parallel with a companion NOFO (RFA-DK-27-136).",
+  "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Clinical Centers (U01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-121.html"
+}

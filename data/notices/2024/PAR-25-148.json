@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R15"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357282,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-148",
+  "open_date": "2025-01-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2024-11-21",
+  "source": "nih",
+  "synopsis": "The purpose of this Academic Research Enhancement Award (AREA) for Undergraduate-Focused Institutions is to support small scale research grants at institutions that do not receive substantial funding from the NIH, with an emphasis on providing biomedical research experiences primarily for undergraduate students and enhancing the research environment at applicant institutions. Eligible institutions must award baccalaureate science degrees and have received no more than $6 million dollars per year of NIH support (in both direct and F and A/indirect costs) in 4 of the last 7 fiscal years. For institutions composed of multiple schools and colleges, the $6 million funding limit is based on the amount of NIH funding received by all the non-health professional schools and colleges within the institution as a whole. This Notice of Funding Opportunity (NOFO) supports investigator-initiated mechanistic and/or minimal risk clinical trials addressing the mission and research interests of the participating NIH institutes. For the purpose of this NOFO, minimal risk clinical trials are defined as those that do not require FDA oversight, do not intend to formally establish efficacy, and have low risks to potentially cause physical or psychological harm.",
+  "title": "Academic Research Enhancement Award (AREA) for Undergraduate-Focused Institutions (R15 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-148.html"
+}

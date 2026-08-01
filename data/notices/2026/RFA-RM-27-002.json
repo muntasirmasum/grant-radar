@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "DP2"
+  ],
+  "award_ceiling": "475000",
+  "award_floor": "475000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-08-17",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-08-18",
+  "grants_gov_id": 360987,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-002",
+  "open_date": "2026-07-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-06-26",
+  "source": "nih",
+  "synopsis": "The NIH Director\"s New Innovator Award supports early-stage investigators of exceptional creativity who propose bold and highly innovative research projects with the potential to produce a major impact on broad, important areas relevant to the mission of NIH. Applications in any area within the biomedical sciences are welcome; topics may involve basic, translational, or clinical research. The NIH Director's New Innovator Award complements other ongoing efforts by NIH and its Institutes and Centers to fund early-stage investigators. The NIH Director\"s New Innovator Award is a component of the High-Risk, High-Reward Research (HRHR) program of the NIH Common Fund.",
+  "title": "NIH Director&rsquo;s New Innovator Award (DP2 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-002.html"
+}

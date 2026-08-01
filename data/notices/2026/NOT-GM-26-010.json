@@ -1,0 +1,24 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "NOT-GM-26-010",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-07-07",
+  "source": "nih",
+  "title": "Notice of Early Expiration of PAR-24-252 \"Innovative Programs to Enhance Research Training (IPERT) (R25 Independent Clinical Trial Not Allowed)\"",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-010.html"
+}

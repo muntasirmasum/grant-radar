@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "975000",
+  "award_floor": "150000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-31",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-01-30",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-31",
+  "grants_gov_id": 334971,
+  "issuing_orgs": [
+    "NIOSH"
+  ],
+  "next_due_date": "2028-01-30",
+  "notice_id": "RFA-OH-22-005",
+  "open_date": "2022-07-29",
+  "parent_ic": "CDC",
+  "primary_ic": "NIOSH",
+  "release_date": "2022-06-28",
+  "source": "nih",
+  "synopsis": "The Fishing Safety Research Grant Program established by The Coast Guard Authorization Act of 2010 (P.L. 111-281), as amended by the Howard Coble Coast Guard and Maritime Transportation Act of 2014 (P.L. 113-281), is intended to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in commercial fishing safety. The funding will be used to support research on improving the occupational safety of workers in the commercial fishing industry. This includes: improving vessel design; developing and improving emergency and survival equipment; enhancing vessel monitoring systems; improving communication devices, de-icing technology, and severe weather detection. In order to support and administer the grant program, the Coast Guard and NIOSH signed a Memorandum of Understanding on May 17, 2018. While the Coast Guard, along with the Occupational Safety and Health Administration (OSHA), provides regulatory oversight for safety and health matters within the commercial fishing industry, NIOSH is an agency operating under the Centers for Disease Control and Prevention (CDC) with the mission of generating new knowledge in occupational safety and health and transferring that knowledge into practice to prevent worker injury, illness and death. NIOSH conducts and funds scientific research, develops methods to prevent occupational hazards, develops guidance and authoritative recommendations, translates scientific knowledge into products and services, disseminates information, identifies factors underlying work-related disease and injury and responds to requests for workplace health hazard evaluations. NIOSH has an extensive history of conducting research to understand and to reduce hazards in the commercial fishing industry. This research has largely been conducted in close collaboration with crews, industry and the US Coast Guard. To learn more about NIOSH’s work in commercial fishing safety and health, visit https://www.cdc.gov/niosh/topics/fishing/default.html. Research objectives supported by NIOSH include, but are not limited to, the following: identification and investigation of the relationships between hazardous working conditions and associated occupational injuries and fatalities; development of more sensitive means of evaluating hazards at work sites; development of methods for measuring early markers of injuries and fatalities; development of new protective equipment and engineering control technology to reduce work-related injuries and fatalities; development of work practices that reduce the risks of occupational hazards; and evaluation of the technical feasibility or application of a new or improved occupational safety procedure, method, technique, or system, including assessment of economic and other factors that influence their diffusion and successful adoption in workplaces.",
+  "title": "Commercial Fishing Occupational Safety Research Cooperative Agreement (U01)",
+  "topics": [
+    "behavioral_intervention",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-22-005.html"
+}

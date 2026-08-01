@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-12-23",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-12-23",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-12-24",
+  "grants_gov_id": 357340,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-12-23",
+  "notice_id": "RFA-HL-26-020",
+  "open_date": "2025-01-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-11-22",
+  "source": "nih",
+  "synopsis": "The goal of the NHLBI Catalyze Program is to provide a comprehensive suite of support and services to facilitate the transition of basic science discoveries into viable diagnostic and therapeutic candidates that have been cleared for human testing, and to develop translational researchers fluent in product development and entrepreneurship. This specific Catalyze Product Definition initiative will provide the early stage translational support needed for prototype testing/design modification, assay development for diagnostic disease targets, and development of research tools for use in the treatment of HLBS diseases and disorders. Following successful completion of the program, it is expected that the potential products will be poised to move forward for in vivo testing (optimization, safety, efficacy) with additional support from NIH and/or other federal and private programs. This initiative has a companion initiative that supports development of therapeutics and combination products and is also part of a suite of innovation grants to advance projects to the point where they can meet the entry criteria for the NHLBI Catalyze Preclinical Program.",
+  "title": "Catalyze: Product Definition  Medical Device Prototype Optimization (R33 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-020.html"
+}

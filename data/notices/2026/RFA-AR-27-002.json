@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-02",
+  "grants_gov_id": 358939,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-AR-27-002",
+  "open_date": "2026-09-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) invites applications from eligible organizations to establish a Data Coordination and Integration Center (DCIC) for the NIH HEAL Initiative. This Center will support the coordination and integration of data from both the HEAL INTERACT program and progressively facilitate broader integration of related musculoskeletal datasets and programs. The Data Coordination and Integration Center will lead efforts for managing and integrating complex pain-associated data types and information from the INTERACT Consortium and progressively related datasets. It will also establish a web-accessible information system and disseminate datasets that can facilitate hypothesis generation and be widely used throughout the research community.",
+  "title": "HEAL INITIATIVE: INTERACT Data Coordination and Integration Center (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AR-27-002.html"
+}

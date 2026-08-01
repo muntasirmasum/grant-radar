@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-AG-26-009",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "NIA to Sunset the Aged BALB/cBy and CB6F1 Mouse Colonies",
-  "release_date": "2026-06-11",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-009.html",
-  "issuing_orgs": ["National Institute on Aging"],
+  "extracted_at": "2026-06-15T00:11:52Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-06-11",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-AG-26-009",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIA",
   "raw_html_hash": "d2de21824ba70ff4ad54d8a09a828f8e91fe976b9fecc06df0f9e5ea1fcb8fc5",
-  "extracted_at": "2026-06-15T00:11:52Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-06-11",
+  "source": "nih",
+  "title": "NIA to Sunset the Aged BALB/cBy and CB6F1 Mouse Colonies",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-009.html"
 }

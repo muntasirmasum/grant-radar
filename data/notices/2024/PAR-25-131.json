@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "250000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-04-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-04-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-16",
+  "grants_gov_id": 356888,
+  "issuing_orgs": [
+    "National Library of Medicine"
+  ],
+  "next_due_date": "2027-04-15",
+  "notice_id": "PAR-25-131",
+  "open_date": "2024-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NLM",
+  "release_date": "2024-10-29",
+  "source": "nih",
+  "synopsis": "NLM wishes to accelerate access to, and availability of, secure, complete datasets and computational models that can serve as the basis for transformative biomedical discoveries. Innovative at-scale computational approaches that increase the speed and scope of curation processes are needed for data mining and knowledge discovery from growing quantities of biomedical data being produced from ongoing data science advances.",
+  "title": "Computational Approaches to Curation at Scale for Biomedical Research Assets (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-131.html"
+}

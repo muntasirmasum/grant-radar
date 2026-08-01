@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R13"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-09-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-09-08",
+  "grants_gov_id": 356617,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-09-07",
+  "notice_id": "PA-25-080",
+  "open_date": "2024-11-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-10-01",
+  "source": "nih",
+  "synopsis": "The purpose of the NIH Research Conference Grant (R13) is to support high quality conferences that are relevant to the public health and to the scientific mission of the participating Institutes and Centers.",
+  "title": "NIH Support for Conferences and Scientific Meetings (Parent R13 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-080.html"
+}

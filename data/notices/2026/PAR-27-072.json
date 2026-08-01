@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Optional",
+  "close_date": "2029-07-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-06",
+  "grants_gov_id": 360543,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-072",
+  "open_date": "2026-09-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-04",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages collaborations between the life and physical sciences that: 1) apply a multidisciplinary bioengineering approach to the solution of a biomedical problem; and 2) integrate, optimize, validate, translate or otherwise accelerate the adoption of promising tools, methods, and techniques for a specific research or clinical problem in basic, translational, or clinical science and practice. An application may propose design-directed, developmental, discovery-driven, or hypothesis-driven research and is appropriate for small teams applying an integrative approach to increase our understanding of and solve problems in biological, clinical, or translational science. This NOFO will support clinical trials that test functionality or validate performance in the chosen setting. This NOFO is not intended to support conventional clinical trials that lack translation as the primary motivation. Applications that propose phase III clinical trials in any area of research are not sought by and will not be supported through this NOFO. This NOFO does not support commercial production.",
+  "title": "Bioengineering Research Grants (BRG) (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-072.html"
+}

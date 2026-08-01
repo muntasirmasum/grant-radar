@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K22"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-07-12",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-07-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-07-13",
+  "grants_gov_id": 355395,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-07-12",
+  "notice_id": "PAR-24-209",
+  "open_date": "2024-09-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-07-15",
+  "source": "nih",
+  "synopsis": "To provide highly qualified postdoctoral fellows and other doctoral-level researchers currently in training in the NHLBI Division of Intramural Research with the opportunity to transition their research programs to extramural institutions as junior investigators.",
+  "title": "NHLBI Career Transition Award for Intramural Postdoctoral Fellows and Research Trainees (K22 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-209.html"
+}

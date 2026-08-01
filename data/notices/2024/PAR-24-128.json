@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "T32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-26",
+  "grants_gov_id": 352810,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2027-01-25",
+  "notice_id": "PAR-24-128",
+  "open_date": "2024-04-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2024-03-04",
+  "source": "nih",
+  "synopsis": "The goal of the Medical Scientist Training Program (MSTP) is to develop a broad pool of highly trained physician-scientist leaders available to meet the needs of the Nations biomedical research agenda. Specifically, this Notice of Funding Opportunity (NOFO) provides support to eligible domestic institutions to develop and implement effective, evidence-based approaches to integrated dual-degree training leading to the award of both professional medical doctorate degrees and research doctorate degrees (Ph.D. or equivalent). With the dual qualification of rigorous scientific research and clinical practice, graduates will be equipped with the skills to develop research programs that accelerate the translation of research advances to the understanding, detection, treatment and prevention of human disease, and to lead the advancement of biomedical research. Areas of particular importance to NIGMS are the iterative optimization of MSTP training efficacy and efficiency, and fostering the persistence of MSTP alumni in research careers. NIGMS expects that the proposed research training programs will incorporate didactic, research, mentoring and career development elements to prepare trainees for careers that will have a significant impact on the health-related research needs of the Nation.",
+  "title": "Medical Scientist Training Program (MSTP) (T32)",
+  "topics": [
+    "behavioral_intervention",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-128.html"
+}

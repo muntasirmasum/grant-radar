@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "award_ceiling": "1050000",
+  "clinical_trials": "Required",
+  "close_date": "2026-11-13",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-13",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-14",
+  "grants_gov_id": 357492,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2026-11-13",
+  "notice_id": "PAR-25-270",
+  "open_date": "2025-05-23",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-12-02",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated, early phase, clinical trials of natural products (i.e., botanicals, dietary supplements, and probiotics), which have a strong scientific premise to justify further clinical testing. For this NOFO, natural products include promising nutritional regimens that standardize the amount of a specific naturally occurring nutritional compound (e.g., omega-3 fatty acids, anthocyanidins, or polyphenols) and have compelling preliminary evidence. Under this NOFO, trials must be designed so that results, whether positive or negative, will provide information of high scientific utility and will support decisions about further development or testing of the natural product. This NOFO will provide up to 3 years support for studies to replicate the impact of the natural product on target engagement when used by humans, and assess whether there is an association between the degree of the impact on target engagement and functional or clinical outcomes in a patient population. Applications are encouraged to design studies to determine how to optimize the impact of the natural product on target engagement by optimizing the delivery of the natural product through examination of different doses or formulations. In addition, applications can be designed to combine the natural product with another treatment approach that is known to engage the same target; or study the impact of the natural product in a target population that is more responsive. Clinical trials submitted under this NOFO are expected to be hypothesis based, milestone-driven, and directly related to the research priorities and mission of NCCIH. This R33 funding mechanism is intended to accelerate the translation of emerging basic science findings about natural products into early-stage clinical testing to determine whether continued clinical research is warranted. This NOFO will not support efficacy or effectiveness trials, nor will",
+  "title": "NCCIH Natural Product Early Phase Clinical Trial Award (R33 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-270.html"
+}

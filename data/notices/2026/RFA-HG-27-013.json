@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "award_floor": "3",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-31",
+  "grants_gov_id": 359644,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-HG-27-013",
+  "open_date": "2026-09-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "synopsis": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. This Notice of Funding Opportunity is intended to stimulate the development and testing of highly innovative experimental or computational approaches for rare disease diagnosis, that have the potential to make transformative improvements to the current state of the art.",
+  "title": "GREGoRi Innovation Projects (U01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-27-013.html"
+}

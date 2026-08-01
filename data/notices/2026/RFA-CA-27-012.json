@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "award_ceiling": "1300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 360881,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-012",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-06-04",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications for research on developing a comprehensive and cohesive understanding of cancer metastasis. Towards this goal, the NCI will support U54 Specialized Centers that together will continue to serve as the hub of the Metastasis Research Network (MetNet). Each MetNet Center should propose an overarching scientific theme that will be pursued through two or three scientific inter- and multidisciplinary basic research projects. The projects should use integrative system level approaches to elucidate and integrate a mechanistic understanding of the non-linear, dynamic, and emergent processes in metastasis. Overarching themes should encompass the interplay between at least two central elements in the metastatic process such as early dissemination, cellular, soluble and/or physical microenvironment crosstalk, dormancy, or mechanisms of responses by metastatic cells to therapies. Studies on all types of cancer are welcome, including rare and pediatric metastatic cancers.Research proposed by MetNet Centers is expected to advance our understanding towards a more comprehensive appreciation of metastasis as a whole body, systems-level problem.",
+  "title": "Metastasis Research Network (U54 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "implementation_science",
+    "maternal_child_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-012.html"
+}

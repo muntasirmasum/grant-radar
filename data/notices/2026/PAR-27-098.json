@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "SB1"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-04-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-04-06",
+  "grants_gov_id": 359669,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-098",
+  "open_date": "2026-08-05",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "The Commercialization Readiness Pilot (CRP) program helps small business concerns (SBCs) move NIH-funded SBIR or STTR projects from late-stage development to commercialization. The CRP supports later-stage research and development (R&D) and/or technical assistance that Phase II and Phase IIB Strategic Breakthrough awards do not typically support. This includes:Independent replication or confirmation of key studiesIND- or IDE-enabling studiesClinical studiesManufacturing scale-up and related quality activitiesRegulatory and other specialized technical supportSBCs may subcontract (outsource) a significant amount of the work in a CRP to meet the project goals.",
+  "title": "SBIR/STTR Commercialization Readiness Pilot (CRP) Program (Parent SB1 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-098.html"
+}

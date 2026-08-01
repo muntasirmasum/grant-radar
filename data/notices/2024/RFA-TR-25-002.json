@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-07-02",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-06-02",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-06-03",
+  "grants_gov_id": 357570,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2027-06-02",
+  "notice_id": "RFA-TR-25-002",
+  "open_date": "2025-05-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-12-06",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) provides funding to conduct efficacy studies in an established rare disease preclinical model to demonstrate that a proposed therapeutic agent warrants further development. In addition to preclinical efficacy, accompanying pharmacodynamic and pharmacokinetic studies would be supported. Therapeutic agents include small molecules, biologics or biotechnology-derived products. The goal of this NOFO is to spur therapeutic development for a variety of rare diseases by advancing projects to the point where they would attract subsequent investment supporting full Investigational New Drug (IND) application development or progression to clinical trials in the case of repurposing or repositioning.",
+  "title": "Preclinical Proof of Concept Studies for Rare Diseases (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-TR-25-002.html"
+}

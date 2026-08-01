@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-07-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-17",
+  "grants_gov_id": 358824,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-074",
+  "open_date": "2026-09-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) announces a program that provides NIAMS-supported K01, K08, K23, and K25 recipients the opportunity to apply for the Small Grant (R03) during the second to fourth year of their K award, as well as to provide support to recipients of significant career development awards from federal or non-federal organizations that are focused on the NIAMS' mission areas. Through this mechanism, which allows up to $50,000 direct costs per year for up to two years, the NIAMS is seeking to enhance the capability of scientists to conduct research as they transition to fully independent investigator. The R03 grant mechanism allows support of different types of projects, including pilot and feasibility studies; secondary analysis of existing data; small, self-contained research projects; development of research methodology; and development of new research technology. In addition to the existing career development awards, the R03 is intended to support short term research projects to enable opportunities for a subsequent R01, or equivalent, application. Clinical trials of any phase will not be supported by this NOFO.This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Limited Competition: Small Grant Program for Mentored Research Career Development Award Recipients (R03) (Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-074.html"
+}

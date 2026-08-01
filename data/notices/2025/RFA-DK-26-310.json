@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "award_ceiling": "1000000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-27",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-01-27",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-28",
+  "grants_gov_id": 359145,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": "2027-01-27",
+  "notice_id": "RFA-DK-26-310",
+  "open_date": "2026-02-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2025-12-05",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications for Diabetes Research Centers (DRCs) that are designed to support and enhance the national research effort in diabetes, its complications, and related endocrine and metabolic diseases. The purpose of this Centers program is to bring together basic and clinical investigators to enhance communication, multidisciplinary collaboration, and effectiveness of ongoing research in Diabetes Research Center topic areas. By providing shared access to specialized technical resources (research cores) and supporting a Pilot and Feasibility Program (P&F), DRCs are intended to create an environment that provides the capability for accomplishments greater than those that would be possible by individual research project grant support alone. New Center programs that bring in diverse perspectives, propose unique scientific themes, or provide innovative resources are encouraged. Emphasis will be placed on Center programs that propose enhanced synergies with other NIDDK-funded programs as well as providing a rich mentoring environment for future diabetes researchers.",
+  "title": "Diabetes Research Centers (P30 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-26-310.html"
+}

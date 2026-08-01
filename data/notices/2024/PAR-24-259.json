@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "S15"
+  ],
+  "award_ceiling": "350000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 355855,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-24-259",
+  "open_date": "2024-08-26",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2024-08-02",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites eligible academic or research institutions to apply for funding support to purchase latest scientific equipment that will enhance and modernize research-supporting operations of existing shared biomedical research facilities. Targeted are laboratory research core facilities, animal research facilities, and other similar shared-use research spaces. The goal of this NOFO is to strengthen research-auxiliary activities of biomedical research facilities and to enhance the efficiency of their operations. The NOFO does not support the purchase of scientific research instruments or their components, nor components of building-level infrastructure equipment that indirectly support research activities.",
+  "title": "Modern Equipment for Shared-use Biomedical Research Facilities: Advancing Research-Related Operations (S15 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-259.html"
+}

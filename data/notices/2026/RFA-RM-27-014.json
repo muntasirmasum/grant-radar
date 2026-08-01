@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "award_ceiling": "2000000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-02",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-03",
+  "grants_gov_id": 359269,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-014",
+  "open_date": "2026-09-02",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-06-30",
+  "source": "nih",
+  "synopsis": "The overarching goal of this notice of funding opportunity (NOFO) and its companion opportunities is to establish the Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) Program to support development of innovative, reliable, cost-effective, and sustainable multimodal AI-based clinical decision support (CDS) tools. PRIMED-AI CDS tools are based on the integration of clinical imaging with other types of multimodal health data to enhance care for patients with a wide range of health conditions. The PRIMED-AI Program seeks to catalyze the adoption of AI-based CDS tools into clinical workflows to enable novel personalized medicine strategies that address significant health challenges. The purpose of this NOFO is to solicit applications for the creation of a Validation Center to serve as a dedicated hub for the comprehensive evaluation and characterization of AI-enabled, image-based, multimodal CDS tools developed by the PRIMED-AI Consortium, to ensure these tools are reliable, reproducible, and generalizable. The Validation Center will focus on verification, validation, interoperability, and uncertainty quantification to comprehensively characterize performance of the CDS tools developed by the program. The core functions of the Validation Center will involve the systematic validation of PRIMED-AI Consortium deliverables, including those emerging from award recipients under the Playbook, Data-to-Model Academic-Industrial Partnerships, and Model-to-Clinic NOFOs.",
+  "title": "Validation Center for Precision Medicine with AI: Integrating Imaging with Multimodal Data (PRIMED-AI) (U54 Clinical Trials Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-014.html"
+}

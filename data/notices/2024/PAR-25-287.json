@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357309,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-287",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-21",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to encourage applications seeking to develop the next generation of brain stimulation devices for treating mental health disorders. Applications are sought that will either 1) develop novel brain stimulation devices or 2) significantly enhance, by means of hardware/software improvements, the effectiveness of brain stimulation devices that are currently U.S. Food and Drug Administration (FDA)-approved or cleared. Novel devices should move beyond existing electrical/magnetic stimulation and develop new stimulation techniques capable of increased spatiotemporal precision as well as multi-focal, closed-loop approaches. Applications seeking to develop new capabilities should focus on significant enhancement of the spatial resolution, depth of delivery, and/or precision of the device. Incremental changes to existing devices (e.g., software updates) are not withinthe scope of this announcement.",
+  "title": "Neuromodulation/Neurostimulation Device Development for Mental Health Applications (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-287.html"
+}

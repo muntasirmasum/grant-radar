@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-NS-26-032",
-  "source": "nih",
-  "notice_type": "change",
-  "title": "Notice of Change: Early Expiration of PAR-25-326 Ultra-Rare Gene-based Therapy (URGenT) Network Resource Access (X01, Clinical Trial Not Allowed)",
-  "release_date": "2026-03-12",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-032.html",
-  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "extracted_at": "2026-05-22T19:38:10Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-03-12",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-NS-26-032",
+  "notice_type": "change",
+  "primary_ic": "NINDS",
   "raw_html_hash": "06ca75b037316f884de085a971940ab24aa8e3173fdf05ff5ed9b5ced2f587d1",
-  "extracted_at": "2026-05-22T19:38:10Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-03-12",
+  "source": "nih",
+  "title": "Notice of Change: Early Expiration of PAR-25-326 Ultra-Rare Gene-based Therapy (URGenT) Network Resource Access (X01, Clinical Trial Not Allowed)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-032.html"
 }

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-06-14",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-06-14",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-06-15",
+  "grants_gov_id": 358934,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2027-06-14",
+  "notice_id": "PAR-25-416",
+  "open_date": "2025-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2025-06-11",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for support of resources that will provide access to state-of-the-art equipment, technologies, research tools, materials, organisms, software, and/or services to a substantial regional (multi-state) or national user base. Only those resources with technical capabilities that fall within the NIGMS-supported program areas are eligible for awards. The resources should already be established or may be formed through consolidation of existing local or regional facilities. The intent is to provide resource access to investigators without regard to the specific biomedical focus of their research, while not duplicating or replacing resources supported by sources such as other NIH Institutes and Centers (ICs) or host institutions. The resource is expected to be maintained or upgraded to current best practices, make its capabilities and availability known to the biomedical research community through a robust web presence and outreach activities, and provide user training and support.",
+  "title": "NIGMS National and Regional Resources (R24 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-416.html"
+}

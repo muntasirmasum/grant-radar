@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "K99",
+    "R00"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 353762,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PA-24-194",
+  "open_date": "2024-05-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-24",
+  "source": "nih",
+  "synopsis": "The purpose of the NIH Pathway to Independence Award (K99/R00) program is to increase and maintain a strong cohort of new and talented, NIH-supported, independent investigators. This program is designed to facilitate a timely transition of outstanding postdoctoral researchers with a research and/or clinical doctorate degree from mentored, postdoctoral research positions to independent, tenure-track or equivalent faculty positions. The program will provide independent NIH research support during this transition in order to help awardees to launch competitive, independent research careers.",
+  "title": "NIH Pathway to Independence Award (Parent K99/R00  Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-194.html"
+}

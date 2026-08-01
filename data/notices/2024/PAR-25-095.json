@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "350000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-06",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-05",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-06",
+  "grants_gov_id": 357204,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-11-05",
+  "notice_id": "PAR-25-095",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) along with other participating Institutes encourages submission of applications proposing to conduct secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response to treatment, etc.). The goal of this initiative is to address key scientific questions relevant to cancer by supporting the analysis of existing clinical, environmental, surveillance, health services, vital statistics, behavioral, lifestyle, genomic, and molecular profiles data. Applicants are encouraged to leverage and perform innovative analyses of the existing data. Applications may include new research aims that are being addressed with existing data, new or advanced methods of analyses, or novel combinations and integration of datasets that allow the exploration of important scientific questions in cancer research.",
+  "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-095.html"
+}

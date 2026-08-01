@@ -1,20 +1,26 @@
 {
-  "notice_id": "NOT-AG-26-006",
-  "source": "nih",
-  "notice_type": "rescission",
-  "title": "Notice to Rescind NOT-AG-21-055, \"NIA Announces Guidance for Purchasing Identifiable Centers for Medicare and Medicaid Services (CMS) Data in Grant Applications Effective FY 2022\"",
-  "release_date": "2026-04-24",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-006.html",
-  "issuing_orgs": ["National Institute on Aging"],
+  "extracted_at": "2026-05-22T19:40:20Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-04-24",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["NOT-AG-21-055"],
+  "notice_id": "NOT-AG-26-006",
+  "notice_type": "rescission",
+  "primary_ic": "NIA",
   "raw_html_hash": "61b78bf585343c020a0b9cce427f38822f980823033ad05cf5dc8c7579b9fa03",
-  "extracted_at": "2026-05-22T19:40:20Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "NOT-AG-21-055"
+  ],
+  "release_date": "2026-04-24",
+  "source": "nih",
+  "title": "Notice to Rescind NOT-AG-21-055, \"NIA Announces Guidance for Purchasing Identifiable Centers for Medicare and Medicaid Services (CMS) Data in Grant Applications Effective FY 2022\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AG-26-006.html"
 }

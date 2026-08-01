@@ -1,25 +1,33 @@
 {
-  "notice_id": "NOT-OD-26-087",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Request for Information on Measuring and Rewarding Scientific Impact",
-  "release_date": "2026-06-18",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-087.html",
-  "issuing_orgs": ["NATIONAL INSTITUTES OF HEALTH"],
+  "activity_codes": [],
+  "doctype": "NOT",
+  "due_dates": [],
+  "extracted_at": "2026-06-22T00:13:39Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-06-18",
+      "label": "Release Date",
       "type": "release"
     },
     {
-      "label": "Response Date",
       "date": "2026-08-19",
+      "label": "Response Date",
       "type": "other"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-OD-26-087",
+  "notice_type": "guide_notice",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
   "raw_html_hash": "3c4d59a17457a3562ff43ed5323e7a755c41151c3e1e232a2d095a3d027266b6",
-  "extracted_at": "2026-06-22T00:13:39Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "title": "Request for Information on Measuring and Rewarding Scientific Impact",
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-087.html"
 }

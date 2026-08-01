@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "Admin Supp"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-04-18",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-04-18",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-19",
+  "grants_gov_id": 353623,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-04-18",
+  "notice_id": "PA-24-201",
+  "open_date": "2024-04-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-18",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) hereby notify the applicant community that funds may be available for applications based on a presidentially declared disaster under the Stafford Act, a public health emergency declared by the Secretary, HHS, or other local, regional or national disaster. Applications in response to Emergency Notices of Special Interest (NOSIs) will be routed directly to the NIH awarding component signed on to the Emergency NOSI. Only applications submitted in response to an Emergency NOSI published by an IC will be allowed to apply to this NOFO.",
+  "title": "Emergency Competitive Revision to Existing NIH Awards (Emergency Supplement - Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-201.html"
+}

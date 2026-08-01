@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UG1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-09-18",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-19",
+  "grants_gov_id": 358963,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-006",
+  "open_date": "2026-08-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-21",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) is one of three NOFOs for the National Cancer Institute (NCI) Community Oncology Research Program (NCORP). NCORP is designed to enhance generalizability and dissemination of clinical trial and other human subject research study results through accrual in a variety of community settings. The purpose of NCORP is to engage cancer patient populations, those at risk of cancer, and organizations in rigorous studies focused on cancer control, prevention, treatment and care delivery.NCORP is a community-based research network that:Designs and conducts clinical trials and other human subject studies for adults and children in cancer control, prevention, screening, and care delivery, as well as quality-of-life studies embedded within treatment trials;Enhances patient and provider access to treatment and imaging trials conducted under the National Clinical Trials Network (NCTN);NCORP will support the following components that will be individually awarded through the respective Request for Applications (RFAs) indicated below:NCORP Research Bases (UG1 Clinical Trials Required)(covered by this NOFO);NCORP Community Sites (UG1 Clinical Trials Not Allowed); andNCORP Academic Community Sites (UG1 Clinical Trials Not Allowed).NCORP Research Bases will serve as the program's research hubs and are expected to:Provide an established organizational structure, with scientific and statistical leadership for developing, implementing, and analyzing multi-institutional cancer control, prevention, and care delivery (CCP&CD) clinical research, as well as quality-of-life studies embedded in treatment and imaging studies.Assume responsibility for study operations and data management, including efficient protocol development; compliance with Food and Drug Administration (FDA) and Office of Human Research Protections (OHRP) regulatory and participant protection requirements; auditing; training; quality assurance; and support to Community Sites and Academic Community Sites.Be based at institutions with comprehensive cancer clinical research expertise (e.g., NCI-designated Cancer Center, or healthcare research organization – including NCI's National Clinical Trials Network (NCTN) Group Operations Centers, or a cancer foundation associated with a NCTN Group).",
+  "title": "NCI Community Oncology Research Program (NCORP) Research Bases (UG1 Clinical Trial Required)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-006.html"
+}

@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "1250000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-31",
+  "grants_gov_id": 359279,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-HG-27-011",
+  "open_date": "2026-09-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "synopsis": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. The purpose of this Notice of Funding Opportunity is to establish the GREGoRi Data Coordination and Outreach Center. The Data Coordination and Outreach Center will act as the central point of coordination for the GREGoRi Research Program, and will be responsible for ensuring that the protocols, data, metadata, computational tools and other resources developed as part of GREGoRi are made available to the broader research community.",
+  "title": "GREGoRi Data Coordination and Outreach Center (U01, Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-27-011.html"
+}

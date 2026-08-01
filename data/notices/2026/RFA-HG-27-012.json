@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "2250000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-31",
+  "grants_gov_id": 359280,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-HG-27-012",
+  "open_date": "2026-09-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "synopsis": "The Genomics Research to Elucidate the Genetics of Rare Diseases:innovation (GREGoRi) initiative seeks to accelerate a paradigm shift in rare disease diagnosis by reimagining the tools, molecular technologies and analytical approaches used to identify the causal gene(s) and/or variant(s) underlying rare genetic disorders. The purpose of this Notice of Funding Opportunity is to establish the GREGoRi Technology Integration Center, which will enable the development of standards and best practices for applying new and emerging molecular methods in rare disease diagnosis. A major deliverable of the Center will be a multidimensional dataset that can be used for the development and benchmarking of novel tools and strategies that facilitate rare disease diagnosis.",
+  "title": "GREGoRi Technology Integration Center (U01, Clinical Trials Optional)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-27-012.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-18",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-18",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-19",
+  "grants_gov_id": 358181,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": "2026-11-18",
+  "notice_id": "PAR-25-371",
+  "open_date": "2025-01-20",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2025-01-13",
+  "source": "nih",
+  "synopsis": "The purpose of this NOFO is to invite Research Project (R01) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Approaches may include but are not limited to empirical qualitative and quantitative methods, as well as conceptual, legal, and normative analyses. Direct involvement of key stakeholders where appropriate is encouraged. This Notice of Funding Opportunity (NOFO) requires a Plan for Enhancing Diverse Perspectives (PEDP) as part of the application. Applications without a PEDP will not be reviewed.",
+  "title": "Ethical, Legal and Social Implications (ELSI) Research (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-371.html"
+}

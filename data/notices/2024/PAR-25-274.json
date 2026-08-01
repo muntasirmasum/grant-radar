@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-17",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-17",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-18",
+  "grants_gov_id": 357305,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2026-11-17",
+  "notice_id": "PAR-25-274",
+  "open_date": "2025-01-20",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-11-21",
+  "source": "nih",
+  "synopsis": "The goal of this notice of funding opportunity (NOFO) is to support feasibility trials of complementary and integrative health approaches with physical and/or psychological therapeutic inputs (often called mind and body interventions) for conditions that have been identified by NCCIH as high-priority research topics. This funding opportunity is intended to support feasibility clinical trials that provide new information that are scientifically necessary for the planning and conduct of a subsequent clinical efficacy or effectiveness study, pragmatic trial, or dissemination and implementation trial within NCCIHs mission. NCCIH expects that applications to this NOFO will describe the planned future clinical trial and in so doing demonstrate that the proposed (R34) research is scientifically necessary to design or plan the subsequent competitive full-scale clinical trial. Under this R34, the data collected should be used to fill gaps in scientific knowledge necessary to develop a competitive full-scale clinical trial, including, but not limited to the following: examining feasibility and acceptability of interventions lacking published data; tailoring or adapting the content or structure of an intervention to a specific population, modality, or setting; refining the intervention to determine the most appropriate frequency or duration; determining feasibility of recruitment, retention, and data collection procedures; refining and assessing the feasibility of protocolized multi-component interventions; or examining acceptability and adherence of control conditions. The subsequent full-scale clinical trial should have the potential to make a significant impact on public health. Prior to submitting to this NOFO, applicants are encouraged to contact the appropriate NCCIH Scientific/Research contact person for the science area of the planned application.",
+  "title": "Feasibility Clinical Trials of Mind and Body Interventions for NCCIH High Priority Research Topics (R34 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-274.html"
+}

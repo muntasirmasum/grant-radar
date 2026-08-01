@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "P51"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 348407,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-23-126",
+  "open_date": "2023-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2023-05-26",
+  "source": "nih",
+  "synopsis": "This funding opportunity announcement (FOA) encourages grant applications that support the activities of the National Primate Research Centers (NPRCs). Nonhuman primates (NHPs) are most closely related to humans, both physiologically and genetically. Therefore, NHPs are critical animal models for basic and translational research aimed at understanding human biology, both in normal and diseased states. Proper husbandry and management of NHPs require specialized physical and intellectual resources, which are most effectively and economically provided in centralized primate centers, the resources of which are made available to investigators on a national basis. The NPRCs provide these resources to investigators/grantees who utilize NHPs in biomedical research and thereby complement and help enable the missions of the NIH Institutes and Centers.",
+  "title": "Limited Competition: National Primate Research Centers (P51) (Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-126.html"
+}

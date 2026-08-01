@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K22"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357072,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-027",
+  "open_date": "2025-01-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2024-11-08",
+  "source": "nih",
+  "synopsis": "The purpose of the NIDCR Dentist Scientist Career Transition Award for Intramural Investigators (K22) program is to facilitate transition of highly qualified dentists from NIH Intramural postdoctoral research positions to extramural academic tenure-track or equivalent faculty positions at eligible institutions. The award will provide support for two years of mentored postdoctoral research training in the NIH Intramural Research Program, and three years of independent research funding at the extramural institution.",
+  "title": "NIDCR Dentist Scientist Career Transition Award for Intramural Investigators (K22 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-027.html"
+}

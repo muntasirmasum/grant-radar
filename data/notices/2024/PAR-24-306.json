@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "499000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357005,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-24-306",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) invites applications for projects to expand, improve, or transform the utility of mammalian cancer and tumor models for translational research. With this NOFO, the NCI intends to encourage submission of projects devoted to demonstrating that mammalian models or their derivatives used for translational research are robust representations of human biology, are appropriate to test questions of clinical importance, and provide reliable information for patients' benefit. These practical goals contrast with the goals of many mechanistic, NCI-supported R01 projects that employ mammals, or develop and use mammalian cancer models, transplantation tumor models, or models derived from mammalian or human tissues or cells for hypothesis-testing, non-clinical research. Among many other possible endeavors, applicants in response to this FOA could propose demonstrations of how to overcome translational deficiencies of mammalian oncology models, define new uses of mammalian models or their genetics for unexplored translational challenges, advance standard practices for use of translational models, test approaches to validate and credential models, or challenge current practices for how models are used translationally",
+  "title": "Research Projects to Enhance Applicability of Mammalian Models for Translational Research (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-306.html"
+}

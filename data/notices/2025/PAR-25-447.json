@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "X01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-08",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-05-08",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-09",
+  "grants_gov_id": 359942,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2028-05-08",
+  "notice_id": "PAR-25-447",
+  "open_date": "2025-10-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2025-09-22",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications to use NHLBI-funded TransOmics for Precision Medicine (TOPMed) program to generate a large volume of integrated genetic and multi-omics data to facilitate discovery of the molecular mechanisms of Heart, Lung, Blood, and Sleep (HLBS) disorders. No funding will be provided under this NOFO. The genomic data and related phenotypic data will be deposited in a public NIH-designated controlled-access database such as the database for Genotypes and Phenotypes (dbGaP) and NHLBIs BioData Catalyst (BDC). The overall goal is to move from simply cataloguing genetic associations to understanding how genetic factors contribute to HLBS diseases at the molecular and cellular levels. This transformation will help move TOPMed from genetic Map to Mechanism with potential applications of AI and ML tool sets where possible, enabling functional genomics research that will accelerate mechanistic personalized medicine",
+  "title": "NHLBI TOPMed: Omics Phenotypes of Heart, Lung, and Blood Disorders (X01 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-447.html"
+}

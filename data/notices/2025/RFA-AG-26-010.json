@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "award_ceiling": "400000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-26",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-05-26",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-27",
+  "grants_gov_id": 359653,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2027-05-26",
+  "notice_id": "RFA-AG-26-010",
+  "open_date": "2026-04-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2025-09-02",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity Announcement (NOFO) invites R25 applications to support the development and implementation of research education programs for recent baccalaureates from all backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences. It is essential to expand and broaden the skilled Alzheimers Disease (AD) and Alzheimers Disease and Related Dementias (ADRD) research workforce and provide exposure to AD/ADRD research to individuals early in their careers. The proposed research education programs will support intensive research experiences in the AD/ADRD field with the goal of preparing recent baccalaureates to transition into strong, research-focused advanced degree programs or competitive private sector research careers in AD-related disciplines.",
+  "title": "NIA Expanding Research in AD/ADRD (ERA) Postbaccalaureate Research Education Program (R25 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-26-010.html"
+}

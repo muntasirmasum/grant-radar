@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UE5"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-10-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-02",
+  "grants_gov_id": 360561,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DA-27-007",
+  "open_date": "2026-09-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-06-23",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) seeks to establish a course to equip researchers studying drug use, drug misuse, and drug addiction with the skills, knowledge, and practical tools needed to translate their scientific discoveries into impactful real world solutions. The course is envisioned to focus on building capacity in product development, entrepreneurship, and innovation pathways so participants can more effectively move biomedical ideas from early research toward implementation, or commercialization. By combining structured training, mentorship, and hands-on experience, the course is envisioned to accelerate the development of biomedical products that address the complex challenges of drug use, drug misuse, and drug addiction, while fostering an interdisciplinary community of investigators prepared to navigate the scientific, regulatory, and business aspects of this unique research field.",
+  "title": "Limited Competition: Growing Great Ideas: Research Education Course in Entrepreneurship and Product Development for Researchers Studying Drug Use, Drug Misuse, and Drug Addiction (UE5 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "substance_use",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-007.html"
+}

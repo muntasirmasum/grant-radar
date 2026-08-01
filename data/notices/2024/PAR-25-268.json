@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-17",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-17",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-18",
+  "grants_gov_id": 357303,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2026-11-17",
+  "notice_id": "PAR-25-268",
+  "open_date": "2025-01-20",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-11-21",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated fully remotely delivered and conducted clinical trials to assess the efficacy or effectiveness of complementary and integrative health interventions in NCCIH- designated areas of high research priority. Applications submitted under this NOFO are expected to propose a remotely delivered and conducted fully powered clinical trial with no in-person contact between research staff and study participants and may utilize mHealth tools or technologies. Applicants must provide justification for the remotely delivered approach and provide preliminary data on the feasibility and safety of the approach, along with evidence that the intervention has promise of clinical benefit. Applicants are encouraged to contact the appropriate NCCIH Scientific/Research contact for the area of science for which they are planning to develop an application prior to submitting to this NOFO.",
+  "title": "Investigator Initiated Clinical Trials of Complementary and Integrative Interventions Delivered Remotely or via mHealth (R01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-268.html"
+}

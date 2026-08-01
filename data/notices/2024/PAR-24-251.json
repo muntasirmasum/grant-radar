@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U18"
+  ],
+  "award_ceiling": "1250000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-12",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-09-29",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-09-30",
+  "grants_gov_id": 355044,
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2028-09-29",
+  "notice_id": "PAR-24-251",
+  "open_date": "2024-06-20",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2024-06-20",
+  "source": "nih",
+  "synopsis": "The purpose of this Funding Opportunity Announcement (FOA) is to solicit applications for inclusion as Animal and Veterinary Innovation Centers, which are intended to form long-term partnerships to address priority areas for FDA's Center for Veterinary Medicine (CVM). This includes CVM developing cooperative agreement(s) with academic research institutions (public and private) to: 1. Drive research that supports the development of interventions to prevent, control, or eliminate Highly Pathogenic Avian Influenza (HPAI) virus in animals, or interventions that reduce the circulation of the virus in the ecosystem. Work may also include other emerging zoonotic disease threats or One Health issues in future years. 2. Drive research that supports the development of intentional genomic alternations in animals and the advancement of regulatory science in this field, with a focus on intentional genomic alternations that support agricultural resilience, food security, animal health, or public health. 3. Drive research that supports the development of products for minor species, minor uses in major species (dogs, cats, horses, cattle, pigs, chickens, and turkeys) and other unmet veterinary medical needs in major species that create a significant animal or public health burden.",
+  "title": "Animal and Veterinary Innovation Centers",
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-251.html"
+}

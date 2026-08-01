@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "K25"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 353709,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PA-24-190",
+  "open_date": "2024-05-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-23",
+  "source": "nih",
+  "synopsis": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease. The K25 award will provide support and \"protected time\" for a period of supervised study and research for productive professionals with quantitative (e.g., mathematics, statistics, economics, computer science, imaging science, informatics, physics, chemistry) and engineering backgrounds to integrate their expertise with NIH-relevant research.This Funding Opportunity Announcement (FOA) is designed specifically for applicants proposing to serve as the lead investigator of an independent clinical trial, a clinical trial feasibility study, or a separate ancillary clinical trial, as part of their research and career development. Applicants not planning an independent clinical trial, or proposing to gain research experience in a clinical trial led by another investigator, must apply to companion FOA.",
+  "title": "Mentored Quantitative Research Development Award (Parent K25 Independent Clinical Trial Required)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "methods_and_statistics",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-190.html"
+}

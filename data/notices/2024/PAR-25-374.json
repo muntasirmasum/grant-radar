@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "1000000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-08",
+  "grants_gov_id": 357943,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2028-05-07",
+  "notice_id": "PAR-25-374",
+  "open_date": "2025-05-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2024-12-30",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications that propose to use mouse models to conduct rigorous preclinical testing of drugs or drug combinations currently used for other conditions, as well as investigational drugs at various stages of clinical development, predicted to be efficacious in AD/ADRD. This initiative will also support preclinical testing of repurposable or investigational drug candidates in combination with non-pharmacologic interventions leading to robust translational outcomes. The central goal is to establish robust proof of concept that will enable rational drug repurposing and combination therapy development for the treatment and prevention of AD/ADRD.",
+  "title": "Translational Bioinformatics and Experimental Approaches to Advance Drug Repositioning and Combination Therapy Development for Alzheimers Disease and Related Dementias (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-374.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-06-02",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-06-02",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-06-03",
+  "grants_gov_id": 356925,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2027-06-02",
+  "notice_id": "PAR-25-211",
+  "open_date": "2025-05-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2024-10-31",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support highly innovative mechanistic research to accelerate precision probiotic interventions using a milestone-driven, biphasic award mechanism, R61/R33 Phased Innovation Award. Specifically, this NOFO solicits applications that will characterize person-specific features affecting probiotic responses to identify subgroups of probiotic responders and to enhance probiotic clinical outcomes. The ultimate goal of this NOFO is to identify, understand, and develop strategies to address barriers in precision probiotic therapies to account for the heterogenicity in humans that causes inconsistent probiotic responses. The first phase, funded by the R61, will providing for up to 2 years to identify unique host biological patterns (e.g., native microbiome, immune system, gender, diet, age, genetic background, lifestyle, and health history) that are correlated with heterogeneity of probiotic clinical effects using observational or secondary data analysis studies. The second phase, funded under the R33, will support studies to assess the ability of the unique patterns determined in the R61 phase to detect the improvement of probiotic responsiveness in rigorously designed mechanistic studies in relevant animal models or in human subjects. The combined R61/R33 should not exceed 5 years. Transition from the R61 to the R33 phase of the award will be administratively reviewed and will be determined based on successful completion of Transition Milestones that need to be clearly specified in the R61 phase application. Support for a single phased award that does not need the R61 Exploratory phase is available in the companion (R33) NOFO, PAR-AT-24-XXX (TEMP-25413).",
+  "title": "Enhancing Mechanistic Research on Precision Probiotic Therapies (R61/R33 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-211.html"
+}

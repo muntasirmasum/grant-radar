@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "P20"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-05-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-08",
+  "grants_gov_id": 358816,
+  "issuing_orgs": [
+    "National Institute of Nursing Research"
+  ],
+  "next_due_date": "2028-05-07",
+  "notice_id": "PAR-25-439",
+  "open_date": "2025-12-26",
+  "parent_ic": "NIH",
+  "primary_ic": "NINR",
+  "release_date": "2025-09-17",
+  "source": "nih",
+  "synopsis": "The purpose of this initiative is to support the development of innovative research centers to foster nursing-led programs that promote community-partnered research to address persistent health challenges. Center applications developed in response to this RFA should propose strategies to strengthen the research infrastructure by establishing or expanding centralized research resources in School or College of Nursing (SON/CON), developing and enhancing nurse-led interdisciplinary teams, and building expertise in community-partnered research through conducting pilot research that applies NINR's research lenses. Center strategies should be informed by NINRs mission and should meaningfully engage the community throughout all activities.",
+  "title": "Community-Partnered Nursing Research Centers (P20 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-439.html"
+}

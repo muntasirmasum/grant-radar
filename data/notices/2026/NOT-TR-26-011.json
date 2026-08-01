@@ -1,0 +1,23 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "NOT-TR-26-011",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2026-07-16",
+  "source": "nih",
+  "title": "Notice of NCATS Participation in Notice of Funding Opportunity (NOFO) PA-25-302 NIH Small Research Grant Program (Parent R03 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-011.html"
+}

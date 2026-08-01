@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "UE5",
+    "T32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-26",
+  "grants_gov_id": 356309,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2027-01-25",
+  "notice_id": "PAR-24-235",
+  "open_date": "2024-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2024-09-03",
+  "source": "nih",
+  "synopsis": "The purpose of the Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) program is to fund federally recognized American Indian/Alaska Native (AI/AN) Tribes, tribal colleges or universities, Tribal health programs, or Tribal organizations (collectively termed, eligible Tribal Entities) to identify and develop a pool of scientists to conduct research on AI/AN health and health disparities. Through this Notice of Funding Opportunity (NOFO), NIGMS will provide support for a phased award to eligible AI/AN Tribal Entities to develop (UE5) and implement (T32) effective training and mentoring activities for research-oriented individuals earning a doctoral degree in a biomedical research field at a variety of institutions across the United States and territories. The overall purpose is to support the development of individuals who have the technical, operational, and professional skills required to conduct AI/AN health research in a culturally appropriate, ethically responsible and rigorous manner, to complete Ph.D.s in a biomedical field, and to transition into careers in the biomedical research workforce.",
+  "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
+  "topics": [
+    "health_disparities",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-235.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-01-06",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-06",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-07",
+  "grants_gov_id": 356815,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": "2028-01-06",
+  "notice_id": "PAR-25-057",
+  "open_date": "2025-01-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2024-10-23",
+  "source": "nih",
+  "synopsis": "To support UG3/UH3 phased, cooperative agreement research applications to plan and implement clinical trials within the mission of the National Institute of Dental and Craniofacial Research (NIDCR)",
+  "title": "NIDCR Drug, Biologic, Device and/or Procedure Intervention Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-057.html"
+}

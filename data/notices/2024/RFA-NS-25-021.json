@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-09-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-29",
+  "grants_gov_id": 356981,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2026-09-28",
+  "notice_id": "RFA-NS-25-021",
+  "open_date": "2024-12-28",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-11-05",
+  "source": "nih",
+  "synopsis": "The purpose of this announcement is to encourage investigators to pursue translational activities and small clinical studies to advance the development of therapeutic, and diagnostic devices for disorders that affect the nervous or neuromuscular systems. Activities supported in this program include implementation of clinical prototype devices, non-clinical safety and efficacy testing, design verification and validation activities, obtaining an Investigational Device Exemption (IDE) for a Significant Risk (SR) study, as well as a subsequent small clinical study. The clinical study is expected to provide information about the device function or final design that cannot be practically obtained through additional non-clinical assessments (e.g., bench top or animal studies) due to the novelty of the device or its intended use. This FOA is a milestone-driven cooperative agreement program and will involve participation of NIH program staff in negotiating the final project plan before award and monitoring of research progress.",
+  "title": "BRAIN Initiative:  Next-Generation Devices for Recording and Modulation in the Human Central Nervous System (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-25-021.html"
+}

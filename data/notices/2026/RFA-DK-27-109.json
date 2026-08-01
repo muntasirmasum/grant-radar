@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "1500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-01",
+  "grants_gov_id": 361035,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-109",
+  "open_date": "2026-08-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-06-04",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites a single cooperative agreement application for the Resource Center for the Cardiovascular Repository for Type 1 Diabetes (CaRe-T1D). The purpose of CaRe-T1D is to support innovative, discovery and mechanistic research through the study of human cardiovascular (CV) tissue. This research seeks to better understand cardiovascular disease (CVD) in type 1 diabetes, highlight differences compared to type 2 diabetes, and ultimately guide the development of therapies to treat this major cause of morbidity and mortality for individuals with type 1 diabetes. To achieve these goals, the Resource Center will expand the CaRe-T1D biorepository of human CV tissue, further develop the data commons for data sharing and for artificial intelligence (AI) tools, coordinate the research activities of the investigative teams in the CaRe-T1D consortium, and make CaRe-T1D resources accessible to the broader research community. This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.This is a Notice of Funding Opportunity (NOFO) for a Single Source that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Single Source Competition: Continuation of the Cardiovascular Repository for Type 1 Diabetes (CaRe-T1D) - Resource Center (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "cardiovascular",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-109.html"
+}

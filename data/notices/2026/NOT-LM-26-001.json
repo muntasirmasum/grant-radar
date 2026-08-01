@@ -1,25 +1,29 @@
 {
-  "notice_id": "NOT-LM-26-001",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Request for Information (RFI): Future Directions for the NLM Information Resource Grants (G08) Program",
-  "release_date": "2026-04-24",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-LM-26-001.html",
-  "issuing_orgs": ["National Library of Medicine"],
+  "extracted_at": "2026-05-22T19:40:21Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Library of Medicine"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-04-24",
+      "label": "Release Date",
       "type": "release"
     },
     {
-      "label": "Response Date",
       "date": "2026-06-24",
+      "label": "Response Date",
       "type": "other"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-LM-26-001",
+  "notice_type": "guide_notice",
+  "primary_ic": "NLM",
   "raw_html_hash": "a8e8a773133df3401c6c4a8412929e19d6c2ef9cca4c286871489a0154dbee54",
-  "extracted_at": "2026-05-22T19:40:21Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-04-24",
+  "source": "nih",
+  "title": "Request for Information (RFI): Future Directions for the NLM Information Resource Grants (G08) Program",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-LM-26-001.html"
 }

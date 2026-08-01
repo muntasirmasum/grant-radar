@@ -1,20 +1,31 @@
 {
-  "notice_id": "NOT-CA-26-017",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Early Expiration for NCI's Cancer Research Education Program Notices of Funding Opportunity PAR-23-276, PAR-23-277 and PAR-23-278",
-  "release_date": "2026-06-18",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-017.html",
-  "issuing_orgs": ["National Cancer Institute"],
+  "activity_codes": [],
+  "doctype": "NOT",
+  "due_dates": [],
+  "extracted_at": "2026-06-22T00:13:39Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-06-18",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-CA-26-017",
+  "notice_type": "guide_notice",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
   "raw_html_hash": "73f6b9b6ff4ff25cf08f40f6d5154e5c9b7f0d570c4d7f7410c2da429a044816",
-  "extracted_at": "2026-06-22T00:13:39Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-06-18",
+  "source": "nih",
+  "title": "Notice of Early Expiration for NCI's Cancer Research Education Program Notices of Funding Opportunity PAR-23-276, PAR-23-277 and PAR-23-278",
+  "topics": [
+    "cancer"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-017.html"
 }

@@ -1,38 +1,57 @@
 {
-  "notice_id": "NOT-HL-26-005",
-  "source": "nih",
-  "notice_type": "rescission",
-  "title": "Notice to Rescind NOT-HL-24-008 \"NHLBI Announces New Policies Regarding Budget Guidelines for SBIR/STTR Applications\"",
-  "release_date": "2026-05-13",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HL-26-005.html",
+  "budget": {
+    "direct_cost_cap": null,
+    "project_period_max": null,
+    "total_cost_cap": null
+  },
+  "career_stages": [
+    "any"
+  ],
+  "donts": [
+    "Do not continue applying the rescinded NHLBI-specific budget caps from NOT-HL-24-008",
+    "Do not assume institutional templates have been updated automatically"
+  ],
+  "dos": [
+    "Use standard NIH SBIR/STTR budget guidance unless NHLBI publishes new guidance",
+    "Review any in-progress NHLBI SBIR/STTR budgets that cited NOT-HL-24-008",
+    "Watch for a replacement NHLBI notice on SBIR/STTR budget policy"
+  ],
+  "eligibility_tldr": "Affects small businesses preparing SBIR or STTR applications to NHLBI that were following the rescinded budget guidance. Applicants should defer to standard NIH SBIR/STTR budget rules unless NHLBI issues replacement guidance.",
+  "extracted_at": "2026-05-22T19:50:53Z",
+  "extractor_version": "0.1.0",
   "issuing_orgs": [
     "National Heart, Lung, and Blood Institute"
   ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-13",
+      "label": "Release Date",
       "type": "release"
     }
   ],
+  "llm_model": "claude-via-claude-code",
+  "mechanisms": [
+    "R43",
+    "R44",
+    "R41",
+    "R42"
+  ],
+  "notice_id": "NOT-HL-26-005",
+  "notice_type": "rescission",
+  "primary_ic": "NHLBI",
+  "purpose_tldr": "Rescinds NOT-HL-24-008, NHLBI's prior policies regarding budget guidelines for SBIR and STTR applications. The rescission is effective immediately; the 2024 NHLBI-specific SBIR/STTR budget guidance no longer applies.",
+  "raw_html_hash": "3ef5888f0fb8a0d05036ecf5e54b46d82d3b8df62e150d8e006b6538746cd199",
   "related": [
     "NOT-HL-24-008"
   ],
-  "raw_html_hash": "3ef5888f0fb8a0d05036ecf5e54b46d82d3b8df62e150d8e006b6538746cd199",
-  "extracted_at": "2026-05-22T19:50:53Z",
-  "extractor_version": "0.1.0",
-  "purpose_tldr": "Rescinds NOT-HL-24-008, NHLBI's prior policies regarding budget guidelines for SBIR and STTR applications. The rescission is effective immediately; the 2024 NHLBI-specific SBIR/STTR budget guidance no longer applies.",
-  "eligibility_tldr": "Affects small businesses preparing SBIR or STTR applications to NHLBI that were following the rescinded budget guidance. Applicants should defer to standard NIH SBIR/STTR budget rules unless NHLBI issues replacement guidance.",
-  "budget": {
-    "direct_cost_cap": null,
-    "total_cost_cap": null,
-    "project_period_max": null
-  },
-  "mechanisms": ["R43", "R44", "R41", "R42"],
-  "career_stages": ["any"],
-  "topics": ["cardiovascular", "infrastructure"],
-  "dos": ["Use standard NIH SBIR/STTR budget guidance unless NHLBI publishes new guidance", "Review any in-progress NHLBI SBIR/STTR budgets that cited NOT-HL-24-008", "Watch for a replacement NHLBI notice on SBIR/STTR budget policy"],
-  "donts": ["Do not continue applying the rescinded NHLBI-specific budget caps from NOT-HL-24-008", "Do not assume institutional templates have been updated automatically"],
+  "release_date": "2026-05-13",
+  "source": "nih",
   "strategic_priorities": [],
-  "llm_model": "claude-via-claude-code"
+  "title": "Notice to Rescind NOT-HL-24-008 \"NHLBI Announces New Policies Regarding Budget Guidelines for SBIR/STTR Applications\"",
+  "topics": [
+    "cardiovascular",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HL-26-005.html"
 }

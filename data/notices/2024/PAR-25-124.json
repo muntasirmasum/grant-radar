@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357206,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-124",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "The National Center for Medical Rehabilitation Research (NCMRR) Early Career Research (ECR) Award (R03) is intended to support both basic and clinical research from rehabilitation scientists who are establishing independent research careers. The research must be focused on one or more of the areas within the mission of NCMRR: Applicants are encouraged to refer to the NIH Research Plan on Rehabilitation for strategic priorities (https://www.nichd.nih.gov/newsroom/news/110121-NIH-rehab-plan). The NCMRR ECR Award R03 grant mechanism supports various types of projects including secondary analysis of existing data; small, self-contained research projects; development of research methodology; translational research; outcomes research; and development of new technology. Irrespective of the type of project, the intent of the NCMRR ECR Award R03 is for the Program Director(s)/Principal Investigator(s) (PD(s)/PI(s)) to obtain sufficient preliminary data for a subsequent R01 application.",
+  "title": "NCMRR Early Career Research Award (R03 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-124.html"
+}

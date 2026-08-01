@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357524,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-310",
+  "open_date": "2025-01-21",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-12-03",
+  "source": "nih",
+  "synopsis": "This NOFO is a call to action in response to the mental health crisis in the United States. We seek applications that will study methods to increase access to evidence-based interventions and services for youth mental health, including those living in rural areas, inner cities, and other under-resourced areas, and youth experiencing housing and food insecurities and out-right homelessness. Applications should address research related to optimizing assessment, intervention and service strategies, overcoming challenges related to the workforce shortage, wait lists for treatment, integration of treatment and preventive interventions into settings where people are most likely to be best identified as needing care (eg: schools, social service, pediatric medicine and justice), and service interventions that address systemic barriers to access and quality of mental health care (structural, policy, organizational, value (cost/financing), management).",
+  "title": "Accelerating Solutions to Improve Access and Quality of Empirically-Supported Practices for Youth Mental Health (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "maternal_child_health",
+    "mental_health",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-310.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K08"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-08",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 353746,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PA-24-182",
+  "open_date": "2024-05-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-24",
+  "source": "nih",
+  "synopsis": "The primary purpose of the NIH Mentored Clinical Scientist Research Career Development Awards (K08) program is to prepare qualified individuals for careers that have a significant impact on the health-related research needs of the Nation. This program represents the continuation of a long-standing NIH program that provides support and \"protected time\" to individuals with a clinical doctoral degree for an intensive, supervised research career development experience in the fields of biomedical and behavioral research, including translational research.",
+  "title": "Mentored Clinical Scientist Research Career Development Award (Parent K08  Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-182.html"
+}

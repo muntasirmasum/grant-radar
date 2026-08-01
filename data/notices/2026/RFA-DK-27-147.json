@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "2200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-01",
+  "grants_gov_id": 358917,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-147",
+  "open_date": "2026-08-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-05-20",
+  "source": "nih",
+  "synopsis": "This is a NOFO for a Single Source competition that will invite application(s) from eligible organization(s) to apply. Please see Eligibility Section for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) is announcing its intent to issue a single source cooperative agreement award to Beckman Research Institute/City of Hope for the currently funded Integrated Islet Distribution Program (IIDP) to renew the program and maintain support for its continuing mission to provide the scientific community with important islet resources for diabetes research. The IIDP facilitates the distribution of human islets to biomedical researchers by establishing partnerships with qualified islet isolation facilities to prepare and distribute human islets. Human islets remain an essential resource for diabetes research to advance our understanding of human islet cell biology, and to promote the development of new therapies for the prevention and treatment of diabetes.This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.",
+  "title": "Single Source for Continuation of the Integrated Islet Distribution Program U24 (Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-147.html"
+}

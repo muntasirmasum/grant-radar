@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 356923,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-206",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-10-31",
+  "source": "nih",
+  "synopsis": "NIMH seeks applications for pilot effectiveness projects to evaluate the preliminary effectiveness of therapeutic and service delivery interventions for the post-acute management of mental health conditions that are matched to the stage of illness in terms of both their focus (e.g., consolidating and maintaining gains from initial treatment, managing residual symptoms/impairment, preventing relapse, promoting adherence and appropriate service use) and intensity/burden. In this pilot phase of effectiveness research, the trial should be designed to evaluate the feasibility, tolerability, acceptability, safety, and potential effectiveness of the approach; to address whether the intervention engages the target(s)/mechanisms(s) that is/are presumed to underlie the intervention effects; and to obtain preliminary data needed as a pre-requisite to a larger-scale effectiveness trial (e.g., comparative effectiveness study, practical trial) designed to definitely test the effectiveness of interventions to improve post-acute outcomes. This Notice of Funding Opportunity (NOFO) supports pilot effectiveness research to evaluate the feasibility, tolerability, acceptability, safety and preliminary indications of effectiveness of post-acute phase intervention approaches and inform the design of definitive effectiveness trials. Support for fully-powered, definitive effectiveness studies focused on post-acute phase interventions is provided via the R01 currently TEMP-24813.",
+  "title": "Pilot Effectiveness Trials for Post-Acute Interventions and Services to Optimize Longer-term Outcomes (R01 Clinical Trial Required)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-206.html"
+}

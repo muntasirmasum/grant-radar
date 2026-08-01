@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-06-15",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-06-16",
+  "grants_gov_id": 360654,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-OD-27-004",
+  "open_date": "2026-09-15",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-05-12",
+  "source": "nih",
+  "synopsis": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. The purpose of this Notice of Funding Opportunity (NOFO) is to solicit Transformative Research Award applications to support individual scientists or groups of scientists proposing groundbreaking, exceptionally innovative, original, and/or unconventional research that has the potential to create new scientific paradigms, establish entirely new and improved clinical approaches, or develop transformative technologies related to Down syndrome. Applications are welcome in all topics relevant to Down syndrome-related research or its co-occurring conditions. No preliminary data are required. Projects must clearly demonstrate, based on the strength of the logic, a compelling potential to produce a major impact in research related to Down syndrome.",
+  "title": "INCLUDE Project: Transformative Research Awards for Down syndrome (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-27-004.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357074,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-167",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-12",
+  "source": "nih",
+  "synopsis": "Through this notice of funding opportunity (NOFO), the National Cancer Institute (NCI) invites applications for support of investigator-initiated clinical trials that have the potential to reduce the burden of cancer through improvements in early detection, screening, prevention and interception, healthcare delivery, quality of life, and/or survivorship related to cancer; with such attributes, the proposed studies should also have the potential to improve clinical practice and/or public health. Applications submitted to this NOFO must include studies that meet the National Institutes of Health (NIH) definition of a clinical trial (see NOT-OD-15-015 for details) and provide specific clinical trial information as described in this FOA. This NOFO does not and will not support clinical trials for studies of cancer diagnosis and/or oncologic therapy in patients. The proposed investigator-initiated projects should be related to the programmatic interests of the NCI Division of Cancer Prevention and/or the NCI Division of Cancer Control and Population Sciences.",
+  "title": "Cancer Prevention and Control Clinical Trials Grant Program (R01 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-167.html"
+}

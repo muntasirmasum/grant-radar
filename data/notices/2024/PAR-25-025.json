@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "award_ceiling": "1515000",
+  "clinical_trials": "Required",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357542,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-025",
+  "open_date": "2025-01-03",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-12-05",
+  "source": "nih",
+  "synopsis": "The objective of this funding opportunity is to support investigator-initiated, phase I clinical trials for diagnostic and therapeutic interventions for heart, lung, blood, and sleep (HLBS) disorders in adults and children. The proposed trial can be single or multisite. Applicants applying for funding under this NOFO should be ready to initiate the clinical trial within the first quarter of the project period. Discussion, submission, and attainment of applicable regulatory (FDA, DSMB, IRB) approvals, and establishment of drug (and placebo, if applicable) supplies, and any necessary third-party agreements should be established by the time of award. If time and support for these and other pre-clinical and/or trial readiness activities are desired, applicants should consider the companion NOFO which utilizes an R61/R33 phased approach.",
+  "title": "NHLBI Early Phase Clinical Trials for Therapeutics and/or Diagnostics for HLBS Disorders (R33 CT Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-025.html"
+}

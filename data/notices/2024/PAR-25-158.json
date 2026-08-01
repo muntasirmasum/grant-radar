@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-17",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-17",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-18",
+  "grants_gov_id": 357375,
+  "issuing_orgs": [
+    "National Institute on Alcohol Abuse and Alcoholism"
+  ],
+  "next_due_date": "2026-11-17",
+  "notice_id": "PAR-25-158",
+  "open_date": "2025-01-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAAA",
+  "release_date": "2024-11-25",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) focuses on prevention and intervention strategies for fetal alcohol spectrum disorders (FASD) throughout the lifespan. The intent of this NOFO is to support research that advances (1) prevention approaches to reduce prenatal alcohol exposure and the incidence of FASD and that (2) interventions for FASD. These objectives will be accomplished with the Exploratory/Developmental Phased Award (R61/R33) mechanism, clinical trial optional. The R61 phase will support pilot studies or secondary data analysis for hypothesis development and feasibility, and research testing the hypotheses can be expanded in the R33 phase. The transition to the R33 phase will be determined by NIAAA program staff after evaluation of the achievement of specific milestones set for the R61 phase. Highest priority will be given to applications with clinical trials. Applicants interested in planning clinical trials or adding to current projects may also consider NOFO (TEMP-23832, the R34 option).",
+  "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R61/R33 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "maternal_child_health",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-158.html"
+}

@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357192,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-243",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages grant applications from investigators interested in conducting basic, mechanistic research into the biological/genetic causes of cancer health disparities. These research project grants will support innovative studies designed to investigate biological/genetic bases of cancer disparities, such as (1) mechanistic studies of biological factors associated with cancer disparities, including those related to basic research in cancer biology or cancer prevention strategies, (2) the development and testing of new methodologies and models, and (3) secondary data analyses. This NOFO is also designed to aid and facilitate the growth of a nationwide cohort of scientists with a high level of basic research expertise in cancer health disparities research who can expand available resources and tools, such as biospecimens, patient derived models, and methods that are necessary to conduct basic research in cancer health disparities.",
+  "title": "Basic Research in Cancer Health Disparities (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-243.html"
+}

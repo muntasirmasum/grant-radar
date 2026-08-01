@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357550,
+  "issuing_orgs": [
+    "National Institute on Minority Health and Health Disparities"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-299",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMHD",
+  "release_date": "2024-12-05",
+  "source": "nih",
+  "synopsis": "This initiative will support multi-level and/or multi-domain intervention research to reduce disparities in liver diseases and liver cancer among populations who experience health disparities in the United States (U.S.). This NOFO is being reissued in accordance with the simplified review criteria in effect for application due dates after January 25, 2025.",
+  "title": "Interventions to Address Disparities in Liver Diseases and Liver Cancer (R01 - Clinical Trials Optional)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "health_disparities"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-299.html"
+}

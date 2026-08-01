@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K22"
+  ],
+  "award_ceiling": "150000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357511,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-251",
+  "open_date": "2025-01-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2024-12-03",
+  "source": "nih",
+  "synopsis": "The purpose of the NIAID Career Transition Award program is to assist postdoctoral fellows' transition to positions of assistant professor or equivalent and initiate a successful biomedical career as an independent research scientist.",
+  "title": "NIAID Career Transition Award (K22 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-251.html"
+}

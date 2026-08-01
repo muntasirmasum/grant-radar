@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-27",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-27",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-28",
+  "grants_gov_id": 355987,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2027-01-27",
+  "notice_id": "PAR-24-260",
+  "open_date": "2024-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2024-08-12",
+  "source": "nih",
+  "synopsis": "The purpose of the Tribal Institutional Review Board Establishment and Enhancement (TIRBEE) award is to support federally recognized American Indian/Alaska Native (AI/AN) Tribes, Tribal colleges and universities, Tribal health programs, or Tribal organizations(collectively, eligible Tribal entities) to establish Institutional Review Boards (IRBs) or enhance the capacity of existing Tribal IRBs.",
+  "title": "Tribal Institutional Review Board Establishment and Enhancement (TIRBEE) (R24 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-260.html"
+}

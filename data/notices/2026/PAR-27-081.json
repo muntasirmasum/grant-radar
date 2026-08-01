@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-03-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-03-06",
+  "grants_gov_id": 360676,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-081",
+  "open_date": "2026-05-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2026-05-04",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to support investigators who have the interest and capability to join efforts for the discovery of in vivo chemical probes for novel brain targets. It is expected that applicants will have, in hand, the starting compounds (validated hits) for chemical optimization and bioassays for testing new analog compounds.Through this NOFO, NIH wishes to stimulate research in:Discovery and development of novel, small molecules for their potential use in understanding biological processes relevant to the missions of National Institute of Mental Health (NIMH), National Institute on Drug Abuse (NIDA), National Eye Institute (NEI), and/or National Institute on Aging (NIA) andDiscovery and/or validation of novel, biological targets that will inform studies of brain disease mechanisms.Emphasis will be placed on projects that provide new insight into important disease-related biological targets and biological processes.",
+  "title": "Discovery of in vivo Chemical Probes for the Nervous System (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-081.html"
+}

@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "award_ceiling": "350000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-12",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-13",
+  "grants_gov_id": 357168,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-11-12",
+  "notice_id": "PAR-25-204",
+  "open_date": "2025-02-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this NIDA R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs. This NOFO is intended to support research education activities that enhance the knowledge of substance use and substance use disorder research. The program is intended for those in clinically focused careers and/or those training for careers as clinicians/health service providers, clinical researchers, or optimally a combination of the two. This mechanism may not be used to support non-research-related clinical training.",
+  "title": "NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "substance_use",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-204.html"
+}

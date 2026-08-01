@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-11-16",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-16",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-17",
+  "grants_gov_id": 358082,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": "2027-11-16",
+  "notice_id": "PAR-25-068",
+  "open_date": "2025-04-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2025-01-08",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications for innovative basic and translational pilot research projects within the mission of the NIDDK that are aligned with NIH HIV/AIDS research priorities. These priorities were most recently outlined by the NIH Office of AIDS Research (OAR) in NOT-20-018, UPDATE: NIH HIV/AIDS Research Priorities and Guidelines for Determining HIV/AIDS Funding, scientific priorities. Potential topics could address multiple overarching priorities. These include elucidation of unique pathophysiological mechanisms contributing to HIV comorbidities, coinfections, and complications (CCCs) affecting organs, tissues, and processes within the mission of the NIDDK. Likewise, interrogations into biological mechanisms underlying HIV reservoirs in NIDDK-relevant tissues are important for developing strategies for long-term viral suppression or eradication. Finally, health-impeding social determinants of health may affect CCCs or viral reservoirs within NIDDK's mission through multiple pathways.",
+  "title": "Pilot Studies of Biological, Behavioral and Social Mechanisms Contributing to HIV Pathogenesis Within the Mission of NIDDK (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-068.html"
+}

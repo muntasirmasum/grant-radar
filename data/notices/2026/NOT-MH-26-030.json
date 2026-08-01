@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-MH-26-030",
-  "source": "nih",
-  "notice_type": "change",
-  "title": "Notice of Change to Key Dates for PAR-25-182 - Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required)",
-  "release_date": "2026-05-20",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-030.html",
-  "issuing_orgs": ["National Institute of Mental Health"],
+  "extracted_at": "2026-05-25T00:01:34Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-20",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-MH-26-030",
+  "notice_type": "change",
+  "primary_ic": "NIMH",
   "raw_html_hash": "1348e539f4df7b300e16368456470de9feaa826a0039b6697bbc180fea20d255",
-  "extracted_at": "2026-05-25T00:01:34Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-05-20",
+  "source": "nih",
+  "title": "Notice of Change to Key Dates for PAR-25-182 - Development of Psychosocial Therapeutic and Preventive Interventions for Mental Disorders (R61/R33 Clinical Trial Required)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-030.html"
 }

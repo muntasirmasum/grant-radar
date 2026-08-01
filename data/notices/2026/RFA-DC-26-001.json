@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-06-17",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-06-18",
+  "grants_gov_id": 359274,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DC-26-001",
+  "open_date": "2026-05-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2026-02-05",
+  "source": "nih",
+  "synopsis": "The National Institute on Deafness and other Communication Disorders (NIDCD) intends to re-issue a Notice of Funding Opportunity (NOFO, prior funding opportunity RFA-DC-24-008 to solicit applications for research on early-stage dissemination and implementation (D&I) in the NIDCD mission areas of hearing, balance, taste, smell, voice, speech, and language. Much research is devoted to developing evidence-based innovations (EBIs) that improve a person\"s health and quality of life. To impact people\"s lives, EBIs need to be adopted in clinical practice and everyday life. Unfortunately, wide-scale adoption of EBIs is lengthy and rare. Dissemination and implementation (D&I) science is the field of research that seeks to close the gap between research and practice. Dissemination research is defined as the scientific study of the targeted distribution of information and materials about EBI to a specific audience (e.g., practitioners, patients, policymakers). The intent is to understand how best to communicate and integrate knowledge associated with a given EBI. Implementation Science refers to a broader array of active and planned efforts to integrate evidence into practice. Implementation research focuses on understanding why clinical and community settings are not adopting and sustaining a particular EBI. In turn, implementation research uses this understanding of barriers and facilitators to develop and evaluate different strategies (or collections of strategies) to increase adoption and integration of an EBI into practice. Many fields have applied D&I research theories, approaches, and outcome measures to improve adoption and sustainment of EBIs. This funding opportunity aims to support early-stage D&I research in NIDCD mission areas of hearing, balance, taste, smell, voice, speech, and language. Resulting findings should set a sufficient foundation for a high-quality, D&I focused R01 in NIDCD mission areas. Applications are not being solicited at this time. Notice is being provided to allow potential applicants sufficient time to develop meaningful collaborations and responsive projects. This NOFO will utilize the R21 activity code. Investigators with expertise and insights into D&I research in NIDCD mission areas are encouraged to begin to consider applying for this new NOFO. In addition, collaborative investigations combining expertise in D&I and NIDCD mission areas will be encouraged and these investigators should also begin considering applying for this application.",
+  "title": "Early-Stage Dissemination and Implementation Research in Communication Disorders (R21 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-26-001.html"
+}

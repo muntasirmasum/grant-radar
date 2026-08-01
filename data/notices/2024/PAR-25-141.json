@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-03-04",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-03-04",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-03-05",
+  "grants_gov_id": 357606,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": "2027-03-04",
+  "notice_id": "PAR-25-141",
+  "open_date": "2025-02-04",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2024-12-09",
+  "source": "nih",
+  "synopsis": "This NIAMS Clinical Trial Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required) PAR, a re-issue of PAR-24-208, was re-issued as a result of the Simplifying Review of Research Project Grant Applications [link: https://grants.nih.gov/policy-and-compliance/policy-topics/peer-review/simplifying-review]. The Simplified Review changes in Section V. Application Review Information of the funding opportunity are the only changes that have been made. All other aspects of this funding opportunity remain the same.",
+  "title": "NIAMS Clinical Trial Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-141.html"
+}

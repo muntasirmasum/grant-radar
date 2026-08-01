@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "PF5"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-05-07",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2029-05-08",
+  "grants_gov_id": 360581,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-26-002",
+  "open_date": "2026-04-25",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-01-20",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) seeks to advance its mission by maintaining strong, productive, and secure international research collaborations in support of the NIH mission. The NIH Collaborative International Research Project (Parent Announcement) supports international research collaborations. This opportunity specifically implements an award structure of prime domestic awards with independent foreign awards that are linked to the prime. This structure provides NIH with oversight capacity for international collaborations, and allows NIH to track international funding, as identified in NOT-OD-25-104. This funding opportunity is specifically designed for NIH to support funded international collaborations between a domestic prime organization and foreign organizations. This NOFO should not be used for foreign consultants, purchasing unique equipment or supplies from foreign vendors, foreign collaborations that do not involve NIH funding or any other foreign component that would not result in a foreign subaward. All collaborative international research project applications must include at least 1 international subproject. The proposed project must be related to the programmatic interests of one or more of the participating NIH Institutes, Centers and Offices (ICOs) based on their scientific missions. The application will be evaluated as a whole, and the international subproject(s) will be evaluated on whether the project presents special opportunities for furthering research programs through the use of unusual talent, resources, populations, or environmental conditions in other countries that are not readily available in the United States or that augment existing United States resources, and whether the proposed project has specific relevance to the mission and objectives of the ICO and has the potential for significantly advancing the health sciences in the United States.",
+  "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-26-002.html"
+}

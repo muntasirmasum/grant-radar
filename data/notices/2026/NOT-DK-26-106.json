@@ -1,20 +1,26 @@
 {
-  "notice_id": "NOT-DK-26-106",
-  "source": "nih",
-  "notice_type": "change",
-  "title": "Notice of Change: Expiration of RFA-DK-26-309 -- Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
-  "release_date": "2026-05-06",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DK-26-106.html",
-  "issuing_orgs": ["National Institute of Diabetes and Digestive and Kidney Diseases"],
+  "extracted_at": "2026-05-22T19:38:27Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-05-06",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["RFA-DK-26-309"],
+  "notice_id": "NOT-DK-26-106",
+  "notice_type": "change",
+  "primary_ic": "NIDDK",
   "raw_html_hash": "65b90a6435ee866f11f2c0fe122b3efeaa02600803ed6cab3929127fe83cbe0f",
-  "extracted_at": "2026-05-22T19:38:27Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "RFA-DK-26-309"
+  ],
+  "release_date": "2026-05-06",
+  "source": "nih",
+  "title": "Notice of Change: Expiration of RFA-DK-26-309 -- Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DK-26-106.html"
 }

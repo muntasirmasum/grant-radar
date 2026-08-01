@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "Type 6"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-07-17",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-07-17",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-07-18",
+  "grants_gov_id": 355353,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-07-17",
+  "notice_id": "PA-24-253",
+  "open_date": "2024-07-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-07-11",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) hereby notify recipient organizations holding specific types of NIH grants, listed in the full Funding Opportunity Announcement (FOA), that applications for change of recipient organization status, often referred to in this announcement as Successor-In-Interest, may be submitted to this NOFO. Applications for change of recipient organization status are considered prior approval requests (as described in Section 8.1.2.8 of the NIH Grants Policy Statement) and will be routed for consideration directly to the Grants Management Specialist named in the current award.Although successor-in-interest requests may be submitted through this NOFO, there is no guarantee that an award will be transferred to the new organization. All applicants are encouraged to discuss potential requests with the awarding IC before submission.",
+  "title": "Successor-in-Interest (Type 6 Parent Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-253.html"
+}

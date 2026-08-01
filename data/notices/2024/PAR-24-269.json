@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-11",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-02-11",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-02-12",
+  "grants_gov_id": 356018,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-02-11",
+  "notice_id": "PAR-24-269",
+  "open_date": "2025-01-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2024-08-13",
+  "source": "nih",
+  "synopsis": "The purpose of the NIDA Animal Genetics Program is to identify genetic, genomic, and molecular (epi)genetic variants that underlie: 1. Phenotypes associated with addictive behaviors and/or vulnerability to distinct stages along the substance use disorders (SUD) trajectory (e.g. initial/acute use, escalation of use, acquisition of tolerance, dependence, uncontrolled use, abstinence and relapse or recovery); 2. Behaviors associated with SUD (e.g. impulsivity, novelty seeking, delayed discounting, and other genetically-associated phenotypes); and 3. Comorbidities that demonstrate genetic correlations with phenotypes and behaviors linked with SUD (e.g. anxiety, stress, poor maternal care, social defeat, and other paradigms). Applications may examine any type of genomic variant, including single nucleotide variants (SNVs), indels, large and small structural variants, and all types of mobile DNA. NIDA encourages applications that take genomics, multi-omics, and/or data-based approaches that integrate multi-level omics data, delineate gene networks, and/or uncover the function of known or newly discovered genetic or epigenetic variants. Other areas of interest include genomics analysis at the circuit level and the application of neuroscience to genomics studies. NIDA expects these studies to uncover novel mechanisms that contribute to various stages across the SUD trajectory and inform future studies about potential targets and therapeutic strategies for addiction.",
+  "title": "NIDA Animal Genomics Program (U01  Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "maternal_child_health",
+    "mental_health",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-269.html"
+}

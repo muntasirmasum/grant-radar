@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-06-15",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-06-16",
+  "grants_gov_id": 360653,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-OD-27-003",
+  "open_date": "2026-09-15",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-05-12",
+  "source": "nih",
+  "synopsis": "The NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project seeks to improve health and quality-of-life for individuals with Down syndrome. This Notice of Funding Opportunity (NOFO) invites researchers to submit applications for support of new exploratory and developmental research projects that address critical needs for Down syndrome projects, as articulated in the INCLUDE Project objectives. For example, such projects could assess the feasibility of a novel area of investigation or a new experimental system that has the potential to enhance health-related research. Another example could include the unique and innovative use of an existing methodology to explore a new scientific area. These studies may involve considerable risk but may lead to a breakthrough in a particular area, or to the development of novel techniques, agents, methodologies, models, or applications that could have a major impact on a field of biomedical, behavioral, or clinical research.",
+  "title": "INCLUDE Project: Exploratory/Developmental Research Awards for Down syndrome (R21 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-27-003.html"
+}

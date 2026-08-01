@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357376,
+  "issuing_orgs": [
+    "National Institute on Alcohol Abuse and Alcoholism"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-159",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAAA",
+  "release_date": "2024-11-25",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) for R34 planning grant applications focuses on prevention and intervention strategies for fetal alcohol spectrum disorders (FASD) throughout the lifespan. The intent of this NOFO is to support research that advances (1) prevention approaches to reduce prenatal alcohol exposure and incidence of FASD and (2) interventions for FASD. It is expected that research conducted via this mechanism will consist of studies that are a pre-requisite for preparing and submitting subsequent applications for larger scale FASD prevention or intervention studies. Applicants interested in exploratory phased projects may consider NOFO (TEMP-23833, the R61/R33 option).",
+  "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R34 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "maternal_child_health",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-159.html"
+}

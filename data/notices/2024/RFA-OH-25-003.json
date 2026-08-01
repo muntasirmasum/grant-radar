@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "T03"
+  ],
+  "award_ceiling": "550000",
+  "award_floor": "50000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-10-26",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-11-27",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-11-28",
+  "grants_gov_id": 355722,
+  "issuing_orgs": [
+    "NIOSH"
+  ],
+  "next_due_date": "2028-11-27",
+  "notice_id": "RFA-OH-25-003",
+  "open_date": "2024-11-20",
+  "parent_ic": "CDC",
+  "primary_ic": "NIOSH",
+  "release_date": "2024-11-20",
+  "source": "nih",
+  "synopsis": "The National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC), invites grant applications for Training Project Grants (TPGs) that are focused on occupational safety and health training. NIOSH is mandated to provide an adequate supply of qualified personnel to carry out the purposes of the Occupational Safety and Health Act, and the TPGs are one of the principal means for meeting this mandate. The majority of TPGs are in academic institutions that provide high quality undergraduate, graduate, and post graduate academic training in a variety of occupational safety and health (OSH) and allied disciplines. NIOSH also funds a limited number of non-academic TPGs to provide specialized training for target audiences and build or strengthen the Nation's OSH workforce capacity.",
+  "title": "Occupational Safety and Health Training Project Grants [T03]",
+  "topics": [
+    "behavioral_intervention",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-25-003.html"
+}

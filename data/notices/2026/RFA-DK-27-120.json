@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-10-20",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-21",
+  "grants_gov_id": 360544,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-120",
+  "open_date": "2026-09-20",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-06-30",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications from institutions/organizations that propose to establish core centers that are part of an integrated and existing program of nutrition and/or obesity research. The Nutrition Obesity Research Centers (NORC) program is designed to support and enhance the national research effort in nutrition and obesity. NORCs support three primary research-related activities: Research Core services, a Pilot and Feasibility (P and F) program, and a Scientific Catalyst program. All activities pursued by Nutrition Obesity Research Centers are designed to enhance the efficiency, productivity, effectiveness, and multidisciplinary nature of research in nutrition and obesity.",
+  "title": "Nutrition Obesity Research Centers (NORCs) (P30 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-120.html"
+}

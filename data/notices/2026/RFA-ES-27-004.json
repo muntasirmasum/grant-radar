@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "P42"
+  ],
+  "award_ceiling": "1750000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-09-25",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-09-26",
+  "grants_gov_id": 359650,
+  "issuing_orgs": [
+    "National Institute of Environmental Health Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-ES-27-004",
+  "open_date": "2026-06-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIEHS",
+  "release_date": "2026-05-19",
+  "source": "nih",
+  "synopsis": "The National Institute of Environmental Health Sciences (NIEHS) is announcing the continuation of the Superfund Hazardous Substance Research and Training Program, referred to as Superfund Research Program (SRP) Centers. SRP Center grants will support problem-based, solution-oriented research Centers that consist of multiple, integrated projects representing both the biomedical and environmental science and engineering disciplines; as well as cores tasked with administrative (which includes Center leadership, data management, and training); translational research and engagement; and research support functions. The scope of the SRP Centers is taken directly from the Superfund Amendments and Reauthorization Act of 1986, which limits competition for this program to accredited institutes of higher education.Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Limited Competition: Superfund Hazardous Substance Research and Training Program (P42 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "mental_health",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-27-004.html"
+}

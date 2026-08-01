@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-26",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-01-27",
+  "grants_gov_id": 359656,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-138",
+  "open_date": "2026-02-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-02-05",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) is for support of National Centers for Cryoelectron Tomography (CryoET) to provide nationwide access to advanced cryoET instrumentation and technical support, and to assist investigators in acquiring the skills needed to perform cryoET studies.",
+  "title": "National Centers for Cryo-electron Tomography (cryoET) (R24 -Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-138.html"
+}

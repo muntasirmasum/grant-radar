@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357010,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-227",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) encourages applications that will expand knowledge of the natural history of disorders that currently are, or may become, part of statewide newborn screening programs. A comprehensive understanding of the natural history of a condition is necessary to facilitate appropriate interventions for infants identified by newborn screening. Characterization of the sequence and timing of symptom development provides information crucial for developing targeted, age-appropriate treatments and for establishing a baseline against which to assess novel interventions. In addition, for some conditions, establishment of genotype-phenotype correlations may facilitate prediction of the clinical course; for others, identification of modifying genetic, epigenetic, or environmental factors may enhance understanding of clinical outcomes. Comprehensive data on the natural history of a condition will facilitate the fields ability to: 1) identify the underlying biological mechanisms; 2) understand the genetic and clinical heterogeneity and phenotypic expression of the condition; 3) improve diagnostic accuracy; 4) facilitate clinical trials by providing comprehensive natural history data; 5) prevent, manage, and treat symptoms and complications of the condition; 6) furnish physicians and families with needed support and predictive information about the condition; and 7) establish data collection systems or patient registries to collect longitudinal data (e.g., child/family outcomes following newborn screening).",
+  "title": "Natural History of Disorders Screenable in the Newborn Period (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-227.html"
+}

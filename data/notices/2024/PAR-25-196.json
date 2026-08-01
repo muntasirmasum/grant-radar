@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K12"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-09-28",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-09-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-09-29",
+  "grants_gov_id": 357632,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2027-09-28",
+  "notice_id": "PAR-25-196",
+  "open_date": "2025-01-13",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-12-10",
+  "source": "nih",
+  "synopsis": "The National Center for Advancing Translational Sciences (NCATS) will award Institutional Research Career Development (K12) programs through the Clinical and Translational Science Awards (CTSA). The purpose of this Notice of Funding Opportunity (NOFO) is to encourage institutions to propose creative and innovative institutional research career development programs designed to prepare an outstanding heterogeneous pool of promising later stage postdoctoral fellows and junior faculty scholars who have made a commitment to independent clinical and translational science research careers (i.e., tenure-track or equivalent faculty positions)to facilitate their timely career advancementand continued engagement in research (i.e., sectors including academia, industry, nonprofit and government).",
+  "title": "Limited Competition: Mentored Research Career Development Program Award in Clinical and Translational Science Awards (CTSA) Program (K12 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-196.html"
+}

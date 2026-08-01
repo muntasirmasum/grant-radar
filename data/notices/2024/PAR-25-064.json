@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357200,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-25-064",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-18",
+  "source": "nih",
+  "synopsis": "The goal of this Funding Opportunity Announcement (FOA) is to encourage applications for studies that will enhance knowledge of mechanisms associated with neuropsychiatric symptoms (NPS) in persons with Alzheimer's disease (AD) or Alzheimer's disease-related dementias (ADRD). The findings are expected to advanceadavnce mechanistic understanding of both biobehavioral and neurobiologfical pathways leading to NPS. Findings may also provide insight into novel therapeutic targets that can be advanced into interventions to treat and prevent the development of NPS in AD and/or ADRD.",
+  "title": "Novel Mechanism Research on Neuropsychiatric Symptoms (NPS) in Alzheimer's Dementia (R21 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-064.html"
+}

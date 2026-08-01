@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "F99",
+    "K00"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-04-08",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2029-04-09",
+  "grants_gov_id": 359702,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-27-037",
+  "open_date": "2026-07-08",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-06-16",
+  "source": "nih",
+  "synopsis": "The purpose of this award is to support promising graduate students as they complete their doctoral research training and transition into mentored postdoctoral career development opportunities in research areas relevant to the missions of participating NIH Institutes and Centers.This Notice of Funding Opportunity (NOFO) does not allow candidates to propose to lead an independent clinical trial, but does allow candidates to propose research experience in a clinical trial led by a sponsor or co-sponsor.",
+  "title": "Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-27-037.html"
+}

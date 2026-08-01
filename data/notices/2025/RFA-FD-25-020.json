@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "900000",
+  "clinical_trials": "Required",
+  "close_date": "2028-05-16",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-05-30",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-31",
+  "grants_gov_id": 360008,
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2028-05-30",
+  "notice_id": "RFA-FD-25-020",
+  "open_date": "2025-08-22",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2025-07-11",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to fund clinical trials of products evaluating efficacy and/or safety in support of a new indication or change in labeling to address unmet needs in rare diseases or conditions. Additionally, through the funding of collaborative, efficient, and/or innovative clinical trials, FDA expects to increase the number of approved treatments for rare diseases and exert a broad and positive impact on rare disease drug development.",
+  "title": "Reissue of RFA-FD-23-001- Clinical Studies of Orphan Products Addressing Unmet Needs of Rare Diseases (R01 Clinical Trials Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-25-020.html"
+}

@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-03-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-03-11",
+  "grants_gov_id": 360626,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-DK-27-108",
+  "open_date": "2026-09-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-06-04",
+  "source": "nih",
+  "synopsis": "The NIH Cardiovascular Repository for Type 1 Diabetes (CaRe-T1D) was created to improve research on type 1 diabetes (T1D) and cardiovascular disease (CVD). Cardiovascular complications remain the top cause of death among people with T1D and greatly shorten lifespan. The mechanisms underlying atherosclerosis, cardiomyopathy, endothelial dysfunction, and cardiac autonomic neuropathy in T1D remain poorly understood. While managing traditional risk factors—such as high blood glucose, high blood pressure, and elevated cholesterol lower cardiovascular risk, a significant residual risk remains even with optimal control. In addition to atherosclerosis, both diastolic and systolic diabetic cardiomyopathy play a major role in morbidity and mortality among these patients. Currently, no therapies are specifically approved to prevent or treat these common and severe cardiovascular issues in T1D. The purpose of this NOFO is to promote collaborative and interdisciplinary research aimed at enhancing the understanding of the development of CVD in individuals with T1D and the differences with CVD in T1D by continuing the efforts of the CaRe-T1D consortium.This NOFO is associated with the Special Diabetes Program (https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/type-1-diabetes-special-statutory-funding-program/about-special-diabetes-program) which funds research on the prevention, treatment, and cure of type 1 diabetes and its complications, including unique, innovative, and collaborative research consortia and clinical trials networks.",
+  "title": "Continuation of the Cardiovascular Repository for-Type 1 Diabetes (CARE-T1D) Consortium U01 (Open Competition)- Research (U01, Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cardiovascular",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-108.html"
+}

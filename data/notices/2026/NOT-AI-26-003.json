@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-AI-26-003",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of NIAID Participation in RFA-HL-26-018, Catalyze: Product Definition for Small Molecules, Biologics, and Combination Products - Preliminary Product/Lead Series Identification and Combination Product Prototype (R33 - Clinical Trial Not Allowed)",
-  "release_date": "2026-04-28",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-003.html",
-  "issuing_orgs": ["National Institute of Allergy and Infectious Diseases"],
+  "extracted_at": "2026-05-22T19:38:26Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-04-28",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-AI-26-003",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIAID",
   "raw_html_hash": "e2698922206fde1a3020736455da9ff9f3bb5b1222bba5a9ea6adfa8239962f1",
-  "extracted_at": "2026-05-22T19:38:26Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-04-28",
+  "source": "nih",
+  "title": "Notice of NIAID Participation in RFA-HL-26-018, Catalyze: Product Definition for Small Molecules, Biologics, and Combination Products - Preliminary Product/Lead Series Identification and Combination Product Prototype (R33 - Clinical Trial Not Allowed)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-003.html"
 }

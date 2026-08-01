@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "P41"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 349618,
+  "issuing_orgs": [
+    "National Institute of Biomedical Imaging and Bioengineering"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-23-235",
+  "open_date": "2023-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIBIB",
+  "release_date": "2023-07-28",
+  "source": "nih",
+  "synopsis": "This Funding Opportunity Announcement (FOA) encourages grant applications for Biomedical Technology Resource Centers (BTRCs). BTRCs are national resource centers for conducting research and development on new technologies that are driven by the needs of basic, translational, and/or clinical researchers. BTRCs also make their technologies available to other investigators, train members of the research community in the use of the technologies, and disseminate the technologies broadly.",
+  "title": "National Centers for Biomedical Imaging and Bioengineering (NCBIB) (P41 Clinical Trials Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-235.html"
+}

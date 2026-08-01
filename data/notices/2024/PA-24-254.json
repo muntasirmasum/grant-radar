@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "Type 7"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-07-12",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-07-12",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-07-13",
+  "grants_gov_id": 355354,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-07-12",
+  "notice_id": "PA-24-254",
+  "open_date": "2024-07-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-07-11",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) hereby notifies recipient organizations holding specific types of NIH grants, listed within the Activity Code section above, that applications for change of recipient organization may be submitted to this NOFO. This assumes such a change is programmatically permitted for the particular grant. Applications for change of recipient organization are considered prior approval requests (as described in Section 8.1.2.7 of the NIH Grants Policy Statement) and will be routed for consideration directly to the Grants Management Specialist named in the current award. Although requests for change of recipient organization may be submitted through this NOFO, there is no guarantee that an award will be transferred to the new organization. All applicants are encouraged to discuss potential requests with the awarding IC before submission.",
+  "title": "Change of Recipient Organization (Type 7 Parent Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-254.html"
+}

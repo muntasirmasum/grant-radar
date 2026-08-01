@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "K43"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-12-03",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-12-03",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-12-04",
+  "grants_gov_id": 356724,
+  "issuing_orgs": [
+    "Fogarty International Center"
+  ],
+  "next_due_date": "2026-12-03",
+  "notice_id": "PAR-24-295",
+  "open_date": "2024-11-03",
+  "parent_ic": "NIH",
+  "primary_ic": "FIC",
+  "release_date": "2024-10-15",
+  "source": "nih",
+  "synopsis": "This is a reissue of the Emerging Global Leader Program (K43) to align with the clinical trials policy.",
+  "title": "Emerging Global Leader Award (K43 Independent Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-295.html"
+}

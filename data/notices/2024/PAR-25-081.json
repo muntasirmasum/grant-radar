@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "499999",
+  "clinical_trials": "Required",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357075,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-081",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-12",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity, the National Cancer Institute (NCI) seeks research projects that implement early phase (Phase 0, I, and II) investigator-initiated clinical trials focused on cancer-targeted diagnostic and therapeutic interventions of direct relevance to the research mission of DCTD and OHAM. The proposed project must involve at least 1 clinical trial related to the scientific interests of one or more of the following research programs: Cancer Therapy Evaluation Program, Cancer Imaging Program, Cancer Diagnosis Program, Radiation Research Program, Complementary and Alternative Medicine Program and/or the HIV and AIDS Malignancies Research Programs. Applicants may propose to conduct an early phase trial by itself, or in combination with another research aim(s) as appropriate.",
+  "title": "National Cancer Institute's Investigator-Initiated Early Phase Clinical Trials for Cancer Treatment and Diagnosis (R01 Clinical Trial Required)",
+  "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-081.html"
+}

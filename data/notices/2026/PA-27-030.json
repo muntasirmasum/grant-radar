@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "K12"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-07-12",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2029-07-13",
+  "grants_gov_id": 361251,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-27-030",
+  "open_date": "2026-09-12",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-06-22",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) will award Institutional Mentored Career Development grants to eligible domestic institutions to support career development programs designed to prepare later stage postdoctoral fellows and junior faculty scholars who have made a commitment to an independent research career for their career advancement and transition to independence. Supported scholars will have \"protected time\" to engage in intensive, mentored research career development experiences in the fields of biomedical and behavioral research.This Notice of Funding Opportunity (NOFO) does not allow appointed scholars to lead an independent clinical trial but does allow them to obtain research experience in a clinical trial led by a mentor or co-mentor. NIH strongly supports training towards a career in clinically relevant research. As such, gaining experience in clinical trials under the guidance of a mentor or co-mentor is encouraged.",
+  "title": "Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-27-030.html"
+}

@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-11-02",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-11-03",
+  "grants_gov_id": 358851,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-012",
+  "open_date": "2026-05-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2026-03-18",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports applications to develop and conduct a Clinical Coordinating Center (CCC) for investigator-initiated multi-site clinical trials including efficacy, comparative effectiveness, pragmatic and/or dissemination and implementation science clinical trials. Trials using innovative designs such as platform trials, adaptive, and Bayesian designs are encouraged. These trials may include ones that test different therapeutic, behavioral, dissemination and implementation science clinical trials and/or prevention strategies.Trials for which this NOFO applies must be relevant to the research mission of the NHLBI and meet the NIH definition of a clinical trial (see NOT-OD-15-015). For additional information about the mission, strategic vision, and research priorities of the NHLBI, applicants are encouraged to consult the NHLBI website.This NOFO will utilize a bi-phasic, milestone-driven cooperative agreement mechanism of award and runs in parallel with a companion NOFO for a collaborating Data Coordinating Center (PAR-27-013). The objective of the CCC application is to present the scientific rationale for the clinical trial and a comprehensive scientific and operational plan that describes it. The application should address project management, subject recruitment and retention, performance milestones, scientific conduct of the trial, and dissemination of results. The application should also describe its approaches to increasing community engagement from conceptual design of the intervention through implementation and sustainability and close gaps in health outcomes within the US population and increase health for all.Both a CCC application and a collaborating Data Coordinating Center (DCC) application must be submitted on the same application due date for consideration by NHLBI. Applicants are strongly encouraged to contact the appropriate Scientific/Research contact prior to submitting an application.",
+  "title": "Clinical Coordinating Center for Multi-Site Investigator-Initiated Clinical Trials (Collaborative UG3/UH3 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-012.html"
+}

@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-11-02",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-11-03",
+  "grants_gov_id": 358850,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-011",
+  "open_date": "2026-05-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2026-03-18",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports applications to develop and conduct investigator-initiated single site clinical trials including efficacy, comparative effectiveness, pragmatic and/or dissemination and implementation science clinical trials. Trials using innovative designs such as platform trials, adaptive, and Bayesian designs are encouraged. These trials may include ones that test different therapeutic, behavioral, dissemination and implementation science clinical trials and/or prevention strategies. Trials for which this NOFO applies must be relevant to the research mission of the NHLBI and meet the NIH definition of a clinical trial (see NOT-OD-15-015). For additional information about the mission, strategic vision, and research priorities of the NHLBI, applicants are encouraged to consult the NHLBI website.This NOFO will utilize a bi-phasic, milestone-driven mechanism of award. The objective of the application is to present the scientific rationale for the clinical trial and a comprehensive scientific and operational plan that describes it. The application should address project management, participant recruitment and retention, performance milestones, scientific conduct of the trial, and dissemination of results. The multiple PD/PI model is strongly encouraged but not required. Applicants are encouraged to include a PD/PI with expertise in biostatistics, clinical trial design, and coordination. The application should also describe its approaches to increase community engagement from conceptual design of the intervention through implementation and sustainability, close gaps in health outcomes within the US population, and increase health for all.",
+  "title": "Single-Site Investigator-Initiated Clinical Trials (R61/R33 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-011.html"
+}

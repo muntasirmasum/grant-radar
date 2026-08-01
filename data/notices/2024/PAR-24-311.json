@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357002,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-24-311",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite research grant applications (R01) for the development and use of current and emerging molecular imaging methods to gain fundamental insights into cancer inflammation in vivo. The motivation for this initiative is that much of current imaging research into the role of inflammation in cancer is largely based on in vitro and ex vivo methods with limited utilization of imaging approaches that could lead to significant new insights relevant to dynamic cancer and inflammation interactions. Utilization of molecular imaging probes in pre-clinical and clinical investigations for precise temporal resolution at the molecular and cellular level are valuable approaches for identification and characterization of in vivo inflammatory cellular physiology in cancers and of molecular changes in response to treatment. This FOA encourages applications that focus on developing integrated imaging approaches to interrogate the role of inflammation in cancer through strong cross-field collaboration between cancer basic science researchers and imaging scientists. These collaborations are expected to advance science and understanding of cancer inflammation interactions.",
+  "title": "Molecular Imaging of Inflammation in Cancer (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-311.html"
+}

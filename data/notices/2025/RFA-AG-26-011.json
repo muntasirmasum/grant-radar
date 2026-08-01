@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-26",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-05-26",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-27",
+  "grants_gov_id": 359655,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2027-05-26",
+  "notice_id": "RFA-AG-26-011",
+  "open_date": "2026-04-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2025-09-02",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites R25 applications to support the development and implementation of summer research education programs for high school students, undergraduates, or science teachers from all backgrounds, including those from groups underrepresented in the biomedical and behavioral sciences. It is essential to expand and broaden the skilled Alzheimer's Disease (AD) and Alzheimers Disease Related Dementias (ADRD) research workforce and provide exposure to AD/ADRD research to individuals early in their careers. The proposed research education programs will support intensive summer research experiences in the AD/ADRD field with the goal of exposing participants to AD/ADRD research and encourage further study or participation in biomedical and behavioral research. This NOFO does not allow participants to lead an independent clinical trial, but does allow them to obtain research experience in a clinical trial led by a mentor or co-mentor.",
+  "title": "NIA Expanding Research in AD/ADRD (ERA) Summer Research Education Program (R25 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AG-26-011.html"
+}

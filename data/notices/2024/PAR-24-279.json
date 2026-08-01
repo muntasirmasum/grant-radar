@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R61"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-02",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-02",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-03",
+  "grants_gov_id": 357602,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": "2026-11-02",
+  "notice_id": "PAR-24-279",
+  "open_date": "2025-02-04",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2024-12-09",
+  "source": "nih",
+  "synopsis": "This Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R61 Clinical Trial Required) PAR, a re-issue of PAR-24-035, was re-issued as a result of the Simplifying Review of Research Project Grant Applications [link: https://grants.nih.gov/policy-and-compliance/policy-topics/peer-review/simplifying-review]. The Simplify Review changes in Section V are the only changes that have been made. All other aspects of this funding opportunity remain the same.",
+  "title": "Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R61 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-279.html"
+}

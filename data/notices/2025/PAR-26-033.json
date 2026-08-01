@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "T34"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-09-26",
+  "grants_gov_id": 359861,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2028-09-25",
+  "notice_id": "PAR-26-033",
+  "open_date": "2025-01-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2025-12-29",
+  "source": "nih",
+  "synopsis": "The goal of the Institutional Biomedical Undergraduate Research Training (BURT) program is to strengthen research training environments and develop a pool of well-trained students who:Complete their baccalaureate degrees in biomedically-related fields, andTransition into and complete biomedical, research-focused higher degree programs (such as Ph.D. or M.D./Ph.D.).Specifically, this funding announcement provides support to eligible, domestic organizations to develop and implement effective, evidence-informed approaches to biomedical undergraduate training and mentoring to help build a strong biomedical research workforce for the nation.Applicant organizations must enroll undergraduate students and have received NIH Research Project Grant (RPG) funding averaging less than $50 million in total costs (direct and F&A/indirect) per year over the last three fiscal years (FY). To promote undergraduate research training opportunities across a range of eligible organizations, the program will accept applications in two tracks:Single Site: To support trainees from a single baccalaureate-degree granting organization.Community College Partnerships: To support community college trainee development through strong collaborations between at least one associate-degree granting organization (that is, a community college) and at least one baccalaureate-degree granting organization.The proposed research training programs will incorporate didactic, research, and career development elements to prepare trainees for careers that will have a significant impact on the health-related research needs of the nation.",
+  "title": "NIGMS Institutional Biomedical Undergraduate Research Training (BURT) Program (T34)",
+  "topics": [
+    "aging",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-033.html"
+}

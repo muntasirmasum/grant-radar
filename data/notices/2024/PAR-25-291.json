@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357345,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-291",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-22",
+  "source": "nih",
+  "synopsis": "Reissue of RFA-20-351.The purpose of this Notice of Funding Opportunity (NOFO) is to encourage applications to pursue invasive neural recording studies focused on mental health-relevant questions. Invasive neural recordings provide an unparalleled window into the human brain to explore the neural circuitry and neural dynamics underlying complex moods, emotions, cognitive functions, and behaviors with high spatial and temporal resolution. Additionally, the ability to stimulate, via the same electrodes, allows for direct causal tests by modulating network dynamics. This funding opportunity aims to target a gap in the scientific knowledge of neural circuit function related to mental health disorders. Researchers should target specific questions suited to invasive recording modalities that have high translational potential. Development of new technologies and therapies are outside the scope of this NOFO.",
+  "title": "Utilizing Invasive Recording and Stimulating Opportunities in Humans to Advance Neural Circuitry Understanding of Mental Health Disorders (R21 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-291.html"
+}

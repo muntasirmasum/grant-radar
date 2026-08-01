@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357014,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-25-153",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-06",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications for identification of small molecules that function to elucidate the biology of disease as chemical probes or function as agonists or antagonists of disease target(s) for therapy or immunotherapy. The NOFO is intended to support discovery research for the identification of validated hits relevant to health-related outcomes of participating NIH Institutes. Stages of discovery research covered by this NOFO include: 1) assay development for specific biological targets and disease mechanisms relevant to the mission of participating NIH Institutes with the intent to screen for small molecule compounds that show potential as probes for use in advancing knowledge about the known targets, identifying new targets, or as pre-therapeutic leads; 2) screen implementation high throughput target-focused approaches or moderate throughput phenotypic- and fragment-based approaches to identify initial screening hits; 3) hit validation, including implementation of secondary assays that are orthogonal to the primary assay, advanced cheminformatics analysis and initial medicinal chemistry inspection to prioritize the hit set, and follow-up assays to characterize mode and mechanism of action of the validated hits; 4) hit-to-lead optimization, including SAR to optimize target engagement, selectivity and to minimize chemical liabilities, ADME, PK and PD studies, and, if appropriate, in vivo modeling to test efficacy or biological effects.",
+  "title": "Assay development and screening for discovery of chemical probes, drugs or immunomodulators (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-153.html"
+}

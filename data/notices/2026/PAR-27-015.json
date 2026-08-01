@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-11-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-11-17",
+  "grants_gov_id": 358864,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-015",
+  "open_date": "2026-09-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2026-04-27",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit UG3/UH3 phased, cooperative agreement research applications to evaluate, implement, and/or test population-based interventions to policies, programs, and/or practices for promoting integration of services, systems, and/or values by leveraging cross-sector partnerships in communities. Such interventions must address social and chronic disease common risk factors and/or barriers driving oral disease burden in communities. Projects funded through this funding opportunity and a separately funded Community Engagement Evaluation and Data Coordination hub (CEED) will form a Community-Based Participatory Research (CBPR) consortium: Advancing Data and Practice Transformation (ADAPT), which will receive consultative services from the NIH Community Engagement Alliance Consultative Resource (CEACR) and join in the Science Collaborative for Health and Artificial Intelligence Reduction of Errors (SCHARE) platform for the overarching goal of promoting data use and transformational community engagement to optimize oral health for all people across the lifespan.",
+  "title": "Community-Based Participatory Research to Advance Data and Practice Transformation (ADAPT) for Optimizing Oral Health for All (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-015.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "75000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 358116,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-091",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2025-01-10",
+  "source": "nih",
+  "synopsis": "The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) announces a program that provides NIDDK-supported K01, K08, K23, and K25 recipients the opportunity to apply for Small Grant (R03) support at some point during the latter years of their award period of their K award. Through the use of this mechanism, the NIDDK is seeking to enhance the capability of its K01, K08, K23, and K25 award recipients to conduct research as they complete their transition to fully independent investigator status. The R03 grant mechanism supports different types of projects, including pilot and feasibility studies; secondary analysis of existing data; small, self-contained research projects; development of research methodology; and development of new research technology. The R03 is, therefore, intended to support research projects that can be carried out in a short period of time with limited resources and that may provide preliminary data to support a subsequent R01, or equivalent, application.",
+  "title": "Limited Competition: Small Grant Program for NIDDK K01/K08/K23/K25 Recipients (R03 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-091.html"
+}

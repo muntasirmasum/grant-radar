@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R61"
+  ],
+  "award_ceiling": "150000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 360536,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-CA-27-001",
+  "open_date": "2026-06-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-06-03",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits grant applications proposing to develop innovative technologies offering new capabilities for the molecular or cellular characterization of cancer or for improved handling and quality control of biospecimens for basic, clinical, or epidemiological cancer research. The NOFO solicits R61 applications for early-stage projects proposing proof-of-concept/pilot studies to test the technical feasibility of the proposed method, tool, assay, platform, or instrument. Technologies proposed for development may have potential for widespread applicability but must be focused for this program on cancer-relevant use cases. Projects proposing to apply or use existing technologies for hypothesis-driven research where the novelty resides in the biological or clinical target/question being pursued are not responsive to this solicitation and will not be reviewed.This funding opportunity is part of a broader NCI-sponsored Innovative Molecular Analysis Technologies (IMAT) Program.",
+  "title": "Early-Stage Innovative Technology Development for Basic and Clinical Cancer Research (R61 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-27-001.html"
+}

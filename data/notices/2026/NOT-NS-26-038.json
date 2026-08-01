@@ -1,20 +1,27 @@
 {
-  "notice_id": "NOT-NS-26-038",
-  "source": "nih",
-  "notice_type": "rescission",
-  "title": "Notice to Rescind NOT-NS-24-079 \"NINDS Policy for applications requesting $500,000 or more in direct costs in any year (excluding consortium F&A) on NIH Parent R01 Notices of Funding Opportunities\"",
-  "release_date": "2026-04-24",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-038.html",
-  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "extracted_at": "2026-05-22T19:40:20Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-04-24",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["NOT-OD-26-019", "NOT-NS-24-079"],
+  "notice_id": "NOT-NS-26-038",
+  "notice_type": "rescission",
+  "primary_ic": "NINDS",
   "raw_html_hash": "167f95865d46ae983eb893a25c3181f7b0abd6854581f65283ca7fc8e4e4653b",
-  "extracted_at": "2026-05-22T19:40:20Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "NOT-OD-26-019",
+    "NOT-NS-24-079"
+  ],
+  "release_date": "2026-04-24",
+  "source": "nih",
+  "title": "Notice to Rescind NOT-NS-24-079 \"NINDS Policy for applications requesting $500,000 or more in direct costs in any year (excluding consortium F&A) on NIH Parent R01 Notices of Funding Opportunities\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-038.html"
 }

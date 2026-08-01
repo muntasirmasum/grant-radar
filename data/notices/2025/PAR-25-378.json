@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 358373,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-378",
+  "open_date": "2025-09-21",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2025-01-22",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support research on interventions to improve health in Native American (NA) populations. This includes 1) etiologic research, where there is a significant gap in knowledge, that will directly inform intervention development or adaptations, 2) research that develops, adapts, or tests the efficacy or effectiveness of health promotion and disease prevention interventions, 3) research that tests culturally informed treatment or recovery interventions and 4) where a sufficient body of knowledge on intervention efficacy exists, research on dissemination and implementation that develops and tests strategies to overcome barriers to the adoption, integration, scale-up, and sustainability of effective interventions. Existing data suggest that significant acute and chronic disease inequities exist for NA populations. Concurrently, NA populations experience unique sociopolitical, historical, and environmental stressors and risks that may exacerbate health conditions and/or impact the effectiveness of existing solutions to address the conditions. They also possess unique strengths and resiliencies that can mitigate stressors or inform intervention strategies. Through this initiative, intervention and related research is sought to build upon community knowledge, resources, and resilience to test science-based, culturally appropriate solutions to reduce morbidity and mortality through identification and remediation of precursors to diseases and disorders and through culturally informed treatment. Interventions should be designed with a consideration for sustainability within the communities where they are tested, and have the flexibility to be readily adapted, disseminated, and scaled up to other communities where culturally appropriate. For the purposes of this NOFO, NA includes the following populations: Alaska Natives, American Indians (whose ancestral lands fall at least partially within the U.S. main land).",
+  "title": "Intervention Research to Improve Native American Health (R34 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-378.html"
+}

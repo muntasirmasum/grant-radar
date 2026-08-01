@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-MD-26-001",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Early Expiration of PAR-25-342 \"Interventions on Health and Healthcare Disparities on Non-Communicable and Chronic Diseases in Latin America: Improving Health Outcomes Across the Hemisphere (R01 - Clinical Trial Required)\"",
-  "release_date": "2026-06-03",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MD-26-001.html",
-  "issuing_orgs": ["National Institute on Minority Health and Health Disparities"],
+  "extracted_at": "2026-06-08T00:10:40Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute on Minority Health and Health Disparities"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-06-03",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-MD-26-001",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIMHD",
   "raw_html_hash": "1c3200f34b7a0e2f5dae9f485edfcefb1545f8137d530d9c282ec3dc358c0b3f",
-  "extracted_at": "2026-06-08T00:10:40Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-06-03",
+  "source": "nih",
+  "title": "Notice of Early Expiration of PAR-25-342 \"Interventions on Health and Healthcare Disparities on Non-Communicable and Chronic Diseases in Latin America: Improving Health Outcomes Across the Hemisphere (R01 - Clinical Trial Required)\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MD-26-001.html"
 }

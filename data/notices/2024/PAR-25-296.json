@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "award_ceiling": "650000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-10-19",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-19",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-20",
+  "grants_gov_id": 357667,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2027-10-19",
+  "notice_id": "PAR-25-296",
+  "open_date": "2025-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-12-11",
+  "source": "nih",
+  "synopsis": "The CTSA Collaborative and Innovative Acceleration Award (CCIA) aims to accelerate the pace of translational research by supporting the collaborative development, dissemination, and sustainable implementation of innovative solutions across the CTSA Program Consortium and beyond. This Notice of Funding Opportunity (NOFO) invites investigator-initiated applications to develop, demonstrate, and disseminate innovative new approaches, technologies, resources, or models that increase the impact of research across diseases, transform the field of translational science, and bring more treatments for all people more quickly.",
+  "title": "Limited Competition: Clinical and Translational Science Award (CTSA) Program: Collaborative and Innovative Acceleration Award (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-296.html"
+}

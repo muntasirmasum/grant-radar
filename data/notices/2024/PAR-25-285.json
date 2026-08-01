@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 357434,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-285",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-26",
+  "source": "nih",
+  "synopsis": "This R61/R33 concept complements NIMHs suite of clinical trial NOFOs by supporting feasibility and infrastructure development (R61) followed by well-powered clinical trials (R33) to test the effectiveness of system interventions and strategies for improving the organization, delivery, coordination, and clinical and functional outcomes of mental health services. System interventions - which may span, for example, structural, policy, organizational, and interpersonal domains - attend to issues about the access, equity, engagement/utilization, value (cost/financing), management, or quality and safety of mental health services, with the goal of improved care processes and clinical and functional outcomes. Accordingly, the focus of system interventions may include a variety of care settings, such as health systems and organizations, mental health and community clinics, schools, and child welfare or juvenile justice systems",
+  "title": "Effectiveness Trials to Test Mental Health System Interventions (R61/R33 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities",
+    "infrastructure",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-285.html"
+}

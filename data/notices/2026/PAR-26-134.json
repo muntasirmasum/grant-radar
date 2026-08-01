@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-11-22",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-11-23",
+  "grants_gov_id": 359725,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-134",
+  "open_date": "2026-05-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-02-04",
+  "source": "nih",
+  "synopsis": "The National Cancer Institute's (NCI) Metastasis Research Network (MetNet) is a collection of U54 Research Centers that support using systems-level approaches to understand pressing questions in metastasis. The overall goal of the MetNet is to advance our understanding of metastasis as a whole body, systems-level problem to develop a comprehensive and cohesive picture of the processes involved. Through this Notice of Funding Opportunity (NOFO), the NCI invites applications for MetNet Research Projects. These Research Projects should be defined as discrete entities that use systems-level approaches to address gaps and opportunities in metastasis research to integrate into the MetNet and complement ongoing research across the Network.",
+  "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-134.html"
+}

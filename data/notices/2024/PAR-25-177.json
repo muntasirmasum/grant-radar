@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-10-15",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-15",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-16",
+  "grants_gov_id": 357421,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2027-10-15",
+  "notice_id": "PAR-25-177",
+  "open_date": "2025-01-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-26",
+  "source": "nih",
+  "synopsis": "Clinical Trials to Test the Effectiveness of Treatment, Preventive, and Services Interventions (R01 Clinical Trial Required). This NOFO is a key element of NIMHs set of NOFOs to support clinical trials research across the intervention development and testing pipeline. The NOFO supports (1) clinical trials to test the effectiveness of optimized therapeutic and preventive interventions for use in community and practice settings; and (2) clinical trials to evaluate the effectiveness of patient-, provider-, organizational-, or systems-level services interventions to improve access, continuity, quality, equity, and/or value of mental health services. This NOFO is intended to support trials that: address a significant problem, such that the findings have potential to inform practice; are adequately powered to definitively answer the primary research question(s), with well-justified hypotheses supported by pilot data; and are designed to examine questions regarding mediators and moderators of effects. Consistent with the NIMH experimental therapeutics approach, this NOFO is intended to support effectiveness trials that explicitly address whether the intervention engages the target(s)/mechanism(s) presumed to underlie the intervention effects (i.e., the mechanism(s) that accounts for changes in clinical/functional outcomes, changes in provider behavior, improved access or continuity of services, etc.). The collaborative R01 mechanism provides support for multisite trials when two or more sites are necessary for completion of the trial (e.g., to increase sample size, accelerate recruitment, or increase sample diversity and representation).",
+  "title": "Full-Scale Hybrid Effectiveness-Implementation Trials for Mental Health Interventions (R01 - Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities",
+    "implementation_science",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-177.html"
+}

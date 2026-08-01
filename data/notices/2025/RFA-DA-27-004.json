@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-08",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-11-08",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-09",
+  "grants_gov_id": 359068,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-11-08",
+  "notice_id": "RFA-DA-27-004",
+  "open_date": "2025-09-28",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2025-09-16",
+  "source": "nih",
+  "synopsis": "The Theories, Models and Methods (TMM) initiative will support the development of computational tools for understanding dynamic brain circuits that are made broadly accessible to the greater research community. This program supports applications focused on tool building and dissemination in the domain of theories about neural circuit mechanisms, models of circuit structure and function, and/or computational methods of analysis spanning across scales from neurons to behavior. The development of novel theories, computational models and methods for understanding brain function will help characterize fundamental principles of brain function and organization, characterize cellular and circuit-level neural computations over time in different regions, and understand how interactions of multiple brain circuits enable flexible behaviors and contribute to brain-wide neural dynamics. These tools will be critical for developing treatments such as closed loop systems for brain disorders including Parkinsons disease and major depressive disorder.",
+  "title": "BRAIN Initiative: Theories, Models and Methods for Analysis of Complex Data from the Brain (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-004.html"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-11-05",
+  "doctype": "PAS",
+  "due_dates": [
+    {
+      "date": "2027-11-05",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-06",
+  "grants_gov_id": 358086,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": "2027-11-05",
+  "notice_id": "PAS-25-073",
+  "open_date": "2025-04-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2025-01-08",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) seeks to stimulate HIV/AIDS research within the mission of the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) that align with the HIV/AIDS research priorities outlined by the NIH Office of AIDS Research (OAR). These priorities were most recently described in NOT-OD-20-018 UPDATE: NIH HIV/AIDS Research Priorities and Guidelines for Determining HIV/AIDS Funding.",
+  "title": "Priority HIV/AIDS Research within the Mission of NIDDK (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAS-25-073.html"
+}

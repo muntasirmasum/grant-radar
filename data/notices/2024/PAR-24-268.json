@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "UC2"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-27",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-27",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-28",
+  "grants_gov_id": 356902,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": "2027-01-27",
+  "notice_id": "PAR-24-268",
+  "open_date": "2024-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2024-10-30",
+  "source": "nih",
+  "synopsis": "The Biomedical Research Environment and Sponsored Programs Administration Development (BRE-SPAD) Program aims to promote broad participation in the biomedical research ecosystem by supporting resource limited organizations to conduct research, enhance the research environment, and increase sponsored programs administration capacity.This program intends to support eligible, domestic organizations with limited research resources and few biomedical doctoral students.",
+  "title": "Biomedical Research Environment and Sponsored Programs Administration Development (BRE-SPAD) Program (UC2- Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-268.html"
+}

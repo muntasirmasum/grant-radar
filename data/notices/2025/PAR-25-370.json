@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "50000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-16",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-16",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-17",
+  "grants_gov_id": 358179,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": "2026-11-16",
+  "notice_id": "PAR-25-370",
+  "open_date": "2025-01-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2025-01-13",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite Small Research Grant (R21) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Direct involvement of key stakeholders where appropriate is encouraged. These applications should be for small research projects, such as those that involve single investigators. Of particular interest are projects that propose normative or conceptual analyses, including focused legal, economic, philosophical, anthropological, or historical analyses of new or emerging issues. This mechanism can also be used for the collection of preliminary data and the secondary analysis of existing data.",
+  "title": "Ethical, Legal and Social Implications (ELSI) Small Research Grant (R03 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-370.html"
+}

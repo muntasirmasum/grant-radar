@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "T42"
+  ],
+  "award_ceiling": "9000000",
+  "award_floor": "4500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-10-26",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2028-10-29",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-10-30",
+  "grants_gov_id": 355417,
+  "issuing_orgs": [
+    "NIOSH"
+  ],
+  "next_due_date": "2028-10-29",
+  "notice_id": "RFA-OH-25-002",
+  "open_date": "2024-10-08",
+  "parent_ic": "CDC",
+  "primary_ic": "NIOSH",
+  "release_date": "2024-10-09",
+  "source": "nih",
+  "synopsis": "The National Institute for Occupational Safety and Health (NIOSH), Centers for Disease Control and Prevention (CDC), invites grant applications for Education and Research Centers (ERCs) that are focused on occupational safety and health training. NIOSH is mandated to provide an adequate supply of qualified personnel to carry out the purposes of the Occupational Safety and Health Act, and the ERCs are one of the primary means for meeting this mandate. ERCs are academic institutions that provide high-quality interdisciplinary graduate and post-graduate training, research training, continuing education, and outreach in the core occupational safety and health disciplines of industrial hygiene, occupational health nursing, occupational medicine, and occupational safety, as well as allied disciplines. Research and research training are integral components of ERCs, with ERC faculty and NIOSH trainees conducting research on issues related to the NIOSH National Occupational Research Agenda (NORA) and emerging issues to advance the field of occupational safety and health. NIOSH ERCs have regional presence to further diversify the occupational safety and health profession through their core values, mission statements, and outputs. ERCs serve as resources for our nation's workforce through continuing education, outreach and strong collaboration with professional associations, worker advocacy groups, businesses, industries, and public health agencies. ERCs work with other institutions and organizations, including Minority Serving Institutions and other NIOSH supported training programs to have a positive impact on worker health, safety, and well-being.",
+  "title": "Occupational Safety and Health Education and Research Centers (T42)",
+  "topics": [
+    "behavioral_intervention",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-25-002.html"
+}

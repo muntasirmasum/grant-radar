@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "K32"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-07-12",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-13",
+  "grants_gov_id": 362581,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-062",
+  "open_date": "2026-09-12",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-05-27",
+  "source": "nih",
+  "synopsis": "The purpose of the Academic Career Excellence (ACE) Award (K32) is to support rigorous, mentored scientific research and career development for up to three years for early-stage postdoctoral scholars. Candidates must submit their application up to one year prior to beginning their postdoctoral position or no more than two years after their postdoctoral training begins (resubmissions included). The ACE K32 will foster early, goal-directed planning and encourage innovative applications with the potential for a significant impact on scientific research and career development. Inclusion of preliminary data are not required as the ACE K32 emphasizes innovative research ideas and thoughtful plans for training and mentorship that will facilitate the development of the postdoctoral scholars who have the potential to become productive, independent investigators in research fields relevant to the missions of the participating NIH Institutes and Centers.",
+  "title": "Academic Career Excellence (ACE) Award (K32 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-062.html"
+}

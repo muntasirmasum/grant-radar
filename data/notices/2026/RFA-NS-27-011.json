@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U19"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-28",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-29",
+  "grants_gov_id": 360547,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-NS-27-011",
+  "open_date": "2026-08-24",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-06-30",
+  "source": "nih",
+  "synopsis": "This is a non-competitive funding opportunity intended to fund a single award. The National Institute of Neurological Disorders and Stroke is announcing its intent to issue a single source cooperative agreement award to Massachusetts General Hospital to support the renewal of the Post-Stroke Vascular Cognitive Impairment & Dementia (VCID) program, an ongoing, multi-site clinical research initiative designed to elucidate mechanisms linking stroke to subsequent cognitive impairment and dementia. The award will enable completion of the scientific aims initiated under the original U19 cooperative agreement (RFA-NS-19-012) and advance national priorities described in the National Plan to Address Alzheimer\"s Disease.This is a Notice of Funding Opportunity (NOFO) for a Single Source that will invite an application from Massachusetts General Hospital. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Single Source: Post-Stroke Vascular Contributions to Cognitive Impairment and Dementia (VCID) in the United States (U19 - Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "cardiovascular",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-27-011.html"
+}

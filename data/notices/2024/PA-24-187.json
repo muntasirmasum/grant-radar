@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "K24"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 353792,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PA-24-187",
+  "open_date": "2024-05-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-25",
+  "source": "nih",
+  "synopsis": "The purpose of the NIH Midcareer Investigator Award in Patient-Oriented Research (K24) is to provide support to mid-career health-professional doctorates for protected time to devote to patient-oriented research (POR) and to act as research mentors primarily for clinical residents, clinical fellows and/or junior clinical faculty.",
+  "title": "Midcareer Investigator Award in Patient-Oriented Research (Parent K24 Independent Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-187.html"
+}

@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R15"
+  ],
+  "award_ceiling": "375000",
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-23",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-11-23",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-24",
+  "grants_gov_id": 358090,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": "2026-11-23",
+  "notice_id": "RFA-AT-25-003",
+  "open_date": "2025-09-29",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2025-01-08",
+  "source": "nih",
+  "synopsis": "The purpose of this initiative is to: (1) support the efforts by R15-eligible Principal Investigators (PIs) to conduct rigorous basic and/or mechanistic pain research projects; (2) promote integrated, interdisciplinary research partnerships between R15-eligible PIs and additional investigators from U.S. domestic institutions, and (3) enhance the pain research environment at the R15-eligible institution for health professional trainees or undergraduate and/or graduate students by actively engaging them in the proposed pain research projects.",
+  "title": "HEAL Initiative: Pain Research Enhancement Program (PREP) (R15 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AT-25-003.html"
+}

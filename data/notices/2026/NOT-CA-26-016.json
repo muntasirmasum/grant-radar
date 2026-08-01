@@ -1,20 +1,26 @@
 {
-  "notice_id": "NOT-CA-26-016",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Pre-application Webinar for the NCI Community Oncology Research Program (NCORP)",
-  "release_date": "2026-06-05",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-016.html",
-  "issuing_orgs": ["National Cancer Institute"],
+  "extracted_at": "2026-06-08T00:10:39Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-06-05",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": ["RFA-CA-27-006"],
+  "notice_id": "NOT-CA-26-016",
+  "notice_type": "guide_notice",
+  "primary_ic": "NCI",
   "raw_html_hash": "e38952ad67a9f44532a707f8d92d7b8d323a4ef6a038876043e58c5918f772cc",
-  "extracted_at": "2026-06-08T00:10:39Z",
-  "extractor_version": "0.1.0"
+  "related": [
+    "RFA-CA-27-006"
+  ],
+  "release_date": "2026-06-05",
+  "source": "nih",
+  "title": "Notice of Pre-application Webinar for the NCI Community Oncology Research Program (NCORP)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-016.html"
 }

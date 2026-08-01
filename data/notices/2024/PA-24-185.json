@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "K23"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2027-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-08",
+  "grants_gov_id": 353461,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2027-05-07",
+  "notice_id": "PA-24-185",
+  "open_date": "2024-05-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2024-04-09",
+  "source": "nih",
+  "synopsis": "The purpose of the NIH Mentored Patient-Oriented Research Career Development Award (K23) is to support the career development of individuals with a clinical doctoral degree who have made a commitment to focus their research endeavors on patient-oriented research.",
+  "title": "Mentored Patient-Oriented Research Career Development Award (Parent K23  Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-185.html"
+}

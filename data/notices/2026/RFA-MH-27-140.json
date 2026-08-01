@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-10-22",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-23",
+  "grants_gov_id": 359159,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-MH-27-140",
+  "open_date": "2026-09-22",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-05-28",
+  "source": "nih",
+  "synopsis": "NIMH seeks applications for pilot research to adapt, optimize, and test behavioral interventions that address common sleep problems in adolescents and young adults with or at risk for a mental health disorder. This notice of funding opportunity (NOFO) supports pilot clinical trials designed to evaluate the feasibility, tolerability, acceptability, safety, and potential effectiveness of the approach in real world settings. Applications should aim to conduct a preliminary test of the intervention's impact on sleep and mental health outcomes, as well as an examination of the mechanisms that underlie the intervention's effectiveness, and to obtain preliminary data needed as a prerequisite for larger-scale effectiveness trials. In addition, interdisciplinary, collaborative teams of investigators from the fields of mental health, sleep medicine, developmental science, clinical trials research methods, behavioral economics, implementation science, data science, and human computer interaction are encouraged.",
+  "title": "Optimizing Behavioral Sleep Interventions for Adolescents and Young Adults (R34 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "data_science_ai",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-27-140.html"
+}

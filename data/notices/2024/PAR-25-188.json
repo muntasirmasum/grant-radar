@@ -1,0 +1,37 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Required",
+  "close_date": "2028-01-06",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-06",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-07",
+  "grants_gov_id": 357462,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": "2028-01-06",
+  "notice_id": "PAR-25-188",
+  "open_date": "2025-01-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2024-12-02",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to encourage UG3/UH3 phased cooperative agreement research applications to plan and implement behavioral and social intervention clinical trials. Studies appropriate for this announcement include clinical trials to develop and test behavior change interventions related to dental, oral, or craniofacial conditions. Awards made under this FOA will initially support a milestone-driven planning phase (UG3) for up to 2 years, with possible transition to a clinical trial implementation phase (UH3) of up to five years. Only UG3 projects that have met the scientific milestones and feasibility requirements may transition to the UH3 phase. The UG3/UH3 application must be submitted as a single application, following the instructions described in this FOA. The UG3 phase will permit both scientific and operational planning activities. Scientific planning activities include small-scale data collection to assess the feasibility and/or acceptability of a planned behavioral or social intervention and associated study procedures (e.g., acceptability of study content or mode of delivery; feasibility of proposed data collection procedures; preliminary testing of intervention training and fidelity monitoring procedures). Operational planning activities include, at a minimum, development of: the final clinical protocol; the intervention manual or equivalent; the data management system and other tools for data and quality management, safety and operational oversight plans; recruitment and retention strategies; and other essential documents. The UH3 phase will support the conduct of investigator-initiated intervention research at all stages, from early mechanistic research and intervention development (e.g., Stages 0/ I) through implementation and cost-effectiveness research (Stages IV/V).",
+  "title": "NIDCR Behavioral and Social Intervention Clinical Trial Planning and Implementation Cooperative Agreement (UG3/UH3 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-188.html"
+}

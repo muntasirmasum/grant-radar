@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "Admin Supp"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-11-30",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2028-12-01",
+  "grants_gov_id": 360368,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "PA-26-001",
+  "open_date": "2025-12-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2025-11-26",
+  "source": "nih",
+  "synopsis": "Current recipients of specific types of NIH research grants may apply for administrative supplements, using this Notice of Funding Opportunity (NOFO), to provide additional funding to a currently funded grant to meet increased costs that are within the scope of the peer-reviewed and approved project, but that were unforeseen when the new or competing renewal application was awarded. Applications for administrative supplements are considered prior approval requests (as described in Section 8.1.2.11 of the NIH Grants Policy Statement) and will be routed directly to the Grants Management Officer of the parent award. There is no guarantee that funds are available from the awarding IC or for any specific grant. Therefore, prior to submission, applicants must discuss potential requests with the awarding ICO grants and program officials.",
+  "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-26-001.html"
+}

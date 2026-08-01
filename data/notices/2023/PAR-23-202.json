@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "U18"
+  ],
+  "award_ceiling": "2500000",
+  "award_floor": "225000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-09-04",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-09-01",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-09-02",
+  "grants_gov_id": 347990,
+  "issuing_orgs": [
+    "FDA"
+  ],
+  "next_due_date": "2028-09-01",
+  "notice_id": "PAR-23-202",
+  "open_date": "2024-01-15",
+  "parent_ic": "FDA",
+  "primary_ic": "FDA",
+  "release_date": "2023-05-12",
+  "source": "nih",
+  "synopsis": "The goal of this NOFO is to fund veterinary diagnostic laboratories in the Vet-LIRN network for grants associated with projects and equipment. Specific objectives include: 1. Supporting the development, adaptation, or verification/validation of new methods associated with animal food issues or antimicrobial resistance. 2. Short-term surveillance or monitoring efforts aligned with the CVM mission. 3. Supporting equipment for testing or developing tests associated with animal food-related issues or antimicrobial resistance, including those for emerging technologies. 4. Developing projects related to antimicrobial stewardship, in alignment with CVM's key initiatives in this area. 5. Contributing as part of Vet-LIRN's AMR monitoring program, including sequencing isolates. 6. Supporting work associated with One Health, including emerging diseases such as COVID-19, when funding is available.",
+  "title": "Vet-LIRN Network Capacity-Building Project and Equipment Grants",
+  "topics": [
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-202.html"
+}

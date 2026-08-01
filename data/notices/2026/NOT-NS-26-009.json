@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-NS-26-009",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of NINDS's Participation in PA-25-304: NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Not Allowed)",
-  "release_date": "2026-04-09",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-009.html",
-  "issuing_orgs": ["National Institute of Neurological Disorders and Stroke"],
+  "extracted_at": "2026-05-22T19:38:19Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-04-09",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-NS-26-009",
+  "notice_type": "guide_notice",
+  "primary_ic": "NINDS",
   "raw_html_hash": "be1c05c47496793ca2d99daa28360c4c76843865a0ca5246fec84fc1b9b1652d",
-  "extracted_at": "2026-05-22T19:38:19Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-04-09",
+  "source": "nih",
+  "title": "Notice of NINDS's Participation in PA-25-304: NIH Exploratory/Developmental Research Project Grant (Parent R21 Clinical Trial Not Allowed)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-009.html"
 }

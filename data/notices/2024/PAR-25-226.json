@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-19",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-11-19",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-20",
+  "grants_gov_id": 357343,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": "2026-11-19",
+  "notice_id": "PAR-25-226",
+  "open_date": "2025-01-21",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2024-11-22",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite applications that bundle independent protocols for phase 1 clinical trials with phase 1b/phase 2a clinical trials to streamline the early-stage evaluation of promising pharmacological interventions for Alzheimer's disease (AD) and Alzheimer's disease-related Dementias (ADRD). Candidate interventions evaluated through this program, which can include small molecules or biologics for example, must engage non-amyloid/non-tau mechanisms and aim to address cognitive and/or neuropsychiatric symptoms in individuals across the spectrum from pre-symptomatic to more severe stages of disease. This NOFO uses the UG3/UH3 phased award mechanism and proposals must include prespecified, go/no-go safety and tolerability milestones that gate the advance from phase 1 to latter stages of clinical development.",
+  "title": "Seamless Early-Stage Clinical Drug Development (Phase 1 to 2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-226.html"
+}

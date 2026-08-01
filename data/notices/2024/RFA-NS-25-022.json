@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2026-09-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-29",
+  "grants_gov_id": 356982,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2026-09-28",
+  "notice_id": "RFA-NS-25-022",
+  "open_date": "2024-12-28",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-11-05",
+  "source": "nih",
+  "synopsis": "The purpose of this announcement is to encourage investigators to pursue a small clinical trial to obtain critical information necessary to advance recording and/or stimulating devices to treat central nervous system disorders and better understand the human brain (e.g., Early Feasibility Study). Clinical studies supported may consist of acute or short-term procedures that are deemed Non-Significant Risk (NSR) by an Institutional Review Board (IRB), or Significant Risk (SR) studies that require an Investigational Device Exemption (IDE) from the FDA, such as chronic implants. The clinical trial should provide data to answer key questions about the function or final design of a device. This final device design may require most, if not all, of the non-clinical testing on the path to more advanced clinical trials and market approval. The clinical trial is expected to provide information that cannot be practically obtained through additional non-clinical assessments (e.g., bench top or animal studies) due to the novelty of the device or its intended use. Activities supported by this Funding Opportunity include a small clinical trial to answer key questions about the function or final design of a device.As part of the BRAIN Initiative, NIH has initiated a Public-Private Partnership Program (BRAIN PPP) that includes agreements (Memoranda of Understanding, MOU) with a number of device manufacturers willing to make such devices available, including devices and capabilities not yet market approved but appropriate for clinical research. In general it is expected that the devices' existing safety and utility data will be sufficient to enable new IRB NSR or FDA IDE approval without need for significant additional non-clinical data. For more information on the BRAIN PPP, see http://braininitiative.nih.gov/BRAIN_PPP/index.htm",
+  "title": "BRAIN Initiative: Clinical Studies to Advance Next-Generation Devices for Recording and Modulation in the Human Central Nervous System (UH3 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-25-022.html"
+}

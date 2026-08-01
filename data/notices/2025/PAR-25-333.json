@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "K99",
+    "R00"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-08",
+  "grants_gov_id": 358828,
+  "issuing_orgs": [
+    "National Institute of Dental and Craniofacial Research"
+  ],
+  "next_due_date": "2028-05-07",
+  "notice_id": "PAR-25-333",
+  "open_date": "2025-06-15",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCR",
+  "release_date": "2025-06-17",
+  "source": "nih",
+  "synopsis": "The purpose of the NIDCR Dual Degree Dentist Scientist Pathway to Independence Award (K99/R00) program is to develop and maintain a strong cohort of independently funded dentist scientists dedicated to improving dental, oral and craniofacial health. This program is designed to facilitate a timely transition of outstanding dual degree dentist scientists from mentored, postdoctoral research positions to independent, tenure-track or equivalent faculty positions by providing support for two years of mentored training and three to five years of independent research. An option for five years of independent (R00) support is available to accommodate clinical training in a dental specialty program at no more than 3 person-months effort (25% full-time professional effort) in any year of the R00 phase.",
+  "title": "NIDCR Dual Degree Dentist Scientist Pathway to Independence Award (K99/R00 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-333.html"
+}

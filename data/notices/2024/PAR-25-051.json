@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-08-18",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-08-18",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-08-19",
+  "grants_gov_id": 356531,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": "2026-08-18",
+  "notice_id": "PAR-25-051",
+  "open_date": "2024-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2024-09-25",
+  "source": "nih",
+  "synopsis": "The Blueprint Neurotherapeutics Network (BPN) invites applications from neuroscience investigators seeking support to advance their small molecule drug discovery and development projects into the clinic. Participants in the BPN are responsible for conducting all studies that involve disease- or target-specific assays, models, and other research tools and receive funding for all activities to be conducted in their own laboratories. In addition, applicants will collaborate with NIH-funded consultants and can augment their project with NIH contract research organizations (CROs) that specialize in medicinal chemistry, pharmacokinetics, toxicology, formulations development, chemical synthesis including under Good Manufacturing Practices (GMP), and Phase I clinical testing. Projects can enter either at the Discovery stage, to optimize promising hit compounds through medicinal chemistry to the Development stage, to advance a single development candidate through Investigational New Drug (IND)-enabling toxicology studies and phase I clinical testing. Alternatively, projects can enter at the Development stage and progress in a shorter period to IND enabling toxicology studies and phase I clinical testing. BPN awardee Institutions retain their assignment of IP rights and gain assignment of IP rights from the BPN contractors (and thereby control the patent prosecution and licensing negotiations) for drug candidates developed in this program.",
+  "title": "Blueprint Neurotherapeutics Network (BPN): Small Molecule Drug Discovery and Development of Disorders of the Nervous System (UG3/UH3 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-051.html"
+}

@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "499000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357962,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-338",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-12-31",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to stimulate efforts to translate scientific discoveries and engineering developments into methods or tools that address problems in basic research to understand disease, or in applied research to assess risk, detect, prevent, diagnose, treat, and/or manage disease. The rationale is to deliver new capabilities to meet evolving requirements for technologies and methods relevant to the advance of research and delivery of care in pre-clinical, clinical and non-clinical settings, domestic or foreign, for conditions and diseases within the missions of participating institutes.",
+  "title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-338.html"
+}

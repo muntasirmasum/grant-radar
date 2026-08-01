@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "T35"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-05-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-05-08",
+  "grants_gov_id": 357996,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": "2028-05-07",
+  "notice_id": "PA-25-280",
+  "open_date": "2024-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2025-01-02",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) will award Ruth L. Kirschstein National Research Service Award (NRSA) Short-Term Institutional Research Training Grants (T35) to eligible, domestic institutions to develop and/or enhance research training opportunities for predoctoral students interested in careers within biomedical, behavioral, or clinical research workforce. Many NIH Institutes and Centers (ICs) use this NRSA program exclusively to support intensive, short-term research training experiences for health professional students (medical students, veterinary students, and/or students in other health-professional programs) during the summer. This program is also intended to encourage training of graduate students in the physical or quantitative sciences to pursue interests in research careers by short-term exposure to, and involvement in, the health-related sciences. The training should be of sufficient depth to enable the trainees, upon completion of the program, to have a thorough exposure to the principles underlying the conduct of biomedical research.",
+  "title": "Ruth L. Kirschstein National Research Service Award (NRSA) Short-Term Institutional Research Training Grant (Parent T35)",
+  "topics": [
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-280.html"
+}

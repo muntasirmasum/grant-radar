@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "K99",
+    "R00"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-10-14",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-10-14",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-10-15",
+  "grants_gov_id": 357259,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2027-10-14",
+  "notice_id": "PAR-25-135",
+  "open_date": "2025-01-13",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-20",
+  "source": "nih",
+  "synopsis": "The purpose of the NCI Pathway to Independence Award (K99/R00) program is to facilitate a timely transition of talented postdoctoral researchers with a research and/or clinical doctorate degree from mentored, postdoctoral research positions to independent, tenure-track or equivalent faculty positions. The program will provide independent NCI research support during this transition in order to help awardees to launch competitive, independent research careers.",
+  "title": "NCI Pathway to Independence Award (K99/R00  Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-135.html"
+}

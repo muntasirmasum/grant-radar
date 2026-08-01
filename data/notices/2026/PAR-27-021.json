@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "S10"
+  ],
+  "award_ceiling": "400000",
+  "award_floor": "50000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-07-01",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-07-02",
+  "grants_gov_id": 360882,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-021",
+  "open_date": "2026-07-25",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2026-06-25",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) aims to build new research capacity and develop a sustainable research program by supporting the purchase of a single commercially available biomedical research instrument currently unavailable in the institution. Instruments funded through this program must be shared among the users to create new research opportunities, enable reproducible data generation, encourage collaborative research and training, and strengthen long-term research capabilities. The minimum award is $50,000. While there is no limit on the total cost of the instrument, the maximum award is $400,000.",
+  "title": "Seed Instrumentation Support (SIS) Program (S10 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-021.html"
+}

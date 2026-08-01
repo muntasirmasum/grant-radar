@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-25",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-25",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-26",
+  "grants_gov_id": 352947,
+  "issuing_orgs": [
+    "ORIP"
+  ],
+  "next_due_date": "2026-09-25",
+  "notice_id": "PAR-24-167",
+  "open_date": "2024-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "ORIP",
+  "release_date": "2024-03-13",
+  "source": "nih",
+  "synopsis": "The Office of Research Infrastructure Programs (ORIP) invites grant applications from core facilities, resource centers, animal vivaria, or individual investigators of other shared resources to systematically study the roles of critical environmental extrinsic factors in biological, behavioral, and treatment studies using animal model species, with the objective of enhancing the rigor and reproducibility of animal research. The research area must be broadly applicable to the scientific interests of two or more NIH Institutes or Centers (ICs) and must evaluate the biological processes that impact multiple organ systems in order to align with the ORIPs NIH-wide mission and programs. The program supports the acquisition or update of modern equipment for measuring, monitoring, recording, and reporting environmental, biological or biobehavioral variables. The equipment requested must be capable of recording and reporting multiple parameters simultaneously.",
+  "title": "Utilizing Equipment to Study Environmental Extrinsic Factors and Enhance Rigor and Reproducibility of Animal Research (R24, Clinical Trials Not-Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-167.html"
+}

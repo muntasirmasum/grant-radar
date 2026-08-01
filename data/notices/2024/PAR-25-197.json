@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-28",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-05-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-05-29",
+  "grants_gov_id": 357622,
+  "issuing_orgs": [
+    "National Center for Advancing Translational Sciences"
+  ],
+  "next_due_date": "2027-05-28",
+  "notice_id": "PAR-25-197",
+  "open_date": "2025-01-13",
+  "parent_ic": "NIH",
+  "primary_ic": "NCATS",
+  "release_date": "2024-12-09",
+  "source": "nih",
+  "synopsis": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs.",
+  "title": "Limited Competition: NCATS Clinical and Translational Science Award (CTSA) Program Research Education Grants Programs (R25 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-197.html"
+}

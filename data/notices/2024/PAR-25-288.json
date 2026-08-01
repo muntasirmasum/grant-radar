@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 357386,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-25-288",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2024-11-25",
+  "source": "nih",
+  "synopsis": "The purpose of this NOFO is to build research about the effectiveness, implementation, and optimization of family navigation ED diversion models for non-urgent mental health problems. Models of interest are designed to (a) utilize triage tools to identify mental health acuity, (b) facilitate engagement in mental health services and needed resources, and (c) provide support, knowledge about the mental health condition, and facilitate linkages/address barriers to help-seeking among families.",
+  "title": "Navigator Emergency Department Diversion Models for Non-Urgent Mental Health Concerns (R34 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "mental_health"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-288.html"
+}

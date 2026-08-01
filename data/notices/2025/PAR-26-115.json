@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U2C"
+  ],
+  "award_ceiling": "2100000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-05-26",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-05-27",
+  "grants_gov_id": 358935,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-115",
+  "open_date": "2026-04-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2025-12-10",
+  "source": "nih",
+  "synopsis": "Responding to the needs of the scientific community to bolster a vibrant and sustainable research workforce, the Division of Kidney, Urologic, and Hematologic Diseases (KUH) at the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) has incorporated additional flexibilities for institutional training programs serving the mission interests of non-malignant kidney, urologic, and hematologic diseases, encompassing both adult and pediatric conditions. The purpose of this notice of funding opportunity is to invite applications for Institutional Network Awards (U2C-TL1) to recruit, train, and retain the next generation of researchers and provide them with the coordinated support, resources, and networks they need to succeed and lead. To maximize integration and promote a highly connected trainee community, institutions are invited to submit a single, unified U2C-TL1 application. Representation across all kidney, urologic, and hematologic disciplines is not expected or required. If feasible, applications may include multiple departments within and across institutions. It is expected that each U2C-TL1 award will actively participate in the Kidney, Urology and Hematology Research-Training Network (KUHR-TN), a nationwide coalition of individual U2C-TL1 awards.",
+  "title": "Institutional Network Award for Promoting Kidney, Urologic, and Hematologic Research Training (U2C - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "maternal_child_health",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-115.html"
+}

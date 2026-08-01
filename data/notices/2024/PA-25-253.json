@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-09-07",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2028-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-09-08",
+  "grants_gov_id": 357067,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": "2028-09-07",
+  "notice_id": "PA-25-253",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2024-11-08",
+  "source": "nih",
+  "synopsis": "This funding opportunity announcement (FOA) encourages the submission of exploratory/developmental research grant (R21) applications that focus on different aspects of cancer control by modifying behavior, screening, and understanding etiologic factors contributing to the development of cancer, and developing ways to control cancer. The overarching goal is to provide support to promote the early and conceptual stages of research efforts on novel scientific ideas that have the potential to substantially advance population-based cancer research, such as the development of novel techniques, agents, methodologies, models, or applications that could have a major impact on a field of cancer research (epidemiologic, biomedical, behavioral, health care delivery or clinical).",
+  "title": "Exploratory Grants in Cancer Control (R21 Clinical Trial Optional)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-25-253.html"
+}

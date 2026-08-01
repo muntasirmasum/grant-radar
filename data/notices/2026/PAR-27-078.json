@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R15"
+  ],
+  "award_ceiling": "375000",
+  "clinical_trials": "Required",
+  "close_date": "2027-10-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-10-26",
+  "grants_gov_id": 359733,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-078",
+  "open_date": "2026-06-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2026-05-29",
+  "source": "nih",
+  "synopsis": "The purpose of the Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools is to support small scale research grants at institutions that do not receive substantial funding from the NIH, with an emphasis on providing biomedical research experiences primarily for health professional, undergraduate and graduate students and enhancing the research environment at applicant institutions.Eligible institutions must award baccalaureate or advanced science degrees and have received no more than $6 million dollars per year of NIH support (in both direct and F&A/indirect costs) in 4 of the last 7 fiscal years. For institutions composed of multiple schools and colleges, the $6 million funding limit is based on the amount of NIH funding received by all the schools and colleges within the institution as a whole.Help determining the Organization Funding Level can be found here or https://grants.nih.gov/grants/funding/r15.htmThis REAP Notice of Funding Opportunity (NOFO) supports investigator-initiated mechanistic and/or minimal risk clinical trials addressing the mission and research interests of the participating NIH institutes. For purposes of this NOFO, minimal risk clinical trials are defined as those that do not require FDA oversight, do not intend to formally establish efficacy, and have low risks to potentially cause physical or psychological harm.",
+  "title": "Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools (R15 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-078.html"
+}

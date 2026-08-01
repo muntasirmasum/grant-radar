@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2028-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2028-01-08",
+  "grants_gov_id": 356236,
+  "issuing_orgs": [
+    "National Institute on Minority Health and Health Disparities"
+  ],
+  "next_due_date": "2028-01-07",
+  "notice_id": "PAR-24-273",
+  "open_date": "2025-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMHD",
+  "release_date": "2024-08-27",
+  "source": "nih",
+  "synopsis": "The purpose of this initiative is to advance the science and implementation of innovative multi-level health care research for older adults from populations that experience health disparities. The initiative will support research designed to (1) gain a better understanding of appropriate screening, diagnostic, and clinical care guidelines in a primary care setting, (2) explore shared decision-making that is needed to enhance care planning and patient agency between clinicians and care teams with the older adult and their caregiver(s), and (3) identify effective strategies for care coordination.",
+  "title": "Advancing Healthcare for Older Adults from Populations that Experience Health Disparities (R01 - Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities",
+    "implementation_science"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-273.html"
+}

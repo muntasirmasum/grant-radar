@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R21"
+  ],
+  "award_ceiling": "200000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-11-16",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-11-16",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-11-17",
+  "grants_gov_id": 357487,
+  "issuing_orgs": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+  ],
+  "next_due_date": "2027-11-16",
+  "notice_id": "PAR-25-266",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NICHD",
+  "release_date": "2024-12-02",
+  "source": "nih",
+  "synopsis": "This FOA encourages research relevant to the development of novel screening approaches and/or therapeutic interventions for potentially fatal or disabling conditions that have been identified through newborn screening, as well as for \"high priority\" genetic conditions where screening may be possible in the near future.Having an accurate screening test, as well as demonstrating the benefits of early intervention or treatment, are important criteria for including a condition on a newborn screening panel. This FOA defines a \"high priority\" condition as one where screening is not currently recommended, but infants with the condition would significantly benefit from early identification and treatment.",
+  "title": "Innovative Screening Approaches and Therapies for Screenable Disorders in Newborns (R21 - Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-266.html"
+}

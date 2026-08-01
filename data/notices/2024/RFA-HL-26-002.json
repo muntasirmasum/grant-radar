@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R35"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-04-28",
+  "doctype": "RFA",
+  "due_dates": [
+    {
+      "date": "2027-04-28",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-04-29",
+  "grants_gov_id": 353821,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": "2027-04-28",
+  "notice_id": "RFA-HL-26-002",
+  "open_date": "2025-01-19",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2024-04-26",
+  "source": "nih",
+  "synopsis": "The purpose of the NHLBI Outstanding Investigator Award (OIA) is to promote scientific productivity and innovation by providing long-term support and increased flexibility to experienced Program Directors/Principal Investigators (PDs/PIs) who are currently PDs/PIs on at least two NHLBI R01-equivalent awards and whose outstanding record of research demonstrates their ability to make major contributions to heart, lung, blood and sleep (HLBS) research. The OIA is intended to support a research program, rather than a research project, by providing the primary and most likely sole source of NHLBI funding on individual grant awards. The OIA will support the research program of NHLBI-funded investigators for up to seven years. The OIA will provide investigators increased freedom to conduct research that breaks new ground or extends previous discoveries in new directions. It will also allow PDs/PIs to take greater risks and to pursue research that requires a longer timeframe. Research supported by the OIA must be within the scope of the NHLBI mission (https://www.nhlbi.nih.gov/about/mission-statement). It is anticipated that the OIA will: Provide a stable funding environment, thereby improving productivity and facilitating nimble, ambitious, creative research; Accelerate scientific innovation by enabling flexibility in pursuing new research directions as they arise, since PDs/PIs will not be bound to specific aims proposed in advance of the studies; Reduce the time researchers spend writing grant applications and managing multiple grant awards, thereby allowing more time to be devoted to conducting research; Facilitate commitment of PDs/PIs to research through increased stability of funding; and Enable PDs/PIs to devote more time and energy to mentoring students and junior scientists and providing scientific service.",
+  "title": "NHLBI Outstanding Investigator Award (OIA) (R35 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-002.html"
+}

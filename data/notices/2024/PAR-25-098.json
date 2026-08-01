@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 356690,
+  "issuing_orgs": [
+    "ODP"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-098",
+  "open_date": "2024-11-21",
+  "parent_ic": "NIH",
+  "primary_ic": "ODP",
+  "release_date": "2024-10-10",
+  "source": "nih",
+  "synopsis": "The Office of Disease Prevention (ODP) and participating National Institutes of Health (NIH) Institutes, Centers, and Offices (ICs) are issuing this R01 to solicit applications to address barriers and facilitators that impede use or uptake of cancer screening and preventive services in populations that experience health disparities. Interventions should include screening, preventive services, or other healthcare processes, including timely follow-up of abnormal findings, and referral to accessible care. Projects are encouraged to leverage collaborations with community partners and service providers. Interventions should address barriers and facilitators at two or more of the following levels: patient, clinician, healthcare setting, and neighborhood/community. Specific research interests of participating NIH ICs are detailed within.",
+  "title": "Interventions to expand cancer screening and preventive services to ADVANCE health in populations that experience health disparities (R01, Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "health_disparities"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-098.html"
+}

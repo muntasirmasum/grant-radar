@@ -1,0 +1,35 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "250000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-01-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-01-08",
+  "grants_gov_id": 357273,
+  "issuing_orgs": [
+    "National Library of Medicine"
+  ],
+  "next_due_date": "2027-01-07",
+  "notice_id": "PAR-25-235",
+  "open_date": "2024-12-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NLM",
+  "release_date": "2024-11-07",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to advance the development of novel informatics and data science approaches that can help individuals understand and improve their health through actionable insights. NLM seeks applications that further the science of personal health informatics by providing meaningful and actionable insights to individuals through innovative personal health data collection, integration, analysis, and personalized risk assessments and interpretation. Applications seeking to advance the understanding of how informatics tools, systems, and platforms can best present the results, interpretation, and limitations of personalized assessments for the benefit of individuals are encouraged. Applications should include end user engaged approaches and real-world evaluation to inform the design of generalizable, reusable, and scalable personal health informatics tools, systems, and platforms for the benefit of individuals in understanding and improving their health.",
+  "title": "Personal Health Informatics for Delivering Actionable Insights to Individuals (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-235.html"
+}

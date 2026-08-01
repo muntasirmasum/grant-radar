@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-03",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-04",
+  "grants_gov_id": 361084,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-RM-27-003",
+  "open_date": "2026-08-03",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-06-29",
+  "source": "nih",
+  "synopsis": "The NIH Director\"s Transformative Research Award supports individual scientists or groups of scientists proposing bold, groundbreaking, exceptionally innovative, original, and/or unconventional research with the potential to create new scientific paradigms, establish entirely new and improved clinical approaches, or develop transformative technologies. Applications in any area within the biomedical sciences are welcome; topics may involve basic, translational, or clinical research. No preliminary data are required. Projects must clearly demonstrate, based on the strength of the logic, a compelling potential to produce a major impact in a broad area of relevance to the NIH. The NIH Director\"s Transformative Research Award is a component of the High-Risk, High-Reward Research (HRHR) program of the NIH Common Fund.",
+  "title": "NIH Director&rsquo;s Transformative Research Award for Individual and Group Science (R01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-003.html"
+}

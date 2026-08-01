@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-03-16",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2027-03-16",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2027-03-17",
+  "grants_gov_id": 358093,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": "2027-03-16",
+  "notice_id": "PAR-24-329",
+  "open_date": "2025-04-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2025-01-08",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) encourages formative research, intervention development, and pilot-testing of interventions. Primary scientific areas of focus include the feasibility, tolerability, acceptability and safety of novel or adapted interventions that target HIV prevention, treatment or services research for people who use drugs. For the purposes of this NOFO, \"intervention\" may include behavioral, social, or structural approaches, as well as combination biomedical and behavioral approaches that prevent the acquisition and transmission of HIV infection, or improve clinical outcomes for persons living with HIV.",
+  "title": "Development and Testing of Novel Interventions to Improve HIV Prevention, Treatment, and Program Implementation for People Who Use Substances (R34 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-329.html"
+}

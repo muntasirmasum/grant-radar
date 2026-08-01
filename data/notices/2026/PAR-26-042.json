@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "250000",
+  "clinical_trials": "Optional",
+  "close_date": "2029-03-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-03-06",
+  "grants_gov_id": 359004,
+  "issuing_orgs": [
+    "National Library of Medicine"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-26-042",
+  "open_date": "2026-04-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NLM",
+  "release_date": "2026-02-11",
+  "source": "nih",
+  "synopsis": "The National Library of Medicine (NLM) seeks applications for innovative research in clinical informatics. The overarching goal of this forthcoming program is to catalyze the development and advancement of novel informatics methodologies that empower clinicians, patients, and the broader public to better understand, manage, and improve health and health care delivery. This NOFO will support research focused on the design, implementation, and evaluation of clinical informatics tools and methods that enable data-driven discovery, promote evidence-based decision-making, and support personalized and precision health care. Emphasis will be placed on domain-independent, scalable, and reusable/reproducible approaches for the discovery, analysis, organization, and management of health-related digital objects—including electronic health records (EHRs), clinical notes, imaging data, and patient-generated data. The aim is to transform raw and heterogeneous health data into actionable knowledge, to develop innovative tools, and to implement practical applications that can be generalized across multiple clinical settings and populations. Projects should demonstrate the potential to accelerate scientific insights, improve clinical workflows, and ultimately lead to improved health outcomes.",
+  "title": "Research Grants in Clinical Informatics (R01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "implementation_science",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-042.html"
+}

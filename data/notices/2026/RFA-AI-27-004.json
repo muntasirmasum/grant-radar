@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "U19"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-24",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-09-25",
+  "grants_gov_id": 360874,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "RFA-AI-27-004",
+  "open_date": "2026-08-24",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-06-29",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to solicit applications for the Atopic Dermatitis Research Network (ADRN) program. The ADRN program will support Centers that integrate clinical and translational research to improve our understanding and management of atopic dermatitis with emphasis on chronic skin inflammation and the defense mechanisms of the skin.",
+  "title": "Atopic Dermatitis Research Network (ADRN) (U19 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-27-004.html"
+}

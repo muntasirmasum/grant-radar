@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-05-26",
+  "grants_gov_id": 359692,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-083",
+  "open_date": "2026-08-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-05-07",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) invites applications for investigator-initiated Resource-Related Research Projects (R24). The proposed resource must provide a significant benefit to currently funded high priority projects in need of further coordination and support in the areas specified. This mechanism may also be used to support development of a new resource to the broader scientific community of the National Institute of Allergy and Infectious Diseases (NIAID). It is anticipated that the request for resource support through the R24 activity code will occur on an infrequent basis and only in circumstances where other mechanisms of support from the NIAID are not appropriate.The proposed resources should be relevant to the scientific areas of the NIAID mission including the biology, pathogenesis, and host response to microbes, including HIV; the mechanisms of normal immune function and immune dysfunction resulting in autoimmunity, immunodeficiency, allergy, asthma, and transplant rejection; and translational research to develop vaccines, therapeutics, and diagnostics to prevent and treat infectious, immune-mediated, and allergic diseases.",
+  "title": "NIAID Resource-Related Research Projects (R24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-083.html"
+}

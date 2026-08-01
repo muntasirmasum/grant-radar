@@ -1,0 +1,36 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-09-07",
+  "doctype": "PAR",
+  "due_dates": [
+    {
+      "date": "2026-09-07",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-09-08",
+  "grants_gov_id": 357438,
+  "issuing_orgs": [
+    "National Institute on Alcohol Abuse and Alcoholism"
+  ],
+  "next_due_date": "2026-09-07",
+  "notice_id": "PAR-25-192",
+  "open_date": "2025-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAAA",
+  "release_date": "2024-11-27",
+  "source": "nih",
+  "synopsis": "The National Institute on Alcohol Abuse and Alcoholism solicits applications for an R34 Clinical Trial Optional mechanism focusing on alcohol health services. This NOFO will broadly focus on closing the treatment gap for individuals with alcohol use disorder (AUD); within this focus, there are five major areas of emphasis: (1) increasing access to treatment for AUD, (2) making treatment for AUD more appealing, (3) examining cost structures and insurance systems, (4) conducting studies on dissemination and implementation of existing evidence-based approaches to treating AUD, and (5) reducing health disparities as a means of addressing the treatment gap in AUD for health disparity populations.",
+  "title": "Alcohol Health Services Research (R34 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "health_disparities",
+    "implementation_science",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-192.html"
+}

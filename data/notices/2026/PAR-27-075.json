@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "300000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-11-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-11-06",
+  "grants_gov_id": 359695,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": null,
+  "notice_id": "PAR-27-075",
+  "open_date": "2026-09-04",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2026-05-04",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit basic research applications to investigate the pathological mechanisms of skin injuries caused by toxic Chemicals of Concern (CoC) identified as public health threats by the United States Government. This NOFO supports the goal of the trans-NIH Chemical Countermeasures Research Program (CCRP) and is intended to spur the discovery and early development of broad-spectrum medical countermeasures (MCMs) to advance the nation's medical and public health preparedness for, response to, and recovery from high consequence chemical disasters and emergencies.",
+  "title": "CCRP Initiative: Promoting a Basic Understanding of Chemical Threats to Skin (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-075.html"
+}

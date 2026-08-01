@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "332"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-24",
+  "doctype": "PA",
+  "due_dates": [
+    {
+      "date": "2026-01-27",
+      "label": "Last application receipt"
+    }
+  ],
+  "expiration_date": "2026-11-24",
+  "grants_gov_id": 351124,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": "2026-01-27",
+  "notice_id": "PA-23-317",
+  "open_date": "2023-11-22",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2023-11-24",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) hereby notifies NIH award recipients that funds may be available for revision applications to support the expansion of existing projects and/or programs within the awarding IC identified in the competitive revision Notice of Special Interest (NOSI). Applications for Revisions will be evaluated for scientific and technical merit by (an) appropriate Scientific Review Group(s), in accordance with NIH peer review policy and procedures, using the stated review criteria. Only applications submitted in response to a NOSI published by an NIH Institute or Center will be allowed to apply to this NOFO.",
+  "title": "Competing Revisions to Existing NIH Single Project Research Grants and Cooperative Agreements (Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-01T04:25:11Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PA-23-317.html"
+}

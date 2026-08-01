@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-AI-26-010",
-  "source": "nih",
-  "notice_type": "guide_notice",
-  "title": "Notice of Early Expiration of PAR-25-315, \"Elucidating Immunometabolic Responses to HIV Infection that Increase TB or HBV Risk (R01 Clinical Trial Not Allowed)\"",
-  "release_date": "2026-02-18",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-010.html",
-  "issuing_orgs": ["National Institute of Allergy and Infectious Diseases"],
+  "extracted_at": "2026-05-22T19:38:03Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-02-18",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-AI-26-010",
+  "notice_type": "guide_notice",
+  "primary_ic": "NIAID",
   "raw_html_hash": "a0678e398eb279c26d6a6e420f3a5e729aa70fe9831402b901a0422291f3d2c3",
-  "extracted_at": "2026-05-22T19:38:03Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-02-18",
+  "source": "nih",
+  "title": "Notice of Early Expiration of PAR-25-315, \"Elucidating Immunometabolic Responses to HIV Infection that Increase TB or HBV Risk (R01 Clinical Trial Not Allowed)\"",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-010.html"
 }

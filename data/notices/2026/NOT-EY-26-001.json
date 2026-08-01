@@ -1,20 +1,24 @@
 {
-  "notice_id": "NOT-EY-26-001",
-  "source": "nih",
-  "notice_type": "change",
-  "title": "Notice of Change to Key Dates for PAR-23-209, PAR-23-204, PAR-23-201 NEI Collaborative Clinical Vision Research Grants (UG1 Clinical Trial Required)",
-  "release_date": "2026-02-10",
-  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-EY-26-001.html",
-  "issuing_orgs": ["National Eye Institute"],
+  "extracted_at": "2026-05-22T19:38:00Z",
+  "extractor_version": "0.1.0",
+  "issuing_orgs": [
+    "National Eye Institute"
+  ],
   "key_dates": [
     {
-      "label": "Release Date",
       "date": "2026-02-10",
+      "label": "Release Date",
       "type": "release"
     }
   ],
-  "related": [],
+  "notice_id": "NOT-EY-26-001",
+  "notice_type": "change",
+  "primary_ic": "NEI",
   "raw_html_hash": "24808e1b5365dd835fe10e7fb514901897f1282191b97a8300115e675e76a549",
-  "extracted_at": "2026-05-22T19:38:00Z",
-  "extractor_version": "0.1.0"
+  "related": [],
+  "release_date": "2026-02-10",
+  "source": "nih",
+  "title": "Notice of Change to Key Dates for PAR-23-209, PAR-23-204, PAR-23-201 NEI Collaborative Clinical Vision Research Grants (UG1 Clinical Trial Required)",
+  "updated_at": "2026-08-01T04:19:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-EY-26-001.html"
 }
