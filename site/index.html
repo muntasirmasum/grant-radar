@@ -3,103 +3,63 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Grant Radar</title>
+  <title>Grant Radar — this week in NIH funding</title>
+  <meta name="description" content="NIH funding notices and opportunities, structured and summarized weekly.">
+  <script>(function(){var t=localStorage.getItem("grant-radar.theme");
+  if(t==="dark"||(!t&&matchMedia("(prefers-color-scheme: dark)").matches))
+  document.documentElement.classList.add("dark");})()</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <link rel="alternate" type="application/rss+xml" title="Grant Radar" href="feed.xml">
 </head>
 <body>
-  <nav class="navbar">
-    <div style="display:flex;align-items:center;gap:0.75rem;">
-      <button class="navbar__hamburger" id="hamburger" aria-label="Toggle sidebar">☰</button>
-      <a class="navbar__brand" href="#">Grant Radar</a>
-      <div class="navbar__links">
-        <a href="browse.html" class="navbar__link">Browse</a>
-        <a href="about.html" class="navbar__link">About</a>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="brand" href="index.html"><span class="ping"></span>Grant Radar</a>
+      <div class="nav-links">
+        <a href="index.html" class="active">This week</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="trends.html">Trends</a>
+        <a href="about.html">About</a>
       </div>
-    </div>
-    <div class="navbar__right">
-      <input class="navbar__search" id="search" placeholder="Search notices..." autocomplete="off">
-      <button class="navbar__toggle" id="theme-toggle" aria-label="Toggle dark mode">☀️</button>
+      <div class="nav-tools">
+        <input class="search" id="search" placeholder="Search notices…" autocomplete="off">
+        <button class="iconbtn" id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+        <a class="home-link" href="https://muntasirmasum.com">muntasirmasum.com ↗</a>
+      </div>
     </div>
   </nav>
 
-  <div class="layout">
-    <aside class="sidebar" id="sidebar">
-      <!-- Profile section -->
-      <div class="sidebar__section" id="profile-section">
-        <div class="sidebar__heading" id="profile-toggle">
-          My Profile <span class="arrow">▾</span>
-        </div>
-        <div id="profile-body">
-          <div class="profile-chips" id="profile-chips"></div>
-          <div id="profile-editor" style="display:none;"></div>
-        </div>
-      </div>
+  <main class="wrap">
+    <div class="eyebrow" id="page-eyebrow">NIH Guide</div>
+    <h1 class="h1">This week in NIH funding</h1>
+    <p class="lead" id="page-lead">Loading…</p>
 
-      <!-- Filters -->
-      <div class="sidebar__section">
-        <div class="sidebar__heading">Filters</div>
+    <section class="soon" id="soon" hidden>
+      <div class="soon-label"><span>⏳ Closing soon · matches your profile</span>
+        <a href="calendar.html">Full calendar →</a></div>
+      <div id="soon-rows"></div>
+    </section>
 
-        <div class="filter-group">
-          <div class="filter-group__label">Institute / Center</div>
-          <div class="filter-group__trigger" data-filter="ics">All ICs <span>▾</span></div>
-          <div class="filter-group__list" id="filter-ics"></div>
-        </div>
+    <div class="chips" id="chips"></div>
+    <div id="profile-editor-slot"></div>
 
-        <div class="filter-group">
-          <div class="filter-group__label">Mechanism</div>
-          <div class="filter-group__trigger" data-filter="mechanisms">All mechanisms <span>▾</span></div>
-          <div class="filter-group__list" id="filter-mechanisms"></div>
-        </div>
+    <div id="feed"></div>
+    <p class="load-note" id="load-note" hidden>…scroll for earlier weeks…</p>
+  </main>
 
-        <div class="filter-group">
-          <div class="filter-group__label">Topic</div>
-          <div class="filter-group__trigger" data-filter="topics">All topics <span>▾</span></div>
-          <div class="filter-group__list" id="filter-topics"></div>
-        </div>
+  <footer class="footer">
+    <div class="foot-inner">
+      <span><b>Grant Radar</b> · by <a href="https://muntasirmasum.com">Muntasir Masum</a></span>
+      <span>Data: <a href="https://grants.nih.gov/funding/searchguide/">NIH Guide</a> &amp;
+        <a href="https://www.grants.gov">Grants.gov</a> · refreshed weekly ·
+        <a href="feed.xml">RSS</a> ·
+        <a href="https://github.com/muntasirmasum/grant-radar">GitHub</a></span>
+    </div>
+  </footer>
 
-        <div class="filter-group">
-          <div class="filter-group__label">Date Range</div>
-          <div class="filter-group__trigger" data-filter="dateRange">Last 30 days <span>▾</span></div>
-          <div class="filter-group__list" id="filter-dateRange"></div>
-        </div>
-      </div>
-
-      <!-- Saved filter + clear -->
-      <div class="sidebar__section">
-        <label class="filter-group__item" style="margin-bottom:0.5rem;">
-          <input type="checkbox" id="saved-only"> Saved notices only
-        </label>
-        <button class="sidebar__clear" id="clear-filters">Clear all filters</button>
-      </div>
-    </aside>
-
-    <main class="main">
-      <div class="main__heading">
-        <span id="feed-heading">Last 30 days</span>
-        <span class="main__heading-meta" id="feed-meta"></span>
-      </div>
-      <div id="feed"></div>
-
-      <div class="charts-heading">Trends</div>
-      <div class="charts-row">
-        <div class="chart-card">
-          <div class="chart-card__title">Top Topics</div>
-          <div id="chart-topics"></div>
-        </div>
-        <div class="chart-card">
-          <div class="chart-card__title">Most Active ICs</div>
-          <div id="chart-ics"></div>
-        </div>
-        <div class="chart-card">
-          <div class="chart-card__title">Weekly Volume</div>
-          <div id="chart-volume"></div>
-        </div>
-      </div>
-    </main>
-  </div>
-
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
-  <script type="module" src="app.js"></script>
+  <script type="module" src="js/index.js"></script>
 </body>
 </html>
