@@ -79,6 +79,32 @@ test("closingSoon picks for-you items with future dates, soonest first", () => {
   assert.deepEqual(soon.map(i => i.notice_id), ["PAR-26-118", "NOT-AA-26-012"]);
 });
 
+test("dueInfo gates on isOpportunity: policy items never carry deadlines", () => {
+  const policyWithDueDate = {
+    notice_id: "NOT-OD-26-200", doctype: "NOT",
+    title: "Reminder: Upcoming Council Round Deadlines for NIA Aging Research Applications",
+    primary_ic: "NIA", activity_codes: [],
+    due_dates: [{ label: "Council round", date: "2026-09-01" }], // future
+    expiration_date: "2026-12-31", // future
+    synopsis_truncated: "Timelines for NIA aging research application review.",
+  };
+  assert.equal(isOpportunity(policyWithDueDate), false);
+  // Profile-matching (>=2 reasons) despite not being an opportunity.
+  assert.deepEqual(matchReasons(policyWithDueDate, DEFAULT_PROFILE), ["NIA", "aging"]);
+  // 1. A populated due_dates entry AND a future expiration_date must not produce a due chip
+  //    for a non-opportunity item (spec §4.2: gold cards never show deadline chips).
+  assert.equal(dueInfo(policyWithDueDate, TODAY), null);
+  // 2. Even though it matches the profile, it must not appear in "closing soon".
+  const soon = closingSoon([nosi, par, policy, policyWithDueDate], DEFAULT_PROFILE, TODAY, 5);
+  assert.ok(!soon.some((i) => i.notice_id === "NOT-OD-26-200"));
+  assert.deepEqual(soon.map((i) => i.notice_id), ["PAR-26-118", "NOT-AA-26-012"]);
+  // 3. Sanity: opportunity fixtures (NOSI, PAR) still produce their existing dueInfo results.
+  assert.deepEqual(dueInfo(par, TODAY), { date: "2026-10-12", days: 73, label: "Next due" });
+  const e2 = dueInfo(nosi, TODAY);
+  assert.equal(e2.label, "Closes");
+  assert.equal(e2.date, "2026-11-17");
+});
+
 test("word-boundary keyword matching prevents false positives", () => {
   const managingTitle = {
     notice_id: "NOT-TEST-01", doctype: "NOT",

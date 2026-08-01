@@ -47,13 +47,14 @@ export function daysUntil(iso, todayIso) {
 }
 
 export function dueInfo(item, todayIso) {
+  if (!isOpportunity(item)) return null;
   for (const d of item.due_dates || []) {
     if (d.date >= todayIso) {
       return { date: d.date, days: daysUntil(d.date, todayIso), label: "Next due" };
     }
   }
   const exp = item.expiration_date;
-  if (isOpportunity(item) && exp && exp >= todayIso) {
+  if (exp && exp >= todayIso) {
     return { date: exp, days: daysUntil(exp, todayIso), label: "Closes" };
   }
   return null;
