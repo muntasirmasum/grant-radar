@@ -24,13 +24,18 @@ python3 - <<'EOF'
 import json, pathlib
 items = [json.loads(p.read_text()) for p in pathlib.Path("data/notices").glob("*/*.json")]
 queue = [i for i in items if not i.get("purpose_tldr")]
-# Priority: profile matches, then nearest due date, then newest.
+# Priority: profile matches, then nearest due date, then newest release first.
 PROFILE_ICS = {"NIA", "NIAAA", "NICHD", "NIMHD"}
 def key(i):
     matches = i.get("primary_ic") in PROFILE_ICS
     due = i.get("next_due_date") or i.get("expiration_date") or "9999"
-    return (not matches, due, i.get("release_date") or "")
-for i in sorted(queue, key=key)[:40]:
+    return (not matches, due)
+# Two-pass stable sort (same trick pipeline/emit.py uses): sort by release date
+# descending first, then stable-sort by (profile match, due date) so ties within
+# a tier keep newest-first order instead of collapsing to oldest-first.
+queue.sort(key=lambda i: i.get("release_date") or "", reverse=True)
+queue.sort(key=key)
+for i in queue[:40]:
     year = (i.get("release_date") or "1900")[:4]
     print(f"{i['notice_id']}\tdata/notices/{year}/{i['notice_id']}.json\t{i.get('next_due_date') or i.get('expiration_date') or '-'}")
 print(f"-- {len(queue)} total in queue")

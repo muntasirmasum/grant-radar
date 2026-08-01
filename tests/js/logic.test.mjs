@@ -52,6 +52,9 @@ test("daysUntil and dueInfo", () => {
   assert.equal(dueInfo(policy, TODAY), null);
   const past = { ...par, due_dates: [{ label: "x", date: "2026-01-01" }] };
   assert.equal(dueInfo(past, TODAY).date, "2027-05-08"); // skips past receipt, uses expiration
+  // Boundary: a due date equal to today is kept (`>=`, not `>`), reported as 0 days out.
+  const dueToday = { ...par, due_dates: [{ label: "Application receipt", date: TODAY }] };
+  assert.deepEqual(dueInfo(dueToday, TODAY), { date: TODAY, days: 0, label: "Next due" });
 });
 
 test("matchReasons needs two dimensions of evidence", () => {

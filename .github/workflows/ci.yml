@@ -12,6 +12,9 @@ on:
       - "data/taxonomy.json"
       - ".github/workflows/ci.yml"
 
+permissions:
+  contents: read
+
 jobs:
   pipeline-tests:
     runs-on: ubuntu-latest

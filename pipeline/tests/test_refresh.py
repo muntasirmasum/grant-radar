@@ -2,6 +2,8 @@ import datetime as dt
 import json
 from pathlib import Path
 
+import pytest
+
 from pipeline import refresh
 from pipeline.nih_guide import normalize
 
@@ -332,3 +334,39 @@ def test_two_successful_detail_runs_produce_no_churn(tmp_path, monkeypatch):
     stats2 = refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
     assert stats2["written"] == 0
     assert path.read_text() == before
+
+
+def test_batch_validation_failure_aborts_before_any_write(tmp_path, monkeypatch):
+    root = tmp_path
+    (root / "data" / "notices" / "2026").mkdir(parents=True)
+    (root / "data/taxonomy.json").write_text(json.dumps({"institutes": {}, "topics": {}}))
+
+    # Pre-existing item + site payload that must survive an aborted run untouched.
+    existing_item = {"notice_id": "NOT-AA-26-800", "source": "nih", "title": "Existing",
+                      "release_date": "2026-07-01", "url": "https://grants.nih.gov/x.html"}
+    existing_path = root / "data/notices/2026/NOT-AA-26-800.json"
+    existing_path.write_text(json.dumps(existing_item))
+    sentinel_payload = '{"generated_at": "sentinel", "items": []}'
+    (root / "data/notices.json").write_text(sentinel_payload)
+
+    valid = guide_src("NOT-AA-26-801", "2026-07-29T00:00:00.000Z")
+    invalid = guide_src("NOT-AA-26-802", "2026-07-30T00:00:00.000Z")
+    invalid["title"] = ""  # normalize() -> title="" -> validate_item raises "title is empty"
+
+    monkeypatch.setattr(refresh, "fetch_recent", lambda s, days, today: [valid, invalid])
+    monkeypatch.setattr(refresh, "fetch_active", lambda s: [])
+    monkeypatch.setattr(refresh, "fetch_detail", lambda s, n: None)
+    monkeypatch.setattr(refresh, "fetch_html", lambda s, url: "<html></html>")
+
+    before = sorted(str(p.relative_to(root)) for p in root.rglob("*") if p.is_file())
+
+    with pytest.raises(ValueError, match="title is empty"):
+        refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+
+    after = sorted(str(p.relative_to(root)) for p in root.rglob("*") if p.is_file())
+    assert after == before  # no new files at all: no item json, no raw html, no site payload
+
+    assert not (root / "data/notices/2026/NOT-AA-26-801.json").exists()  # the valid item, too
+    assert not (root / "data/notices/2026/NOT-AA-26-802.json").exists()
+    assert existing_path.read_text() == json.dumps(existing_item)         # untouched
+    assert (root / "data/notices.json").read_text() == sentinel_payload  # untouched, not regenerated

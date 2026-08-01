@@ -70,7 +70,7 @@ def normalize(source: dict, institutes: dict[str, str]) -> dict:
 import datetime as _dt
 
 TIMEOUT = 30
-MAX_PAGES = 300  # hard stop; 300*100 = 30k items > entire Guide
+MAX_PAGES = 300  # hard stop; 300 * PAGE_SIZE (25) = 7,500 items > entire Guide
 
 
 def _pages(session, extra_params):
