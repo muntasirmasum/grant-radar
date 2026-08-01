@@ -1,6 +1,6 @@
 import datetime as dt
 
-from pipeline.nih_guide import fetch_recent, fetch_active
+from pipeline.nih_guide import fetch_recent, fetch_active, PAGE_SIZE
 
 
 class FakeResponse:
@@ -52,14 +52,16 @@ def test_fetch_recent_requests_desc_sort():
 
 
 def test_fetch_active_paginates_to_total():
-    sources = [_src(f"RFA-{i:03d}", "2026-01-01T00:00:00.000Z") for i in range(250)]
+    sources = [_src(f"RFA-{i:03d}", "2026-01-01T00:00:00.000Z") for i in range(60)]
     for s in sources:
         s["type"] = "active"
     sess = FakeSession(sources)
     got = fetch_active(sess)
-    assert len(got) == 250
+    assert len(got) == 60
     assert sess.calls[0]["type"] == "active"
-    assert len(sess.calls) == 3  # 100 + 100 + 50
+    # Expect ceiling(60 / PAGE_SIZE) = 3 calls (25 + 25 + 10)
+    expected_pages = -(-len(sources) // PAGE_SIZE)
+    assert len(sess.calls) == expected_pages
 
 
 def test_fetch_recent_malformed_reldate_retained():

@@ -5,7 +5,10 @@ import re as _re
 
 GUIDE_API = "https://search.grants.nih.gov/guide/api/data"
 GUIDE_URL_SUBDIR = {"NOT": "notice-files", "RFA": "rfa-files", "PA": "pa-files", "PAR": "pa-files", "PAS": "pa-files"}
-PAGE_SIZE = 100
+# The Guide API reliably serves only its UI's native page size; larger values
+# are clamped or return truncated windows beyond the first page (verified
+# empirically 2026-08-01: size=100 yielded 112/412 active items; size=25 yields all 412).
+PAGE_SIZE = 25
 _DATE_PREFIX = _re.compile(r"^\d{4}-\d{2}-\d{2}")
 
 
