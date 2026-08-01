@@ -121,6 +121,21 @@ def test_normalize_freetext_appreceiptdate_without_valid_lard():
     assert item["next_due_date"] is None
 
 
+def test_normalize_nih_file_listed_true_when_filename_present():
+    item = normalize(load("guide_active_rfa.json"), INSTITUTES)
+    assert item["nih_file_listed"] is True
+
+
+def test_normalize_nih_file_listed_false_when_filename_absent_or_none():
+    src_missing = load("guide_active_rfa.json")
+    del src_missing["filename"]
+    assert normalize(src_missing, INSTITUTES)["nih_file_listed"] is False
+
+    src_none = load("guide_active_rfa.json")
+    src_none["filename"] = None
+    assert normalize(src_none, INSTITUTES)["nih_file_listed"] is False
+
+
 def test_normalize_freetext_appreceiptdate_with_valid_lard():
     """Test free-text appreceiptdate with valid lard yields one due_dates entry for lard only."""
     src = load("guide_active_rfa.json")

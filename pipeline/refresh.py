@@ -92,7 +92,13 @@ def run(root, session, today, days=14, emit_only=False):
             if needs_detail:
                 detail = fetch_detail(session, docnum)
                 if detail:
-                    merged, changed2 = merge_item(merged, {**incoming, **detail}, now_iso)
+                    patch = {**incoming, **detail}
+                    if not incoming.get("nih_file_listed") and detail.get("grants_gov_id"):
+                        # nih_file_listed is a new field: every API item is "changed" on the
+                        # next refresh, so needs_detail refires and existing bad NIH URLs
+                        # rewrite themselves to Grants.gov with no extra migration code.
+                        patch["url"] = f"https://www.grants.gov/search-results-detail/{detail['grants_gov_id']}"
+                    merged, changed2 = merge_item(merged, patch, now_iso)
                     changed = changed or changed2
             enriched = _backfill_primary_ic(_seed_topics(dict(merged), topics_map), institutes)
             if enriched != merged:

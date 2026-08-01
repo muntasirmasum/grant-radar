@@ -193,3 +193,34 @@ def test_html_fetch_failure_is_non_fatal_and_counted(tmp_path, monkeypatch):
     assert not (root / "data/raw/nih/2026/NOT-AA-26-070.html").exists()
     assert (root / "data/raw/nih/2026/NOT-AA-26-071.html").read_text() == "<html>ok</html>"
     assert stats["html_skipped"] == 1
+
+
+def test_grants_gov_canonical_url_when_nih_file_unlisted(tmp_path, monkeypatch):
+    root = tmp_path
+    (root / "data" / "notices" / "2026").mkdir(parents=True)
+    (root / "data/taxonomy.json").write_text(json.dumps({"institutes": {}, "topics": {}}))
+
+    unlisted = guide_src("PAR-26-200", "2026-07-05T00:00:00.000Z", doctype="PAR",
+                          exp="2027-01-01T00:00:00.000Z")
+    unlisted["filename"] = None  # NIH Guide API omitted the file: page not published yet
+    listed = guide_src("PAR-26-201", "2026-07-06T00:00:00.000Z", doctype="PAR",
+                        exp="2027-01-01T00:00:00.000Z")
+
+    monkeypatch.setattr(refresh, "fetch_recent", lambda s, days, today: [])
+    monkeypatch.setattr(refresh, "fetch_active", lambda s: [unlisted, listed])
+
+    def fake_detail(s, docnum):
+        gg_id = 357021 if docnum == "PAR-26-200" else 357022
+        return {"grants_gov_id": gg_id, "synopsis": "Detail.", "award_ceiling": None,
+                "award_floor": None, "close_date": None}
+
+    monkeypatch.setattr(refresh, "fetch_detail", fake_detail)
+    monkeypatch.setattr(refresh, "fetch_html", lambda s, url: "<html></html>")
+
+    refresh.run(root=root, session=None, today=dt.date(2026, 7, 31), days=14)
+
+    unlisted_on_disk = json.loads((root / "data/notices/2026/PAR-26-200.json").read_text())
+    assert unlisted_on_disk["url"] == "https://www.grants.gov/search-results-detail/357021"
+
+    listed_on_disk = json.loads((root / "data/notices/2026/PAR-26-201.json").read_text())
+    assert listed_on_disk["url"].startswith("https://grants.nih.gov/")

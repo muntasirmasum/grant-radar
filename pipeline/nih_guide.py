@@ -62,6 +62,7 @@ def normalize(source: dict, institutes: dict[str, str]) -> dict:
         "parent_ic": parent,
         "issuing_orgs": [institutes.get(primary, primary)] if primary else [],
         "url": f"https://grants.nih.gov/grants/guide/{subdir}/{filename}",
+        "nih_file_listed": bool(source.get("filename")),
         "clinical_trials": source.get("clinicaltrials"),
     }
 

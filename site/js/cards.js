@@ -45,11 +45,12 @@ export function renderCard(item, ctx) {
   const saved = savedSet.has(item.notice_id);
   const isOpen = expanded.has(item.notice_id);
   const hasDetail = Boolean(item.dos?.length || item.donts?.length || item.key_dates?.length);
+  const linkLabel = (item.url || "").includes("grants.nih.gov") ? "NIH ↗" : "Grants.gov ↗";
   const actions = `<span class="actions">
       <button data-save="${esc(item.notice_id)}" class="${saved ? "saved" : ""}"
         aria-label="Save for later">${saved ? "♥ saved" : "♡"}</button>
       ${hasDetail ? `<button data-expand="${esc(item.notice_id)}">${isOpen ? "Collapse ▴" : "Details ▾"}</button>` : ""}
-      <a href="${esc(item.url)}" target="_blank" rel="noopener">NIH ↗</a>
+      <a href="${esc(item.url)}" target="_blank" rel="noopener">${linkLabel}</a>
     </span>`;
   const pillrow = `<div class="pillrow">${duePill(item, todayIso)}${pills}${topics}${cash}${actions}</div>`;
   return `<article class="card${gold}${compact}" data-id="${esc(item.notice_id)}">
