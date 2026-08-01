@@ -8,6 +8,7 @@
     "National Center for Advancing Translational Sciences"
   ],
   "next_due_date": null,
+  "nih_file_listed": true,
   "notice_id": "NOT-TR-26-010",
   "open_date": null,
   "parent_ic": "NIH",
@@ -18,6 +19,6 @@
   "topics": [
     "clinical_trials"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-TR-26-010.html"
 }

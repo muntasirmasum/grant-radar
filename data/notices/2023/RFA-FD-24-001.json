@@ -15,6 +15,7 @@
     "FDA"
   ],
   "next_due_date": "2028-10-12",
+  "nih_file_listed": true,
   "notice_id": "RFA-FD-24-001",
   "open_date": "2023-10-13",
   "parent_ic": "FDA",
@@ -22,6 +23,6 @@
   "release_date": "2023-10-05",
   "source": "nih",
   "title": "Data Standards for Tobacco Research and Scientific Review Phase 2",
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-24-001.html"
 }

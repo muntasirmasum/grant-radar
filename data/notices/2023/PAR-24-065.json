@@ -17,6 +17,7 @@
     "National Heart, Lung, and Blood Institute"
   ],
   "next_due_date": "2026-09-25",
+  "nih_file_listed": true,
   "notice_id": "PAR-24-065",
   "open_date": "2023-12-25",
   "parent_ic": "NIH",
@@ -31,6 +32,6 @@
     "health_disparities",
     "implementation_science"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-065.html"
 }

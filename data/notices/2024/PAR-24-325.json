@@ -17,6 +17,7 @@
     "National Institute of Biomedical Imaging and Bioengineering"
   ],
   "next_due_date": "2027-09-07",
+  "nih_file_listed": true,
   "notice_id": "PAR-24-325",
   "open_date": "2024-12-28",
   "parent_ic": "NIH",
@@ -28,6 +29,6 @@
   "topics": [
     "clinical_trials"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-325.html"
 }

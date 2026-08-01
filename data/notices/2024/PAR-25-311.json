@@ -19,6 +19,7 @@
     "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
   ],
   "next_due_date": "2027-11-15",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-311",
   "open_date": "2025-02-15",
   "parent_ic": "NIH",
@@ -33,6 +34,6 @@
     "epidemiology",
     "implementation_science"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-311.html"
 }

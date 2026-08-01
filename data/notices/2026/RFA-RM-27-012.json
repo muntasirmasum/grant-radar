@@ -13,6 +13,7 @@
     "RMOD"
   ],
   "next_due_date": null,
+  "nih_file_listed": false,
   "notice_id": "RFA-RM-27-012",
   "open_date": "2026-09-19",
   "parent_ic": "NIH",
@@ -26,6 +27,6 @@
     "clinical_trials",
     "data_science_ai"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
-  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-012.html"
+  "updated_at": "2026-08-01T05:09:13Z",
+  "url": "https://www.grants.gov/search-results-detail/359270"
 }

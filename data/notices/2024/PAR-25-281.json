@@ -17,6 +17,7 @@
     "National Institute of Mental Health"
   ],
   "next_due_date": "2028-01-07",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-281",
   "open_date": "2025-01-05",
   "parent_ic": "NIH",
@@ -30,6 +31,6 @@
     "clinical_trials",
     "mental_health"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-281.html"
 }

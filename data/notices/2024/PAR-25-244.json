@@ -17,6 +17,7 @@
     "National Cancer Institute"
   ],
   "next_due_date": "2027-11-16",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-244",
   "open_date": "2025-01-16",
   "parent_ic": "NIH",
@@ -31,6 +32,6 @@
     "clinical_trials",
     "epidemiology"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-244.html"
 }

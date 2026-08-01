@@ -17,6 +17,7 @@
     "National Institute of Diabetes and Digestive and Kidney Diseases"
   ],
   "next_due_date": "2026-10-06",
+  "nih_file_listed": true,
   "notice_id": "RFA-DK-26-315",
   "open_date": "2025-10-07",
   "parent_ic": "NIH",
@@ -25,6 +26,6 @@
   "source": "nih",
   "synopsis": "This notice of funding opportunity (NOFO) invites applications designed to examine the efficacy and clinical effectiveness of multimodality digital health technology approaches to the remote management of diabetes.",
   "title": "Advancing Research on the Application of Digital Health Technology to the Management of Type 2 Diabetes (R01- Clinical Trail Required)",
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-26-315.html"
 }

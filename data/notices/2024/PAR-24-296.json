@@ -17,6 +17,7 @@
     "Fogarty International Center"
   ],
   "next_due_date": "2026-12-03",
+  "nih_file_listed": true,
   "notice_id": "PAR-24-296",
   "open_date": "2024-11-03",
   "parent_ic": "NIH",
@@ -29,6 +30,6 @@
     "clinical_trials",
     "training_and_career"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-296.html"
 }

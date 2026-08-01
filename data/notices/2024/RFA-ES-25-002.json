@@ -17,6 +17,7 @@
     "National Institute of Environmental Health Sciences"
   ],
   "next_due_date": "2027-04-20",
+  "nih_file_listed": true,
   "notice_id": "RFA-ES-25-002",
   "open_date": "2025-02-18",
   "parent_ic": "NIH",
@@ -30,6 +31,6 @@
     "infrastructure",
     "mental_health"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-ES-25-002.html"
 }

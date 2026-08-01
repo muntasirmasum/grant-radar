@@ -17,6 +17,7 @@
     "National Institute on Alcohol Abuse and Alcoholism"
   ],
   "next_due_date": "2026-09-07",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-193",
   "open_date": "2025-01-16",
   "parent_ic": "NIH",
@@ -31,6 +32,6 @@
     "implementation_science",
     "substance_use"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-193.html"
 }

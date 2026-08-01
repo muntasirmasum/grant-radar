@@ -14,6 +14,7 @@
       "type": "release"
     }
   ],
+  "nih_file_listed": true,
   "notice_id": "NOT-DC-26-007",
   "notice_type": "guide_notice",
   "parent_ic": "NIH",
@@ -27,6 +28,6 @@
     "clinical_trials",
     "infectious_disease"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-007.html"
 }

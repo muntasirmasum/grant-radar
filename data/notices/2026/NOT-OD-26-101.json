@@ -8,6 +8,7 @@
     "National Institutes of Health"
   ],
   "next_due_date": null,
+  "nih_file_listed": true,
   "notice_id": "NOT-OD-26-101",
   "open_date": null,
   "parent_ic": "NIH",
@@ -15,6 +16,6 @@
   "release_date": "2026-07-28",
   "source": "nih",
   "title": "USG Policy for Stopping High-Risk Life Sciences Research",
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-101.html"
 }

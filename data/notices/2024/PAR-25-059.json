@@ -19,6 +19,7 @@
     "National Institute of Neurological Disorders and Stroke"
   ],
   "next_due_date": "2027-10-20",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-059",
   "open_date": "2025-01-18",
   "parent_ic": "NIH",
@@ -30,6 +31,6 @@
   "topics": [
     "clinical_trials"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-059.html"
 }

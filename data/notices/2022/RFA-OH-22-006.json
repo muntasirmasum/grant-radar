@@ -19,6 +19,7 @@
     "NIOSH"
   ],
   "next_due_date": "2028-01-30",
+  "nih_file_listed": true,
   "notice_id": "RFA-OH-22-006",
   "open_date": "2022-07-29",
   "parent_ic": "CDC",
@@ -33,6 +34,6 @@
     "methods_and_statistics",
     "training_and_career"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-22-006.html"
 }

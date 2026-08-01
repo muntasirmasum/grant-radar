@@ -18,6 +18,7 @@
     "National Institute of General Medical Sciences"
   ],
   "next_due_date": "2028-01-07",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-134",
   "open_date": "2025-01-25",
   "parent_ic": "NIH",
@@ -29,6 +30,6 @@
   "topics": [
     "clinical_trials"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-134.html"
 }

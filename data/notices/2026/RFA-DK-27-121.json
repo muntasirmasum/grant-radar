@@ -13,6 +13,7 @@
     "National Institute of Diabetes and Digestive and Kidney Diseases"
   ],
   "next_due_date": null,
+  "nih_file_listed": false,
   "notice_id": "RFA-DK-27-121",
   "open_date": "2026-09-09",
   "parent_ic": "NIH",
@@ -25,6 +26,6 @@
     "clinical_trials",
     "mental_health"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
-  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-27-121.html"
+  "updated_at": "2026-08-01T05:09:13Z",
+  "url": "https://www.grants.gov/search-results-detail/360387"
 }

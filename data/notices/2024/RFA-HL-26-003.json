@@ -17,6 +17,7 @@
     "National Heart, Lung, and Blood Institute"
   ],
   "next_due_date": "2027-04-28",
+  "nih_file_listed": true,
   "notice_id": "RFA-HL-26-003",
   "open_date": "2025-01-19",
   "parent_ic": "NIH",
@@ -28,6 +29,6 @@
   "topics": [
     "clinical_trials"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HL-26-003.html"
 }

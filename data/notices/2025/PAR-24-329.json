@@ -17,6 +17,7 @@
     "National Institute on Drug Abuse"
   ],
   "next_due_date": "2027-03-16",
+  "nih_file_listed": true,
   "notice_id": "PAR-24-329",
   "open_date": "2025-04-07",
   "parent_ic": "NIH",
@@ -31,6 +32,6 @@
     "implementation_science",
     "infectious_disease"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-329.html"
 }

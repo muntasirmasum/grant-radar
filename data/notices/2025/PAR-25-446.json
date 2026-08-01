@@ -19,6 +19,7 @@
     "National Institute on Drug Abuse"
   ],
   "next_due_date": "2028-08-21",
+  "nih_file_listed": true,
   "notice_id": "PAR-25-446",
   "open_date": "2025-09-20",
   "parent_ic": "NIH",
@@ -31,6 +32,6 @@
     "clinical_trials",
     "substance_use"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-446.html"
 }

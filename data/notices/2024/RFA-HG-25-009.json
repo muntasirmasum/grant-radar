@@ -17,6 +17,7 @@
     "National Human Genome Research Institute"
   ],
   "next_due_date": "2027-02-26",
+  "nih_file_listed": true,
   "notice_id": "RFA-HG-25-009",
   "open_date": "2025-01-28",
   "parent_ic": "NIH",
@@ -29,6 +30,6 @@
     "clinical_trials",
     "data_science_ai"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-25-009.html"
 }

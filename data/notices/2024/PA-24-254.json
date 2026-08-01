@@ -17,6 +17,7 @@
     "National Institutes of Health"
   ],
   "next_due_date": "2027-07-12",
+  "nih_file_listed": true,
   "notice_id": "PA-24-254",
   "open_date": "2024-07-12",
   "parent_ic": "NIH",
@@ -28,6 +29,6 @@
   "topics": [
     "clinical_trials"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-254.html"
 }

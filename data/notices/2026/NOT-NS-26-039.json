@@ -8,6 +8,7 @@
     "National Institute of Neurological Disorders and Stroke"
   ],
   "next_due_date": null,
+  "nih_file_listed": true,
   "notice_id": "NOT-NS-26-039",
   "open_date": null,
   "parent_ic": "NIH",
@@ -15,6 +16,6 @@
   "release_date": "2026-06-23",
   "source": "nih",
   "title": "National Plan to End Parkinsons Request for Information(RFI) Strategy",
-  "updated_at": "2026-08-01T04:25:11Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-039.html"
 }

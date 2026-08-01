@@ -19,6 +19,7 @@
     "NIOSH"
   ],
   "next_due_date": "2026-11-30",
+  "nih_file_listed": true,
   "notice_id": "RFA-OH-24-001",
   "open_date": "2023-11-01",
   "parent_ic": "CDC",
@@ -32,6 +33,6 @@
     "behavioral_intervention",
     "implementation_science"
   ],
-  "updated_at": "2026-08-01T04:19:20Z",
+  "updated_at": "2026-08-01T05:09:13Z",
   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-24-001.html"
 }

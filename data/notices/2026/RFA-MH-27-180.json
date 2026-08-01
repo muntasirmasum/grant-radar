@@ -12,6 +12,7 @@
     "National Institute of Mental Health"
   ],
   "next_due_date": null,
+  "nih_file_listed": false,
   "notice_id": "RFA-MH-27-180",
   "open_date": "2026-09-15",
   "parent_ic": "NIH",
@@ -25,6 +26,6 @@
     "clinical_trials",
     "mental_health"
   ],
-  "updated_at": "2026-08-01T04:25:11Z",
-  "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-MH-27-180.html"
+  "updated_at": "2026-08-01T05:09:13Z",
+  "url": "https://www.grants.gov/search-results-detail/359201"
 }
