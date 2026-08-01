@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grant Radar — deadline calendar</title>
+  <script>(function(){var t=localStorage.getItem("grant-radar.theme");
+  if(t==="dark"||(!t&&matchMedia("(prefers-color-scheme: dark)").matches))
+  document.documentElement.classList.add("dark");})()</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a class="brand" href="index.html"><span class="ping"></span>Grant Radar</a>
+      <div class="nav-links">
+        <a href="index.html">This week</a>
+        <a href="calendar.html" class="active">Calendar</a>
+        <a href="trends.html">Trends</a>
+        <a href="about.html">About</a>
+      </div>
+      <div class="nav-tools">
+        <button class="iconbtn" id="theme-toggle" aria-label="Toggle dark mode">☾</button>
+        <a class="home-link" href="https://muntasirmasum.com">muntasirmasum.com ↗</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <div class="eyebrow">Upcoming due dates</div>
+    <h1 class="h1">Deadline calendar</h1>
+    <p class="lead">Every still-open opportunity with a future receipt or expiration date, whenever it was first announced.</p>
+    <div class="chips" id="cal-chips">
+      <button class="chip chip--on" data-scope="all">All deadlines</button>
+      <button class="chip" data-scope="foryou">For you</button>
+    </div>
+    <div id="calendar"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="foot-inner">
+      <span><b>Grant Radar</b> · by <a href="https://muntasirmasum.com">Muntasir Masum</a></span>
+      <span>Data: NIH Guide &amp; Grants.gov · refreshed weekly · <a href="feed.xml">RSS</a></span>
+    </div>
+  </footer>
+
+  <script type="module" src="js/calendar.js"></script>
+</body>
+</html>
