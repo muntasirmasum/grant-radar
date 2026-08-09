@@ -4,20 +4,20 @@
   ],
   "award_ceiling": "350000",
   "clinical_trials": "Not_Allowed",
-  "close_date": "2027-11-12",
+  "close_date": "2026-08-13",
   "doctype": "PAR",
   "due_dates": [
     {
-      "date": "2027-11-12",
+      "date": "2026-08-12",
       "label": "Last application receipt"
     }
   ],
-  "expiration_date": "2027-11-13",
+  "expiration_date": "2026-08-13",
   "grants_gov_id": 357168,
   "issuing_orgs": [
     "National Institute on Drug Abuse"
   ],
-  "next_due_date": "2027-11-12",
+  "next_due_date": "2026-08-12",
   "nih_file_listed": true,
   "notice_id": "PAR-25-204",
   "open_date": "2025-02-11",
@@ -32,6 +32,6 @@
     "substance_use",
     "training_and_career"
   ],
-  "updated_at": "2026-08-01T05:09:13Z",
+  "updated_at": "2026-08-09T23:31:00Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-204.html"
 }

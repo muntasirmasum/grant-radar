@@ -1,0 +1,26 @@
+{
+  "activity_codes": [
+    "R25"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-DA-26-015",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-08-06",
+  "source": "nih",
+  "title": "Notice of Early Expiration of PAR-25-204, \"NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)\"",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-08-09T23:31:00Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-015.html"
+}

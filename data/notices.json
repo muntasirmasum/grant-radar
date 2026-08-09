@@ -1,6 +1,55 @@
 {
- "generated_at": "2026-08-02T23:58:42Z",
+ "generated_at": "2026-08-09T23:31:00Z",
  "items": [
+  {
+   "notice_id": "NOT-DA-26-015",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of Early Expiration of PAR-25-204, \"NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)\"",
+   "release_date": "2026-08-06",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "R25"
+   ],
+   "primary_ic": "NIDA",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute on Drug Abuse"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-015.html",
+   "nih_file_listed": true,
+   "clinical_trials": "Not_Allowed",
+   "updated_at": "2026-08-09T23:31:00Z",
+   "topics": [
+    "clinical_trials"
+   ],
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-DA-26-014",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Request for Information: Inviting Input on NIDAs Strategic Plan for 2027-2031",
+   "release_date": "2026-08-05",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIDA",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute on Drug Abuse"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-014.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-08-09T23:31:00Z",
+   "synopsis_truncated": null
+  },
   {
    "activity_codes": [],
    "clinical_trials": null,
@@ -12824,20 +12873,20 @@
    ],
    "award_ceiling": "350000",
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-11-12",
+   "close_date": "2026-08-13",
    "doctype": "PAR",
    "due_dates": [
     {
-     "date": "2027-11-12",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2026-08-12"
     }
    ],
-   "expiration_date": "2027-11-13",
+   "expiration_date": "2026-08-13",
    "grants_gov_id": 357168,
    "issuing_orgs": [
     "National Institute on Drug Abuse"
    ],
-   "next_due_date": "2027-11-12",
+   "next_due_date": "2026-08-12",
    "nih_file_listed": true,
    "notice_id": "PAR-25-204",
    "open_date": "2025-02-11",
@@ -12851,7 +12900,7 @@
     "substance_use",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-08-09T23:31:00Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-204.html",
    "synopsis_truncated": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this NIDA R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs. This NOFO is intended to support research education activities that…"
   },
@@ -15892,41 +15941,6 @@
   },
   {
    "activity_codes": [
-    "UM1"
-   ],
-   "award_ceiling": "850000",
-   "clinical_trials": "Optional",
-   "close_date": "2026-08-02",
-   "doctype": "RFA",
-   "due_dates": [
-    {
-     "date": "2026-08-02",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-08-03",
-   "grants_gov_id": 355317,
-   "issuing_orgs": [
-    "National Human Genome Research Institute"
-   ],
-   "next_due_date": "2026-08-02",
-   "nih_file_listed": true,
-   "notice_id": "RFA-HG-24-026",
-   "open_date": "2024-10-15",
-   "parent_ic": "NIH",
-   "primary_ic": "NHGRI",
-   "release_date": "2024-07-10",
-   "source": "nih",
-   "title": "Limited Competition: Building Partnerships and Broadening Perspectives to Advance Ethical, Legal, and Social Implications (ELSI) Research (BBAER) Program (UM1), Clinical Trial Optional",
-   "topics": [
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-24-026.html",
-   "synopsis_truncated": "The National Human Genome Research Institute (NHGRI) seeks to broaden the types of knowledge, skills, expertise, experience, and perspectives brought to bear in research addressing the ethical, legal and social implications (ELSI) of advances in human genetics or genomics. This Notice of Funding Opportunity (NOFO) solicits UM1 applications from domestic organizations located in the United States…"
-  },
-  {
-   "activity_codes": [
     "R25"
    ],
    "award_ceiling": "400000",
@@ -16589,43 +16603,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-201.html",
    "synopsis_truncated": "The National Institutes of Health (NIH) hereby notify the applicant community that funds may be available for applications based on a presidentially declared disaster under the Stafford Act, a public health emergency declared by the Secretary, HHS, or other local, regional or national disaster. Applications in response to Emergency Notices of Special Interest (NOSIs) will be routed directly to…"
-  },
-  {
-   "activity_codes": [
-    "D43"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-08-06",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-08-06",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-08-07",
-   "grants_gov_id": 353590,
-   "issuing_orgs": [
-    "Fogarty International Center"
-   ],
-   "next_due_date": "2026-08-06",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-174",
-   "open_date": "2024-07-06",
-   "parent_ic": "NIH",
-   "primary_ic": "FIC",
-   "release_date": "2024-04-17",
-   "source": "nih",
-   "title": "Global Infectious Disease Research Training Program (D43 Clinical Trial Optional)",
-   "topics": [
-    "behavioral_intervention",
-    "clinical_trials",
-    "epidemiology",
-    "infectious_disease"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-174.html",
-   "synopsis_truncated": "This Funding Opportunity Announcement (FOA) encourages joint applications for the Global Infectious Disease (GID) Research Training programs from U.S. and low- and middle-income country (LMIC) institutions. The application should propose a collaborative training program that will strengthen the capacity of a LMIC institution to conduct infectious disease research. FIC will support…"
   },
   {
    "activity_codes": [
@@ -17475,41 +17452,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-235.html",
    "synopsis_truncated": "This Funding Opportunity Announcement (FOA) encourages grant applications for Biomedical Technology Resource Centers (BTRCs). BTRCs are national resource centers for conducting research and development on new technologies that are driven by the needs of basic, translational, and/or clinical researchers. BTRCs also make their technologies available to other investigators, train members of the…"
-  },
-  {
-   "activity_codes": [
-    "S06"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-08-07",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-08-07",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-08-08",
-   "grants_gov_id": 348514,
-   "issuing_orgs": [
-    "National Institute of General Medical Sciences"
-   ],
-   "next_due_date": "2026-08-07",
-   "nih_file_listed": true,
-   "notice_id": "PAR-23-166",
-   "open_date": "2024-06-08",
-   "parent_ic": "NIH",
-   "primary_ic": "NIGMS",
-   "release_date": "2023-06-02",
-   "source": "nih",
-   "title": "Native American Research Centers for Health (NARCH) (S06 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials",
-    "infrastructure"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-166.html",
-   "synopsis_truncated": "The purpose of theNative American Research Centers for Health (NARCH) program is to fund federally-recognized American Indian/Alaska Native (AI/AN) tribes and tribal organizations to support health-related research, research career enhancement, and research infrastructure enhancement activities."
   },
   {
    "activity_codes": [

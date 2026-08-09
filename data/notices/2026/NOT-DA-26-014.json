@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-DA-26-014",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-08-05",
+  "source": "nih",
+  "title": "Request for Information: Inviting Input on NIDAs Strategic Plan for 2027-2031",
+  "updated_at": "2026-08-09T23:31:00Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-014.html"
+}
