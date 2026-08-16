@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-OD-26-088",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-08-14",
+  "source": "nih",
+  "title": "Request for Information (RFI) on Proposed Changes to Reporting Outcomes from NIH Peer Review",
+  "updated_at": "2026-08-16T23:19:42Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-088.html"
+}

@@ -1,53 +1,147 @@
 {
- "generated_at": "2026-08-09T23:31:00Z",
+ "generated_at": "2026-08-16T23:19:42Z",
  "items": [
   {
-   "notice_id": "NOT-DA-26-015",
+   "notice_id": "NOT-OD-26-088",
    "source": "nih",
    "doctype": "NOT",
-   "title": "Notice of Early Expiration of PAR-25-204, \"NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)\"",
-   "release_date": "2026-08-06",
+   "title": "Request for Information (RFI) on Proposed Changes to Reporting Outcomes from NIH Peer Review",
+   "release_date": "2026-08-14",
    "open_date": null,
    "expiration_date": null,
    "due_dates": [],
    "next_due_date": null,
-   "activity_codes": [
-    "R25"
-   ],
-   "primary_ic": "NIDA",
+   "activity_codes": [],
+   "primary_ic": "NIH",
    "parent_ic": "NIH",
    "issuing_orgs": [
-    "National Institute on Drug Abuse"
+    "National Institutes of Health"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-015.html",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-088.html",
    "nih_file_listed": true,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-08-09T23:31:00Z",
+   "clinical_trials": null,
+   "updated_at": "2026-08-16T23:19:42Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-OD-26-095",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "REQUEST FOR INFORMATION (RFI): INPUT ON POTENTIAL NIH FUNDING APPROACHES TO SUPPORT THE DEVELOPMENT OF FUTURE CLINICAL TRIAL INVESTIGATORS",
+   "release_date": "2026-08-12",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institutes of Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-095.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-08-16T23:19:42Z",
    "topics": [
     "clinical_trials"
    ],
    "synopsis_truncated": null
   },
   {
-   "notice_id": "NOT-DA-26-014",
+   "notice_id": "NOT-OD-26-097",
    "source": "nih",
    "doctype": "NOT",
-   "title": "Request for Information: Inviting Input on NIDAs Strategic Plan for 2027-2031",
-   "release_date": "2026-08-05",
+   "title": "Recent Updates: Supporting a Safe and Respectful Workplace at Institutions that Receive NIH Funding",
+   "release_date": "2026-08-12",
    "open_date": null,
    "expiration_date": null,
    "due_dates": [],
    "next_due_date": null,
    "activity_codes": [],
-   "primary_ic": "NIDA",
+   "primary_ic": "NIH",
    "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institutes of Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-097.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-08-16T23:19:42Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-OD-26-098",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of NIH Updates to Career Development (K) Award Programs",
+   "release_date": "2026-08-12",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "OD",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "Office of the Director"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-098.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-08-16T23:19:42Z",
+   "topics": [
+    "training_and_career"
+   ],
+   "synopsis_truncated": null
+  },
+  {
+   "activity_codes": [
+    "R25"
+   ],
+   "clinical_trials": "Not_Allowed",
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
    "issuing_orgs": [
     "National Institute on Drug Abuse"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-014.html",
+   "next_due_date": null,
    "nih_file_listed": true,
-   "clinical_trials": null,
+   "notice_id": "NOT-DA-26-015",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIDA",
+   "release_date": "2026-08-06",
+   "source": "nih",
+   "title": "Notice of Early Expiration of PAR-25-204, \"NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)\"",
+   "topics": [
+    "clinical_trials"
+   ],
    "updated_at": "2026-08-09T23:31:00Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-015.html",
+   "synopsis_truncated": null
+  },
+  {
+   "activity_codes": [],
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
+   "issuing_orgs": [
+    "National Institute on Drug Abuse"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": true,
+   "notice_id": "NOT-DA-26-014",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIDA",
+   "release_date": "2026-08-05",
+   "source": "nih",
+   "title": "Request for Information: Inviting Input on NIDAs Strategic Plan for 2027-2031",
+   "updated_at": "2026-08-09T23:31:00Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-014.html",
    "synopsis_truncated": null
   },
   {
@@ -12866,43 +12960,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-124.html",
    "synopsis_truncated": "The National Center for Medical Rehabilitation Research (NCMRR) Early Career Research (ECR) Award (R03) is intended to support both basic and clinical research from rehabilitation scientists who are establishing independent research careers. The research must be focused on one or more of the areas within the mission of NCMRR: Applicants are encouraged to refer to the NIH Research Plan on…"
-  },
-  {
-   "activity_codes": [
-    "R25"
-   ],
-   "award_ceiling": "350000",
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-08-13",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "label": "Last application receipt",
-     "date": "2026-08-12"
-    }
-   ],
-   "expiration_date": "2026-08-13",
-   "grants_gov_id": 357168,
-   "issuing_orgs": [
-    "National Institute on Drug Abuse"
-   ],
-   "next_due_date": "2026-08-12",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-204",
-   "open_date": "2025-02-11",
-   "parent_ic": "NIH",
-   "primary_ic": "NIDA",
-   "release_date": "2024-11-18",
-   "source": "nih",
-   "title": "NIDA Research Education Program for Clinical Researchers and Clinicians (R25 Clinical Trial Not Allowed)",
-   "topics": [
-    "clinical_trials",
-    "substance_use",
-    "training_and_career"
-   ],
-   "updated_at": "2026-08-09T23:31:00Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-204.html",
-   "synopsis_truncated": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The over-arching goal of this NIDA R25 program is to support educational activities that complement and/or enhance the training of a workforce to meet the nations biomedical, behavioral and clinical research needs. This NOFO is intended to support research education activities that…"
   },
   {
    "activity_codes": [
