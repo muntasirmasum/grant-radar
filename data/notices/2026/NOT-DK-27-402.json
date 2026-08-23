@@ -1,0 +1,25 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-DK-27-402",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-08-20",
+  "source": "nih",
+  "title": "Notice of Pre-Application Webinar for PA-27-030: Institutional Mentored Career Development Award (Parent K12) (Clinical Trials Not Allowed)  NIDDK Applicant Information",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-08-23T23:20:19Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DK-27-402.html"
+}

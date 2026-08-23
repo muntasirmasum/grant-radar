@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-05-30",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-05-31",
+  "grants_gov_id": 360883,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-056",
+  "open_date": "2026-09-15",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-08-19",
+  "source": "nih",
+  "synopsis": "The Institutional Development Award (IDeA) program develops biomedical research capacity in states that have historically received low levels of NIH funding (IDeA states). The IDeA Clinical & Translational Research (CTR) program supports two programmatic tracks to build clinical and translational (C&T) research capacity to enable research on diseases and health challenges prevalent in IDeA states. IDeA CTR Development (CTR-D) awards focus on C&T research workforce development and infrastructure enhancement at health research organizations with limited clinical research capacity in IDeA states. IDeA CTR Network (CTR-N) awards support statewide (or multi-state) networks of health research organizations to expand existing infrastructure, develop the research workforce to enhance the network organization's ability to design and implement competitive C&T research programs, and coordinate clinical research activities state-wide and/or across IDeA states.This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered.",
+  "title": "Limited Competition: Institutional Development Award (IDeA) for Clinical &amp; Translational Research (CTR) (P30 - CT Optional)",
+  "topics": [
+    "infrastructure"
+  ],
+  "updated_at": "2026-08-23T23:20:19Z",
+  "url": "https://www.grants.gov/search-results-detail/360883"
+}

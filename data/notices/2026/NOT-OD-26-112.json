@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-OD-26-112",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-08-19",
+  "source": "nih",
+  "title": "Request for Comment: Draft NIH Biosafety Policy for Research Involving Biohazards",
+  "updated_at": "2026-08-23T23:20:19Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-112.html"
+}
