@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-GM-26-013",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-08-27",
+  "source": "nih",
+  "title": "Notice of Informational Webinar on PAR-27-056 \"Limited Competition: Institutional Development Award (IDeA) for Clinical & Translational Research (CTR) (P30 - CT Optional)\"",
+  "updated_at": "2026-08-31T01:07:11Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-013.html"
+}

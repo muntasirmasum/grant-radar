@@ -1,0 +1,28 @@
+{
+  "activity_codes": [
+    "DP1"
+  ],
+  "clinical_trials": "Optional",
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-DA-26-016",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-08-27",
+  "source": "nih",
+  "title": "Notice of Correction to Reference Letters Due Date in PAR-27-026, \"Avant Garde/Avenir Awards for Investigators Conducting High Risk/High Reward Research on HIV and Substance Use (or Substance Use Disorders) (DP1 Clinical Trial Optional)\"",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease",
+    "substance_use"
+  ],
+  "updated_at": "2026-08-31T01:07:11Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-016.html"
+}
