@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-10",
+  "grants_gov_id": 360458,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-27-139",
+  "open_date": "2026-10-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "Applications for a 3-year extension/renewal of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) clinical trial consortium are requested to fully meet the enrollment targets, complete participant follow-up, and finalize data analysis and dissemination of study findings. This Notice of Funding Opportunity (NOFO) invites a Single Source application for the eligible organization, the Scientific and Data Research Center (SDRC) already involved in the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Consortium. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered.There is currently no standard of care for patients after hospitalization with acute kidney injury (AKI). Successful completion of the COPE-AKI study will provide key insights that are expected to directly inform improved clinical management strategies and the development of standard of care for Stage 2 and 3 AKI survivors.",
+  "title": "Single Source for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Scientific and Data Research Center (U01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360458"
+}

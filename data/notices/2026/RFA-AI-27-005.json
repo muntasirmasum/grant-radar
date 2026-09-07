@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 361065,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-27-005",
+  "open_date": "2026-10-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-09-01",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support a Clinical Research Network (CRN) on Antimicrobial Resistance (AMR). The program aims to design, implement, and manage clinical research that addresses pivotal clinical questions related to AMR through a coordinated and integrated CRN. The CRN will comprise four centers: the Scientific Leadership Center (SLC), the Clinical Operations Center (COC), the Laboratory Center (LC), and the Statistics and Data Coordination Center (SDCC).",
+  "title": "Clinical Research Network on Antimicrobial Resistance (UM1 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/361065"
+}

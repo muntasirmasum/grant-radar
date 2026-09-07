@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 360875,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-27-002",
+  "open_date": "2026-10-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-09-01",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to solicit applications for an Infectious Diseases Clinical Trials Network (IDCTN). The IDCTN, comprised of the Clinical Trial Evaluation Units (CTEUs) and a Network Coordination Center (NCC), supports the evaluation of interventions for emerging and chronic infections. The CTEUs design and implement clinical trials and studies, while the NCC provides the administrative and operational framework for a collaborative, integrated network and engages with experts in the field to solicit and generate clinical trial concepts. The NCC and CTEUs will collaboratively create opportunities to advance investigators early in their careers and those new to the field.",
+  "title": "Infectious Diseases Clinical Trials Network (IDCTN) (UM1 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360875"
+}

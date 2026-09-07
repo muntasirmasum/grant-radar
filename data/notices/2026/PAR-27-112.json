@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "K76"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-06-12",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-06-13",
+  "grants_gov_id": 360909,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-112",
+  "open_date": "2026-10-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2026-09-01",
+  "source": "nih",
+  "synopsis": "The National Institute on Aging invites early-stage clinician-scientists to apply for the Beeson K76 award with the goal of advancing their research and leadership skills in their specialty and in the broader field of aging research.Unlike other mentored K awards, candidates for this award must have received competitively awarded research support as a Program Director/Primary Investigator (PD/PI) at the faculty level or have otherwise leveraged faculty-level research support to develop an independent line of research. Candidates must show evidence of leadership in the clinical or research domain.This Notice of Funding Opportunity (NOFO) is designed specifically for applicants proposing research that does not involve leading an independent clinical trial, a clinical trial feasibility study, or an ancillary clinical trial. Under this NOFO applicants are permitted to propose a research experience in a clinical trial led by a mentor or co-mentor.",
+  "title": "Paul B. Beeson Emerging Leaders Career Development Award in Aging (K76 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360909"
+}

@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-10",
+  "grants_gov_id": 361213,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-27-112",
+  "open_date": "2026-10-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This is a Notice of Funding Opportunity (NOFO) for a Single Source that will invite an application from the eligible organization to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, applications will be peer-reviewed, and only meritorious applications will be considered for funding. Through this NOFO, the National institute of Diabetes and Digestive and Kidney Diseases (NIDDK) invites an application to continue to follow the Epidemiology of Diabetes Interventions and Complications (EDIC) cohort through a collaborative cooperative agreement that addresses specific knowledge gaps in the development and progression of type 1 diabetes complications. Applications should include hypothesis-based research, support for cohort infrastructure and/or maintenance, continued follow-up, and supporting collaborative research to utilize the EDIC cohort as well as its data set and biologic/genetic samples.",
+  "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology",
+    "infrastructure"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/361213"
+}

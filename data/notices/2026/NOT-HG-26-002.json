@@ -1,0 +1,25 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-HG-26-002",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-09-04",
+  "source": "nih",
+  "title": "Notice of Early Expiration of PAR-25-229, \"Investigator Initiated Innovation in Computational Genomics and Data Science (R21 Clinical Trial Not Allowed)\"",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-HG-26-002.html"
+}

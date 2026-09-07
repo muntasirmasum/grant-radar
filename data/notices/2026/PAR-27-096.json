@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "125000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-07-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-07-17",
+  "grants_gov_id": 359940,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-096",
+  "open_date": "2026-10-10",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2026-09-01",
+  "source": "nih",
+  "synopsis": "The goal of the Grants for Early Medical/Surgical Specialists' Transition to Aging Research (GEMSSTAR) program is to provide support for early-career clinician-scientists trained in medical or surgical specialties to launch careers as future leaders in aging- or geriatric-focused research. In support of the program's goal, this GEMSSTAR Notice of Funding Opportunity (NOFO) invites applications that propose to conduct transdisciplinary aging research that will yield pilot data and experience for subsequent aging research projects. The GEMSSTAR program encourages candidates to seek out a supportive research environment to further the program's objectives of fostering the development of early-career clinician-scientists in aging- or geriatric-focused research, particularly as it applies to their clinical specialty/discipline. Toward this end, GEMSSTAR candidates should include a Professional Development Plan that reflects this supportive research environment. In selecting GEMSSTAR recipients, the National Institute on Aging (NIA) will consider the extent to which a candidate's environment is supportive of aging- or geriatric-focused research.",
+  "title": "Grants for Early Medical/Surgical Specialists' Transition to Aging Research (GEMSSTAR) (R03 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/359940"
+}

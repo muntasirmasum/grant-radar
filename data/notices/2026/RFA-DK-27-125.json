@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-06",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-07",
+  "grants_gov_id": 360679,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-27-125",
+  "open_date": "2026-10-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding. This NOFO requests limited competition applications for a 3-year extension of the COPE-AKI clinical trial consortium, which includes three clinical centers (CCs) and one scientific and data research center (SDRC), to fully meet the enrollment targets, complete participant follow-up, and provide resources for data analysis and dissemination of study findings. There is currently no standard of care for patients after hospitalization with acute kidney injury (AKI). Successful completion of the COPE-AKI study will provide key insights that are expected to directly inform improved clinical management strategies and the development of standard of care for Stage 2 and 3 AKI survivors.",
+  "title": "Limited Competition for the Continuation of the Caring for OutPatiEnts after Acute Kidney Injury (COPE-AKI) Clinical Centers (U01 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360679"
+}

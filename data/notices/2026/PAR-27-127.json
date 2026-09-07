@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "P50"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-05-26",
+  "grants_gov_id": 360574,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-127",
+  "open_date": "2026-09-15",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-09-01",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) encourages applications for Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research. The National Institute of Mental Health (NIMH) seeks teams of integrative researchers working at different levels of analysis and employing novel, and creative experimental approaches to address high-risk, high-impact questions with the primary objectives of: (a) advancing basic brain and behavior research that will uncover underlying mechanisms that could provide the foundation for understanding mental disorders; (b) supporting the integration and translation of basic and clinical neuroscience research on severe mental illnesses; (c) advancing our understanding of the neurobehavioral mechanisms and trajectories of psychopathology that begin in development. This program is intended only for projects that could not be achieved using other, more standard grant mechanisms.",
+  "title": "Silvio O. Conte Centers for Basic Neuroscience or Translational Mental Health Research (P50 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "mental_health"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360574"
+}

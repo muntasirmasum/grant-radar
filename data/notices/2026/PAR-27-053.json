@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-06-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-06-17",
+  "grants_gov_id": 361518,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-053",
+  "open_date": "2026-10-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) uses a R61/R33 Phased Innovation Award activity code to support clinical research applications that are exploratory and developmental in nature and focus on understanding the neurobiological mechanisms underlying substance use disorders (SUD), including fundamental circuitry and behavior relevant to substance use. For projects not requiring a phased research approach, applicants are encouraged to apply under a different funding activity code (e.g., PA-25-305 \"Research Project Grant (Parent R01 Clinical Trial Required)\" or its subsequent reissue).",
+  "title": "Exploratory Clinical Neuroscience Research on Substance Use Disorders (R61/R33 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/361518"
+}

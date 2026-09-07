@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "RM1"
+  ],
+  "award_ceiling": "8000000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-06-23",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-06-24",
+  "grants_gov_id": 360398,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-NS-27-002",
+  "open_date": "2026-09-07",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports transdisciplinary research teams seeking to develop mechanistic, biologically grounded explanations of how neural circuits and their cellular building blocks give rise to central nervous system (CNS) function. Teams must integrate expertise spanning molecular and cellular through systems neuroscience, with strong collaboration between experimental and computational investigators, to bridge cells, circuits, and behavior in a unified framework that yields mechanistic insight.Applications must explicitly connect three core elements: (1) characterization of circuit components (e.g., cell types and/or connectivity); (2) measurement of dynamic circuit activity, incorporating in vivo CNS recordings at cellular and sub-second temporal resolution; and (3) analyses of a tractable behavior or functional output.To address this significant challenge in neuroscience, proposed studies are expected to leverage innovative conceptual or theoretical frameworks, predictive models, and/or cutting-edge approaches that unify these three levels of analysis and bridge experimental and computational components.Recipients are expected to participate in BRAIN consortia activities to identify standards of practice towards multi-level integration.",
+  "title": "BRAIN Initiative: Integrative Team-Research BRAIN Circuits Program - iBCP (RM1 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360398"
+}

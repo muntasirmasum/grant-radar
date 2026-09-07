@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-10-02",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-10-03",
+  "grants_gov_id": 360947,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-068",
+  "open_date": "2026-09-02",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports \"mature\" resources at synchrotron facilities that provide user access to X-ray beamlines for static and dynamic imaging of biological systems ranging from molecules to organs. \"Mature\" refers to the techniques made available at the resource beamlines, which must be well established and provide utility to the communities they serve without requiring significant novel technology development. Applications may only request support for existing synchrotron resources that are currently supported by NIGMS funding. The facility is expected to be maintained or upgraded to current best practices, make its capabilities and availability known to the biomedical research community through outreach activities, and provide user training and support.This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Limited Competition: NIGMS Mature Synchrotron Resources (MSR) for Structural Biology (P30 - Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360947"
+}

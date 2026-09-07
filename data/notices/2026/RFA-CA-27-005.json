@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U19"
+  ],
+  "award_ceiling": "700000",
+  "clinical_trials": "Required",
+  "close_date": "2026-10-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-02",
+  "grants_gov_id": 360606,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-CA-27-005",
+  "open_date": "2026-09-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications for research on novel therapies for adult glioblastoma (GBM). The goal is to improve the treatment of adult GBM by developing novel effective agents that can cross the blood brain barrier (BBB) and testing them clinically. Successful early-stage trials of new drugs from this NOFO would transition seamlessly to later stage trials using well-established NCI clinical trial mechanisms.To implement this concept, a highly collaborative GBM Therapeutics Network (GTN) of cross-cutting teams will be established, each team capable of driving therapeutic agent(s) from pre-clinical development, through investigational new drugs (IND) studies, into pilot clinical studies in humans. Appropriate therapeutic agents include: (1) novel agents or (2) agents or combinations approved for other indications and repurposed for treatment of GBM following appropriate preclinical studies. The scope of the NOFO, from late pre-clinical through early (Phase 0/1) clinical studies, uniquely spans a gap in the GBM drug development process.",
+  "title": "Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360606"
+}

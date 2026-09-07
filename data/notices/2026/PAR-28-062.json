@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-01-26",
+  "grants_gov_id": 360393,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-062",
+  "open_date": "2026-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that invites applications from eligible organizations to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the applications will be peer-reviewed, and only meritorious applications will be considered for funding. This funding opportunity seeks to support the Cancer Advancement through Partnerships in Research and Infrastructure (CAPRI). The CAPRI Program establishes and strengthens comprehensive, mutually beneficial and meaningful partnerships between Resource Limited Institutions (RLIs) and NCI-designated Cancer Centers (CCs) to accelerate collaborative and innovative cancer. The Program achieves this by strategically building institutional capacity, advancing research capabilities, enhancing the impact of innovative cancer research, cultivating the next generation of Early-Stage Investigators and trainees, and implementing coordinated outreach and education initiatives that extend the benefits of research to all populations nationwide.",
+  "title": "Cancer Advancement through Partnerships in Research and Infrastructure (CAPRI) (U54 Clinical Trial Optional)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360393"
+}

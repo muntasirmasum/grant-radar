@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UG3",
+    "UH3"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2029-03-09",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-03-10",
+  "grants_gov_id": 360404,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-065",
+  "open_date": "2026-10-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated clinical trials to the National Institute of Neurological Disorders and Stroke (NINDS). These trials must address questions within the mission and research interests of the NINDS and may include studies of small molecules, biologics, devices as well as surgical, behavioral, diet-based, or rehabilitation therapies. Studies addressing neurological diseases and care across the lifespan are highly encouraged. This notice invites both early- and middle-phase exploratory clinical trials as well as later phase confirmatory Phase 3 or comparative effectiveness clinical trials.",
+  "title": "NINDS Efficacy and Exploratory Clinical Trials (UG3/UH3 - Clinical Trial Required)",
+  "topics": [
+    "cardiovascular",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360404"
+}

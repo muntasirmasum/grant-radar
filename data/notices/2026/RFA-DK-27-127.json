@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-09-30",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-10-01",
+  "grants_gov_id": 360674,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-27-127",
+  "open_date": "2026-08-31",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite applications for Centers within the NIDDK Cooperative Centers of Experimental in Hematology (CCEH) Program. Each Center will support one to three Biomedical Research Cores and an Administrative Core, including an Enrichment Program. Each Center is expected to work collaboratively with NIDDK, the Hematology Coordinating Center (HCC), and the other CCEH Centers. The CCEH Program is designed to increase access to critical research resources and expertise unique to nonmalignant hematology research. By providing innovative technology, resources, and expertise to the greater hematology research community, the program will serve as a national hub, aimed at recruiting and retaining both junior scientists just beginning their careers in the field as well as established investigators from other domains.",
+  "title": "Cooperative Centers for Experimental Hematology (CCEHs) (U54- Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360674"
+}

@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "X01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-04-17",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-04-18",
+  "grants_gov_id": 360554,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-051",
+  "open_date": "2026-09-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-09-01",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health seek to advance their mission by providing the scientific community with the opportunity to request access to biospecimens from the Adolescent Brain Cognitive DevelopmentSM (ABCD) Study, the HEALthy Brain and Child Development (HBCD) Study, and the Population Assessment of Tobacco and Health (PATH) Study to conduct research consistent with the respective study objectives that will maximize the scientific utility of these limited samples. Applications should expand the knowledge gained from these studies and advance our understanding of the multiple genetic and environmental factors, such as exposure to substances, that affect health and disease over the course of a lifetime.",
+  "title": "NIH Brain Development Cohorts (NBDC) and&nbsp;Population Assessment of Tobacco and Health (PATH) Study&nbsp;Biospecimen Access (X01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "epidemiology"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/360554"
+}

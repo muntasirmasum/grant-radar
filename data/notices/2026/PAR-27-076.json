@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "SI2",
+    "R00"
+  ],
+  "award_ceiling": "499000",
+  "award_floor": "499000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-07-07",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2028-07-08",
+  "grants_gov_id": 361187,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-076",
+  "open_date": "2026-10-06",
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-08-31",
+  "source": "nih",
+  "synopsis": "This NOFO encourages applications for the Lasker Clinical Research Scholars Program. The program supports the research activities of clinical researchers during the early stages of their independent careers as they work to improve human health. The program offers the opportunity for a unique bridge between the NIH intramural and extramural research communities and contains two phases. In the first phase, Lasker Scholars will receive appointments for up to 5-7 years as tenure-track investigators within the NIH Intramural Research Program with independent research budgets. In the second phase, successful scholars will receive up to 3 years of NIH support for their research at an extramural research institute, or can remain as an investigator within the intramural program.",
+  "title": "Lasker Clinical Research Scholar's Program (Si2/R00 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-07T00:43:28Z",
+  "url": "https://www.grants.gov/search-results-detail/361187"
+}
