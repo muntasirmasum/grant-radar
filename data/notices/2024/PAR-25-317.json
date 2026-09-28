@@ -3,20 +3,20 @@
     "R01"
   ],
   "clinical_trials": "Optional",
-  "close_date": "2027-05-08",
+  "close_date": "2027-03-06",
   "doctype": "PAR",
   "due_dates": [
     {
-      "date": "2027-05-07",
+      "date": "2027-03-05",
       "label": "Last application receipt"
     }
   ],
-  "expiration_date": "2027-05-08",
+  "expiration_date": "2027-03-06",
   "grants_gov_id": 357713,
   "issuing_orgs": [
     "National Institute on Minority Health and Health Disparities"
   ],
-  "next_due_date": "2027-05-07",
+  "next_due_date": "2027-03-05",
   "nih_file_listed": true,
   "notice_id": "PAR-25-317",
   "open_date": "2025-01-05",
@@ -30,6 +30,6 @@
     "clinical_trials",
     "health_disparities"
   ],
-  "updated_at": "2026-08-01T05:09:13Z",
+  "updated_at": "2026-09-28T01:25:44Z",
   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-317.html"
 }

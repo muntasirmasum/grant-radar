@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "600000",
+  "clinical_trials": "Optional",
+  "close_date": "2029-11-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-11-06",
+  "grants_gov_id": 361275,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-056",
+  "open_date": "2027-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-09-25",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), NCI solicits applications for the Research Units (RUs), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC), to conduct research on early detection of pancreatic ductal adenocarcinoma (PDAC) and characterization of its precursor lesions to identify patients who are at high risk of progression to cancer. The PCDC will continue to address one of the four research priorities identified in the NCI's 2014 Scientific Framework for Pancreatic Ductal Adenocarcinoma (PDAC). The PCDC will support research for the development and testing of new molecular and imaging biomarkers for detecting PDAC early and for identifying patients at high risk of PDAC (because of genetic factors, family history and/or the presence of precursor lesions) who could be candidates for early intervention. The PCDC-RUs will consist of multi-disciplinary teams and will undertake studies to: identify and test biomarkers measurable in bodily fluids for early detection of PDAC and/or its precursor lesions; develop molecular- and/or imaging-based markers of pancreatic cysts and determine which lesions are likely to progress to cancer; develop molecular- and/or imaging-based approaches for screening populations at high risk of PDAC; use machine learning and computational approaches towards biomarker discovery and/or validation; and conduct biomarker validation studies. The PCDC-RUs will also collect longitudinal biospecimens for building a biorepository. Each PCDC-RU is expected to participate in collaborative activities with other PCDC-RUs and share ideas, biospecimens, and data within the Consortium.",
+  "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-09-28T01:25:44Z",
+  "url": "https://www.grants.gov/search-results-detail/361275"
+}

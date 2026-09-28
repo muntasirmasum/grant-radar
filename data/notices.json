@@ -1,6 +1,202 @@
 {
- "generated_at": "2026-09-21T00:52:25Z",
+ "generated_at": "2026-09-28T01:25:44Z",
  "items": [
+  {
+   "notice_id": "PAR-28-056",
+   "source": "nih",
+   "doctype": "PAR",
+   "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
+   "release_date": "2026-09-25",
+   "open_date": "2027-01-05",
+   "expiration_date": "2029-11-06",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "U01"
+   ],
+   "primary_ic": "NCI",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361275",
+   "nih_file_listed": false,
+   "clinical_trials": "Optional",
+   "updated_at": "2026-09-28T01:25:44Z",
+   "grants_gov_id": 361275,
+   "award_ceiling": "600000",
+   "close_date": "2029-11-05",
+   "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials",
+    "data_science_ai"
+   ],
+   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), NCI solicits applications for the Research Units (RUs), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC), to conduct research on early detection of pancreatic ductal adenocarcinoma (PDAC) and characterization of its precursor lesions to identify patients who are at high risk of progression to cancer. The…"
+  },
+  {
+   "notice_id": "PAR-28-057",
+   "source": "nih",
+   "doctype": "PAR",
+   "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
+   "release_date": "2026-09-25",
+   "open_date": "2026-12-25",
+   "expiration_date": "2027-05-26",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "U24"
+   ],
+   "primary_ic": "NCI",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361276",
+   "nih_file_listed": false,
+   "clinical_trials": "Not_Allowed",
+   "updated_at": "2026-09-28T01:25:44Z",
+   "grants_gov_id": 361276,
+   "award_ceiling": "500000",
+   "close_date": "2027-05-25",
+   "topics": [
+    "cancer",
+    "clinical_trials"
+   ],
+   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) is soliciting applications for the establishment of the Management and Data Coordination Unit (MDCU), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC). The PCDC will continue to address one of the four research priorities identified in the National Cancer Institute's…"
+  },
+  {
+   "notice_id": "PAR-28-072",
+   "source": "nih",
+   "doctype": "PAR",
+   "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
+   "release_date": "2026-09-25",
+   "open_date": "2027-01-16",
+   "expiration_date": "2029-11-17",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "R61",
+    "R33"
+   ],
+   "primary_ic": "NEI",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Eye Institute"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/360545",
+   "nih_file_listed": false,
+   "clinical_trials": "Not_Allowed",
+   "updated_at": "2026-09-28T01:25:44Z",
+   "grants_gov_id": 360545,
+   "close_date": "2029-11-16",
+   "topics": [
+    "clinical_trials"
+   ],
+   "synopsis_truncated": "The purpose of NEI's Translational Research program (TRP) is the rapid and efficient translation of innovative laboratory research findings into therapeutics for use by clinicians to treat visual system diseases or disorders. The TRP will support the product development of biological, pharmaceutical, medical device, and/or combination therapies for any disease or disorder of the visual system.The…"
+  },
+  {
+   "notice_id": "NOT-GM-27-001",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of Informational Webinar on the NIGMS Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program",
+   "release_date": "2026-09-24",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIGMS",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-001.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-09-28T01:25:44Z",
+   "topics": [
+    "training_and_career"
+   ],
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-MD-27-001",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of Early Expiration of PAR-25-317 \"Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)\"",
+   "release_date": "2026-09-24",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIMHD",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute on Minority Health and Health Disparities"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MD-27-001.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-09-28T01:25:44Z",
+   "topics": [
+    "clinical_trials"
+   ],
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "RFA-OD-27-009",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
+   "release_date": "2026-09-24",
+   "open_date": "2026-10-10",
+   "expiration_date": "2026-11-11",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "SB0"
+   ],
+   "primary_ic": "OD",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "Office of the Director"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/362965",
+   "nih_file_listed": false,
+   "clinical_trials": "Optional",
+   "updated_at": "2026-09-28T01:25:44Z",
+   "grants_gov_id": 362965,
+   "close_date": "2026-11-10",
+   "topics": [
+    "clinical_trials",
+    "infrastructure"
+   ],
+   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) announces the renewal of the NIH Research Evaluation and Commercialization Hub (REACH) program, established to facilitate and accelerate the translation of academic biomedical discoveries into products that improve patient care and public health. Through this program, NIH will provide the qualifying institutions with the funds to seed the creation of…"
+  },
+  {
+   "notice_id": "NOT-OD-27-001",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Request for Information on Feasibility of Annual Reporting of Live Vertebrate Animal Numbers",
+   "release_date": "2026-09-21",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "OD",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "Office of the Director"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-001.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-09-28T01:25:44Z",
+   "synopsis_truncated": null
+  },
   {
    "activity_codes": [],
    "clinical_trials": null,
@@ -10791,43 +10987,6 @@
   },
   {
    "activity_codes": [
-    "T32"
-   ],
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 357710,
-   "issuing_orgs": [
-    "National Institute on Aging"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-247",
-   "open_date": "2025-04-25",
-   "parent_ic": "NIH",
-   "primary_ic": "NIA",
-   "release_date": "2024-12-13",
-   "source": "nih",
-   "title": "Institutional Training Programs to Advance Translational Research on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) (T32 Clinical Trial Not Allowed)",
-   "topics": [
-    "aging",
-    "clinical_trials",
-    "data_science_ai",
-    "training_and_career"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-247.html",
-   "synopsis_truncated": "The specific purpose of this Notice of Funding Opportunity (NOFO) is to promote the development of a diverse, interdisciplinary workforce needed to conduct translational research on Alzheimer's disease and Alzheimer's-related dementias from target discovery through clinical development. This NOFO will support institutional training programs for predoctoral and postdoctoral level researchers with…"
-  },
-  {
-   "activity_codes": [
     "U01"
    ],
    "clinical_trials": "Not_Allowed",
@@ -10866,20 +11025,20 @@
     "R01"
    ],
    "clinical_trials": "Optional",
-   "close_date": "2027-05-08",
+   "close_date": "2027-03-06",
    "doctype": "PAR",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-03-05"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-03-06",
    "grants_gov_id": 357713,
    "issuing_orgs": [
     "National Institute on Minority Health and Health Disparities"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-03-05",
    "nih_file_listed": true,
    "notice_id": "PAR-25-317",
    "open_date": "2025-01-05",
@@ -10892,7 +11051,7 @@
     "clinical_trials",
     "health_disparities"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-09-28T01:25:44Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-317.html",
    "synopsis_truncated": "The purpose of this initiative is to advance the science of minority health and health disparities by supporting research on family health and well-being and resilience. The NIMHD Research Framework recognizes family health, family well-being, and family resilience as critically important areas of research to decrease disparities and promote equity."
   },
@@ -16279,42 +16438,6 @@
   },
   {
    "activity_codes": [
-    "S15"
-   ],
-   "award_ceiling": "350000",
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 355855,
-   "issuing_orgs": [
-    "ORIP"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-259",
-   "open_date": "2024-08-26",
-   "parent_ic": "NIH",
-   "primary_ic": "ORIP",
-   "release_date": "2024-08-02",
-   "source": "nih",
-   "title": "Modern Equipment for Shared-use Biomedical Research Facilities: Advancing Research-Related Operations (S15 Clinical Trial Not Allowed)",
-   "topics": [
-    "clinical_trials",
-    "infrastructure"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-259.html",
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) invites eligible academic or research institutions to apply for funding support to purchase latest scientific equipment that will enhance and modernize research-supporting operations of existing shared biomedical research facilities. Targeted are laboratory research core facilities, animal research facilities, and other similar shared-use research spaces…"
-  },
-  {
-   "activity_codes": [
     "R01"
    ],
    "clinical_trials": "Optional",
@@ -17296,41 +17419,6 @@
   },
   {
    "activity_codes": [
-    "R24"
-   ],
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 352947,
-   "issuing_orgs": [
-    "ORIP"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-167",
-   "open_date": "2024-08-25",
-   "parent_ic": "NIH",
-   "primary_ic": "ORIP",
-   "release_date": "2024-03-13",
-   "source": "nih",
-   "title": "Utilizing Equipment to Study Environmental Extrinsic Factors and Enhance Rigor and Reproducibility of Animal Research (R24, Clinical Trials Not-Allowed)",
-   "topics": [
-    "clinical_trials",
-    "infrastructure"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-167.html",
-   "synopsis_truncated": "The Office of Research Infrastructure Programs (ORIP) invites grant applications from core facilities, resource centers, animal vivaria, or individual investigators of other shared resources to systematically study the roles of critical environmental extrinsic factors in biological, behavioral, and treatment studies using animal model species, with the objective of enhancing the rigor and…"
-  },
-  {
-   "activity_codes": [
     "T32"
    ],
    "clinical_trials": "Not_Allowed",
@@ -17540,41 +17628,6 @@
   },
   {
    "activity_codes": [
-    "U42"
-   ],
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 351920,
-   "issuing_orgs": [
-    "ORIP"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-129",
-   "open_date": "2024-04-07",
-   "parent_ic": "NIH",
-   "primary_ic": "ORIP",
-   "release_date": "2024-01-22",
-   "source": "nih",
-   "title": "Limited Competition: Specific Pathogen Free Macaque Colonies to Support HIV/AIDS Research (U42 Clinical Trial Not Allowed)",
-   "topics": [
-    "clinical_trials",
-    "infectious_disease"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-129.html",
-   "synopsis_truncated": "The purpose of this Notice of Funding Opportunity (NOFO) is to provide continuing support for specific pathogen-free (SPF) macaque colonies previously funded under the auspices of PAR-21-089 and PAR-18-669 that support Human Immunodeficiency Virus (HIV)/Acquired Immunodeficiency Syndrome (AIDS) research. Breeding colonies are essential to sustain appropriate SPF macaques for research related to…"
-  },
-  {
-   "activity_codes": [
     "RM1"
    ],
    "award_ceiling": "1500000",
@@ -17650,41 +17703,6 @@
   },
   {
    "activity_codes": [
-    "R24"
-   ],
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 351234,
-   "issuing_orgs": [
-    "National Institute on Alcohol Abuse and Alcoholism"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-071",
-   "open_date": "2023-12-25",
-   "parent_ic": "NIH",
-   "primary_ic": "NIAAA",
-   "release_date": "2023-11-30",
-   "source": "nih",
-   "title": "Alcohol Research-Related Resource Award (R24 Clinical Trial Not Allowed)",
-   "topics": [
-    "clinical_trials",
-    "substance_use"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-071.html",
-   "synopsis_truncated": "The purpose of the Resource-Related Research Projects (R24) grant is to support investigator-initiated resources designed to provide materials and services to support and advance biomedical research on a national basis. An R24 resource grant mechanism is a non-hypothesis-driven activity to provide data, materials, tools, or services that are essential to making timely, high quality, and…"
-  },
-  {
-   "activity_codes": [
     "332"
    ],
    "clinical_trials": "Optional",
@@ -17716,43 +17734,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-23-317.html",
    "synopsis_truncated": "The National Institutes of Health (NIH) hereby notifies NIH award recipients that funds may be available for revision applications to support the expansion of existing projects and/or programs within the awarding IC identified in the competitive revision Notice of Special Interest (NOSI). Applications for Revisions will be evaluated for scientific and technical merit by (an) appropriate…"
-  },
-  {
-   "activity_codes": [
-    "P01"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 351057,
-   "issuing_orgs": [
-    "National Heart, Lung, and Blood Institute"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-065",
-   "open_date": "2023-12-25",
-   "parent_ic": "NIH",
-   "primary_ic": "NHLBI",
-   "release_date": "2023-11-20",
-   "source": "nih",
-   "title": "NHLBI Program Project Applications (P01 Clinical Trials Optional)",
-   "topics": [
-    "aging",
-    "clinical_trials",
-    "health_disparities",
-    "implementation_science"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-065.html",
-   "synopsis_truncated": "The National Heart, Lung, and Blood Institute (NHLBI) Program Project Grant (P01) supports research related to fundamental processes and diseases of the heart, blood and lymphatic vessels, lungs, and blood, including transfusion medicine, blood resources, and sleep disorders other programs including implementation science, health disparities, and translation research that address the mission of…"
   },
   {
    "activity_codes": [
@@ -17832,40 +17813,6 @@
   },
   {
    "activity_codes": [
-    "T32"
-   ],
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 350485,
-   "issuing_orgs": [
-    "National Institute of General Medical Sciences"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-23-228",
-   "open_date": "2023-12-25",
-   "parent_ic": "NIH",
-   "primary_ic": "NIGMS",
-   "release_date": "2023-10-05",
-   "source": "nih",
-   "title": "National Institute of General Medical Sciences Predoctoral Basic Biomedical Sciences Research Training Program (T32)",
-   "topics": [
-    "training_and_career"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-228.html",
-   "synopsis_truncated": "The goal of the NIGMS Predoctoral Basic Biomedical Sciences Research Training Program is to develop a pool of well-trained scientists available to address the Nations biomedical research agenda. Specifically, this funding opportunity announcement provides support to eligible, domestic institutions to develop and implement effective, evidence-informed approaches to biomedical graduate training and…"
-  },
-  {
-   "activity_codes": [
     "U24"
    ],
    "clinical_trials": "Not_Allowed",
@@ -17892,43 +17839,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-FD-24-001.html",
    "synopsis_truncated": null
-  },
-  {
-   "activity_codes": [
-    "P50"
-   ],
-   "clinical_trials": "Required",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 350299,
-   "issuing_orgs": [
-    "National Cancer Institute"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-23-284",
-   "open_date": "2023-12-25",
-   "parent_ic": "NIH",
-   "primary_ic": "NCI",
-   "release_date": "2023-09-22",
-   "source": "nih",
-   "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2024, 2025, and 2026 (P50 Clinical Trial Required)",
-   "topics": [
-    "behavioral_intervention",
-    "cancer",
-    "clinical_trials",
-    "health_disparities"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-284.html",
-   "synopsis_truncated": "Through this funding opportunity announcement (FOA), the National Cancer Institute (NCI) invites applications for P50 Research Center Grants for Specialized Programs of Research Excellence (SPORE). The program will fund P50 SPORE grants to support state-of-the-art investigator-initiated translational research that will contribute to improved prevention, early detection, diagnosis, and treatment…"
   },
   {
    "activity_codes": [
@@ -17967,40 +17877,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-OH-24-001.html",
    "synopsis_truncated": "NIOSH is encouraging the submission of an application from qualified organizations for a National Center for Construction Safety and Health Research and Translation. Applicants are encouraged to propose multidisciplinary approaches and coordination for impactful applied and intervention research, hazard identification, and controls; develop partnerships for implementing prevention and…"
-  },
-  {
-   "activity_codes": [
-    "P51"
-   ],
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-25",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-25",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-26",
-   "grants_gov_id": 348407,
-   "issuing_orgs": [
-    "ORIP"
-   ],
-   "next_due_date": "2026-09-25",
-   "nih_file_listed": true,
-   "notice_id": "PAR-23-126",
-   "open_date": "2023-08-25",
-   "parent_ic": "NIH",
-   "primary_ic": "ORIP",
-   "release_date": "2023-05-26",
-   "source": "nih",
-   "title": "Limited Competition: National Primate Research Centers (P51) (Clinical Trials Not Allowed)",
-   "topics": [
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-23-126.html",
-   "synopsis_truncated": "This funding opportunity announcement (FOA) encourages grant applications that support the activities of the National Primate Research Centers (NPRCs). Nonhuman primates (NHPs) are most closely related to humans, both physiologically and genetically. Therefore, NHPs are critical animal models for basic and translational research aimed at understanding human biology, both in normal and diseased…"
   },
   {
    "activity_codes": [

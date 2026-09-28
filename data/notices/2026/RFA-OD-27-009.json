@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "SB0"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 362965,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-OD-27-009",
+  "open_date": "2026-10-10",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-09-24",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) announces the renewal of the NIH Research Evaluation and Commercialization Hub (REACH) program, established to facilitate and accelerate the translation of academic biomedical discoveries into products that improve patient care and public health. Through this program, NIH will provide the qualifying institutions with the funds to seed the creation of academic entrepreneurship Hubs. Hubs will be responsible for providing innovators with both the initial investment and resources to support the proof-of-concept work and the mentorship in product development and commercialization needed to develop high priority technologies within the NIH's mission. Funded Hubs are intended to work as a consortium to enable: (1) the infrastructure for identifying the most promising technologies, (2) funding for product definition studies (e.g. feasibility studies, prototype development, proof-of-concept studies) provided to individual researchers, (3) access to resources and expertise in areas required for early stage technology development (including scientific, regulatory, reimbursement, business, legal, and project management), and (4) skills development and hands-on experience in entrepreneurship. Establishing public-private partnerships and providing additional non-federal funds will be critical for success. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite applications from eligible organizations to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-09-28T01:25:44Z",
+  "url": "https://www.grants.gov/search-results-detail/362965"
+}

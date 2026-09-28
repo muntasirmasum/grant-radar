@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2027-05-26",
+  "grants_gov_id": 361276,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-057",
+  "open_date": "2026-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-09-25",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) is soliciting applications for the establishment of the Management and Data Coordination Unit (MDCU), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC). The PCDC will continue to address one of the four research priorities identified in the National Cancer Institute's 2014 Scientific Framework for Pancreatic Ductal Adenocarcinoma and conduct research on early detection of pancreatic ductal adenocarcinoma (PDAC) and characterization of its precursor lesions to identify those patients who are at high risk of progression to cancer. The PCDC-MDCU will provide support towards collaborative efforts such as study design, protocol development, statistical analysis, coordination and data management. Other PCDC-MDCU activities include: coordination and support towards biorepository building; and organizational and logistics support for PCDC activities.",
+  "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-09-28T01:25:44Z",
+  "url": "https://www.grants.gov/search-results-detail/361276"
+}
