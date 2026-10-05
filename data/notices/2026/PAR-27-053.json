@@ -13,7 +13,7 @@
     "National Institute on Drug Abuse"
   ],
   "next_due_date": null,
-  "nih_file_listed": false,
+  "nih_file_listed": true,
   "notice_id": "PAR-27-053",
   "open_date": "2026-10-02",
   "parent_ic": "NIH",
@@ -26,6 +26,6 @@
     "clinical_trials",
     "substance_use"
   ],
-  "updated_at": "2026-09-07T00:43:28Z",
-  "url": "https://www.grants.gov/search-results-detail/361518"
+  "updated_at": "2026-10-05T01:39:37Z",
+  "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-053.html"
 }

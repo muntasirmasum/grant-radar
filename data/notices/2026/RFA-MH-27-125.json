@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R21",
+    "R33"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-10-28",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-10-29",
+  "grants_gov_id": 359657,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-MH-27-125",
+  "open_date": "2026-10-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-09-30",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to identify modifiable mechanisms and therapeutic targets to address central nervous system (CNS) complications associated with human immunodeficiency virus (HIV). The initiative supports a phased research approach beginning with the identification of patient phenotypes characterized by convergent pathophysiological features, followed by the discovery and experimental validation of molecular mechanisms using innovative in-vitro and in-vivo models. The goal of this NOFO is to advance therapeutic target, and intervention discovery to address the multifactorial and heterogeneous nature of HIV-associated CNS dysfunction.",
+  "title": "Mechanistic Evaluation of Therapeutic Targets derived from Treatable Traits to Improve CNS Outcomes in People with HIV (R21/R33 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-10-05T01:39:37Z",
+  "url": "https://www.grants.gov/search-results-detail/359657"
+}

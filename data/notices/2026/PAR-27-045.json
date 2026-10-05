@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-10-30",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2026-10-31",
+  "grants_gov_id": 361304,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-045",
+  "open_date": "2026-09-30",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2026-09-28",
+  "source": "nih",
+  "synopsis": "The NIH Helping to End Addiction Long-term ® (HEAL) Initiative is releasing this Notice of Funding Opportunity (NOFO) to support a phased mechanistic clinical research program focusing on understudied biological mechanisms that drive joint pain. The phased projects supported by this program (of up to five years total in duration) will first identify and validate multi-tissue mechanisms underlying joint pain, then test non-pharmacologic or multimodal interventions that directly target these mechanisms. The initiative responds to priorities identified in the 2023 HEAL Whole Joint Pain Workshop and supports the broader goals of the NIH HEAL Initiative and the Make America Healthy Again vision by advancing safe, non-addictive, and prevention-oriented approaches to chronic pain.",
+  "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-10-05T01:39:37Z",
+  "url": "https://www.grants.gov/search-results-detail/361304"
+}

@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-02-08",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2029-02-09",
+  "grants_gov_id": 360402,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-NS-28-010",
+  "open_date": "2027-01-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-09-30",
+  "source": "nih",
+  "synopsis": "This funding opportunity supports transformative, mechanistic research aimed at understanding how the human brain functions. Applications should seek to reveal how the dynamic activity of individual neurons and ensembles of neurons within spatially organized brain networks gives rise to internal experiences, such as sensations, perceptions, emotions, thoughts, and memories, as well as to observable motor and social behaviors. To achieve fundamental mechanistic insights into human brain function, proposed studies are expected to leverage opportunities made possible by invasive surgical procedures in humans, such as intracranial recording or stimulation. These investigations may be enhanced by incorporating complementary experimental models or systems that provide access to knowledge, techniques, or resources not otherwise available in human neuroscience research. Such integration is encouraged to strengthen the mechanistic understanding of human brain function and to connect discoveries across species and biological scales. This program builds on cutting-edge advances enabled by the BRAIN Initiative and the broader neuroscience community. Projects supported through this opportunity are expected to produce transformative outcomes by the end of the funding period. Approaches should be rigorous, mechanistic, and innovative by (1) maximizing opportunities to conduct innovative in vivo human neuroscience research made available by direct access to the human brain from invasive surgical procedures, (2) employing approaches guided by specified theoretical constructs and/or quantitative, mechanistic models. Funded investigators will join a consortium working group, coordinated by the NIH, to identify consensus standards of practice, including neuroethical considerations, to collect and provide data for ancillary studies, and to aggregate and standardize data for dissemination among the wider scientific community.",
+  "title": "BRAIN Initiative: Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-10-05T01:39:37Z",
+  "url": "https://www.grants.gov/search-results-detail/360402"
+}

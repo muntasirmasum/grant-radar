@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "award_ceiling": "3500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-05-28",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-05-29",
+  "grants_gov_id": 361050,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-28-031",
+  "open_date": "2027-04-28",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-10-02",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support multidisciplinary consortia of structural biologists, microbiologists, and associated experts to solve complex biological structures related to the prevention, treatment, and cure of HIV and other infectious diseases. Centers are expected to facilitate new collaborations, leverage shared resources, offer services and resources to the research community, and train the next generation of scientists engaged in structural biology of infectious diseases.",
+  "title": "Centers for Structural Biology of HIV and Other Infectious Diseases (U54 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-10-05T01:39:37Z",
+  "url": "https://www.grants.gov/search-results-detail/361050"
+}

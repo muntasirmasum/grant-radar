@@ -1,200 +1,372 @@
 {
- "generated_at": "2026-09-28T01:25:44Z",
+ "generated_at": "2026-10-05T01:39:37Z",
  "items": [
   {
-   "notice_id": "PAR-28-056",
+   "notice_id": "RFA-AI-28-031",
    "source": "nih",
-   "doctype": "PAR",
-   "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
-   "release_date": "2026-09-25",
-   "open_date": "2027-01-05",
-   "expiration_date": "2029-11-06",
+   "doctype": "RFA",
+   "title": "Centers for Structural Biology of HIV and Other Infectious Diseases (U54 Clinical Trial Not Allowed)",
+   "release_date": "2026-10-02",
+   "open_date": "2027-04-28",
+   "expiration_date": "2027-05-29",
    "due_dates": [],
    "next_due_date": null,
    "activity_codes": [
-    "U01"
+    "U54"
    ],
-   "primary_ic": "NCI",
+   "primary_ic": "NIAID",
    "parent_ic": "NIH",
    "issuing_orgs": [
-    "National Cancer Institute"
+    "National Institute of Allergy and Infectious Diseases"
    ],
-   "url": "https://www.grants.gov/search-results-detail/361275",
-   "nih_file_listed": false,
-   "clinical_trials": "Optional",
-   "updated_at": "2026-09-28T01:25:44Z",
-   "grants_gov_id": 361275,
-   "award_ceiling": "600000",
-   "close_date": "2029-11-05",
-   "topics": [
-    "aging",
-    "cancer",
-    "clinical_trials",
-    "data_science_ai"
-   ],
-   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), NCI solicits applications for the Research Units (RUs), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC), to conduct research on early detection of pancreatic ductal adenocarcinoma (PDAC) and characterization of its precursor lesions to identify patients who are at high risk of progression to cancer. The…"
-  },
-  {
-   "notice_id": "PAR-28-057",
-   "source": "nih",
-   "doctype": "PAR",
-   "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
-   "release_date": "2026-09-25",
-   "open_date": "2026-12-25",
-   "expiration_date": "2027-05-26",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "U24"
-   ],
-   "primary_ic": "NCI",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Cancer Institute"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/361276",
+   "url": "https://www.grants.gov/search-results-detail/361050",
    "nih_file_listed": false,
    "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-09-28T01:25:44Z",
-   "grants_gov_id": 361276,
-   "award_ceiling": "500000",
-   "close_date": "2027-05-25",
+   "updated_at": "2026-10-05T01:39:37Z",
+   "grants_gov_id": 361050,
+   "award_ceiling": "3500000",
+   "close_date": "2027-05-28",
    "topics": [
-    "cancer",
-    "clinical_trials"
+    "behavioral_intervention",
+    "clinical_trials",
+    "infectious_disease"
    ],
-   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) is soliciting applications for the establishment of the Management and Data Coordination Unit (MDCU), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC). The PCDC will continue to address one of the four research priorities identified in the National Cancer Institute's…"
+   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to support multidisciplinary consortia of structural biologists, microbiologists, and associated experts to solve complex biological structures related to the prevention, treatment, and cure of HIV and other infectious diseases. Centers are expected to facilitate new collaborations, leverage shared resources, offer services and resources…"
   },
   {
-   "notice_id": "PAR-28-072",
+   "notice_id": "NOT-CA-26-020",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of Change in Application Due Date for RFA-CA-27-005 \"Glioblastoma Therapeutics Network (GTN) (U19 Clinical Trial Required)\"",
+   "release_date": "2026-09-30",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NCI",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-020.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-10-05T01:39:37Z",
+   "topics": [
+    "clinical_trials"
+   ],
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "RFA-MH-27-125",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "Mechanistic Evaluation of Therapeutic Targets derived from Treatable Traits to Improve CNS Outcomes in People with HIV (R21/R33 Clinical Trial Not Allowed)",
+   "release_date": "2026-09-30",
+   "open_date": "2026-10-09",
+   "expiration_date": "2027-10-29",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "R21",
+    "R33"
+   ],
+   "primary_ic": "NIMH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/359657",
+   "nih_file_listed": false,
+   "clinical_trials": "Not_Allowed",
+   "updated_at": "2026-10-05T01:39:37Z",
+   "grants_gov_id": 359657,
+   "close_date": "2027-10-28",
+   "topics": [
+    "clinical_trials",
+    "infectious_disease"
+   ],
+   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to identify modifiable mechanisms and therapeutic targets to address central nervous system (CNS) complications associated with human immunodeficiency virus (HIV). The initiative supports a phased research approach beginning with the identification of patient phenotypes characterized by convergent pathophysiological features, followed by…"
+  },
+  {
+   "notice_id": "RFA-NS-28-010",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "BRAIN Initiative: Research Opportunities Using Invasive Neural Recording and Stimulating Technologies in the Human Brain (R01 Clinical Trial Not Allowed)",
+   "release_date": "2026-09-30",
+   "open_date": "2027-01-08",
+   "expiration_date": "2029-02-09",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "R01"
+   ],
+   "primary_ic": "NINDS",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/360402",
+   "nih_file_listed": false,
+   "clinical_trials": "Not_Allowed",
+   "updated_at": "2026-10-05T01:39:37Z",
+   "grants_gov_id": 360402,
+   "close_date": "2029-02-08",
+   "topics": [
+    "clinical_trials",
+    "implementation_science"
+   ],
+   "synopsis_truncated": "This funding opportunity supports transformative, mechanistic research aimed at understanding how the human brain functions. Applications should seek to reveal how the dynamic activity of individual neurons and ensembles of neurons within spatially organized brain networks gives rise to internal experiences, such as sensations, perceptions, emotions, thoughts, and memories, as well as to…"
+  },
+  {
+   "notice_id": "NOT-OD-26-131",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "NIH Operates Under a Continuing Resolution",
+   "release_date": "2026-09-28",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institutes of Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-131.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-10-05T01:39:37Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "PAR-27-045",
    "source": "nih",
    "doctype": "PAR",
-   "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
-   "release_date": "2026-09-25",
-   "open_date": "2027-01-16",
-   "expiration_date": "2029-11-17",
+   "title": "HEAL Initiative: Whole Joint Health Program (R61/R33 Clinical Trial Required)",
+   "release_date": "2026-09-28",
+   "open_date": "2026-09-30",
+   "expiration_date": "2026-10-31",
    "due_dates": [],
    "next_due_date": null,
    "activity_codes": [
     "R61",
     "R33"
    ],
-   "primary_ic": "NEI",
+   "primary_ic": "NCCIH",
    "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361304",
+   "nih_file_listed": false,
+   "clinical_trials": "Required",
+   "updated_at": "2026-10-05T01:39:37Z",
+   "grants_gov_id": 361304,
+   "close_date": "2026-10-30",
+   "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "substance_use"
+   ],
+   "synopsis_truncated": "The NIH Helping to End Addiction Long-term ® (HEAL) Initiative is releasing this Notice of Funding Opportunity (NOFO) to support a phased mechanistic clinical research program focusing on understudied biological mechanisms that drive joint pain. The phased projects supported by this program (of up to five years total in duration) will first identify and validate multi-tissue mechanisms underlying…"
+  },
+  {
+   "activity_codes": [
+    "U01"
+   ],
+   "award_ceiling": "600000",
+   "clinical_trials": "Optional",
+   "close_date": "2029-11-05",
+   "doctype": "PAR",
+   "due_dates": [],
+   "expiration_date": "2029-11-06",
+   "grants_gov_id": 361275,
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "PAR-28-056",
+   "open_date": "2027-01-05",
+   "parent_ic": "NIH",
+   "primary_ic": "NCI",
+   "release_date": "2026-09-25",
+   "source": "nih",
+   "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
+   "topics": [
+    "aging",
+    "cancer",
+    "clinical_trials",
+    "data_science_ai"
+   ],
+   "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://www.grants.gov/search-results-detail/361275",
+   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), NCI solicits applications for the Research Units (RUs), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC), to conduct research on early detection of pancreatic ductal adenocarcinoma (PDAC) and characterization of its precursor lesions to identify patients who are at high risk of progression to cancer. The…"
+  },
+  {
+   "activity_codes": [
+    "U24"
+   ],
+   "award_ceiling": "500000",
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2027-05-25",
+   "doctype": "PAR",
+   "due_dates": [],
+   "expiration_date": "2027-05-26",
+   "grants_gov_id": 361276,
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "PAR-28-057",
+   "open_date": "2026-12-25",
+   "parent_ic": "NIH",
+   "primary_ic": "NCI",
+   "release_date": "2026-09-25",
+   "source": "nih",
+   "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
+   "topics": [
+    "cancer",
+    "clinical_trials"
+   ],
+   "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://www.grants.gov/search-results-detail/361276",
+   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) is soliciting applications for the establishment of the Management and Data Coordination Unit (MDCU), one of the two scientific components of the Pancreatic Cancer Detection Consortium (PCDC). The PCDC will continue to address one of the four research priorities identified in the National Cancer Institute's…"
+  },
+  {
+   "activity_codes": [
+    "R61",
+    "R33"
+   ],
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2029-11-16",
+   "doctype": "PAR",
+   "due_dates": [],
+   "expiration_date": "2029-11-17",
+   "grants_gov_id": 360545,
    "issuing_orgs": [
     "National Eye Institute"
    ],
-   "url": "https://www.grants.gov/search-results-detail/360545",
+   "next_due_date": null,
    "nih_file_listed": false,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-09-28T01:25:44Z",
-   "grants_gov_id": 360545,
-   "close_date": "2029-11-16",
+   "notice_id": "PAR-28-072",
+   "open_date": "2027-01-16",
+   "parent_ic": "NIH",
+   "primary_ic": "NEI",
+   "release_date": "2026-09-25",
+   "source": "nih",
+   "title": "NEI Translational Research Program for Therapeutics (R61/R33 Clinical Trial Not Allowed)",
    "topics": [
     "clinical_trials"
    ],
+   "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://www.grants.gov/search-results-detail/360545",
    "synopsis_truncated": "The purpose of NEI's Translational Research program (TRP) is the rapid and efficient translation of innovative laboratory research findings into therapeutics for use by clinicians to treat visual system diseases or disorders. The TRP will support the product development of biological, pharmaceutical, medical device, and/or combination therapies for any disease or disorder of the visual system.The…"
   },
   {
-   "notice_id": "NOT-GM-27-001",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Notice of Informational Webinar on the NIGMS Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program",
-   "release_date": "2026-09-24",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
    "activity_codes": [],
-   "primary_ic": "NIGMS",
-   "parent_ic": "NIH",
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
    "issuing_orgs": [
     "National Institute of General Medical Sciences"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-001.html",
+   "next_due_date": null,
    "nih_file_listed": true,
-   "clinical_trials": null,
-   "updated_at": "2026-09-28T01:25:44Z",
+   "notice_id": "NOT-GM-27-001",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIGMS",
+   "release_date": "2026-09-24",
+   "source": "nih",
+   "title": "Notice of Informational Webinar on the NIGMS Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program",
    "topics": [
     "training_and_career"
    ],
+   "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-001.html",
    "synopsis_truncated": null
   },
   {
-   "notice_id": "NOT-MD-27-001",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Notice of Early Expiration of PAR-25-317 \"Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)\"",
-   "release_date": "2026-09-24",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
    "activity_codes": [],
-   "primary_ic": "NIMHD",
-   "parent_ic": "NIH",
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
    "issuing_orgs": [
     "National Institute on Minority Health and Health Disparities"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MD-27-001.html",
+   "next_due_date": null,
    "nih_file_listed": true,
-   "clinical_trials": null,
-   "updated_at": "2026-09-28T01:25:44Z",
+   "notice_id": "NOT-MD-27-001",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIMHD",
+   "release_date": "2026-09-24",
+   "source": "nih",
+   "title": "Notice of Early Expiration of PAR-25-317 \"Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)\"",
    "topics": [
     "clinical_trials"
    ],
+   "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MD-27-001.html",
    "synopsis_truncated": null
   },
   {
-   "notice_id": "RFA-OD-27-009",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
-   "release_date": "2026-09-24",
-   "open_date": "2026-10-10",
-   "expiration_date": "2026-11-11",
-   "due_dates": [],
-   "next_due_date": null,
    "activity_codes": [
     "SB0"
    ],
-   "primary_ic": "OD",
-   "parent_ic": "NIH",
+   "clinical_trials": "Optional",
+   "close_date": "2026-11-10",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2026-11-11",
+   "grants_gov_id": 362965,
    "issuing_orgs": [
     "Office of the Director"
    ],
-   "url": "https://www.grants.gov/search-results-detail/362965",
+   "next_due_date": null,
    "nih_file_listed": false,
-   "clinical_trials": "Optional",
-   "updated_at": "2026-09-28T01:25:44Z",
-   "grants_gov_id": 362965,
-   "close_date": "2026-11-10",
+   "notice_id": "RFA-OD-27-009",
+   "open_date": "2026-10-10",
+   "parent_ic": "NIH",
+   "primary_ic": "OD",
+   "release_date": "2026-09-24",
+   "source": "nih",
+   "title": "Limited Competition: NIH Research Evaluation and Commercialization Hubs (REACH) (SB0 Clinical Trial Optional)",
    "topics": [
     "clinical_trials",
     "infrastructure"
    ],
+   "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://www.grants.gov/search-results-detail/362965",
    "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) announces the renewal of the NIH Research Evaluation and Commercialization Hub (REACH) program, established to facilitate and accelerate the translation of academic biomedical discoveries into products that improve patient care and public health. Through this program, NIH will provide the qualifying institutions with the funds to seed the creation of…"
   },
   {
-   "notice_id": "NOT-OD-27-001",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Request for Information on Feasibility of Annual Reporting of Live Vertebrate Animal Numbers",
-   "release_date": "2026-09-21",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
    "activity_codes": [],
-   "primary_ic": "OD",
-   "parent_ic": "NIH",
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
    "issuing_orgs": [
     "Office of the Director"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-001.html",
+   "next_due_date": null,
    "nih_file_listed": true,
-   "clinical_trials": null,
+   "notice_id": "NOT-OD-27-001",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "OD",
+   "release_date": "2026-09-21",
+   "source": "nih",
+   "title": "Request for Information on Feasibility of Annual Reporting of Live Vertebrate Animal Numbers",
    "updated_at": "2026-09-28T01:25:44Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-001.html",
    "synopsis_truncated": null
   },
   {
@@ -699,7 +871,7 @@
     "National Institute on Drug Abuse"
    ],
    "next_due_date": null,
-   "nih_file_listed": false,
+   "nih_file_listed": true,
    "notice_id": "PAR-27-053",
    "open_date": "2026-10-02",
    "parent_ic": "NIH",
@@ -711,8 +883,8 @@
     "clinical_trials",
     "substance_use"
    ],
-   "updated_at": "2026-09-07T00:43:28Z",
-   "url": "https://www.grants.gov/search-results-detail/361518",
+   "updated_at": "2026-10-05T01:39:37Z",
+   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-053.html",
    "synopsis_truncated": "This notice of funding opportunity (NOFO) uses a R61/R33 Phased Innovation Award activity code to support clinical research applications that are exploratory and developmental in nature and focus on understanding the neurobiological mechanisms underlying substance use disorders (SUD), including fundamental circuitry and behavior relevant to substance use. For projects not requiring a phased…"
   },
   {
@@ -3867,7 +4039,7 @@
     "National Institute on Aging"
    ],
    "next_due_date": null,
-   "nih_file_listed": false,
+   "nih_file_listed": true,
    "notice_id": "PAR-27-078",
    "open_date": "2026-06-10",
    "parent_ic": "NIH",
@@ -3878,8 +4050,8 @@
    "topics": [
     "clinical_trials"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://www.grants.gov/search-results-detail/359733",
+   "updated_at": "2026-10-05T01:39:37Z",
+   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-27-078.html",
    "synopsis_truncated": "The purpose of the Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools is to support small scale research grants at institutions that do not receive substantial funding from the NIH, with an emphasis on providing biomedical research experiences primarily for health professional, undergraduate and graduate students and enhancing the research environment…"
   },
   {
@@ -8651,42 +8823,6 @@
   },
   {
    "activity_codes": [
-    "P50"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-10-03",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-10-02",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-10-03",
-   "grants_gov_id": 358863,
-   "issuing_orgs": [
-    "National Institute on Deafness and Other Communication Disorders"
-   ],
-   "next_due_date": "2026-10-02",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-445",
-   "open_date": "2025-10-04",
-   "parent_ic": "NIH",
-   "primary_ic": "NIDCD",
-   "release_date": "2025-09-15",
-   "source": "nih",
-   "title": "NIDCD Clinical Research Center Grant (P50 Clinical Trial Optional)",
-   "topics": [
-    "behavioral_intervention",
-    "clinical_trials",
-    "epidemiology"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-445.html",
-   "synopsis_truncated": "The National Institute on Deafness and Other Communication Disorders (NIDCD) invites applications for Clinical Research Center Grants designed to advance the diagnosis, prevention, treatment, and amelioration of human sensory and communication disorders. For this announcement, Clinical Research is defined as research involving individuals with a sensory and/or communication disorder, or…"
-  },
-  {
-   "activity_codes": [
     "UG3",
     "UH3"
    ],
@@ -10132,78 +10268,6 @@
   },
   {
    "activity_codes": [
-    "U01"
-   ],
-   "award_ceiling": "500000",
-   "clinical_trials": "Required",
-   "close_date": "2026-10-01",
-   "doctype": "RFA",
-   "due_dates": [
-    {
-     "date": "2026-10-01",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-10-02",
-   "grants_gov_id": 358021,
-   "issuing_orgs": [
-    "National Institute on Deafness and Other Communication Disorders"
-   ],
-   "next_due_date": "2026-10-01",
-   "nih_file_listed": true,
-   "notice_id": "RFA-DC-25-003",
-   "open_date": "2025-05-03",
-   "parent_ic": "NIH",
-   "primary_ic": "NIDCD",
-   "release_date": "2025-01-06",
-   "source": "nih",
-   "title": "Cooperative Agreement for In Vivo High-Resolution Imaging for Inner Ear Visualization (U01 Clinical Trial Required)",
-   "topics": [
-    "aging",
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-25-003.html",
-   "synopsis_truncated": "This funding opportunity aims to support high risk clinical trials for the development of in vivo high-resolution structural and functional imaging technologies for the living human inner ear. Proposed projects should focus on improving the resolution of current imaging techniques or developing new imaging techniques that can visualize inner ear structures in vivo with significantly greater…"
-  },
-  {
-   "activity_codes": [
-    "R01"
-   ],
-   "award_ceiling": "500000",
-   "clinical_trials": "Optional",
-   "close_date": "2026-10-01",
-   "doctype": "RFA",
-   "due_dates": [
-    {
-     "date": "2026-10-01",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-10-02",
-   "grants_gov_id": 358022,
-   "issuing_orgs": [
-    "National Institute on Deafness and Other Communication Disorders"
-   ],
-   "next_due_date": "2026-10-01",
-   "nih_file_listed": true,
-   "notice_id": "RFA-DC-25-005",
-   "open_date": "2025-05-03",
-   "parent_ic": "NIH",
-   "primary_ic": "NIDCD",
-   "release_date": "2025-01-06",
-   "source": "nih",
-   "title": "In Vivo High-Resolution Imaging for Inner Ear Visualization (R01 Clinical Trial optional)",
-   "topics": [
-    "aging",
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-25-005.html",
-   "synopsis_truncated": "This funding opportunity aims to support the development of in vivo high-resolution structural and functional imaging technologies for the living human inner ear. Proposed projects should focus on improving the resolution of current imaging techniques or developing new imaging techniques that can visualize inner ear structures in vivo with significantly greater detail and accuracy than currently…"
-  },
-  {
-   "activity_codes": [
     "T35"
    ],
    "clinical_trials": "Not_Allowed",
@@ -11029,8 +11093,8 @@
    "doctype": "PAR",
    "due_dates": [
     {
-     "label": "Last application receipt",
-     "date": "2027-03-05"
+     "date": "2027-03-05",
+     "label": "Last application receipt"
     }
    ],
    "expiration_date": "2027-03-06",
@@ -11161,41 +11225,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-346.html",
    "synopsis_truncated": "Through this engineering-oriented Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) intends to encourage submissions of exploratory/developmental Bioengineering Research Grant (EBRG) applications to demonstrate feasibility and potential utility of new capabilities or improvements in quality, speed, efficacy, operability, costs, and/or accessibility of solutions to problems…"
-  },
-  {
-   "activity_codes": [
-    "RC2"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-09-28",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-28",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-29",
-   "grants_gov_id": 357634,
-   "issuing_orgs": [
-    "National Center for Advancing Translational Sciences"
-   ],
-   "next_due_date": "2026-09-28",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-156",
-   "open_date": "2025-02-13",
-   "parent_ic": "NIH",
-   "primary_ic": "NCATS",
-   "release_date": "2024-12-10",
-   "source": "nih",
-   "title": "Limited Competition: High Impact Specialized Innovation Programs in Clinical and Translational Science  (RC2 Clinical Trials Optional)",
-   "topics": [
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-156.html",
-   "synopsis_truncated": "The purpose of the High Impact Specialized Innovation Programs (SIPs) is to support the development and demonstration of unique hub capabilities, research platforms and/or resources to address in a timely manner critical gap areas and/or roadblocks in clinical and translational science at awarded UM1 Clinical and Translational Science Awards (CTSA) Program Hubs (PAR-24-272). Successful programs…"
   },
   {
    "activity_codes": [
@@ -14802,76 +14831,6 @@
   },
   {
    "activity_codes": [
-    "UG3",
-    "UH3"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-09-28",
-   "doctype": "RFA",
-   "due_dates": [
-    {
-     "date": "2026-09-28",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-29",
-   "grants_gov_id": 356981,
-   "issuing_orgs": [
-    "National Institute of Neurological Disorders and Stroke"
-   ],
-   "next_due_date": "2026-09-28",
-   "nih_file_listed": true,
-   "notice_id": "RFA-NS-25-021",
-   "open_date": "2024-12-28",
-   "parent_ic": "NIH",
-   "primary_ic": "NINDS",
-   "release_date": "2024-11-05",
-   "source": "nih",
-   "title": "BRAIN Initiative:  Next-Generation Devices for Recording and Modulation in the Human Central Nervous System (UG3/UH3 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-25-021.html",
-   "synopsis_truncated": "The purpose of this announcement is to encourage investigators to pursue translational activities and small clinical studies to advance the development of therapeutic, and diagnostic devices for disorders that affect the nervous or neuromuscular systems. Activities supported in this program include implementation of clinical prototype devices, non-clinical safety and efficacy testing, design…"
-  },
-  {
-   "activity_codes": [
-    "UH3"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-09-28",
-   "doctype": "RFA",
-   "due_dates": [
-    {
-     "date": "2026-09-28",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-29",
-   "grants_gov_id": 356982,
-   "issuing_orgs": [
-    "National Institute of Neurological Disorders and Stroke"
-   ],
-   "next_due_date": "2026-09-28",
-   "nih_file_listed": true,
-   "notice_id": "RFA-NS-25-022",
-   "open_date": "2024-12-28",
-   "parent_ic": "NIH",
-   "primary_ic": "NINDS",
-   "release_date": "2024-11-05",
-   "source": "nih",
-   "title": "BRAIN Initiative: Clinical Studies to Advance Next-Generation Devices for Recording and Modulation in the Human Central Nervous System (UH3 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-NS-25-022.html",
-   "synopsis_truncated": "The purpose of this announcement is to encourage investigators to pursue a small clinical trial to obtain critical information necessary to advance recording and/or stimulating devices to treat central nervous system disorders and better understand the human brain (e.g., Early Feasibility Study). Clinical studies supported may consist of acute or short-term procedures that are deemed…"
-  },
-  {
-   "activity_codes": [
     "R61",
     "R33"
    ],
@@ -16649,44 +16608,6 @@
   },
   {
    "activity_codes": [
-    "R25"
-   ],
-   "award_ceiling": "400000",
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-28",
-   "doctype": "RFA",
-   "due_dates": [
-    {
-     "date": "2026-09-28",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-29",
-   "grants_gov_id": 355297,
-   "issuing_orgs": [
-    "National Cancer Institute"
-   ],
-   "next_due_date": "2026-09-28",
-   "nih_file_listed": true,
-   "notice_id": "RFA-CA-24-026",
-   "open_date": "2024-08-27",
-   "parent_ic": "NIH",
-   "primary_ic": "NCI",
-   "release_date": "2024-07-09",
-   "source": "nih",
-   "title": "National Cancer Institute Youth Enjoy Science Research Education Program (R25 Clinical Trial Not Allowed)",
-   "topics": [
-    "cancer",
-    "clinical_trials",
-    "implementation_science",
-    "methods_and_statistics"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-CA-24-026.html",
-   "synopsis_truncated": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this R25 program is to encourage individuals who have not had substantial biomedical research experience, or who have the potential to significantly benefit from additional biomedical research experience to pursue further studies or careers in research. To…"
-  },
-  {
-   "activity_codes": [
     "U18"
    ],
    "award_ceiling": "1250000",
@@ -17521,42 +17442,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-159.html",
    "synopsis_truncated": "The purpose of the NIDCD Mentored Career Development Award for Postdoctorate Au.D./Ph.D. Audiologists (K01) is to support comprehensive and rigorous postdoctoral research and career development experiences in the biomedical, behavioral, or clinical sciences of promising Au.D./Ph.D. audiologists who have the potential to become productive, independent investigators in scientific health-related…"
-  },
-  {
-   "activity_codes": [
-    "R25"
-   ],
-   "award_ceiling": "499999",
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-09-29",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-09-29",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-09-30",
-   "grants_gov_id": 352282,
-   "issuing_orgs": [
-    "National Institute on Deafness and Other Communication Disorders"
-   ],
-   "next_due_date": "2026-09-29",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-127",
-   "open_date": "2024-05-14",
-   "parent_ic": "NIH",
-   "primary_ic": "NIDCD",
-   "release_date": "2024-02-09",
-   "source": "nih",
-   "title": "NIDCD's Mentored Research Education Pathway for Otolaryngology Residents and Medical Students (R25 - Clinical Trial Not Allowed)",
-   "topics": [
-    "clinical_trials",
-    "training_and_career"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-127.html",
-   "synopsis_truncated": "The NIH Research Education Program (R25) supports research education activities in the mission areas of the NIH. The overarching goal of this NIDCD R25 program is to support educational activities that help recruit individuals with specific specialty or disciplinary backgrounds to research careers in biomedical, behavioral and clinical sciences."
   },
   {
    "activity_codes": [
