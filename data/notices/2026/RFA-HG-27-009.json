@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "award_ceiling": "1500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-12-14",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-12-15",
+  "grants_gov_id": 359277,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-HG-27-009",
+  "open_date": "2026-11-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit applications to study the effects of genetic or environmental interactions on genomic variant impact. To accomplish this, interaction centers will first propose a research framework to investigate whether interactions with effects beyond additive are important modifiers of the impact of variants. Centers will apply their framework to experimentally test combinations for interactions and share their data as well as analyses through the Impact of Genomic Variation on Function (IGVF) portal and catalog. Centers will share their method for predicting the most important combinations for future testing. The rationale for this combination of research and resource work is the identification of a structure within the interaction landscape might result in better predictions of the most important interactions to test, leading to more effective variant testing, better understanding of genome-wide association studies (GWAS), and improved polygenic scores. As IGVF Consortium members, centers will work together to ensure all consortium resources are accessible to a wide variety of potential users. Centers are also expected to collaborate with other consortium components to coordinate assays, variants, and cell types, and to develop shared analysis strategies to meet consortium goals.",
+  "title": "Genomic Variant Interactions With Other Variants Or The Environment (UM1 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/359277"
+}

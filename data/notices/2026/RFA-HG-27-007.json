@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "award_ceiling": "2000000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-12-14",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-12-15",
+  "grants_gov_id": 358854,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-HG-27-007",
+  "open_date": "2026-11-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit applications to characterize genomic variation to assess the impact of individual variants on genome function. This will be accomplished by systematically perturbing variants or elements using one or more high-throughput methods; collecting data on the effects of variants in DNA, RNA, or protein-coding elements on molecular, cellular, or organismal phenotypes; and developing robust, reproducible, and portable data processing pipelines. Centers funded through this initiative will become a part of the Impact of Genomic Variation on Function (IGVF) Consortium. As consortium members, centers will work together to ensure all consortium resources are accessible to a wide variety of potential users. Centers are also expected to collaborate with other consortium components to coordinate assays, variants, and cell types, and to develop shared analysis strategies to meet consortium goals.",
+  "title": "Systematic Characterization of Genomic Variation to Assess Effects of Individual Variants on Genome Function and Phenotype (UM1 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/358854"
+}

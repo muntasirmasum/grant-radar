@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-08",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-09",
+  "grants_gov_id": 360562,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DA-28-013",
+  "open_date": "2027-01-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The National Institute on Drug Abuse (NIDA) invites applications to renew and expand the Collaboratory on Neural Ensembles and Used Substances (NExUS). NExUS is a collaborative research program to decode how substance use experiences and addictive neurobehavioral states are represented in the brain at the level of cell populations. This funding opportunity seeks applications that propose systematic and scalable methods to identify, map, and analyze groups of neurons that respond to used substances. The goal is to create a comprehensive, multimodal database and use it to test hypotheses about how specific neural population activity patterns relate to behavioral states associated with substance use and substance use disorders (SUD), including intoxication, craving, and dependence.",
+  "title": "Neural Ensembles &amp; Used Substances (NExUS) Collaboratory: Building a Multimodal Inventory of Cell Ensembles Encoding the Effects of Addictive Substances (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "methods_and_statistics",
+    "substance_use"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/360562"
+}

@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-OD-26-118",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-10-08",
+  "source": "nih",
+  "title": "Request for Information (RFI): Opportunities to Reduce Administrative Burden in NIH Extramural Research",
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-118.html"
+}

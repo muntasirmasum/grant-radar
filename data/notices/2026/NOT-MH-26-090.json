@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-MH-26-090",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-10-08",
+  "source": "nih",
+  "title": "Request for Information (RFI): Strategies to Advance RAPIDs and Real-World Evidence for Serious Mental Illnesses and Related Brain Disorders",
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-090.html"
+}

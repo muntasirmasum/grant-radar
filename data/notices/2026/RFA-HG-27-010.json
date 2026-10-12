@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "award_ceiling": "800000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-12-14",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-12-15",
+  "grants_gov_id": 359170,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-HG-27-010",
+  "open_date": "2026-11-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to solicit applications to develop, apply, and test predictive models and perform integrative analyses to determine the impact of genomic variation on genome function. Centers funded through this initiative will become a part of the Impact of Genomic Variation on Function (IGVF) Consortium. As consortium members, centers will work together to ensure all consortium resources are accessible to a wide variety of potential users. Centers also will collaborate with other consortium components to guide and optimize IGVF experimental design, to provide analytical expertise and support for consortium-wide efforts, and to develop and execute shared analysis strategies to meet consortium goals.",
+  "title": "Computational Modeling and Analysis of the Impact of Genomic Variation on Function (UM1, Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/359170"
+}

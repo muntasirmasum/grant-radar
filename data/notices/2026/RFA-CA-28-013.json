@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "award_ceiling": "700000",
+  "award_floor": "700000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-10",
+  "grants_gov_id": 360905,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-CA-28-013",
+  "open_date": "2027-01-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute invites applications to the Carcinogen Hazard Assessment Monographs Program (CHAMP) Initiative. NCI seeks meritorious proposals to critically and systematically evaluate the scientific evidence on carcinogenic hazards to humans. Identifying potential carcinogens is essential for guiding and advancing cancer research, as well as informing cancer control and prevention efforts.",
+  "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/360905"
+}

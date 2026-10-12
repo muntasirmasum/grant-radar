@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "K38"
+  ],
+  "award_ceiling": "6444000",
+  "award_floor": "2180000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2028-10-13",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-10-14",
+  "grants_gov_id": 359676,
+  "issuing_orgs": [
+    "National Heart, Lung, and Blood Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-HL-27-010",
+  "open_date": "2026-10-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NHLBI",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The purpose of the Stimulating Access to Research in Residency Transition Scholar (StARRTS) K38 Career Development program is to retain and support clinician-investigators who have successfully completed the Stimulating Access to Research in Residency (StARR) R38 Program ( RFA-HL-26-012 and previous NOFOs) as resident-investigators. Individuals who receive K38 grants described in this Notice of Funding Opportunity (NOFO) will be referred to as Transition Scholars. The intent of this NOFO is to provide Transition Scholars with opportunities for additional research and career development during subsequent clinical fellowships or early career faculty appointments (as defined in Section III. 3. Additional Information on Eligibility). It is anticipated that the StARRTS K38 program will provide a pathway to retain the newly-created pool of clinician-investigators generated through the StARR R38 program. Transition Scholars will receive support for continued research and career development opportunities in basic, clinical, and/or translational research, thereby providing enhanced potential to accelerate the transition to independent research careers. This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Limited Competition: Stimulating Access to Research in Residency Transition Scholar (StARRTS) (K38 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/359676"
+}

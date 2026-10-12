@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "RM1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-01-26",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-01-27",
+  "grants_gov_id": 360048,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DA-28-011",
+  "open_date": "2026-12-26",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-10-06",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) intends to renew the Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) research network. This renewed network will include several individual research projects supported by one central Coordination Center. The goal of the network is to test new and improved approaches for people who have both chronic pain (CP) and opioid use disorder (OUD). These approaches should lead to meaningful improvements in how health systems deliver care. The network will be part of the NIH’s Helping to End Addiction Long-term (HEAL®) Initiative to speed the development and implementation of scientific solutions to the national opioid public health crisis. The NIH HEAL Initiative will bolster research across NIH to (1) improve treatment and prevention of opioid misuse and OUD and (2) enhance pain management.",
+  "title": "HEAL Initiative: Integrative Management of Chronic Pain and OUD for Whole Recovery (IMPOWR): Research Centers (RM1 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "substance_use"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/360048"
+}

@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "4000000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-12-14",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-12-15",
+  "grants_gov_id": 358855,
+  "issuing_orgs": [
+    "National Human Genome Research Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-HG-27-008",
+  "open_date": "2026-11-14",
+  "parent_ic": "NIH",
+  "primary_ic": "NHGRI",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The National Human Genome Research Institute (NHGRI) is publishing a Notice of Funding Opportunity (NOFO) to solicit applications for the Impact of Genomic Variation on Function (IGVF) Data and Coordinating Center (DACC). The DACC will serve as the coordinating center for the IGVF Consortium and will be responsible for expanding and further developing a broadly accessible set of resources, including a data portal and a comprehensive and searchable catalog of measured and predicted variant impacts. The DACC will also seek input on the design of the catalog from the broader research community, organize and facilitate consortium activities, and seek opportunities to work with other programs and consortia. As a member of IGVF, the DACC will work with all consortium members to maximize the consortium's overall scientific impact and contribute to accelerating understanding of genomic variation.",
+  "title": "IGVF Data and Coordinating Center (U24 Clinical trials Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/358855"
+}

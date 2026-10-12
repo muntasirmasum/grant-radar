@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "R03"
+  ],
+  "award_ceiling": "100000",
+  "award_floor": "50000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-11",
+  "grants_gov_id": 361431,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-RM-27-024",
+  "open_date": "2026-10-10",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-10-08",
+  "source": "nih",
+  "synopsis": "The Common Fund Human Virome Program (HVP) aims to extensively and comprehensively characterize the \"healthy\" human virome (the collection of viruses that normally reside inside the human body without evidence of disease) and create tools, models, and methods that will enable an in-depth study of its variation and composition in relation to host factors and its influence on health and disease. The purpose of this NOFO is to support small pilot projects that extend the goals of the HVP, including further validating, improving, and complementing existing and newly developed tools from the HVP program by leveraging human specimens collected from the cohorts under the program; samples from animals to promote the refinement, utilization, and translation of these tools to better serve the goals of the HVP program; expanding existing cohorts and/or biospecimen sampling sites for virome characterization; developing tools, assays, and methods to study the human virome; and defining functional interactions between the human virome and host. These pilot projects will expand the HVP consortium, and collaboration across the HVP is expected. Applicants outside the current HVP are encouraged to apply and pilot projects should not overlap with existing HVP efforts (visit the Common Fund website for a list of funded research).",
+  "title": "Pilot Projects to Enhance the Human Virome Program (R03 Clinical Trials Not Allowed)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "epidemiology",
+    "methods_and_statistics"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/361431"
+}

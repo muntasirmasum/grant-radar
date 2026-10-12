@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-23",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-24",
+  "grants_gov_id": 359169,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-RM-27-016",
+  "open_date": "2026-10-23",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to support SenNet Discovery and Validation Centers (SenNet DVCs) as a core component of Stage 2 of the NIH Common Fund Cellular Senescence Network (SenNet). Building on Stage 1 resources, DVCs will define, refine, and validate tissue- and disease-relevant cellular senescence signatures (“senotypes”) and associated biomarkers, and will investigate their functional consequences in human health and disease. DVCs are expected to generate and contribute high-quality molecular, cellular, and spatial datasets (including relevant metadata and documentation) and to use complementary experimental systems, as appropriate, to validate senotypes/biomarkers and characterize responses to senescence-associated perturbations or senotherapeutic approaches. DVC applications should also propose goals and aims for SenNet consortium-wide organizational and outreach activities (SenNet OOC functions).",
+  "title": "Cellular Senescence Network (SenNet): Discovery, Validation Centers (UM1 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/359169"
+}

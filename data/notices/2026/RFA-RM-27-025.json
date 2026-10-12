@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2026-11-23",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-24",
+  "grants_gov_id": 361817,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-RM-27-025",
+  "open_date": "2026-10-23",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to support the SenNet Data Coordination and Integration Center (SenNet DCIC) as a core component of Stage 2 of the NIH Common Fund Cellular Senescence Network (SenNet). The DCIC will enable timely, high-quality submission, harmonization, integration, and broad dissemination of SenNet-generated data and associated resources by developing and implementing consortium-wide policies, standards, and workflows for data formats, metadata, quality control, and release. The DCIC will maintain and enhance SenNet’s data infrastructure (e.g., portal and associated tools) to support data discovery, access, analysis, visualization, and reuse, and will integrate Stage 1 and Stage 2 outputs to support atlasing and cross-study comparability. DCIC applications should also propose goals and aims for SenNet consortium-wide organizational and outreach activities (SenNet OOC functions).",
+  "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination and Integration Center (SenNet DCIC) (UM1 Clinical Trials Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "implementation_science",
+    "infrastructure"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/361817"
+}

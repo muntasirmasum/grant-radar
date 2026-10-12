@@ -1,0 +1,27 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-AI-26-004",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-10-07",
+  "source": "nih",
+  "title": "Notice of Informational Webinar for RFA-AI-27-018, Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-004.html"
+}

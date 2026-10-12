@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-03-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2029-03-02",
+  "grants_gov_id": 359152,
+  "issuing_orgs": [
+    "National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AR-28-001",
+  "open_date": "2027-01-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAMS",
+  "release_date": "2026-10-09",
+  "source": "nih",
+  "synopsis": "The overall goal of this program is to accelerate scientific discovery, improve research efficiency, and enhance the translation of research findings into improved health outcomes. Centers funded under this program will also foster multidisciplinary collaboration, support workforce development across career stages, and promote training in emerging areas such as data science, artificial intelligence, and implementation research. The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) requests applications for the NIAMS P30 Centers Program to support integrated research Centers within its mission areas of skin biology and diseases; bone, muscle, and orthopaedic research; and rheumatic diseases. The NIAMS P30 Centers Program supports Centers that provide coordinated research infrastructure, shared resources, and methodological expertise to advance basic, translational, and clinical research. These Centers are expected to integrate state-of-the-art research resources with capabilities that support clinical and translational research, including the development, testing, and dissemination of novel analytical methods, study designs, outcome measures, and data-driven approaches.",
+  "title": "NIAMS P30 Centers Program (P30 - Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai",
+    "implementation_science",
+    "infrastructure"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/359152"
+}

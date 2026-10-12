@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "U2C"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-26",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-01-27",
+  "grants_gov_id": 360366,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DA-28-012",
+  "open_date": "2026-12-26",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-10-06",
+  "source": "nih",
+  "synopsis": "The National Institutes of Health (NIH) intends to renew the Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) research network. This renewal consists of individual research projects, which will be supported by a single Coordination Center. This network is intended to test new innovations that integrate evidence based treatments for chronic pain (CP) and opioid use disorder (OUD). This research will characterize or modify factors that impact wide-scale adoption and sustained use of effective treatments at this intersection. The network will be part of the NIH’s Helping to End Addiction Long-term (HEAL®) Initiative to speed the development and implementation of scientific solutions to the national opioid public health crisis. The NIH HEAL Initiative will bolster research across NIH to (1) improve treatment and prevention of opioid misuse and OUD and (2) enhance pain management. This notice of funding opportunity (NOFO) seeks applications for a single Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center. The BEACON Center will provide overall network coordination support; research education activities to build capacity at the intersection of CP, OUD, and implementation science; annual survey/qualitative activities to understand different barriers and attitudes impacting access and sustained use of integrated CP and OUD service delivery; and develop key resources for stakeholders that can inform/improve sustainability and scalability of evidence-based practices, including findings and resources from IMPOWR Phase I.",
+  "title": "HEAL Initiative: Integrative Management of chronic Pain and OUD for Whole Recovery (IMPOWR) - Building Engagement, Assistance, Capacity, Outreach, and Networks (BEACON) Center (U2C Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "substance_use"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://www.grants.gov/search-results-detail/360366"
+}

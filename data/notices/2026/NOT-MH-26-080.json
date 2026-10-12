@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-MH-26-080",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-10-08",
+  "source": "nih",
+  "title": "Notice to rescind NOT-MH-06-108, \"Notice to Announce Availability of Biomaterials, Phenotyping Information, and Genotyping Data from the NIMH Genetics Initiative for Whole Genome Association Studies\"",
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-080.html"
+}

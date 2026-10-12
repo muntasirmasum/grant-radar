@@ -1,0 +1,25 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-OD-26-120",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-10-05",
+  "source": "nih",
+  "title": "Accelerated Implementation of Data Management and Sharing Plan Changes for NIH Career Development (K) Awards",
+  "topics": [
+    "implementation_science",
+    "training_and_career"
+  ],
+  "updated_at": "2026-10-12T02:06:20Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-120.html"
+}
