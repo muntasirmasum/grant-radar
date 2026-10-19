@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-11",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-12",
+  "grants_gov_id": 361134,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-CA-28-004",
+  "open_date": "2027-01-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-10-15",
+  "source": "nih",
+  "synopsis": "This is a Notice of Funding Opportunity (NOFO) for a Limited Competition that will invite application(s) from eligible organization(s) to apply. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding. Through this limited competition Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) solicits applications to support continuation of two biospecimen banking resources. The National Clinical Trials Network (NCTN) Biospecimen Banks (NCTN Biobanks) support the NCI-funded NCTN and the Community Oncology Research Program (NCORP), and The Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) supports the Experimental Therapeutics Clinical Trials Network (ETCTN) and other NCI-supported early phase and experimental clinical trials. The objective is to maintain these national resources for the collection, processing, storage, and distribution of high-quality, clinically annotated human biospecimens. The goal of these resources is to ensure the availability of biospecimens from participants in NCI-funded clinical trials focused on treatment, prevention, and cancer control studies to enable translational cancer research. The NCTN Biobanks support biomarker development and validation, secondary correlative studies, and broader scientific discovery using biospecimens collected through harmonized protocols and linked to clinical outcome data from large multi-site clinical trials. The EET Biobank supports biospecimen banking for ETCTN and other early-phase and experimental therapeutic clinical trials involving investigational agents. Biospecimens collected through these studies support biomarker assay development, pharmacokinetic and pharmacodynamic analyses, investigation of drug response and resistance mechanisms, patient stratification, and translational research supporting development of novel cancer therapies. In accordance with NIH standard peer-review processes, the application(s) will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Limited Competition: Biospecimen Banks to support NCI National Clinical Trials Network Biospecimen Banks (NCTN Biobanks) and the NCI Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials",
+    "infrastructure"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361134"
+}

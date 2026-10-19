@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2026-11-17",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2026-11-18",
+  "grants_gov_id": 360627,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-27-122",
+  "open_date": "2026-10-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-10-15",
+  "source": "nih",
+  "synopsis": "The purpose of this NOFO is to continue the Physiology of the Weight Reduced State (POWERS) clinical trial. The goal of POWERS is to understand the physiological processes underlying individual variability in weight regain following weight loss due to a lifestyle intervention. The continuation of POWERS will allow for the completion of the ongoing clinical trial and to conduct analysis of collected data and biospecimens. This NOFO invites a single source application from the Data Coordinating Center for the POWERS consortium. Please see Section III. Eligibility for additional information. In accordance with NIH standard peer-review processes, the application will be peer-reviewed, and only meritorious application(s) will be considered for funding.",
+  "title": "Single Source for the Continuation of the Physiology of the Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/360627"
+}

@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "P50"
+  ],
+  "award_ceiling": "1150000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-01-27",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-01-28",
+  "grants_gov_id": 361216,
+  "issuing_orgs": [
+    "National Institute on Alcohol Abuse and Alcoholism"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AA-28-001",
+  "open_date": "2026-12-27",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAAA",
+  "release_date": "2026-10-15",
+  "source": "nih",
+  "synopsis": "The National Institute on Alcohol Abuse and Alcoholism (NIAAA) supports a broad-based Alcohol Research Centers program to foster and conduct interdisciplinary, collaborative research on alcohol misuse, Alcohol Use Disorder (AUD), and alcohol-related problems, and other health-related consequences across the lifespan. The NIAAA Centers Program provides leadership in research, and research methodology development on a wide variety of topics relevant to the Institute's mission. The focus of the NIAAA Centers program should be on generating a critical mass of researchers in a given understudied and/or innovative topic area relevant to the NIAAA mission with an emphasis on interdisciplinary coordination and cooperation among independent researchers and development and mentorship of young investigators. A center must contribute more to the alcohol field than the sum of its parts. Topics include but are not limited to, the nature, etiology, genetics, diagnosis, treatment, and prevention of alcohol misuse, AUD, alcohol-related end-organ diseases, and their biomedical, psychosocial, and population health consequences across the lifespan. Centers are also major contributors to the development of research methods, technologies, and approaches that sustain innovative goal-directed research on understanding the chronic disorder of alcohol misuse that is such a personal, social and medical burden to US society.",
+  "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "methods_and_statistics",
+    "substance_use"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361216"
+}

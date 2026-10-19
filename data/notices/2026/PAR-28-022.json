@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "P50"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2029-09-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-09-26",
+  "grants_gov_id": 360541,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-022",
+  "open_date": "2026-12-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-10-14",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) invites applications for P50 Research Center Grants for Specialized Programs of Research Excellence (SPOREs). Based on the proposed research, applications may be jointly funded with the National Institute of Dental and Craniofacial Research (NIDCR). This is a re-issuance of PAR-23-284. The program will fund P50 SPORE grants to support state-of-the-art investigator-initiated translational research that will contribute to improved prevention, early detection, diagnosis, and treatment of an organ-specific cancer or a highly related group of cancers. The research supported through this program must be translational and be based on human biology research using cellular, molecular, structural, biochemical, and/or genetic experimental approaches. SPORE projects must reach a translational human endpoint within the project period of the grant.",
+  "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2027, 2028, and 2029 (P50 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/360541"
+}

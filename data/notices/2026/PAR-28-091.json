@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R33"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Required",
+  "close_date": "2029-11-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-11-17",
+  "grants_gov_id": 359941,
+  "issuing_orgs": [
+    "National Center for Complementary and Integrative Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-091",
+  "open_date": "2027-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NCCIH",
+  "release_date": "2026-10-15",
+  "source": "nih",
+  "synopsis": "The National Center for Complementary and Integrative Health (NCCIH) announces this Notice of Funding Opportunity (NOFO) to solicit applications for multi-site feasibility trials of complementary and integrative health approaches with physical and/or psychological therapeutic inputs (often called mind and body interventions) to reproduce and translate mechanisms of emotional well-being (EWB) into large-scale clinical trials that advance our understanding of whole person health. These early-phase multi-site trials are essential for 1) demonstrating that the mind and body intervention can be delivered with fidelity across sites; 2) demonstrating reproducibility and rigor in engaging targeted mechanisms of EWB by the mind and body intervention across sites; 3) assessing feasibility of participant recruitment and retention, as well as randomization; 4) assessing feasibility of collecting comprehensive clinical (whole person health restoration) and mechanistic (EWB) data across sites; and 5) exploring correlations between changes in mechanistic targets and clinical outcome measurements pooled across sites. By laying this groundwork, studies supported under this NOFO will advance the science of whole person health and prepare the field for rigorous clinical trials and mechanistic mediation analysis with the potential to improve the health and well-being of all Americans.",
+  "title": "Assessing the Feasibility of Incorporating Mechanisms in Multi-site Clinical Trials of Mind and Body Interventions on Whole Person Health Restoration (R33 Clinical Trial Required)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/359941"
+}

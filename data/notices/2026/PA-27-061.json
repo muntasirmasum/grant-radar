@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "P01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-05-25",
+  "doctype": "PA",
+  "due_dates": [],
+  "expiration_date": "2029-05-26",
+  "grants_gov_id": 361279,
+  "issuing_orgs": [
+    "Office of the Director"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PA-27-061",
+  "open_date": "2026-10-20",
+  "parent_ic": "NIH",
+  "primary_ic": "OD",
+  "release_date": "2026-10-14",
+  "source": "nih",
+  "synopsis": "Through this Notice of Funding Opportunity (NOFO), the participating NIH Institutes, Centers, and Offices (ICOs) invite applications for the investigator-initiated Program Project (P01). A P01 supports a broadly based, multidisciplinary research program with a specific major scientific objective or theme. The proposed Program Projects are focused on the programmatic interests of one or more of the participating ICOs based on their scientific missions. A program project utilizes research projects with a common central scientific theme, an administrative core, and optional shared resource core(s) to accomplish ICOs' programmatic objectives.",
+  "title": "NIH Research Program Projects (Parent P01 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361279"
+}

@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "R01"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-11-05",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-11-06",
+  "grants_gov_id": 360675,
+  "issuing_orgs": [
+    "National Institute on Aging"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-090",
+  "open_date": "2027-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIA",
+  "release_date": "2026-10-14",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite R01 applications proposing research on palliative care across the lifespan for persons with serious illnesses and/or their care partners relevant to the missions of participating NIH Institutes, Centers, and Offices (ICOs), including projects focused on palliative care access, use, and quality. Applications may propose hypothesis-driven, milestone-defined palliative care traditional efficacy (Stage II), real-world efficacy (Stage III), effectiveness (Stage IV), and/or dissemination and implementation (Stage V) clinical trials in alignment with the NIH Stage Model (Stages II-V) and relevant Institute or Center policies. Applications may propose non-clinical trial palliative care research, such as health services research, methodologic research, natural experiments, or observational studies. Recipients will become members of the research community facilitated by the NIH-funded Advancing the Science of Palliative Care Across the Lifespan (ASCENT) Consortium. NOTE: This NOFO is not appropriate for applications proposing new intervention generation, refinement, modification, adaptation, and/or pilot testing (Stage I of the NIH Stage Model) clinical trial research. The intervention(s) to be tested must be in a developed and testable form, with Stage I activities already completed and demonstrated.",
+  "title": "Palliative Care Research Across the Lifespan: Leveraging the Palliative Care Consortium (R01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials",
+    "epidemiology",
+    "implementation_science"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/360675"
+}

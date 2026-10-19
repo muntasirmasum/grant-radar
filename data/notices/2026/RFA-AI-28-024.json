@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R61",
+    "R33"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-11",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-12",
+  "grants_gov_id": 361832,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-28-024",
+  "open_date": "2027-01-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-10-13",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support research and/or preclinical development of highly efficacious vaccines against malaria - one of the deadliest mosquito-borne diseases - by capitalizing on recent technological innovations, particularly in structure-based immunogen design, improved formulations, and combination vaccines. The goal is to achieve long-lasting, highly effective protection that can save lives, strengthen public health security in the United States, and serve as a model for, or are potentially effective against, other mosquito-borne diseases.",
+  "title": "Accelerating Research and Development of Next Generation Vaccines against Malaria - a Model for Mosquito-Borne Diseases (R61/R33 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361832"
+}

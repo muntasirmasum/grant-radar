@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "RM1"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-09-26",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-09-27",
+  "grants_gov_id": 361322,
+  "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-27-003",
+  "open_date": "2026-10-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NIGMS",
+  "release_date": "2026-10-14",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports interdisciplinary research teams of three to six Program Directors/Principal Investigators (PDs/PIs) to address ambitious and challenging research questions. Collaborative program teams are expected to be integrated, working together to tackle a single focused scientific goal that requires considerable synergy and meaningful team interaction. Program goals should not be achievable through individual efforts or a collection of projects. Teams are encouraged to consider far-reaching objectives that will produce major advances in their fields.",
+  "title": "Collaborative Program Grant for Interdisciplinary Teams (RM1 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361322"
+}

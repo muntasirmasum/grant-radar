@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "P30"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-05-25",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-05-26",
+  "grants_gov_id": 360869,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-090",
+  "open_date": "2027-04-25",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-10-16",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to invite applications for the Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) programs to provide administrative and shared research support to enhance HIV/AIDS research. CFARs provide infrastructure, expertise, resources, and services not readily obtained through other funding mechanisms. The program emphasizes interdisciplinary collaboration across all areas of HIV/AIDS research.",
+  "title": "Centers for AIDS Research (CFAR) and Developmental Centers for AIDS Research (D-CFAR) (P30 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infectious_disease",
+    "infrastructure"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/360869"
+}

@@ -1,0 +1,34 @@
+{
+  "activity_codes": [
+    "T15"
+  ],
+  "award_ceiling": "775000",
+  "award_floor": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-11",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-12",
+  "grants_gov_id": 361318,
+  "issuing_orgs": [
+    "National Library of Medicine"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-LM-28-001",
+  "open_date": "2027-01-11",
+  "parent_ic": "NIH",
+  "primary_ic": "NLM",
+  "release_date": "2026-10-16",
+  "source": "nih",
+  "synopsis": "The National Library of Medicine (NLM) invites applications for innovative predoctoral and postdoctoral training programs that prepare the next generation of researchers in biomedical informatics, data science, and artificial intelligence/machine learning (AI/ML). NLM emphasizes cutting-edge, forward-looking training experiences that equip trainees to address complex health and biomedical challenges through advanced computational approaches. Applications may propose the creation of new training programs or the renewal of existing NLM-supported programs. These programs are designed to meet the growing demand for researchers with deep expertise in biomedical computing, data science, and AI/ML, with clear relevance to health and biomedical research. Recognizing the inherently interdisciplinary nature of these fields, NLM seeks programs that integrate methods and perspectives across disciplines to advance biomedical informatics, data science, and AI/ML.",
+  "title": "NLM Institutional Grants for Research Training in Biomedical Informatics, Data Science, and AI (T15 Independent Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai",
+    "methods_and_statistics",
+    "training_and_career"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361318"
+}

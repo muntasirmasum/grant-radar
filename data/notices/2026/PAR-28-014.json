@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "RP1"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2029-10-11",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-10-12",
+  "grants_gov_id": 361438,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-014",
+  "open_date": "2027-01-08",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-10-14",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites applications that investigate the etiology of sporadic non-hereditary early-onset cancers (EOCs: ages 18 to 49 years) and the underlying biological mechanisms that play a role in these cancers to inform prevention and control strategies. The proposed research is expected to advance the understanding of the unexplained rise of cancers in young adults. More specifically, studies should focus on one or more of the following: i) identifying what environmental or lifestyle exposures are driving the increase in the incidence of non-hereditary EOCs, and how these factors vary by patient demographics; ii) examining the biological mechanisms and host responses that underlie the increase in EOCs; and iii) identifying how those at increased risk of developing EOCs can be identified more effectively. In an effort to streamline the application process and sustain momentum in this critical research area, this NOFO supports both exploratory/developmental and standard research projects through a grant award instrument.",
+  "title": "Early-Onset Cancers: Investigating Etiology, Mechanisms, and Early Detection Strategies (RP1 Clinical Trials Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-10-19T00:51:52Z",
+  "url": "https://www.grants.gov/search-results-detail/361438"
+}
