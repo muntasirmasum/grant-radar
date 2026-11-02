@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institutes of Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-OD-27-011",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIH",
+  "release_date": "2026-10-23",
+  "source": "nih",
+  "title": "USG Policy for the use of Super Intelligence",
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-011.html"
+}

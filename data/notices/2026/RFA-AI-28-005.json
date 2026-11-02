@@ -1,0 +1,29 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-01-29",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-01-30",
+  "grants_gov_id": 362946,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-28-005",
+  "open_date": "2026-12-29",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-10-20",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support applications to continue the Immune Tolerance Network (ITN). The primary objective of the Network is to develop tolerogenic therapies for immune-mediated disorders. The three main clinical areas of work are: 1) Allergic diseases and asthma; 2) Autoimmune diseases; and 3) Immune-mediated consequences of transplantation. The core functions of the ITN include designing, conducting, and sharing the results of clinical trials and performing integrated mechanistic studies.",
+  "title": "Immune Tolerance Network (UM1 Clinical Trial Required)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://www.grants.gov/search-results-detail/362946"
+}

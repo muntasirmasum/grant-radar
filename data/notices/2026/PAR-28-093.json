@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "R34"
+  ],
+  "award_ceiling": "450000",
+  "clinical_trials": "Optional",
+  "close_date": "2029-07-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-07-17",
+  "grants_gov_id": 361204,
+  "issuing_orgs": [
+    "National Institute on Drug Abuse"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-093",
+  "open_date": "2027-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDA",
+  "release_date": "2026-10-19",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support pilot and feasibility studies to inform the design and conduct of efficacy, effectiveness, and/or services research trials. Topics may include: 1) developing interventions to prevent substance use, misuse, or progression to substance use disorder; 2) prevention, treatment, or recovery services research, including research addressing comorbid pain and medical and mental health disorders; and 3) HIV eradication research, including implementation science, prevention, treatment and recovery in substance use settings/populations.",
+  "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials (R34 Clinical Trial Optional)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://www.grants.gov/search-results-detail/361204"
+}

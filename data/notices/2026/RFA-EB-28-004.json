@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "R18"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2030-12-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2030-12-02",
+  "grants_gov_id": 361380,
+  "issuing_orgs": [
+    "National Institute of Biomedical Imaging and Bioengineering"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-EB-28-004",
+  "open_date": "2027-01-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIBIB",
+  "release_date": "2026-10-23",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) is to encourage applications from investigators to advance the development and translation of next-generation technologies to prevent, monitor, diagnose, and treat disorders within the missions of the NIH Brain Research through Advancing Innovative Neurotechnologies (BRAIN) and The Helping to End Addiction Long-term (HEAL) Initiatives. Awarded activities will facilitate the translation of new devices up to the stage of readiness for first in human (FIH) clinical trials by overcoming key challenges identified during preliminary proof-of-concept studies. The scope of the program includes technology development and optimization, and studies to prepare for approvals for human use.",
+  "title": "NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "substance_use"
+  ],
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://www.grants.gov/search-results-detail/361380"
+}

@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "3500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-08",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-01-09",
+  "grants_gov_id": 358954,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-RM-27-008",
+  "open_date": "2026-12-08",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-10-29",
+  "source": "nih",
+  "synopsis": "The purpose of this Notice of Funding Opportunity (NOFO) is to support the Genomic Data Generation Center(s) for the Gabriella Miller Kids First Pediatric Research Program to support rapid generation of high quality sequence and variant data (e.g., genome-wide, RNA, and long-read DNA and RNA sequencing, genome-wide methylation profiling, and chromatin accessibility data) from a large number of human specimens representing pediatric conditions, including childhood cancers and congenital anomalies. All data generated under this NOFO will be re-processed and harmonized by the Gabriella Miller Kids First Pediatric Data Resource Center (Kids First DRC). The DRC is charged with maintaining a public-facing, cloud-based resource that enables researchers to search, access, aggregate, analyze, and share annotated genomic sequences, genomic variants, epigenomic, transcriptomic, and phenotypic datasets. Together, these resources promote comprehensive and cross-cutting research and collaboration within the pediatric research community.",
+  "title": "Genomic Data Generation Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "infrastructure",
+    "maternal_child_health"
+  ],
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://www.grants.gov/search-results-detail/358954"
+}

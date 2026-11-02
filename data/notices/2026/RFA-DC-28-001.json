@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "450000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-11-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-11-02",
+  "grants_gov_id": 361207,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DC-28-001",
+  "open_date": "2027-02-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2026-10-20",
+  "source": "nih",
+  "synopsis": "The objective of this Notice of Funding Opportunity (NOFO) is to continue to support laboratories that constitute a collaborative network, the NIDCD National Human Ear Resource Network, to serve as a national technological resource for auditory and vestibular researchers to use human inner and middle ear tissues for a range of basic and clinical studies to advance knowledge and treatment of auditory and vestibular disorders.",
+  "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://www.grants.gov/search-results-detail/361207"
+}

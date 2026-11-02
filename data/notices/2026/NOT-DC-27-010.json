@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-DC-27-010",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIDCD",
+  "release_date": "2026-10-26",
+  "source": "nih",
+  "title": "Notice of Information Webinar: NIDCD Fellowship Pre-Application Webinar",
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-27-010.html"
+}

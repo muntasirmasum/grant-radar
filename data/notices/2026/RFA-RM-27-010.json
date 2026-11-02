@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "U24"
+  ],
+  "award_ceiling": "900000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-01-08",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-01-09",
+  "grants_gov_id": 358960,
+  "issuing_orgs": [
+    "RMOD"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-RM-27-010",
+  "open_date": "2026-12-08",
+  "parent_ic": "NIH",
+  "primary_ic": "RMOD",
+  "release_date": "2026-10-29",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity Announcement (NOFO) solicits applications for the development of the Gabriella Miller Kids First Pediatric Research Program (Kids First) Training and Outreach Core (TOC). The Kids First TOC will collaborate with the Kids First Data Resource Center (DRC), which is charged with facilitating data collection, harmonization, and sharing and serves as a point of contact for existing Kids First Data. The TOC, in turn, will facilitate training, outreach, community engagement, and education for the Kids First Program and bolster efforts to enhance utilization of and participation in Kids First data resources. In collaboration with the NIH Kids First Working Group, the TOC will direct strategic alignment and execution of training and education activities, and provide outreach and education to the research community on using the Data Resource, as well as to the general public about the resources available from Kids First.",
+  "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "infrastructure",
+    "maternal_child_health",
+    "training_and_career"
+  ],
+  "updated_at": "2026-11-02T02:07:49Z",
+  "url": "https://www.grants.gov/search-results-detail/358960"
+}
