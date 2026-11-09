@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "R50"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-02-20",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-02-21",
+  "grants_gov_id": 362277,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-063",
+  "open_date": "2027-01-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "synopsis": "Through this notice of funding opportunity (NOFO), the National Cancer Institute (NCI) invites applications for the Research Specialist Award (R50) specifically for clinician scientists supporting NCI-funded clinical trials research. The Research Specialist Award is designed to encourage the development of stable research career opportunities for exceptional clinician scientists who want to continue to participate in the NCI clinical trials networks through leadership in the 1) development of national clinical trials, 2) implementation of NCI clinical trials in their institutions, and 3) national service to the NCI clinical trials networks through participation in the scientific review committees, monitoring committees and other activities, but not serve as principal investigators of research project grants. These clinician scientists are vital to sustaining the NCI-funded clinical trials enterprise. The Research Specialist Award is intended to provide salary support and sufficient autonomy so that individuals are not solely dependent on NCI grants held by others or other sources of support for cancer research career continuity.",
+  "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+  "topics": [
+    "cancer",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/362277"
+}

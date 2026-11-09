@@ -1,0 +1,33 @@
+{
+  "activity_codes": [
+    "UH2",
+    "UH3"
+  ],
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2029-11-16",
+  "doctype": "PAR",
+  "due_dates": [],
+  "expiration_date": "2029-11-17",
+  "grants_gov_id": 360946,
+  "issuing_orgs": [
+    "National Cancer Institute"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "PAR-28-042",
+  "open_date": "2027-01-16",
+  "parent_ic": "NIH",
+  "primary_ic": "NCI",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "synopsis": "The purpose of the Notice of Funding Opportunity (NOFO) is to support the analytical and clinical validation of molecular, cellular, and imaging biomarkers and assays for cancer detection, diagnosis, prognosis, monitoring, prediction of response or resistance to treatment, cancer prevention and control, as well as pharmacodynamic markers and markers of toxicity. Utilizing either a phased UH2/UH3 or a standalone UH3 mechanism, funding will facilitate laboratory optimization and clinical validation of assays that work on human samples and address a clearly defined cancer-related clinical need within a well-specified intended use.",
+  "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/360946"
+}

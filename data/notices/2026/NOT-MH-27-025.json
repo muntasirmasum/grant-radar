@@ -1,0 +1,25 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-MH-27-025",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "title": "Notice of Technical Assistance Webinar for RFA-MH-28-145, \"Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)\"",
+  "topics": [
+    "clinical_trials",
+    "training_and_career"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-025.html"
+}

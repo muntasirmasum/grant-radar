@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "RP1"
+  ],
+  "clinical_trials": "Optional",
+  "close_date": "2028-02-17",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-02-18",
+  "grants_gov_id": 359019,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-MH-28-145",
+  "open_date": "2027-01-17",
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "synopsis": "This notice of funding opportunity (NOFO) encourages research focused on developing, optimizing, and testing the effectiveness of service-ready, scalable strategies and tools that can be used to facilitate training (i.e., promote competence and sustained implementation fidelity) and quality monitoring in the delivery of evidence-based suicide prevention interventions across the range of settings where at-risk individuals are encountered, and across intercepts in suicide prevention services. Relevant research focuses on (1) developing and testing scalable approaches, including technology-supported approaches, for training providers in evidence-based approaches for assessing and managing risk (e.g., prevention, treatment, and crisis services), and/or (2) developing and validating pragmatic strategies for monitoring the delivery and quality of suicide prevention services, to facilitate efforts at training, supervision, and quality improvement efforts. In an effort to streamline the application process and sustain momentum in this critical research area, this NOFO supports both exploratory/developmental and standard research projects through a grant award instrument.",
+  "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/359019"
+}

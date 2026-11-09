@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U19"
+  ],
+  "award_ceiling": "2500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-02-18",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-19",
+  "grants_gov_id": 362952,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-28-014",
+  "open_date": "2027-01-18",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-11-04",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support the advancement of systems-level understanding of the link between infectious pathogens and inflammatory pathways that result in predisposition, onset and progression of chronic diseases. The NOFO will stimulate integration of clinical and patient data, large-scale omics datasets, advanced Artificial Intelligence (AI) and computational modeling to prevent, treat, and mitigate the combined impact of chronic diseases, inflammation, and infections.",
+  "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials",
+    "data_science_ai"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/362952"
+}

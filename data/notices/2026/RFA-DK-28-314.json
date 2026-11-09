@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U54"
+  ],
+  "award_ceiling": "750000",
+  "clinical_trials": "Optional",
+  "close_date": "2027-02-01",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-02-02",
+  "grants_gov_id": 360551,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-28-314",
+  "open_date": "2027-01-01",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) seeks support for continuation of the NIDDK George M. O'Brien Urology Cooperative Research Centers (U54). The Urology Cooperative Research Centers foster impactful, multi-disciplinary research through collaborations within and outside the Centers and serve as a national resource for the urology research community.",
+  "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/360551"
+}

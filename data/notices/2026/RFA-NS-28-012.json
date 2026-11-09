@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "2500000",
+  "clinical_trials": "Optional",
+  "close_date": "2028-10-10",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2028-10-11",
+  "grants_gov_id": 361287,
+  "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-NS-28-012",
+  "open_date": "2027-01-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NINDS",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) supports the translation of genome editing and other biologic therapies for Alzheimer's Disease-Related Dementias (ADRD). The program spans the full translational pipeline, from therapeutic lead optimization and drug product development through IND-enabling studies and early clinical evaluation. Supported activities may include optimization of editing constructs and delivery systems; assessment of bioactivity, target engagement, durability, pharmacokinetics, and bioavailability; demonstration of in vivo efficacy; execution of safety pharmacology and toxicology studies; and development of scalable manufacturing processes, formulation strategies, and quality attributes aligned with regulatory expectations. ADRD include Frontotemporal Dementia (FTD); Lewy Body Dementias (LBD), including Dementia with Lewy Bodies (DLB) and Parkinson's Disease Dementia (PDD); Vascular Contributions to Cognitive Impairment and Dementia (VCID); and Multiple Etiology Dementias (MED).",
+  "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+  "topics": [
+    "aging",
+    "clinical_trials"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/361287"
+}

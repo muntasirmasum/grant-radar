@@ -1,0 +1,30 @@
+{
+  "activity_codes": [
+    "U01"
+  ],
+  "award_ceiling": "500000",
+  "clinical_trials": "Not_Allowed",
+  "close_date": "2027-03-05",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-03-06",
+  "grants_gov_id": 360625,
+  "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-DK-28-213",
+  "open_date": "2027-01-05",
+  "parent_ic": "NIH",
+  "primary_ic": "NIDDK",
+  "release_date": "2026-11-03",
+  "source": "nih",
+  "synopsis": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or treatment efficacy; and 3) leverage state-of-the-art technologies to identify novel therapeutic targets that could be assessed in future clinical trials. This NOFO uses a cooperative agreement mechanism (U01) and runs in parallel with a companion NOFO ( RFA-DK-28-214).",
+  "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+  "topics": [
+    "clinical_trials"
+  ],
+  "updated_at": "2026-11-09T02:24:46Z",
+  "url": "https://www.grants.gov/search-results-detail/360625"
+}
