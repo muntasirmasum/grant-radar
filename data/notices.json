@@ -1,308 +1,12 @@
 {
- "generated_at": "2026-11-09T02:24:46Z",
+ "generated_at": "2026-11-16T02:34:51Z",
  "items": [
   {
-   "notice_id": "NOT-OD-26-092",
+   "notice_id": "NOT-OD-27-007",
    "source": "nih",
    "doctype": "NOT",
-   "title": "National Death Index Linkage Access for NIH-Supported Investigators",
-   "release_date": "2026-11-06",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [],
-   "primary_ic": "OBSSR",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "OBSSR"
-   ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-092.html",
-   "nih_file_listed": true,
-   "clinical_trials": null,
-   "updated_at": "2026-11-09T02:24:46Z",
-   "synopsis_truncated": null
-  },
-  {
-   "notice_id": "RFA-AI-28-014",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
-   "release_date": "2026-11-04",
-   "open_date": "2027-01-18",
-   "expiration_date": "2027-02-19",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "U19"
-   ],
-   "primary_ic": "NIAID",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Allergy and Infectious Diseases"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/362952",
-   "nih_file_listed": false,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 362952,
-   "award_ceiling": "2500000",
-   "close_date": "2027-02-18",
-   "topics": [
-    "clinical_trials",
-    "data_science_ai"
-   ],
-   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to support the advancement of systems-level understanding of the link between infectious pathogens and inflammatory pathways that result in predisposition, onset and progression of chronic diseases. The NOFO will stimulate integration of clinical and patient data, large-scale omics datasets, advanced Artificial Intelligence (AI) and…"
-  },
-  {
-   "notice_id": "NOT-MH-27-025",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Notice of Technical Assistance Webinar for RFA-MH-28-145, \"Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)\"",
-   "release_date": "2026-11-03",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [],
-   "primary_ic": "NIMH",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Mental Health"
-   ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-025.html",
-   "nih_file_listed": true,
-   "clinical_trials": null,
-   "updated_at": "2026-11-09T02:24:46Z",
-   "topics": [
-    "clinical_trials",
-    "training_and_career"
-   ],
-   "synopsis_truncated": null
-  },
-  {
-   "notice_id": "PAR-28-042",
-   "source": "nih",
-   "doctype": "PAR",
-   "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-16",
-   "expiration_date": "2029-11-17",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "UH2",
-    "UH3"
-   ],
-   "primary_ic": "NCI",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Cancer Institute"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/360946",
-   "nih_file_listed": false,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 360946,
-   "close_date": "2029-11-16",
-   "topics": [
-    "aging",
-    "behavioral_intervention",
-    "cancer",
-    "clinical_trials"
-   ],
-   "synopsis_truncated": "The purpose of the Notice of Funding Opportunity (NOFO) is to support the analytical and clinical validation of molecular, cellular, and imaging biomarkers and assays for cancer detection, diagnosis, prognosis, monitoring, prediction of response or resistance to treatment, cancer prevention and control, as well as pharmacodynamic markers and markers of toxicity. Utilizing either a phased UH2/UH3…"
-  },
-  {
-   "notice_id": "PAR-28-063",
-   "source": "nih",
-   "doctype": "PAR",
-   "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-17",
-   "expiration_date": "2029-02-21",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "R50"
-   ],
-   "primary_ic": "NCI",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Cancer Institute"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/362277",
-   "nih_file_listed": false,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 362277,
-   "close_date": "2029-02-20",
-   "topics": [
-    "cancer",
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "synopsis_truncated": "Through this notice of funding opportunity (NOFO), the National Cancer Institute (NCI) invites applications for the Research Specialist Award (R50) specifically for clinician scientists supporting NCI-funded clinical trials research. The Research Specialist Award is designed to encourage the development of stable research career opportunities for exceptional clinician scientists who want to…"
-  },
-  {
-   "notice_id": "RFA-DK-28-213",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-05",
-   "expiration_date": "2027-03-06",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "U01"
-   ],
-   "primary_ic": "NIDDK",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Diabetes and Digestive and Kidney Diseases"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/360625",
-   "nih_file_listed": false,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 360625,
-   "award_ceiling": "500000",
-   "close_date": "2027-03-05",
-   "topics": [
-    "clinical_trials"
-   ],
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or…"
-  },
-  {
-   "notice_id": "RFA-DK-28-214",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-05",
-   "expiration_date": "2027-03-06",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "U24"
-   ],
-   "primary_ic": "NIDDK",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Diabetes and Digestive and Kidney Diseases"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/360623",
-   "nih_file_listed": false,
-   "clinical_trials": "Not_Allowed",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 360623,
-   "award_ceiling": "950000",
-   "close_date": "2027-03-05",
-   "topics": [
-    "clinical_trials"
-   ],
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or…"
-  },
-  {
-   "notice_id": "RFA-DK-28-314",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-01",
-   "expiration_date": "2027-02-02",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "U54"
-   ],
-   "primary_ic": "NIDDK",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Diabetes and Digestive and Kidney Diseases"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/360551",
-   "nih_file_listed": false,
-   "clinical_trials": "Optional",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 360551,
-   "award_ceiling": "750000",
-   "close_date": "2027-02-01",
-   "topics": [
-    "clinical_trials"
-   ],
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) seeks support for continuation of the NIDDK George M. O'Brien Urology Cooperative Research Centers (U54). The Urology Cooperative Research Centers foster impactful, multi-disciplinary research through collaborations within and outside the Centers and serve as a national resource for the urology research community."
-  },
-  {
-   "notice_id": "RFA-MH-28-145",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-17",
-   "expiration_date": "2028-02-18",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "RP1"
-   ],
-   "primary_ic": "NIMH",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Mental Health"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/359019",
-   "nih_file_listed": false,
-   "clinical_trials": "Optional",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 359019,
-   "close_date": "2028-02-17",
-   "topics": [
-    "aging",
-    "behavioral_intervention",
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "synopsis_truncated": "This notice of funding opportunity (NOFO) encourages research focused on developing, optimizing, and testing the effectiveness of service-ready, scalable strategies and tools that can be used to facilitate training (i.e., promote competence and sustained implementation fidelity) and quality monitoring in the delivery of evidence-based suicide prevention interventions across the range of settings…"
-  },
-  {
-   "notice_id": "RFA-NS-28-012",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
-   "release_date": "2026-11-03",
-   "open_date": "2027-01-09",
-   "expiration_date": "2028-10-11",
-   "due_dates": [],
-   "next_due_date": null,
-   "activity_codes": [
-    "U01"
-   ],
-   "primary_ic": "NINDS",
-   "parent_ic": "NIH",
-   "issuing_orgs": [
-    "National Institute of Neurological Disorders and Stroke"
-   ],
-   "url": "https://www.grants.gov/search-results-detail/361287",
-   "nih_file_listed": false,
-   "clinical_trials": "Optional",
-   "updated_at": "2026-11-09T02:24:46Z",
-   "grants_gov_id": 361287,
-   "award_ceiling": "2500000",
-   "close_date": "2028-10-10",
-   "topics": [
-    "aging",
-    "clinical_trials"
-   ],
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) supports the translation of genome editing and other biologic therapies for Alzheimer's Disease-Related Dementias (ADRD). The program spans the full translational pipeline, from therapeutic lead optimization and drug product development through IND-enabling studies and early clinical evaluation. Supported activities may include optimization of editing…"
-  },
-  {
-   "notice_id": "NOT-OD-27-006",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Draft Policy Update to the NIH Policy for Data and Safety Monitoring",
-   "release_date": "2026-11-02",
+   "title": "National Policy for Nucleic Acid Synthesis Screening",
+   "release_date": "2026-11-13",
    "open_date": null,
    "expiration_date": null,
    "due_dates": [],
@@ -313,10 +17,402 @@
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-006.html",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-007.html",
    "nih_file_listed": true,
    "clinical_trials": null,
+   "updated_at": "2026-11-16T02:34:51Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "RFA-MH-27-150",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
+   "release_date": "2026-11-12",
+   "open_date": "2026-12-05",
+   "expiration_date": "2027-06-11",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "UM1"
+   ],
+   "primary_ic": "NIMH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/363875",
+   "nih_file_listed": false,
+   "clinical_trials": "Required",
+   "updated_at": "2026-11-16T02:34:51Z",
+   "grants_gov_id": 363875,
+   "close_date": "2027-06-10",
+   "topics": [
+    "clinical_trials",
+    "implementation_science"
+   ],
+   "synopsis_truncated": "This notice of funding opportunity (NOFO) encourages applications to establish a Rapid-Acting Psychotropic Interventional Drugs - Clinical Trials Network (RAPIDs-CTN). The overarching purpose is to generate actionable, real-world evidence to guide the safe and effective implementation of RAPIDs in routine clinical practice, answering urgent questions about how these treatments can be delivered…"
+  },
+  {
+   "notice_id": "NOT-DC-26-008",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Request for Information (RFI): Seeking New and Emerging Areas of Science Relevant to the NIDCD Mission, To Inform an Update of the NIDCD Strategic Plan for 2028-2032",
+   "release_date": "2026-11-09",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIDCD",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute on Deafness and Other Communication Disorders"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-008.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-16T02:34:51Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-OD-26-111",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Request for Information: Developing Menopause Common Data Elements",
+   "release_date": "2026-11-09",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "ORWH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "ORWH"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-111.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-16T02:34:51Z",
+   "synopsis_truncated": null
+  },
+  {
+   "activity_codes": [],
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
+   "issuing_orgs": [
+    "OBSSR"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": true,
+   "notice_id": "NOT-OD-26-092",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "OBSSR",
+   "release_date": "2026-11-06",
+   "source": "nih",
+   "title": "National Death Index Linkage Access for NIH-Supported Investigators",
    "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-092.html",
+   "synopsis_truncated": null
+  },
+  {
+   "activity_codes": [
+    "U19"
+   ],
+   "award_ceiling": "2500000",
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2027-02-18",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2027-02-19",
+   "grants_gov_id": 362952,
+   "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "RFA-AI-28-014",
+   "open_date": "2027-01-18",
+   "parent_ic": "NIH",
+   "primary_ic": "NIAID",
+   "release_date": "2026-11-04",
+   "source": "nih",
+   "title": "Systems Biology of Infection and Inflammation in Chronic Diseases (U19 Clinical Trial Not Allowed)",
+   "topics": [
+    "clinical_trials",
+    "data_science_ai"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/362952",
+   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to support the advancement of systems-level understanding of the link between infectious pathogens and inflammatory pathways that result in predisposition, onset and progression of chronic diseases. The NOFO will stimulate integration of clinical and patient data, large-scale omics datasets, advanced Artificial Intelligence (AI) and…"
+  },
+  {
+   "activity_codes": [],
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": true,
+   "notice_id": "NOT-MH-27-025",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIMH",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "Notice of Technical Assistance Webinar for RFA-MH-28-145, \"Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)\"",
+   "topics": [
+    "clinical_trials",
+    "training_and_career"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-025.html",
+   "synopsis_truncated": null
+  },
+  {
+   "activity_codes": [
+    "UH2",
+    "UH3"
+   ],
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2029-11-16",
+   "doctype": "PAR",
+   "due_dates": [],
+   "expiration_date": "2029-11-17",
+   "grants_gov_id": 360946,
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "PAR-28-042",
+   "open_date": "2027-01-16",
+   "parent_ic": "NIH",
+   "primary_ic": "NCI",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+   "topics": [
+    "aging",
+    "behavioral_intervention",
+    "cancer",
+    "clinical_trials"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/360946",
+   "synopsis_truncated": "The purpose of the Notice of Funding Opportunity (NOFO) is to support the analytical and clinical validation of molecular, cellular, and imaging biomarkers and assays for cancer detection, diagnosis, prognosis, monitoring, prediction of response or resistance to treatment, cancer prevention and control, as well as pharmacodynamic markers and markers of toxicity. Utilizing either a phased UH2/UH3…"
+  },
+  {
+   "activity_codes": [
+    "R50"
+   ],
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2029-02-20",
+   "doctype": "PAR",
+   "due_dates": [],
+   "expiration_date": "2029-02-21",
+   "grants_gov_id": 362277,
+   "issuing_orgs": [
+    "National Cancer Institute"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "PAR-28-063",
+   "open_date": "2027-01-17",
+   "parent_ic": "NIH",
+   "primary_ic": "NCI",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "NCI Research Specialist (Clinician Scientist) Award (R50 Clinical Trial Not Allowed)",
+   "topics": [
+    "cancer",
+    "clinical_trials",
+    "implementation_science"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/362277",
+   "synopsis_truncated": "Through this notice of funding opportunity (NOFO), the National Cancer Institute (NCI) invites applications for the Research Specialist Award (R50) specifically for clinician scientists supporting NCI-funded clinical trials research. The Research Specialist Award is designed to encourage the development of stable research career opportunities for exceptional clinician scientists who want to…"
+  },
+  {
+   "activity_codes": [
+    "U01"
+   ],
+   "award_ceiling": "500000",
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2027-03-05",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2027-03-06",
+   "grants_gov_id": 360625,
+   "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "RFA-DK-28-213",
+   "open_date": "2027-01-05",
+   "parent_ic": "NIH",
+   "primary_ic": "NIDDK",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) - Clinical Research Centers (U01 Clinical Trial Not Allowed)",
+   "topics": [
+    "clinical_trials"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/360625",
+   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or…"
+  },
+  {
+   "activity_codes": [
+    "U24"
+   ],
+   "award_ceiling": "950000",
+   "clinical_trials": "Not_Allowed",
+   "close_date": "2027-03-05",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2027-03-06",
+   "grants_gov_id": 360623,
+   "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "RFA-DK-28-214",
+   "open_date": "2027-01-05",
+   "parent_ic": "NIH",
+   "primary_ic": "NIDDK",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "The NIDDK Disorders of Gastrointestinal Interoception Consortium (DGIC) Scientific Data Research Center (U24 Clinical Trial Not Allowed)",
+   "topics": [
+    "clinical_trials"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/360623",
+   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) invites new applications to participate in the Diseases of Gastrointestinal Interoception Consortium (DGIC). The overall objectives of this consortium are to: 1) identify the underlying mechanisms that link altered GI interception more directly to GI dysmotility and symptoms; 2) identify disease or response biomarkers that better assess pathophysiology or…"
+  },
+  {
+   "activity_codes": [
+    "U54"
+   ],
+   "award_ceiling": "750000",
+   "clinical_trials": "Optional",
+   "close_date": "2027-02-01",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2027-02-02",
+   "grants_gov_id": 360551,
+   "issuing_orgs": [
+    "National Institute of Diabetes and Digestive and Kidney Diseases"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "RFA-DK-28-314",
+   "open_date": "2027-01-01",
+   "parent_ic": "NIH",
+   "primary_ic": "NIDDK",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "George M. O&rsquo;Brien Urology Cooperative Research Centers Program (U54 Clinical Trial Optional)",
+   "topics": [
+    "clinical_trials"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/360551",
+   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) seeks support for continuation of the NIDDK George M. O'Brien Urology Cooperative Research Centers (U54). The Urology Cooperative Research Centers foster impactful, multi-disciplinary research through collaborations within and outside the Centers and serve as a national resource for the urology research community."
+  },
+  {
+   "activity_codes": [
+    "RP1"
+   ],
+   "clinical_trials": "Optional",
+   "close_date": "2028-02-17",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2028-02-18",
+   "grants_gov_id": 359019,
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "RFA-MH-28-145",
+   "open_date": "2027-01-17",
+   "parent_ic": "NIH",
+   "primary_ic": "NIMH",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "Research on System Support and Tools for Provider Training and Quality Monitoring for Suicide Preventive Care (RP1- Clinical Trial Optional)",
+   "topics": [
+    "aging",
+    "behavioral_intervention",
+    "clinical_trials",
+    "implementation_science"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/359019",
+   "synopsis_truncated": "This notice of funding opportunity (NOFO) encourages research focused on developing, optimizing, and testing the effectiveness of service-ready, scalable strategies and tools that can be used to facilitate training (i.e., promote competence and sustained implementation fidelity) and quality monitoring in the delivery of evidence-based suicide prevention interventions across the range of settings…"
+  },
+  {
+   "activity_codes": [
+    "U01"
+   ],
+   "award_ceiling": "2500000",
+   "clinical_trials": "Optional",
+   "close_date": "2028-10-10",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2028-10-11",
+   "grants_gov_id": 361287,
+   "issuing_orgs": [
+    "National Institute of Neurological Disorders and Stroke"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": false,
+   "notice_id": "RFA-NS-28-012",
+   "open_date": "2027-01-09",
+   "parent_ic": "NIH",
+   "primary_ic": "NINDS",
+   "release_date": "2026-11-03",
+   "source": "nih",
+   "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+   "topics": [
+    "aging",
+    "clinical_trials"
+   ],
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://www.grants.gov/search-results-detail/361287",
+   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) supports the translation of genome editing and other biologic therapies for Alzheimer's Disease-Related Dementias (ADRD). The program spans the full translational pipeline, from therapeutic lead optimization and drug product development through IND-enabling studies and early clinical evaluation. Supported activities may include optimization of editing…"
+  },
+  {
+   "activity_codes": [],
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
+   "issuing_orgs": [
+    "National Institutes of Health"
+   ],
+   "next_due_date": null,
+   "nih_file_listed": true,
+   "notice_id": "NOT-OD-27-006",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIH",
+   "release_date": "2026-11-02",
+   "source": "nih",
+   "title": "Draft Policy Update to the NIH Policy for Data and Safety Monitoring",
+   "updated_at": "2026-11-09T02:24:46Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-006.html",
    "synopsis_truncated": null
   },
   {
@@ -13924,113 +14020,6 @@
   },
   {
    "activity_codes": [
-    "R61",
-    "R33"
-   ],
-   "award_ceiling": "350000",
-   "clinical_trials": "Required",
-   "close_date": "2026-11-13",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-13",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-14",
-   "grants_gov_id": 357490,
-   "issuing_orgs": [
-    "National Center for Complementary and Integrative Health"
-   ],
-   "next_due_date": "2026-11-13",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-269",
-   "open_date": "2025-05-23",
-   "parent_ic": "NIH",
-   "primary_ic": "NCCIH",
-   "release_date": "2024-12-02",
-   "source": "nih",
-   "title": "NCCIH Natural Product Early Phase Clinical Trial Phased Innovation Award (R61/R33 Clinical Trial Required)",
-   "topics": [
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-269.html",
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated, early phase, clinical trials of natural products (i.e., botanicals, probiotics, and products marketed as dietary supplements), which have a strong scientific premise to justify further clinical testing. For this NOFO, natural products include promising nutritional regimens that standardize the amount of…"
-  },
-  {
-   "activity_codes": [
-    "R33"
-   ],
-   "award_ceiling": "1050000",
-   "clinical_trials": "Required",
-   "close_date": "2026-11-13",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-13",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-14",
-   "grants_gov_id": 357492,
-   "issuing_orgs": [
-    "National Center for Complementary and Integrative Health"
-   ],
-   "next_due_date": "2026-11-13",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-270",
-   "open_date": "2025-05-23",
-   "parent_ic": "NIH",
-   "primary_ic": "NCCIH",
-   "release_date": "2024-12-02",
-   "source": "nih",
-   "title": "NCCIH Natural Product Early Phase Clinical Trial Award (R33 Clinical Trial Required)",
-   "topics": [
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-270.html",
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated, early phase, clinical trials of natural products (i.e., botanicals, dietary supplements, and probiotics), which have a strong scientific premise to justify further clinical testing. For this NOFO, natural products include promising nutritional regimens that standardize the amount of a specific naturally…"
-  },
-  {
-   "activity_codes": [
-    "R01"
-   ],
-   "clinical_trials": "Required",
-   "close_date": "2026-11-13",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-13",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-14",
-   "grants_gov_id": 357493,
-   "issuing_orgs": [
-    "National Center for Complementary and Integrative Health"
-   ],
-   "next_due_date": "2026-11-13",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-271",
-   "open_date": "2025-05-23",
-   "parent_ic": "NIH",
-   "primary_ic": "NCCIH",
-   "release_date": "2024-12-02",
-   "source": "nih",
-   "title": "NCCIH Natural Product Mid Phase Clinical Trial (R01 Clinical Trial Required)",
-   "topics": [
-    "behavioral_intervention",
-    "cancer",
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-271.html",
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated mid-phase clinical trials of natural products(i.e., botanicals, dietary supplements, and probiotics), which have a strong scientific premise to justify further clinical testing. For this NOFO, natural products include promising nutritional regimens that standardize the amount of a specific naturally…"
-  },
-  {
-   "activity_codes": [
     "R15"
    ],
    "award_ceiling": "375000",
@@ -19208,43 +19197,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-25-060.html",
    "synopsis_truncated": "The purpose of this Funding Opportunity Announcement (FOA) is to support high priority research at the intersection of HIV and substance use. This FOA invites innovative research projects with the potential to open new areas of HIV/AIDS research and/or lead to new avenues for prevention, treatment and cure of HIV among people who use drugs (PWUD). Applications submitted under this FOA are…"
-  },
-  {
-   "activity_codes": [
-    "K12"
-   ],
-   "award_ceiling": "750000",
-   "clinical_trials": "Optional",
-   "close_date": "2026-11-13",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-13",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-14",
-   "grants_gov_id": 351679,
-   "issuing_orgs": [
-    "National Institute on Drug Abuse"
-   ],
-   "next_due_date": "2026-11-13",
-   "nih_file_listed": true,
-   "notice_id": "PAR-24-089",
-   "open_date": "2024-02-06",
-   "parent_ic": "NIH",
-   "primary_ic": "NIDA",
-   "release_date": "2024-01-03",
-   "source": "nih",
-   "title": "NIDA Mentored Clinical Scientist Development Program Award in Substance Use and Substance Use Disorder Research (K12 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials",
-    "substance_use",
-    "training_and_career"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-24-089.html",
-   "synopsis_truncated": "This funding opportunity announcement (FOA) encourages applications for institutional research career development (K12) programs that propose to support intensive supervised research training and career development experiences for clinician scientists (Scholars) leading to research independence in the area of substance use and substance use disorder research."
   },
   {
    "activity_codes": [
