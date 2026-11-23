@@ -1,12 +1,248 @@
 {
- "generated_at": "2026-11-16T02:34:51Z",
+ "generated_at": "2026-11-23T03:32:09Z",
  "items": [
   {
-   "notice_id": "NOT-OD-27-007",
+   "notice_id": "RFA-AI-28-001",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required)",
+   "release_date": "2026-11-20",
+   "open_date": "2027-02-09",
+   "expiration_date": "2027-03-10",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "UM1"
+   ],
+   "primary_ic": "NIAID",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361815",
+   "nih_file_listed": false,
+   "clinical_trials": "Required",
+   "updated_at": "2026-11-23T03:32:09Z",
+   "grants_gov_id": 361815,
+   "close_date": "2027-03-09",
+   "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "infectious_disease"
+   ],
+   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to support HIV/AIDS Clinical Trials Network Leadership and Operations Centers (LOCs). Each LOC will oversee research prioritization, planning, and conduct of studies in a HIV/AIDS Clinical Trials Network to advance research in the prevention and treatment of HIV and HIV-associated diseases."
+  },
+  {
+   "notice_id": "RFA-AI-28-002",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "HIV/AIDS Clinical Trials Network Laboratory Centers (UM1 Clinical Trial Required)",
+   "release_date": "2026-11-20",
+   "open_date": "2027-02-09",
+   "expiration_date": "2027-03-10",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "UM1"
+   ],
+   "primary_ic": "NIAID",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361820",
+   "nih_file_listed": false,
+   "clinical_trials": "Required",
+   "updated_at": "2026-11-23T03:32:09Z",
+   "grants_gov_id": 361820,
+   "close_date": "2027-03-09",
+   "topics": [
+    "clinical_trials",
+    "infectious_disease"
+   ],
+   "synopsis_truncated": "The purpose of the notice of funding opportunity (NOFO) is to support HIV/AIDS Clinical Trials Network Laboratory Centers (LCs). The LCs will provide a framework for laboratory leadership, structure and activities that contribute to the HIV/AIDS Clinical Trials Networks research agendas and execute the laboratory component of Network trials, in compliance with applicable regulatory standards."
+  },
+  {
+   "notice_id": "RFA-AI-28-003",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (UM1 Clinical Trial Required)",
+   "release_date": "2026-11-20",
+   "open_date": "2027-02-09",
+   "expiration_date": "2027-03-10",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "UM1"
+   ],
+   "primary_ic": "NIAID",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361816",
+   "nih_file_listed": false,
+   "clinical_trials": "Required",
+   "updated_at": "2026-11-23T03:32:09Z",
+   "grants_gov_id": 361816,
+   "close_date": "2027-03-09",
+   "topics": [
+    "clinical_trials",
+    "infectious_disease"
+   ],
+   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to support HIV/AIDS Clinical Trials Network Statistical and Data Management Centers (SDMCs). The SDMCs will be responsible for the statistical and data management leadership and coordination critical to the HIV/AIDS Clinical Trials Networks."
+  },
+  {
+   "notice_id": "RFA-AI-28-004",
+   "source": "nih",
+   "doctype": "RFA",
+   "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units (UM1 Clinical Trial Required)",
+   "release_date": "2026-11-20",
+   "open_date": "2027-02-09",
+   "expiration_date": "2027-03-10",
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [
+    "UM1"
+   ],
+   "primary_ic": "NIAID",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+   ],
+   "url": "https://www.grants.gov/search-results-detail/361821",
+   "nih_file_listed": false,
+   "clinical_trials": "Required",
+   "updated_at": "2026-11-23T03:32:09Z",
+   "grants_gov_id": 361821,
+   "close_date": "2027-03-09",
+   "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "infectious_disease",
+    "infrastructure"
+   ],
+   "synopsis_truncated": "The purpose of this notice of funding opportunity (NOFO) is to support HIV/AIDS Clinical Trials Network Clinical Trials Units (CTUs). CTUs will provide the infrastructure, as well as the scientific and administrative expertise to conduct clinical studies developed by NIH HIV/AIDS Clinical Trials Networks to advance research in the prevention and treatment of HIV and HIV-associated diseases. CTUs…"
+  },
+  {
+   "notice_id": "NOT-MH-27-050",
    "source": "nih",
    "doctype": "NOT",
-   "title": "National Policy for Nucleic Acid Synthesis Screening",
-   "release_date": "2026-11-13",
+   "title": "Notice to rescind NOT-MH-20-010, \"Notice of Data Sharing Policy for Autism Data\"",
+   "release_date": "2026-11-17",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIMH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-050.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-23T03:32:09Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-MH-27-055",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice to rescind NOT-MH-15-012, \"Data Sharing Expectations for Clinical Research Funded by NIMH\"",
+   "release_date": "2026-11-17",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIMH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-055.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-23T03:32:09Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-MH-27-070",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice to rescind NOT-MH-14-015, \"Data Sharing Expectations for NIMH-funded Clinical Trials\"",
+   "release_date": "2026-11-17",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIMH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-070.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-23T03:32:09Z",
+   "topics": [
+    "clinical_trials"
+   ],
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-MH-27-075",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice to rescind NOT-MH-09-005, \"Sharing Data via the National Database for Autism Research\"",
+   "release_date": "2026-11-17",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIMH",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of Mental Health"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-075.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-23T03:32:09Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-GM-27-004",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of Informational Webinar on the Tribal Institutional Review Board Establishment and Enhancement (TIRBEE) Program",
+   "release_date": "2026-11-16",
+   "open_date": null,
+   "expiration_date": null,
+   "due_dates": [],
+   "next_due_date": null,
+   "activity_codes": [],
+   "primary_ic": "NIGMS",
+   "parent_ic": "NIH",
+   "issuing_orgs": [
+    "National Institute of General Medical Sciences"
+   ],
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-004.html",
+   "nih_file_listed": true,
+   "clinical_trials": null,
+   "updated_at": "2026-11-23T03:32:09Z",
+   "synopsis_truncated": null
+  },
+  {
+   "notice_id": "NOT-OD-27-008",
+   "source": "nih",
+   "doctype": "NOT",
+   "title": "Notice of Change: Extension of NIH Parent K Notice of Funding Opportunities",
+   "release_date": "2026-11-16",
    "open_date": null,
    "expiration_date": null,
    "due_dates": [],
@@ -17,84 +253,106 @@
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-007.html",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-008.html",
    "nih_file_listed": true,
    "clinical_trials": null,
-   "updated_at": "2026-11-16T02:34:51Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "synopsis_truncated": null
   },
   {
-   "notice_id": "RFA-MH-27-150",
-   "source": "nih",
-   "doctype": "RFA",
-   "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
-   "release_date": "2026-11-12",
-   "open_date": "2026-12-05",
-   "expiration_date": "2027-06-11",
+   "activity_codes": [],
+   "clinical_trials": null,
+   "doctype": "NOT",
    "due_dates": [],
+   "expiration_date": null,
+   "issuing_orgs": [
+    "National Institutes of Health"
+   ],
    "next_due_date": null,
+   "nih_file_listed": true,
+   "notice_id": "NOT-OD-27-007",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIH",
+   "release_date": "2026-11-13",
+   "source": "nih",
+   "title": "National Policy for Nucleic Acid Synthesis Screening",
+   "updated_at": "2026-11-16T02:34:51Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-007.html",
+   "synopsis_truncated": null
+  },
+  {
    "activity_codes": [
     "UM1"
    ],
-   "primary_ic": "NIMH",
-   "parent_ic": "NIH",
+   "clinical_trials": "Required",
+   "close_date": "2027-06-10",
+   "doctype": "RFA",
+   "due_dates": [],
+   "expiration_date": "2027-06-11",
+   "grants_gov_id": 363875,
    "issuing_orgs": [
     "National Institute of Mental Health"
    ],
-   "url": "https://www.grants.gov/search-results-detail/363875",
+   "next_due_date": null,
    "nih_file_listed": false,
-   "clinical_trials": "Required",
-   "updated_at": "2026-11-16T02:34:51Z",
-   "grants_gov_id": 363875,
-   "close_date": "2027-06-10",
+   "notice_id": "RFA-MH-27-150",
+   "open_date": "2026-12-05",
+   "parent_ic": "NIH",
+   "primary_ic": "NIMH",
+   "release_date": "2026-11-12",
+   "source": "nih",
+   "title": "Advancing Real-World Effectiveness Evidence for Rapid-Acting Psychotropic Interventional Drugs (RAPIDs) (UM1 Clinical Trial Required)",
    "topics": [
     "clinical_trials",
     "implementation_science"
    ],
+   "updated_at": "2026-11-16T02:34:51Z",
+   "url": "https://www.grants.gov/search-results-detail/363875",
    "synopsis_truncated": "This notice of funding opportunity (NOFO) encourages applications to establish a Rapid-Acting Psychotropic Interventional Drugs - Clinical Trials Network (RAPIDs-CTN). The overarching purpose is to generate actionable, real-world evidence to guide the safe and effective implementation of RAPIDs in routine clinical practice, answering urgent questions about how these treatments can be delivered…"
   },
   {
-   "notice_id": "NOT-DC-26-008",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Request for Information (RFI): Seeking New and Emerging Areas of Science Relevant to the NIDCD Mission, To Inform an Update of the NIDCD Strategic Plan for 2028-2032",
-   "release_date": "2026-11-09",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
    "activity_codes": [],
-   "primary_ic": "NIDCD",
-   "parent_ic": "NIH",
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
    "issuing_orgs": [
     "National Institute on Deafness and Other Communication Disorders"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-008.html",
+   "next_due_date": null,
    "nih_file_listed": true,
-   "clinical_trials": null,
+   "notice_id": "NOT-DC-26-008",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "NIDCD",
+   "release_date": "2026-11-09",
+   "source": "nih",
+   "title": "Request for Information (RFI): Seeking New and Emerging Areas of Science Relevant to the NIDCD Mission, To Inform an Update of the NIDCD Strategic Plan for 2028-2032",
    "updated_at": "2026-11-16T02:34:51Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-008.html",
    "synopsis_truncated": null
   },
   {
-   "notice_id": "NOT-OD-26-111",
-   "source": "nih",
-   "doctype": "NOT",
-   "title": "Request for Information: Developing Menopause Common Data Elements",
-   "release_date": "2026-11-09",
-   "open_date": null,
-   "expiration_date": null,
-   "due_dates": [],
-   "next_due_date": null,
    "activity_codes": [],
-   "primary_ic": "ORWH",
-   "parent_ic": "NIH",
+   "clinical_trials": null,
+   "doctype": "NOT",
+   "due_dates": [],
+   "expiration_date": null,
    "issuing_orgs": [
     "ORWH"
    ],
-   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-111.html",
+   "next_due_date": null,
    "nih_file_listed": true,
-   "clinical_trials": null,
+   "notice_id": "NOT-OD-26-111",
+   "open_date": null,
+   "parent_ic": "NIH",
+   "primary_ic": "ORWH",
+   "release_date": "2026-11-09",
+   "source": "nih",
+   "title": "Request for Information: Developing Menopause Common Data Elements",
    "updated_at": "2026-11-16T02:34:51Z",
+   "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-111.html",
    "synopsis_truncated": null
   },
   {
@@ -11923,112 +12181,6 @@
   },
   {
    "activity_codes": [
-    "R21"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-11-18",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-18",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-19",
-   "grants_gov_id": 358176,
-   "issuing_orgs": [
-    "National Human Genome Research Institute"
-   ],
-   "next_due_date": "2026-11-18",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-369",
-   "open_date": "2025-01-20",
-   "parent_ic": "NIH",
-   "primary_ic": "NHGRI",
-   "release_date": "2025-01-13",
-   "source": "nih",
-   "title": "Ethical, Legal and Social Implications (ELSI) Exploratory/Developmental Research Grant (R21 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials",
-    "methods_and_statistics"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-369.html",
-   "synopsis_truncated": "The purpose of this NOFO is to invite Exploratory/Developmental Research Grant (R21) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Approaches may include but are not limited to empirical qualitative and quantitative methods, as well as conceptual, legal…"
-  },
-  {
-   "activity_codes": [
-    "R03"
-   ],
-   "award_ceiling": "50000",
-   "clinical_trials": "Optional",
-   "close_date": "2026-11-16",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-16",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-17",
-   "grants_gov_id": 358179,
-   "issuing_orgs": [
-    "National Human Genome Research Institute"
-   ],
-   "next_due_date": "2026-11-16",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-370",
-   "open_date": "2025-01-17",
-   "parent_ic": "NIH",
-   "primary_ic": "NHGRI",
-   "release_date": "2025-01-13",
-   "source": "nih",
-   "title": "Ethical, Legal and Social Implications (ELSI) Small Research Grant (R03 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials",
-    "methods_and_statistics"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-370.html",
-   "synopsis_truncated": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite Small Research Grant (R21) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Direct involvement of key stakeholders where appropriate is encouraged. These applications should be for small…"
-  },
-  {
-   "activity_codes": [
-    "R01"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-11-18",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-18",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-19",
-   "grants_gov_id": 358181,
-   "issuing_orgs": [
-    "National Human Genome Research Institute"
-   ],
-   "next_due_date": "2026-11-18",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-371",
-   "open_date": "2025-01-20",
-   "parent_ic": "NIH",
-   "primary_ic": "NHGRI",
-   "release_date": "2025-01-13",
-   "source": "nih",
-   "title": "Ethical, Legal and Social Implications (ELSI) Research (R01 Clinical Trial Optional)",
-   "topics": [
-    "clinical_trials",
-    "methods_and_statistics"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-371.html",
-   "synopsis_truncated": "The purpose of this NOFO is to invite Research Project (R01) applications that propose to study the ethical, legal, and social implications (ELSI) of human genetics and genomics. Applications may propose studies using either single or mixed methods. Approaches may include but are not limited to empirical qualitative and quantitative methods, as well as conceptual, legal, and normative analyses…"
-  },
-  {
-   "activity_codes": [
     "R03"
    ],
    "award_ceiling": "75000",
@@ -14376,44 +14528,6 @@
   },
   {
    "activity_codes": [
-    "R61",
-    "R33"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-11-17",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-17",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-18",
-   "grants_gov_id": 357375,
-   "issuing_orgs": [
-    "National Institute on Alcohol Abuse and Alcoholism"
-   ],
-   "next_due_date": "2026-11-17",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-158",
-   "open_date": "2025-01-19",
-   "parent_ic": "NIH",
-   "primary_ic": "NIAAA",
-   "release_date": "2024-11-25",
-   "source": "nih",
-   "title": "Prevention and Intervention Approaches for Fetal Alcohol Spectrum Disorders (R61/R33 Clinical Trial Optional)",
-   "topics": [
-    "behavioral_intervention",
-    "clinical_trials",
-    "maternal_child_health",
-    "substance_use"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-158.html",
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) focuses on prevention and intervention strategies for fetal alcohol spectrum disorders (FASD) throughout the lifespan. The intent of this NOFO is to support research that advances (1) prevention approaches to reduce prenatal alcohol exposure and the incidence of FASD and that (2) interventions for FASD. These objectives will be accomplished with the…"
-  },
-  {
-   "activity_codes": [
     "R34"
    ],
    "clinical_trials": "Optional",
@@ -14625,43 +14739,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-292.html",
    "synopsis_truncated": "The purpose of this Notice of Funding Opportunity (NOFO) is to support innovative population-based research that can contribute to identifying and characterizing pathways and mechanisms through which work or occupation influences health outcomes and health status among populations with health and/or health care disparities."
-  },
-  {
-   "activity_codes": [
-    "UG3",
-    "UH3"
-   ],
-   "clinical_trials": "Required",
-   "close_date": "2026-11-19",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-19",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-20",
-   "grants_gov_id": 357343,
-   "issuing_orgs": [
-    "National Institute on Aging"
-   ],
-   "next_due_date": "2026-11-19",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-226",
-   "open_date": "2025-01-21",
-   "parent_ic": "NIH",
-   "primary_ic": "NIA",
-   "release_date": "2024-11-22",
-   "source": "nih",
-   "title": "Seamless Early-Stage Clinical Drug Development (Phase 1 to 2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)",
-   "topics": [
-    "aging",
-    "clinical_trials",
-    "mental_health"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-226.html",
-   "synopsis_truncated": "The purpose of this Notice of Funding Opportunity (NOFO) is to invite applications that bundle independent protocols for phase 1 clinical trials with phase 1b/phase 2a clinical trials to streamline the early-stage evaluation of promising pharmacological interventions for Alzheimer's disease (AD) and Alzheimer's disease-related Dementias (ADRD). Candidate interventions evaluated through this…"
   },
   {
    "activity_codes": [
@@ -15052,111 +15129,6 @@
   },
   {
    "activity_codes": [
-    "R01"
-   ],
-   "award_ceiling": "350000",
-   "clinical_trials": "Required",
-   "close_date": "2026-11-17",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-17",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-18",
-   "grants_gov_id": 357301,
-   "issuing_orgs": [
-    "National Center for Complementary and Integrative Health"
-   ],
-   "next_due_date": "2026-11-17",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-267",
-   "open_date": "2025-01-20",
-   "parent_ic": "NIH",
-   "primary_ic": "NCCIH",
-   "release_date": "2024-11-21",
-   "source": "nih",
-   "title": "NCCIH Multi-Site Feasibility Clinical Trials of Mind and Body Interventions (R01 Clinical Trial Required)",
-   "topics": [
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-267.html",
-   "synopsis_truncated": "This notice of funding opportunity (NOFO) invites applications for investigator-initiated clinical trials of complementary and integrative health approaches with physical and/or psychological therapeutic inputs (often called mind and body interventions) in NCCIH-designated areas of high research priority. Applications submitted under this NOFO are expected to propose a multisite feasibility…"
-  },
-  {
-   "activity_codes": [
-    "R01"
-   ],
-   "clinical_trials": "Required",
-   "close_date": "2026-11-17",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-17",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-18",
-   "grants_gov_id": 357303,
-   "issuing_orgs": [
-    "National Center for Complementary and Integrative Health"
-   ],
-   "next_due_date": "2026-11-17",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-268",
-   "open_date": "2025-01-20",
-   "parent_ic": "NIH",
-   "primary_ic": "NCCIH",
-   "release_date": "2024-11-21",
-   "source": "nih",
-   "title": "Investigator Initiated Clinical Trials of Complementary and Integrative Interventions Delivered Remotely or via mHealth (R01 Clinical Trial Required)",
-   "topics": [
-    "clinical_trials"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-268.html",
-   "synopsis_truncated": "This Notice of Funding Opportunity (NOFO) encourages applications for investigator-initiated fully remotely delivered and conducted clinical trials to assess the efficacy or effectiveness of complementary and integrative health interventions in NCCIH- designated areas of high research priority. Applications submitted under this NOFO are expected to propose a remotely delivered and conducted fully…"
-  },
-  {
-   "activity_codes": [
-    "R34"
-   ],
-   "clinical_trials": "Required",
-   "close_date": "2026-11-17",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-17",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-18",
-   "grants_gov_id": 357305,
-   "issuing_orgs": [
-    "National Center for Complementary and Integrative Health"
-   ],
-   "next_due_date": "2026-11-17",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-274",
-   "open_date": "2025-01-20",
-   "parent_ic": "NIH",
-   "primary_ic": "NCCIH",
-   "release_date": "2024-11-21",
-   "source": "nih",
-   "title": "Feasibility Clinical Trials of Mind and Body Interventions for NCCIH High Priority Research Topics (R34 Clinical Trial Required)",
-   "topics": [
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-274.html",
-   "synopsis_truncated": "The goal of this notice of funding opportunity (NOFO) is to support feasibility trials of complementary and integrative health approaches with physical and/or psychological therapeutic inputs (often called mind and body interventions) for conditions that have been identified by NCCIH as high-priority research topics. This funding opportunity is intended to support feasibility clinical trials that…"
-  },
-  {
-   "activity_codes": [
     "R21"
    ],
    "clinical_trials": "Not_Allowed",
@@ -15261,44 +15233,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-26-001.html",
    "synopsis_truncated": "The Office of Disease Prevention (ODP) and participating National Institutes of Health (NIH) Institutes, Centers, and Offices (ICOs) are issuing this notice of funding opportunity (NOFO) seeking applications to test innovative approaches to implementing SBIRT/P for alcohol, tobacco, and other drugs (ATOD) use and misuse in adult populations that experience health disparities. SBIRT/P, (a term…"
-  },
-  {
-   "activity_codes": [
-    "UG3",
-    "UH3"
-   ],
-   "clinical_trials": "Optional",
-   "close_date": "2026-11-19",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-19",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-20",
-   "grants_gov_id": 357256,
-   "issuing_orgs": [
-    "National Institute of Neurological Disorders and Stroke"
-   ],
-   "next_due_date": "2026-11-19",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-052",
-   "open_date": "2025-01-18",
-   "parent_ic": "NIH",
-   "primary_ic": "NINDS",
-   "release_date": "2024-11-20",
-   "source": "nih",
-   "title": "NIH StrokeNet Clinical Trials and Biomarker Studies for Stroke Treatment, Recovery, and Prevention (UG3/UH3 Clinical Trial Optional)",
-   "topics": [
-    "behavioral_intervention",
-    "cardiovascular",
-    "clinical_trials",
-    "implementation_science"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-052.html",
-   "synopsis_truncated": "This NOFO encourages applications for multi-site exploratory and confirmatory clinical trials focused on promising interventions; biomarker or outcome measure validation studies that are immediately preparatory to trials in stroke prevention, treatment, and recovery; and ancillary studies designed to add scientific aims to active studies being conducted within StrokeNet. Successful applicants…"
   },
   {
    "activity_codes": [
@@ -15513,43 +15447,6 @@
    "updated_at": "2026-08-01T05:09:13Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-070.html",
    "synopsis_truncated": "The goal of the proposed funding announcement is twofold, to promote preclinical and patient based studies examining the mechanism(s) through which incretin mimetics (including agonists or antagonists of GLP-1, GIP-1, or dual GLP-1/GIP-1 agents) impact cancer risk, and to draw talented scientists who understand the dynamic changes caused by these agents to investigate the mechanisms of how these…"
-  },
-  {
-   "activity_codes": [
-    "R21"
-   ],
-   "award_ceiling": "200000",
-   "clinical_trials": "Not_Allowed",
-   "close_date": "2026-11-17",
-   "doctype": "PAR",
-   "due_dates": [
-    {
-     "date": "2026-11-16",
-     "label": "Last application receipt"
-    }
-   ],
-   "expiration_date": "2026-11-17",
-   "grants_gov_id": 357205,
-   "issuing_orgs": [
-    "National Cancer Institute"
-   ],
-   "next_due_date": "2026-11-16",
-   "nih_file_listed": true,
-   "notice_id": "PAR-25-096",
-   "open_date": "2025-01-16",
-   "parent_ic": "NIH",
-   "primary_ic": "NCI",
-   "release_date": "2024-11-18",
-   "source": "nih",
-   "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R21 Clinical Trials Not Allowed)",
-   "topics": [
-    "cancer",
-    "clinical_trials",
-    "methods_and_statistics"
-   ],
-   "updated_at": "2026-08-01T05:09:13Z",
-   "url": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-096.html",
-   "synopsis_truncated": "Through this Notice of Funding Opportunity (NOFO), the National Cancer Institute (NCI) along with other participating Institutes encourages submission of applications proposing to conduct secondary data analysis and integration of existing datasets and database resources, with the ultimate aim to elucidate cancer risk and related outcomes (e.g., risk prediction or reduction, survival, or response…"
   },
   {
    "activity_codes": [
@@ -18324,20 +18221,20 @@
     "K02"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353756,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-178",
    "open_date": "2024-05-13",
@@ -18350,7 +18247,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-178.html",
    "synopsis_truncated": "The purpose of the NIH Independent Scientist Award (K02) is to foster the development of outstanding scientists and enable them to expand their potential to make significant contributions to their field of research. The K02 award provides three to five years of salary support and \"protected time\" for newly independent scientists who can demonstrate the need for a period of intensive research…"
   },
@@ -18428,20 +18325,20 @@
     "K24"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353792,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-187",
    "open_date": "2024-05-10",
@@ -18453,7 +18350,7 @@
    "topics": [
     "clinical_trials"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-187.html",
    "synopsis_truncated": "The purpose of the NIH Midcareer Investigator Award in Patient-Oriented Research (K24) is to provide support to mid-career health-professional doctorates for protected time to devote to patient-oriented research (POR) and to act as research mentors primarily for clinical residents, clinical fellows and/or junior clinical faculty."
   },
@@ -18462,20 +18359,20 @@
     "K24"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353793,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-188",
    "open_date": "2024-05-10",
@@ -18487,7 +18384,7 @@
    "topics": [
     "clinical_trials"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-188.html",
    "synopsis_truncated": "The purpose of the NIH Midcareer Investigator Award in Patient-Oriented Research (K24) is to provide support to mid-career health-professional doctorates for protected time to devote to patient-oriented research (POR) and to act as research mentors primarily for clinical residents, clinical fellows and/or junior clinical faculty."
   },
@@ -18496,20 +18393,20 @@
     "K01"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353749,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-175",
    "open_date": "2024-05-12",
@@ -18522,7 +18419,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-175.html",
    "synopsis_truncated": "The purpose of the NIH Mentored Research Scientist Development Award (K01) is to provide support and protected time (three to five years) for an intensive, supervised career development experience in the biomedical, behavioral, or clinical sciences leading to research independence. Although all of the participating NIH Institutes and Centers (ICs) use this support mechanism to support career…"
   },
@@ -18531,20 +18428,20 @@
     "K01"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353751,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-176",
    "open_date": "2024-05-12",
@@ -18557,7 +18454,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-176.html",
    "synopsis_truncated": "The purpose of the NIH Mentored Research Scientist Development Award (K01) is to provide support and protected time (three to five years) for an intensive, supervised career development experience in the biomedical, behavioral, or clinical sciences leading to research independence. Although all of the participating NIH Institutes and Centers (ICs) use this support mechanism to support career…"
   },
@@ -18566,20 +18463,20 @@
     "K02"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353758,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-179",
    "open_date": "2024-05-13",
@@ -18591,7 +18488,7 @@
    "topics": [
     "clinical_trials"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-179.html",
    "synopsis_truncated": "The purpose of the NIH Independent Scientist Award (K02) is to foster the development of outstanding scientists and enable them to expand their potential to make significant contributions to their field of research. The K02 award provides three to five years of salary support and \"protected time\" for newly independent scientists who can demonstrate the need for a period of intensive research…"
   },
@@ -18600,20 +18497,20 @@
     "K08"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-08",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-11"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353745,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-11",
    "nih_file_listed": true,
    "notice_id": "PA-24-181",
    "open_date": "2024-05-10",
@@ -18626,7 +18523,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-181.html",
    "synopsis_truncated": "The primary purpose of the NIH Mentored Clinical Scientist Research Career Development Awards (K08) program is to prepare qualified individuals for careers that have a significant impact on the health-related research needs of the Nation. This program represents the continuation of a long-standing NIH program that provides support and \"protected time\" to individuals with a clinical doctoral…"
   },
@@ -18635,20 +18532,20 @@
     "K08"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-08",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353746,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-182",
    "open_date": "2024-05-10",
@@ -18661,7 +18558,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-182.html",
    "synopsis_truncated": "The primary purpose of the NIH Mentored Clinical Scientist Research Career Development Awards (K08) program is to prepare qualified individuals for careers that have a significant impact on the health-related research needs of the Nation. This program represents the continuation of a long-standing NIH program that provides support and \"protected time\" to individuals with a clinical doctoral…"
   },
@@ -18671,20 +18568,20 @@
     "R00"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353763,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-193",
    "open_date": "2024-05-10",
@@ -18698,7 +18595,7 @@
     "epidemiology",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-193.html",
    "synopsis_truncated": "The purpose of the NIH Pathway to Independence Award (K99/R00) program is to increase and maintain a strong cohort of new and talented, NIH-supported, independent investigators. This program is designed to facilitate a timely transition of outstanding postdoctoral researchers with a research and/or clinical doctorate degree from mentored, postdoctoral research positions to independent…"
   },
@@ -18708,20 +18605,20 @@
     "R00"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353762,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-194",
    "open_date": "2024-05-10",
@@ -18735,7 +18632,7 @@
     "epidemiology",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-194.html",
    "synopsis_truncated": "The purpose of the NIH Pathway to Independence Award (K99/R00) program is to increase and maintain a strong cohort of new and talented, NIH-supported, independent investigators. This program is designed to facilitate a timely transition of outstanding postdoctoral researchers with a research and/or clinical doctorate degree from mentored, postdoctoral research positions to independent…"
   },
@@ -18744,20 +18641,20 @@
     "K25"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353709,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-190",
    "open_date": "2024-05-10",
@@ -18772,7 +18669,7 @@
     "methods_and_statistics",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-190.html",
    "synopsis_truncated": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease. The K25 award will provide support and \"protected time\" for a period of supervised study and research for productive professionals…"
   },
@@ -18781,20 +18678,20 @@
     "K25"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353710,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-191",
    "open_date": "2024-05-10",
@@ -18809,7 +18706,7 @@
     "methods_and_statistics",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-191.html",
    "synopsis_truncated": "The purpose of the Mentored Quantitative Research Career Development Award (K25) is to attract to NIH-relevant research those investigators whose quantitative science and engineering research has thus far not been focused primarily on questions of health and disease. The K25 award will provide support and \"protected time\" for a period of supervised study and research for productive professionals…"
   },
@@ -18887,20 +18784,20 @@
     "K23"
    ],
    "clinical_trials": "Required",
-   "close_date": "2027-05-08",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353458,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-184",
    "open_date": "2024-05-10",
@@ -18913,7 +18810,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-184.html",
    "synopsis_truncated": "The purpose of the NIH Mentored Patient-Oriented Research Career Development Award (K23) is to support the career development of individuals with a clinical doctoral degree who have made a commitment to focus their research endeavors on patient-oriented research."
   },
@@ -18922,20 +18819,20 @@
     "K23"
    ],
    "clinical_trials": "Not_Allowed",
-   "close_date": "2027-05-07",
+   "close_date": "2027-11-13",
    "doctype": "PA",
    "due_dates": [
     {
-     "date": "2027-05-07",
-     "label": "Last application receipt"
+     "label": "Last application receipt",
+     "date": "2027-11-12"
     }
    ],
-   "expiration_date": "2027-05-08",
+   "expiration_date": "2027-11-13",
    "grants_gov_id": 353461,
    "issuing_orgs": [
     "National Institutes of Health"
    ],
-   "next_due_date": "2027-05-07",
+   "next_due_date": "2027-11-12",
    "nih_file_listed": true,
    "notice_id": "PA-24-185",
    "open_date": "2024-05-10",
@@ -18948,7 +18845,7 @@
     "clinical_trials",
     "training_and_career"
    ],
-   "updated_at": "2026-08-01T05:09:13Z",
+   "updated_at": "2026-11-23T03:32:09Z",
    "url": "https://grants.nih.gov/grants/guide/pa-files/PA-24-185.html",
    "synopsis_truncated": "The purpose of the NIH Mentored Patient-Oriented Research Career Development Award (K23) is to support the career development of individuals with a clinical doctoral degree who have made a commitment to focus their research endeavors on patient-oriented research."
   },

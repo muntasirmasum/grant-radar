@@ -1,0 +1,21 @@
+{
+  "activity_codes": [],
+  "clinical_trials": null,
+  "doctype": "NOT",
+  "due_dates": [],
+  "expiration_date": null,
+  "issuing_orgs": [
+    "National Institute of Mental Health"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": true,
+  "notice_id": "NOT-MH-27-075",
+  "open_date": null,
+  "parent_ic": "NIH",
+  "primary_ic": "NIMH",
+  "release_date": "2026-11-17",
+  "source": "nih",
+  "title": "Notice to rescind NOT-MH-09-005, \"Sharing Data via the National Database for Autism Research\"",
+  "updated_at": "2026-11-23T03:32:09Z",
+  "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-075.html"
+}

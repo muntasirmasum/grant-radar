@@ -1,0 +1,31 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-03-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-03-10",
+  "grants_gov_id": 361815,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-28-001",
+  "open_date": "2027-02-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-11-20",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support HIV/AIDS Clinical Trials Network Leadership and Operations Centers (LOCs). Each LOC will oversee research prioritization, planning, and conduct of studies in a HIV/AIDS Clinical Trials Network to advance research in the prevention and treatment of HIV and HIV-associated diseases.",
+  "title": "HIV/AIDS Clinical Trials Network Leadership and Operations Centers (UM1 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "infectious_disease"
+  ],
+  "updated_at": "2026-11-23T03:32:09Z",
+  "url": "https://www.grants.gov/search-results-detail/361815"
+}

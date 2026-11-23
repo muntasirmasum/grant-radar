@@ -1,0 +1,32 @@
+{
+  "activity_codes": [
+    "UM1"
+  ],
+  "clinical_trials": "Required",
+  "close_date": "2027-03-09",
+  "doctype": "RFA",
+  "due_dates": [],
+  "expiration_date": "2027-03-10",
+  "grants_gov_id": 361821,
+  "issuing_orgs": [
+    "National Institute of Allergy and Infectious Diseases"
+  ],
+  "next_due_date": null,
+  "nih_file_listed": false,
+  "notice_id": "RFA-AI-28-004",
+  "open_date": "2027-02-09",
+  "parent_ic": "NIH",
+  "primary_ic": "NIAID",
+  "release_date": "2026-11-20",
+  "source": "nih",
+  "synopsis": "The purpose of this notice of funding opportunity (NOFO) is to support HIV/AIDS Clinical Trials Network Clinical Trials Units (CTUs). CTUs will provide the infrastructure, as well as the scientific and administrative expertise to conduct clinical studies developed by NIH HIV/AIDS Clinical Trials Networks to advance research in the prevention and treatment of HIV and HIV-associated diseases. CTUs will participate in multiple clinical research studies, accessing relevant populations most heavily impacted by the HIV/AIDS epidemic and studies of highest priority to NIH.",
+  "title": "HIV/AIDS Clinical Trials Network Clinical Trials Units (UM1 Clinical Trial Required)",
+  "topics": [
+    "behavioral_intervention",
+    "clinical_trials",
+    "infectious_disease",
+    "infrastructure"
+  ],
+  "updated_at": "2026-11-23T03:32:09Z",
+  "url": "https://www.grants.gov/search-results-detail/361821"
+}
